@@ -1,0 +1,24 @@
+Problem 1
+(a) Here are the filled gaps for rows 15–18:
+
+| Form         | Translation    |
+|--------------|----------------|
+| 15. netkay'  | ɨnnapkaʔ       |
+| 16. kɨrɨy'   | ɨŋkɨr'a        |
+| 17. p'uhruy' | ɨmp'uhɨr'u     |
+| 18. her'oy   | ɨnhɨr'a        |
+
+(b) Here are the filled gaps for rows 39–48:
+
+| Form         | Translation                |
+|--------------|----------------------------|
+| 39. her'oŋ   | ɨnhɨr'uŋ                   |
+| 40. ɨniʂpaʔ  | it is being left           |
+| 41. aplaʔ    | it is being opened         |
+| 42. ɨŋʂapaʔ  | I chose (it)               |
+| 43. iŋbiiriʔ | I saw (it)                 |
+| 44. ʂawʂan'  | I plant (it)               |
+| 45. k'aniy'  | ɨŋk'an'i                   |
+| 46. p'ɨhnaʔ  | ɨmp'ahan'i                 |
+| 47. hɨk'aŋ   | it is being sewn, woven    |
+| 48. iplay'   | ɨnipal'a                   |
