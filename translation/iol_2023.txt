@@ -1,6 +1,5 @@
   ### Problem 1 (20 points)
 
-  """
   Here are two different forms of some verbs in Guazacapán Xinka and their English translations:
   
   | Form 1       | Form 2        | Translation           |
@@ -70,7 +69,6 @@
   —Samuel Ahmed
   
   ---
-  """
   
   ### Problem 2 (20 points)
   
