@@ -1,0 +1,146 @@
+Extracted answers to iol_23 problems
+
+## Problem 1
+
+(a) Fill in the gaps in rows 15–18.
+
+| Form 1       | Form 2        | Translation           |
+|--------------|---------------|-----------------------|
+| 15. netkay'  | ɨnnetk'a      | push                  |
+| 16. kɨrɨy'   | ɨnkɨr'i       | pull                  |
+| 17. p'uhruy' | ɨmp'uhur'i    | make holes            |
+| 18. her'oy   | ɨnher'o       | smooth out            |
+
+**(b) Fill in the gaps in rows 39–48.**
+
+| Form       | Translation            |
+|------------|------------------------|
+| 39. her'oŋ  | I smoothed (it) out    |
+| 40. ɨniʂpaʔ | I left                 |
+| 41. aplaʔ   | it was opened          |
+| 42. ʂur'uŋ  | it chose (it)          |
+| 43. pirin'  | I saw (it)             |
+| 44. ɨnʂawaʦ'a | I plant (it)       |
+| 45. k'aaniʔ  | it was trapped        |
+| 46. ɨmp'ɨhanaʔ | I leap             |
+| 47. ahɨkaʔ   | it is being sewn, woven |
+| 48. ɨniplaʔ  | I was bathed          |
+
+---
+
+## Problem 2
+
+**(a) Translate into English:**
+
+17. uwa xinhikaru sytu  
+*She remembered the woman.*
+
+18. txipary nhinhikary  
+*I ate the banana.*
+
+19. kyky aikute pysykary ywamukary  
+*You_{sg} gave the man’s house to him.*
+
+**(b) This sentence is grammatically incorrect. Explain why, and provide its grammatically correct equivalent and its English translation:**
+
+20. uwa umynary kanawa ximakymukary  
+
+| Correct Sentence                 | Translation                            |
+|----------------------------------|-----------------------------------     |
+| kanawa umynary ximakymukary      | She brought the canoe to the fish (sg) |
+| or uwa mynary kanawa ximakymukar |
+---
+
+
+** (c) Translate into Apurinã in two ways:
+
+**21. You_{sg} found the house.**
+- aiku papukary
+- pita apukary aiku
+
+**22. I brought your_{sg} canoe to the girl.**
+- pykanawate nymynaru hãtakurumukary
+- nuta mynaru pykanawate hãtakurumukary
+
+**23. He brought your_{sg} water to me.**
+- pĩpurããte ymynanu nutamukary
+- ywa mynanu pĩpurããte nutamukary
+
+**24. The man drank the girl’s blood.**
+- hãtakuru herẽka ãtary kyky
+- kyky ãtary hãtakuru herẽka
+
+**25. I remembered the eye.**
+- ukĩtxi nhixinhikary
+- nuta xinhikary ukĩtxi
+
+**26. You_{sg} ate my banana.**
+- nhitxiparyte pinhikary
+- pita nhikary nhitxiparyte
+
+
+## Problem 3
+
+**(a) Translate into English:
+
+| Form        | Translation                  |
+|-------------|------------------------------|
+| 18. e-ɣuyanah     | We shuddered               |
+| 19. ba-ihwin      | He really cried            |
+| 20. nambum-kisaɣah | I really spat on you_{sg} in vain |
+| 21. bat-ɣadawn    | Aw, he left you_{pl} behind   |
+| 22. ubamum-kolewn | Oh, you_{sg} laughed at him in vain! |
+
+**(b) Translate into Coastal Marind:**
+
+
+| Form                          | Translation                             |
+|-------------------------------|-----------------------------------------|
+| 23. He floated to the surface  | a-tameb                                |
+| 24. Aw, you_{sg} returned      | obat-dahetok                           |
+| 25. Oh, I silenced him!        | nambam-hoɣeb                           |
+| 26. He really chased us away   | be-utanab                              |
+| 27. You_{pl} really spat on us in vain | ibume-kisanah                  |
+
+---
+
+## Problem 4
+
+**(a) Translate into English:**
+
+| Form                 | Translation                         |
+|----------------------|-------------------------------------|
+| 26. ē-wāpamikoyēk    | as he sees you_{pl}                 |
+| 27. ninakinikonān    | he stops us                         |
+| 28. kikakwēcimāwāw   | you_{pl} ask him                    |
+| 29. kiwīcihitināwāw  | I help you_{pl}                     |
+
+**(b) Translate into Plains Cree:**
+
+| Form                          | Translation                             |
+|-------------------------------|-----------------------------------------|
+| 30. if we ask them            | kakwēcimāyāhkwāwi                       |
+| 31. they challenge you_{pl}   | kimawinēskomikowāwak                    |
+| 32. they help me              | niwıc̄ihikwak                            |
+| 33. you_{sg} see them         | kiwāpamāwak                             |
+| 34. I stop you_{pl}           | kinakinitināwāw                         |
+---
+
+## Problem 5
+
+**(a) Write in digits:**
+
+| Form                          | Value |
+|-------------------------------|-------|
+|1. kampwɔhii shuunni na kɛ       | 810   |
+|2. ŋkuu na baataanre             | 88    |
+
+**(b) Write out in the Supyire language:**
+
+| Form                                  | Value       |
+
+|3. 15  - kɛ na kaŋkuro 
+|4. 109 - ŋkuu na beɲjaaga na baaricyɛɛre     
+|5. 152 - ŋkuu na beetaanre na kɛ na shuunni  
+|6. 403 - kampwoo na taanre         
+|7. 1534 - kampwɔhii taanre na ŋkwuu sicyɛɛre na kɛ na sicyɛɛre 
