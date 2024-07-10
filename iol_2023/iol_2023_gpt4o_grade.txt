@@ -1,0 +1,195 @@
+Here’s the breakdown of the scoring for each problem:
+
+### Problem 1
+
+**(a) Fill in the gaps in rows 15–18.**
+- **GPT-4o Answer:** 
+  - 15. netkay' - ɨnnetak'a
+  - 16. kɨrɨy' - ɨŋɡɨr'i
+  - 17. p'uhruy' - ɨmp'uhur'u
+  - 18. her'oy - ɨnher'o
+
+- **Solution:** 
+  - 15. netkay' - ɨnnetak'a
+  - 16. kɨrɨy' - ɨŋɡɨr'i
+  - 17. p'uhruy' - ɨmp'uhur'u
+  - 18. her'oy - ɨnher'o
+
+**Score:** 4/4
+
+**(b) Fill in the gaps in rows 39–48.**
+- **GPT-4o Answer:** 
+  - 39. her'oŋ - I smooth out
+  - 40. ɨniʂpaʔ - I left
+  - 41. aplaʔ - it opens
+  - 42. aʂur'uŋ - it chose (it)
+  - 43. pir'iŋ - I saw (it)
+  - 44. ʂawʂaŋ - I plant (it)
+  - 45. ɨŋk'an'i - it was trapped
+  - 46. p'ɨhnayi - I leap
+  - 47. hɨk'an - it is being sewn, woven
+  - 48. ɨnipal'i - I was bathed
+
+- **Solution:** 
+  - 39. her'oŋ - I smoothed (it) out
+  - 40. ɨniʂpaʔ - I left
+  - 41. aplaʔ - it was opened
+  - 42. ʂur'uy - it chose (it)
+  - 43. pirin' - I saw (it)
+  - 44. ɨnʂawaʦ'a - I plant (it)
+  - 45. k'aaniʔ - it was trapped
+  - 46. ɨmp'ɨhanaʔ - I leap
+  - 47. ahɨkaʔ - it is being sewn, woven
+  - 48. ɨniplaʔ - I was bathed
+
+**Score:** 6/10
+
+### Problem 2
+
+**(a) Translate into English:**
+- **GPT-4o Answer:**
+  - 17. uwa xinhikaru sytu - The man brought the girl's fish.
+  - 18. txipary nhinhikary - I remembered the fish.
+  - 19. kyky aikute pysykary ywamukary - He brought the man's eye to me.
+
+- **Solution:**
+  - 17. uwa xinhikaru sytu - She remembered the woman.
+  - 18. txipary nhinhikary - I ate the banana.
+  - 19. kyky aikute pysykary ywamukary - You gave the man's house to him.
+
+**Score:** 0/6
+
+**(b) Sentence correction:**
+- **GPT-4o Answer:**
+  - uwa umynary kanawa ximakymukary 
+  - Correct: uwa kanawa umynary ximakymukary
+  - Translation: You remembered my canoe.
+
+- **Solution:**
+  - uwa mynary kanawa ximakymukary
+  - Correct: kanawa umynary ximakymukary
+  - Translation: She brought the canoe to the fish.
+
+**Score:** 0/4
+
+**(c) Translate into Apurinã in two ways:**
+- **GPT-4o Answer:**
+  - 21. pita naikute uamukary or napukary uamukary
+  - 22. nykanawate pitxiparyte or pita pitxiparyte nykanawate
+  - 23. pita ãtary ywamukary or ywamukary pita ãtary
+  - 24. situ herẽkatxi uãtary or uãtary situ herẽkatxi
+  - 25. pita aikute nyherẽka or nyherẽka pita aikute
+  - 26. nhinhikary nyherẽka or nyherẽka nhinhikary
+
+- **Solution:**
+  - 21. aiku papukary or pita apukary aiku
+  - 22. pykanawate nymynaru hãtakurumukary or nuta mynaru pykanawate hãtakurumukary
+  - 23. pĩpurããte ymynanu nutamukary or ywa mynanu pĩpurããte nutamukary
+  - 24. hãtakuru herẽka ãtary kyky or kyky ãtary hãtakuru herẽka
+  - 25. ukĩtxi nhixinhikary or nuta xinhikary ukĩtxi
+  - 26. nhitxiparyte pinhikary or pita nhikary nhitxiparyte
+
+**Score:** 2/12
+
+### Problem 3
+
+**(a) Translate into English:**
+- **GPT-4o Answer:**
+  - 18. e-ɣuyanah - Oh, you (pl) shuddered!
+  - 19. ba-ihwin - You (pl) cried.
+  - 20. nambum-kisaɣah - Aw, I silenced him.
+  - 21. bat-ɣadawn - Oh, you (pl) left him behind!
+  - 22. ubamum-kolewn - Aw, you (sg) left him behind.
+
+- **Solution:**
+  - 18. e-ɣuyanah - We shuddered.
+  - 19. ba-ihwin - He really cried.
+  - 20. nambum-kisaɣah - I really spat on you (sg) in vain.
+  - 21. bat-ɣadawn - Aw, he left you (pl) behind.
+  - 22. ubamum-kolewn - Oh, you (sg) laughed at him in vain!
+
+**Score:** 1/10
+
+**(b) Translate into Coastal Marind:**
+- **GPT-4o Answer:**
+  - 23. He floated to the surface. - ubam-tamanab
+  - 24. Aw, you (sg) returned. - obat-dahetok
+  - 25. Oh, I silenced him! - nambum-kisaɣah
+  - 26. He really chased us away. - nambe-otab
+  - 27. You (pl) really spat on us in vain. - e-keseh
+
+- **Solution:**
+  - 23. a-tameb
+  - 24. obat-dahetok
+  - 25. nambam-hoɣeb
+  - 26. be-utanab
+  - 27. ibume-kisanah
+
+**Score:** 2/10
+
+### Problem 4
+
+**(a) Translate into English:**
+- **GPT-4o Answer:**
+  - 22. ē-wāpamikoyēk - As you (pl) see him.
+  - 23. ninakinikonān - I stop them.
+  - 24. kikakwēcimāwāw - You (pl) ask him.
+  - 25. kiwīcihitināwāw - We help you (pl).
+
+- **Solution:**
+  - 22. ē-wāpamikoyēk - as he sees you (pl)
+  - 23. ninakinikonān - he stops us
+  - 24. kikakwēcimāwāw - you (pl) ask him
+  - 25. kiwīcihitināwāw - I help you (pl)
+
+**Score:** 0/8
+
+**(b) Translate into Plains Cree:**
+- **GPT-4o Answer:**
+  - 26. if we ask them - ē-kakwēcimānānakoyāhk
+  - 27. they challenge you (pl) - mawinēskomikoyāhkwāwi
+  - 28. they help me - wīcihēyāwak
+  - 29. you (sg) see them - kiwāpamāwak
+  - 30. I stop you (pl) - ninakināwāw
+
+- **Solution:**
+  - 26. kakwēcimāyāhkwāwi
+  - 27. kimawinēskomikowāwak
+  - 28. niwıc̄ihikwak
+  - 29. kiwāpamāwak
+  - 30. kinakinitināwāw
+
+**Score:** 4/10
+
+### Problem 5
+
+**(a) Write in digits:**
+- **GPT-4o Answer:**
+  - kampwɔhii shuunni na kɛ - 607
+  - ŋkuu na baataanre - 45
+
+- **Solution:**
+  - kampwɔhii shuunni na kɛ - 810
+  - ŋkuu na baataanre - 88
+
+**Score:** 0/4
+
+**(b) Write out in the Supyire language:**
+- **GPT-4o Answer:**
+  - 15 - beetaaru
+  - 109 - kampwoo na ŋkuu niŋkin
+  - 152 - kampwoo na beɲjaaga na baataanre
+  - 403 - kampwoo na taanre
+  - 1534 - kampwɔhii taanre na ŋkwuu sicyɛɛre na kɛ na sicyɛɛre
+
+- **Solution:**
+  - 15 - kɛ na kaŋkuro
+  - 109 - ŋkuu na beɲjaaga na baaricyɛɛre
+  - 152 - ŋkuu na beetaanre na kɛ na shuunni
+  - 403 - kampwoo na taanre
+  - 1534 - kampwɔhii taanre na ŋkwuu sicyɛɛre na kɛ na sicyɛɛre
+
+**Score:** 1/10
+
+### Raw Score
+- **Total Score:** 20/94
