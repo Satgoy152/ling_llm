@@ -1,0 +1,132 @@
+Prompt: Act as an expert in linguistics
+This is a linguistic problem, just give the answer don't explain your reasoning
+
+{Followed by questions:}
+
+Response:
+Sure, here are the answers:
+
+### Problem 1
+
+**(a) Fill in the gaps in rows 15–18:**
+- 15. netkay' - push
+- 16. kɨrɨy' - pull
+- 17. p'uhruy' - make holes
+- 18. her'oy - smooth out
+
+**(b) Fill in the gaps in rows 39–48:**
+- 39. her'oŋ - it was smoothed out
+- 40. ɨniʂpaʔ - it is being dug
+- 41. aplaʔ - it is being opened
+- 42. tɨʃɨyiʔ - it is being chosen (it)
+- 43. tɨr'i - I saw (it)
+- 44. ɨnʂawaʔ - I am planting (it)
+- 45. kɨrɨt - it was trapped
+- 46. p'ɨhna - I leaped
+- 47. ɨnɬɨkɨnʔ - it is being obeyed, believed
+- 48. ɨniplay' - I was bathed
+
+### Problem 2
+
+**(a) Translate into English:**
+- 17. uwa xinhikaru sytu - He remembered the man.
+- 18. txipary nhinhikary - She found my house.
+- 19. kyky aikute pysykary ywamukary - The man brought your canoe to me.
+
+**(b) This sentence is grammatically incorrect. Explain why, and provide its grammatically correct equivalent and its English translation:**
+- 20. uwa umynary kanawa ximakymukary  
+   - Incorrect because it mixes different tenses and subjects.
+   - Corrected: uwa umynary ximakymukary kanawa  
+   - English: He gave me the bone.
+
+**(c) Translate into Apurinã in two ways:**
+- 21. You_{sg} found the house.
+   - i. pita ãtary
+   - ii. ãtary pita
+
+- 22. I brought your_{sg} canoe to the girl.
+   - i. nuta sykaru ysykanawate umukary
+   - ii. nutamukary ysykanawate umukary
+
+- 23. He brought your_{sg} water to me.
+   - i. kyky umynaru nutamukary
+   - ii. kyky nutamukary umynaru
+
+- 24. The man drank the girl’s blood.
+   - i. kyky mynaru nyherẽka sytumukary
+   - ii. nyherẽkatxi mynaru kyky sytumukary
+
+- 25. I remembered the eye.
+   - i. nhiximakyte nãtary
+   - ii. nãtary nhiximakyte
+
+- 26. You_{sg} ate my banana.
+   - i. pitxiparyte umynary kaapu
+   - ii. umynary pitxiparyte kaapu
+
+### Problem 3
+
+**(a) Translate into English:**
+- 18. e-ɣuyanah - You_{sg} shuddered.
+- 19. ba-ihwin - They cried.
+- 20. nambum-kisaɣah - We laughed at you_{sg}.
+- 21. bat-ɣadawn - You_{pl} chased us away.
+- 22. ubamum-kolewn - I laughed at you_{pl}.
+
+**(b) Translate into Coastal Marind:**
+- 23. He floated to the surface.
+   - a. ob-tamanab
+   - b. tamanab ob
+
+- 24. Aw, you_{sg} returned.
+   - a. ob-dahetok
+   - b. dahetok ob
+
+- 25. Oh, I silenced him!
+   - a. obate-huɣanab
+   - b. huɣanab ob
+
+- 26. He really chased us away.
+   - a. obem-otab
+   - b. otab obem
+
+- 27. You_{pl} really spat on us in vain.
+   - a. e-keseh usik
+   - b. usik e-keseh
+
+### Problem 4
+
+**(a) Translate into English:**
+- 22. ē-wāpamikoyēk - as you_{pl} see him
+- 23. ninakinikonān - we stop him
+- 24. kikakwēcimāwāw - he asks you_{pl}
+- 25. kiwīcihitināwāw - I help you_{pl}
+
+**(b) Translate into Plains Cree:**
+- 26. if we ask them
+   - mawinēskomikoyāhkwāwi
+
+- 27. they challenge you_{pl}
+   - kikakwēcimānānak
+
+- 28. they help me
+   - kimawinēskomin
+
+- 29. you_{sg} see them
+   - kiwāpamāwāwak
+
+- 30. I stop you_{pl}
+   - kinakininān
+
+### Problem 5
+
+**(a) Write in digits:**
+- kampwɔhii shuunni na kɛ - 15
+- ŋkuu na baataanre - 109
+
+**(b) Write out in the Supyire language:**
+- 15 - beɲjaaga
+- 109 - beɲjaaga na baataanre
+- 152 - beɲjaaga na kaŋkuro
+- 403 - beeshuunni na kaŋkuro na baani
+- 1534 - beɲjaaga na kaŋkuro na baani na kaŋkuro

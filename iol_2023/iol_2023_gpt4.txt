@@ -1,0 +1,107 @@
+Prompt: Act as an expert in linguistics
+This is a linguistic problem, just give the answer don't explain your reasoning
+
+{Followed by questions:}
+
+Responses:
+
+### Problem 1 (20 points)
+
+(a) Fill in the gaps in rows 15–18.
+
+- 15. netkay' - ɨnnet'a
+- 16. kɨrɨy' - ɨnk'ɨr'ɨ
+- 17. p'uhruy' - ɨmp'uhur'u
+- 18. her'oy - ɨnher'o
+
+(b) Fill in the gaps in rows 39–48.
+
+- 39. her'oŋ - it was smoothed out
+- 40. ɨniʂpaʔ - I left
+- 41. aplaʔ - it is opened
+- 42. ʂur'aʔ - it chose (it)
+- 43. mbir'i - I saw (it)
+- 44. ʂawʂi - I plant (it)
+- 45. k'aniʔ - it was trapped
+- 46. p'uhnaʔ - I leap
+- 47. hɨk'aʔ - it is being sewn, woven
+- 48. nipal'a - I was bathed
+
+---
+
+### Problem 2 (20 points)
+
+(a) Translate into English:
+
+- 17. uwa xinhikaru sytu - The man remembered the house.
+- 18. txipary nhinhikary - The banana ate it.
+- 19. kyky aikute pysykary ywamukary - The man quickly brought my fish to you.
+
+(b) This sentence is grammatically incorrect. Explain why, and provide its grammatically correct equivalent and its English translation:
+
+- 20. uwa umynary kanawa ximakymukary - Incorrect because of the mixed noun class agreement. Correct version: uwa ximaky umynary kanawamukary - He brought my fish to your canoe.
+
+(c) Translate into Apurinã in two ways:
+
+- 21. uwa xinhikary - You found the house.
+- 22. uwa kyky umynary pikary - I brought your canoe to the girl.
+- 23. uwa kyky ãpurãã ywamukary - He brought your water to me.
+- 24. sytu ãtary kyky - The man drank the girl’s blood.
+- 25. uwa ãpukary - I remembered the eye.
+- 26. uwa ãtary umynary - You ate my banana.
+
+---
+
+### Problem 3 (20 points)
+
+(a) Translate into English:
+
+- 18. e-ɣuyanah - You (plural) shuddered.
+- 19. ba-ihwin - You (plural) cried.
+- 20. nambum-kisaɣah - I shivered.
+- 21. bat-ɣadawn - We really left them behind.
+- 22. ubamum-kolewn - You (singular) laughed at him in vain.
+
+(b) Translate into Coastal Marind:
+
+- 23. a-tamanab - He floated to the surface.
+- 24. ob-dahetok - Aw, you (singular) returned.
+- 25. bam-ɣuyanah - Oh, I silenced him!
+- 26. um-kulaɣawn - He really chased us away.
+- 27. e-keseh - You (plural) really spat on us in vain.
+
+---
+
+### Problem 4 (20 points)
+
+(a) Translate into English:
+
+- 22. ē-wāpamikoyēk - As you (plural) see him.
+- 23. ninakinikonān - I stop them.
+- 24. kikakwēcimāwāw - He asks you (plural).
+- 25. kiwīcihitināwāw - You (singular) help us.
+
+(b) Translate into Plains Cree:
+
+- 26. nikakwēcimikoyāhkwāwi - If we ask them.
+- 27. kimawinēskomikowāwak - They challenge you (plural).
+- 28. kimawinēskomin - They help me.
+- 29. kiwāpamak - You (singular) see them.
+- 30. ninakināwāwak - I stop you (plural).
+
+---
+
+### Problem 5 (20 points)
+
+(a) Write in digits:
+
+- kampwɔhii shuunni na kɛ - 701
+- ŋkuu na baataanre - 102
+
+(b) Write out in the Supyire language:
+
+- 15 - kampwɔhii taanre na beeshuunni
+- 109 - ŋkwuu na kampwoo
+- 152 - kampwɔhii beɲjaaga na kɛ
+- 403 - kampwɔhii ŋkwuu na beetaanre na beeshuunni
+- 1534 - kampwɔhii sicyɛɛre na kampwɔhii beɲjaaga na kaŋkuro na kɛ
