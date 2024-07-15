@@ -1,0 +1,234 @@
+### Problem 1 (20 points)
+
+Here are some verb forms of Benabena and their English translations:
+
+| Benabena                    | Translation                       |
+|-----------------------------|-----------------------------------|
+| nohobe                      | I am striking him                 |
+| kahalune                    | we will strike you(sg)            |
+| nokoho'ibe                  | we both are striking you(sg)      |
+| nolenufu'inagihe            | because we both are piercing you(pl) |
+| noli'ibe                    | you both are piercing us          |
+| nofunagihe                  | because I am piercing him         |
+| no'ne                       | you(sg) are piercing him          |
+| ni'la'ibe                   | you both will pierce me           |
+| nonahatagihe                | because you(sg) are striking me   |
+| lenahalube                  | I will strike you(pl)             |
+| nahalanagihe                | because you(pl) will strike me    |
+| lahal'ibe                   | you both will strike us           |
+| nofunagihe                  | because we are piercing him       |
+| leni'lu'ibe                 | we both will pierce you(pl)       |
+| noho'inagihe                | because we both are striking him  |
+
+(a) Translate into English:
+
+1. noni'be
+2. halu'ibe
+3. li'latagihe
+4. nokufune
+5. nolahanagihe
+
+(b) Translate into Benabena:
+
+1. you both are striking him
+2. we will pierce you(sg)
+3. because we are striking you(pl)
+4. because you(pl) will pierce him
+
+* * *
+### Problem 2 (20 points)
+
+Here are the singular, dual, and plural forms of some Kiowa nouns and their English translations. Not all forms are given, although all exist.
+
+| Singular        | Dual            | Plural            | Translation         |
+|-----------------|-----------------|-------------------|---------------------|
+| adO             | a               | a                 | tree                |
+| mathOnsjan      | mathOnsjan      | mathOnsjadO       | little girl         |
+| k’O             | k’O             | k’OgO             | knife               |
+| thot’olagO      | thot’ola        | thot’olagO        | orange              |
+| aufi            | aufigO          | ?                 | fish                |
+| phjaboadO       | phjaboa         | ?                 | street lamp         |
+| mathOn          | mathOdO         | ?                 | girl                |
+| k’OnbohodO      | k’Onbohon       | ?                 | hat                 |
+| t’O             | t’OgO           | ?                 | spoon               |
+| e               | ?               | alOsOhjegO        | plum                |
+| ?               | tsegun          | tsegudO           | dog                 |
+| alOguk’ogO      | alOguk’o        | ?                 | lemon               |
+| ?               | k’aphthO        | k’aphthOgO        | old man             |
+| khOdO           | khO             | ?                 | blanket             |
+| k’OdO           | ?               | k’OdO             | tomato              |
+| ?               | alO             | ?                 | apple               |
+| ?               | phO             | ?                 | buffalo             |
+| ?               | ?               | sadO              | child               |
+| Olsun           | ?               | ?                 | comb                |
+| ?               | pitso           | ?                 | fork                |
+| ?               | thOphpaa        | ?                 | chair               |
+
+Fill in the cells with the question marks.
+
+* * *
+### Problem 3 (20 points)
+
+Once upon a time in the Tangut Empire ("the Great State of the White and the Lofty") there lived two brothers and two sisters. They each had a son and a daughter.
+
+Below you see statements in the Tangut language concerning the relations between these people. The name Lhie2nyn2 belongs to a man.
+
+1. Ldiu2±e1 Nie2tse.1 'yn1 kâ. j ngu2.
+2. Lhie2nyn2 Ngwi1mbyn2 'yn1 lio2 ngu2.
+3. Sei1na1 Wa2nie1 'yn1 ndo.n1 ngu2.
+4. Ldiu2±e1 Œan1nia1 'yn1 ndo.n1 ngu2.
+5. Œan1nia1 Syn1mei1 'yn1 ¹we.j1 ngu2.
+6. Ldiu2±e1 Syn1mei1 'yn1 ¹we.j1 ngu2.
+7. Ldiu2±e1 Wa2nie1 'yn1 ¹we.j1 ngu2.
+8. Ke.i1¹ey2 Ldiu2±e1 'yn1 ¹we.j1 ngu2.
+9. Ldiu2±e1 Ke.i1¹ey2 'yn1 ¹we.j1 ngu2.
+10. Lhie2nyn2 Syn1mei1 'yn1 wia1 ngu2.
+11. Lhie2nyn2 Sie1tsie1 'yn1 'i@1 ngu2.
+12. Ke.i1¹ey2 Wa2nie1 'yn1 lio2 ngu2.
+13. Ke.i1¹ey2 Sie1tsie1 'yn1 ¹we.j1 ngu2.
+14. Lhie2nyn2 Ke.i1¹ey2 'yn1 wiej2 ngu2.
+15. Syn1mei1 Nie2tse.1 'yn1 ¹we.j1 ngu2.
+16. Ngon2ngwe1 Mbe2phon1 'yn1 kâ.j1 ngu2.
+17. Syn1mei1 Sei1na1 'yn1 kâ.j1 ngu2.
+18. Ldiu2±e1 Sie1tsie1 'yn1 ndo.n1 ngu2.
+19. Lhie2nyn2 Wa2nie1 'yn1 wia1 ngu2.
+20. Ldiu2±e1 Sei1na1 'yn1 ¹we.j1 ngu2.
+21. Wa2nie1 Sei1na1 'yn1 mu1 ngu2.
+22. Œan1nia1 Wa2nie1 'yn1 ¹we.j1 ngu2.
+23. Ngon2ngwe1 Ldiu2±e1 'yn1 la2 ngu2.
+24. Lhie2nyn2 Mbe2phon1 'yn1 mu1 ngu2.
+25. Mbe2phon1 Ldiu2±e1 'yn1 ma1 ngu2.
+26. Lhie2nyn2 Nie2tse.1 'yn1 'i@1 ngu2.
+27. Lhie2nyn2 Ngon2ngwe1 'yn1 mu1 ngu2.
+28. Œan1nia1 Sie1tsie1 'yn1 lio2 ngu2.
+29. Lhie2nyn2 Ldiu2±e1 'yn1 'i@1 ngu2.
+30. Lhie2nyn2 Sei1na1 'yn1 wiej2 ngu2.
+31. Œan1nia1 Nie2tse.1 'yn1 mu1 ngu2.
+32. Lhie2nyn2 Œan1nia1 'yn1 'i@1 ngu2.
+33. Ngon2ngwe1 Ke.i1¹ey2 'yn1 ny1 ngu2.
+34. Syn1mei1 Œan1nia1 'yn1 ¹we.j1 ngu2.
+35. Mbe2phon1 Sie1tsie1 'yn1 ma1 ngu2.
+36. Nie2tse.1 Sie1tsie1 'yn1 ngu2.
+
+(a) Reconstruct the family tree.
+
+(b) Fill in the blank in the last sentence (there is only one way to do this).
+
+* * *
+### Problem 4 (20 points)
+
+Here are some short dialogs in Engenni and their English translations:
+
+1. edèì âno nwá. sesè ozyí le. lemù à?  
+   Will this man frighten the deceived thief?  
+   edèì ânò wei ga òkí nwa. sese ozyí le. lemù.  
+   This man said that he[this man] would not frighten the deceived thief.
+
+2. a. vùràmù ki.nono amemùrè ânò à?  
+   Did the woman resemble this girl?  
+   a. vùràmù wei ga òkí ki.nono amemùrè ânò.  
+   The woman said that she[the woman] did resemble this girl.
+
+3. a.mó le. lemù â. nó wuese a. vùràmù à?  
+   Did this deceived child not kill the woman?  
+   a.modhyòmù wei ga ò wuese a. vùràmù.  
+   The youth said that he[this deceived child] did kill the woman.
+
+4. edèí dhia gbúnonò a.mò à?  
+   Will the evil man heal the child?  
+   a. vùràmú ko�lomù wei ga o gbúnonò a.mò.  
+   The coughing woman said that he[the evil man] would heal the child.
+
+5. amemùré dhiá ki.nono opilopo ânò à?  
+   Did the evil girl not resemble this pig?  
+   a. vùràmù wei ga ó. ki.nono opilopo ânò.  
+   The woman said that she[the evil girl] did not resemble this pig.
+
+6. ozyì gbunono okàá nu. amù â. nò à?  
+   Did the thief heal this beaten old man?  
+   ozyì wei ga òkí gbunono okàá nu. amù â. nò.  
+   The thief said that he[the thief] did not heal this beaten old man.
+
+7. ozyi âno kí.nonò edèí ko�lomù à?  
+   Will this thief resemble the coughing man?  
+   a.mò â. nò wei ga ó. ki.nono edèí ko�lomù.  
+   This child said that he[this thief] would not resemble the coughing man.
+
+(a) Translate into English:
+
+8. edèì ânò nwa. sese ozyi à?  
+   amemùrè wei ga ò. nwa. sese ozyi.
+
+9. amemùré le. lemu wúesè a.modhyòmù â. nò à?  
+   amemùré le. lemù wei ga òki wúesè a.modhyòmù â. nò.
+
+Here is also an answer in Engenni without a question for it:
+
+10. ozyi ânò wei ga a.mó gbunono edèì.
+
+Translate it into English. If it can be translated in more than one way, provide all translations and explain your reasoning.
+
+(b) Translate into Engenni:
+
+11. Will the old man resemble this coughing youth?  
+    The child said that he[the old man] would not resemble this coughing youth.
+
+12. Did this beaten woman not frighten the man?  
+    This beaten woman said that she[this beaten woman] did not frighten the man.
+
+(c) If you were to compile an Engenni dictionary, what would the base forms of the words "thief" and "girl" be? Explain your answer.
+
+* * *
+### Problem 5 (20 points)
+
+Here are some words and word combinations in Northwest Gbaya and their English translations in arbitrary order:
+
+| Northwest Gbaya           | Translation           |
+|---------------------------|-----------------------|
+| Páá                      |                       |
+| Páá náng nú kò        |                       |
+| Páá sèè                |                       |
+| búmá ýık                |                       |
+| búmá zù ýık            |                       |
+| dáng gòk                |                       |
+| d́ı fò                   |                       |
+| d́ı sèè                 |                       |
+| kò ýık                  |                       |
+| kò zòk                  |                       |
+| náng ẃı                 |                       |
+| nú fò                   |                       |
+| nú lébé                |                       |
+| sèè ẃı                 |                       |
+| ýık                      |                       |
+| ýık ẃı                  |                       |
+| zù                      |                       |
+|---------------------------|-----------------------|
+| Translation               | Northwest Gbaya       |
+|---------------------------|-----------------------|
+| at the surface            |                       |
+| eye socket                |                       |
+| eyebrow                   |                       |
+| eyelash                   |                       |
+| eyes/face                 |                       |
+| field edge                |                       |
+| foot                      |                       |
+| happiness                 |                       |
+| liver                     |                       |
+| good field                |                       |
+| nostril                   |                       |
+| above, on                 |                       |
+| poisonous snake           |                       |
+| tip of the tongue         |                       |
+| to be dying               |                       |
+| to envy                   |                       |
+| to put                    |                       |
+
+(a) Determine the correct correspondences.
+
+(b) Translate into English: búmá zù, kò, lébé gòk, lébé ẃı.
+
+(c) Translate into Northwest Gbaya: at the center, head, displeasure, nose.
+
+---
+
+Good luck!
