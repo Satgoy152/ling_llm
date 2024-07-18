@@ -1,6 +1,4 @@
-Prompt: Assume the role of an expert in linguistics
-This is a linguistic problem, just give the answer don't explain your reasoning
-
+Prompt: As an expert in computational linguistics solve the following problem:
 
 ### Problem 1 (20 points)
 

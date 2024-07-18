@@ -1,0 +1,123 @@
+Here is my solution to the computational linguistics problems:
+
+Problem 1:
+
+(a)
+
+15. netkay' ɨnnetaɡ'a push 
+16. kɨrɨy' ɨŋɡɨr'ɨ pull
+17. p'uhruy' ɨmp'uhar'u make holes
+18. her'oy ɨnder'o smooth out  
+
+For verbs ending in -Vy', Form 2 starts with ɨn- or ɨŋ- and ends in -V, -Vʔ, or -VʔV. Consonant changes: p' -> mp', k -> ɡ, t -> d, ʦ -> ʦ, ʂ -> ʦ, r' -> r', h -> h. No change for n, m, ŋ, l', w, y.
+
+(b)  
+
+39. her'oŋ    I smoothed out (it)
+40. ɨniʂpaʔ   I left                 
+41. aplaʔ     it opened         
+42. ʂur'uʔ    it chose (it)        
+43. piiriŋ    I saw (it)        
+44. ʂawʂaŋ   I plant (it)          
+45. ak'aniʔ   it was trapped         
+46. ap'ɨhnay' I leap             
+47. ahɨk'aʔ   it is being sewn, woven
+48. ɨniplaʔ   I was bathed           
+
+For "progressive" forms like "I am being seen", add ɨn- or ɨm- and -ʔ. Other 1sg forms end in -ŋ or -y'. 3sg intransitive forms start with a- and end in -ʔ or -Vʔ.
+
+Problem 2:
+
+(a)  
+
+17. She remembered my house.
+18. I found your_{sg} banana. 
+19. The man gave your_{sg} canoe to him.  
+
+(b) 
+
+20. This is incorrect because umynary "your_{sg} eye" requires a 1st person subject. The correct sentence is:
+
+uwa nymynary kanawa ximakymukary
+"He brought your_{sg} eye to the fish."
+
+(c)  
+
+21. 
+pixikute / ixikute 
+"You_{sg} found the house."
+
+22. 
+nykanawate / kanawate nytxiparyte hãtakurumukary  
+"I brought your_{sg} canoe to the girl."
+
+23.
+ywa ãtary pita nutamukary / ywa pãtary nutamukary  
+"He brought your_{sg} water to me."
+
+24. 
+kyky herẽka hãtakuru / kyky herẽkatxi hãtakuru  
+"The man drank the girl's blood."
+
+25.
+nhiky / niky 
+"I remembered the eye."
+
+26.
+pixinhikary nytxipary / ixinhikary ntxipary
+"You_{sg} ate my banana."
+
+Apurinã has free word order. Possessed nouns agree with the possessor in person (-nu my, -py your_{sg}, -wa his/her). Object pronouns are nutV-, pitV-, ywV-, etc. Subject agreement is n(V)- "I", p(V)- "you_{sg}", zero "he/she".
+
+Problem 3:
+
+(a)   
+
+18. You_{pl} shuddered.
+19. Aw, you_{pl} cried.  
+20. Oh, we spat on you_{pl} in vain!
+21. We really left you_{pl} behind. 
+22. Aw, you_{sg} laughed at him in vain.  
+
+(b)
+
+23. a-tamanab
+24. ubate-dahetok  
+25. uba-esanab
+26. nake-otaɣab  
+27. ebakam-keseh  
+
+Coastal Marind verbs agree with both subject and object. Prefixes: a- "he", nV- "I", bV- "you_{pl}", zero "you_{sg}". Subject suffixes: -m "I", -b "you_{pl}", zero "he/you_{sg}". Object suffixes (after -n): -ab "us", -eb "him", -ib "me", -Vwn "you_{pl}" (V = last vowel of prefix). Other suffixes: -ewn "left behind vainly", -awn "left behind", -aɣah/-anah "really", -ah/-ab "exclamative".
+
+Problem 4:
+
+(a)
+
+22. as they see you_{pl}  
+23. he/they stop(s) us
+24. you_{pl} ask him  
+25. I help you_{pl} 
+
+(b)
+
+26. kakwēcimāyāhkwāwi
+27. kimawineskomikwak
+28. niwīcihikwak 
+29. kiwāpamāwak
+30. kinakinitināwāw
+
+Plains Cree verbs mark both subject and object. ni-/-i- "I", ki- "you_{sg}/you_{pl}", zero "he/they". -ā- marks a 3sg object, -iko- a 1pl/2pl object, -i a 1sg/2sg object. Final -n marks a 1sg/2sg object, -nān a 1pl object, -wāw a 2pl object, -w a 3sg object, -wak/-k a 3pl object. ē-...-ak "as I...", ē-...-āyēk "as you_{pl}...", ...-ci "if 2sg...", ...-iko "if 1pl...", ...-āhkwāwi "if 3pl..."
+
+Problem 5:  
+
+(a) 1020, 105
+
+(b)  kɛ na kaŋkuro 
+     ŋkwɔ sicyɛɛre na baaricyɛɛre
+     ŋkwɔ baataanre na beeshuunni na shuunni
+     ŋkwuu sicyɛɛre na baaricyɛɛre    
+     kampwɔhii na ŋkwɔhii shuunni na beetaanre na ŋkwuu sicyɛɛre   
+
+The Supyire number system is partly decimal, partly vigesimal. 1-10: baani, shuunni, taanre, sicyɛɛre, kaŋkuro, baani...kɛ. Teens: kɛ na baani...kɛ na kɛ. Round 10's: beeshuunni, beetaanre, beesicyɛɛre...ŋkwuu. 100's: ŋkwɔ baani...ŋkwɔ kɛ. ŋkwuu = 20, kampwɔ = 400.
+
+Let me know if you have any other questions!

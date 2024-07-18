@@ -1,0 +1,92 @@
+Here are my solutions to the computational linguistics problems:
+
+Problem 1:
+
+(a) Filling in the gaps in rows 15-18:
+
+15. netkay' | ɨnitak'a | push
+16. kɨrɨy' | ɨnkɨr'ɨ | pull  
+17. p'uhruy' | ɨnp'uhr'u | make holes
+18. her'oy | ɨnher'o | smooth out
+
+(b) Filling in the gaps in rows 39-48:
+
+39. her'oŋ | I smoothed (it) out
+40. ɨniʂpaʔ | I left
+41. aplaʔ | it is being opened
+42. ʂur'uŋ | I chose (it)
+43. ɨmbiriʔ | I saw (it) 
+44. ʂawʂan' | I plant (it)
+45. ɨŋk'an'i | it was trapped
+46. p'ɨhnaʔ | it leaped
+47. hɨk'aŋ | it is being sewn, woven
+48. iplay'i | I was bathed
+
+Problem 2:
+
+(a) Translations:
+
+17. uwa xinhikaru sytu - The woman remembered the house.
+18. txipary nhinhikary - I remembered the banana.
+19. kyky aikute pysykary ywamukary - The man took his eye to the canoe.
+
+(b) The sentence "uwa umynary kanawa ximakymukary" is grammatically incorrect because the order of the noun phrases is wrong. The correct order should be "uwa kanawa ximakymukary umynary", which translates to "The woman brought the canoe to the fish."
+
+(c) Translations into Apurinã:
+
+21. hãtakuru apukaru - You_{sg} found the house.
+22. txiparyte nysykaru ywamukary hãtakorumukary - I brought your_{sg} canoe to the girl.
+23. ywa nhinhikary ywamukary - He brought your_{sg} water to me.
+24. kyky uãtary hãtakurukaryte - The man drank the girl's blood.
+25. nywa nyinhikary - I remembered the eye.
+26. txipary ximaky ninhiku - You_{sg} ate my banana.
+
+Problem 3:
+
+(a) Translations into English:
+
+18. e-ɣuyanah - You_{pl} shuddered.
+19. ba-ihwin - You_{pl} cried.
+20. nambum-kisaɣah - Aw, I shuddered!
+21. bat-ɣadawn - You_{pl} really left us behind.
+22. ubamum-kolewn - Oh, he silenced him in vain.
+
+(b) Translations into Coastal Marind:
+
+23. ba-tamab - He floated to the surface.
+24. ubate-huɣanab - Aw, you_{sg} returned.
+25. nakum-hoɣab - Oh, I silenced him!
+26. nambe-otab - He really chased us away.
+27. e-keseh - You_{pl} really spat on us in vain.
+
+Problem 4:
+
+(a) Translations into English:
+
+22. ē-wāpamikoyēk - as you_{pl} see me
+23. ninakinikonān - they stop us
+24. kikakwēcimāwāw - you_{pl} ask him
+25. kiwīcihitināwāw - he helps you_{pl}
+
+(b) Translations into Plains Cree:
+
+26. kakwēcimākwak - if we ask them
+27. mawinēskomikoyēk - they challenge you_{pl}
+28. wīcihit - they help me
+29. wāpamāt - you_{sg} see them
+30. ninakinikowāw - I stop you_{pl}
+
+Problem 5:
+
+(a) Writing the numerals in digits:
+
+- kampwɔhii shuunni na kɛ - 20
+- ŋkuu na baataanre - 70
+
+(b) Writing the numerals in Supyire:
+
+- 15 - kaŋkuro na baataanre
+- 109 - ŋkwuu na baataanre na baanicyɛɛre
+- 152 - ŋkwuu taanre na beeshuunni na baani
+- 403 - kampwoo na ŋkwuu na baataanre na baanicyɛɛre
+- 1534 - kampwɔhii shuunni na baataanre na ŋkwuu na baani
