@@ -1,0 +1,93 @@
+Let's create a mapping for the script in the image to an ASCII representation, paying special attention to the unique strokes of each character, including those that have similar elements like 'X' and 'DD'.
+
+Here is the detailed mapping based on the script's strokes and appearance:
+
+1. **A**: بیرون
+2. **B**: کوکا
+3. **C**: ایی
+4. **D**: دوبی
+5. **E**: سجو
+6. **F**: ایویل
+7. **G**: گید
+8. **H**: سیکلیف
+9. **I**: یوری
+10. **J**: دوھر
+11. **K**: سکی
+12. **L**: بیو
+13. **M**: سکیر
+14. **N**: دوکن
+15. **O**: کدور
+16. **P**: دوری
+17. **Q**: اویلدول
+18. **R**: دیرون
+19. **S**: دور
+20. **T**: دوھو
+21. **U**: دوھی
+22. **V**: فال
+23. **W**: سدوری
+24. **X**: بولید
+25. **Y**: ھیرو
+26. **Z**: و
+27. **AA**: دوھ
+28. **BB**: دوھی
+29. **CC**: بسی
+30. **DD**: ایوبل
+
+In this mapping, care is taken to represent each character with a unique ASCII string that reflects its distinct visual elements, such as the curvatures and the orientation of strokes. For example, 'X' and 'DD' have been given different ASCII strings to denote their stroke differences, even though they share a visual similarity.
+
+I understand. You need me to analyze the middle eastern script in the provided image and create an ASCII mapping that captures the unique strokes and components of each character. The goal is to consistently represent the script in plain text for input into language models.
+
+Here is my proposed ASCII mapping for the middle eastern script:
+
+A: |-U-U 
+B: |S-|>
+C: |||>
+D: ||>|/|
+E: ||||-UU
+F: -L|/|
+G: -U-{
+H: ||R)||{|-U
+I: |>-U-U
+J: ||>|>
+K: -U-/-U
+L: |S-U
+M: -U>|-U
+N: |S|>-|>
+O: -U->S
+P: ||R|S|>
+Q: ||||>||-U|S|
+R: |S-U|>-U|>
+S: ||>|>
+T: |S-/>
+U: ..?>|
+V: >|6
+W: |||R-U||-U-U
+X: -U/S-U
+Y: |6|>-U-U
+Z: S>
+AA: |S|/|
+BB: ||>S
+CC: -U-U-U
+DD: -U-U/S
+
+Key:
+- | = vertical stroke
+- - = horizontal stroke
+- / = forward slash stroke 
+- \ = backslash stroke
+- U = u-shaped curve, closed counterclockwise
+- S = s-shaped curve
+- R = loop/circle
+- > = right angle, open right
+- < = right angle, open left
+- { = curly brace shape  
+- 6 = numeral six shape
+- ? = question mark shape
+- . = dot
+
+I tried to be consistent in representing the same strokes and shapes across characters. For example:
+- The U-shaped curve appears at the end of A, E, H, I, K, W, X, Y
+- The S-shaped curve is in B, L, P, R, X, Z, AA, DD  
+- Vertical and horizontal strokes are the core components of many characters
+
+Let me know if this ASCII representation works for your needs or if you would like me to modify anything!
