@@ -1,0 +1,146 @@
+Here are my solutions to the computational linguistics problems:
+
+Problem 1:
+
+(a) The other translation of aŝʷəstʷan is "I give you_{pl} to them".
+
+(b) Translations:
+10. ašʼəntʷən - "they give us to you_{sg}"
+11. səŝʷtʷan - "you_{pl} give me to him" 
+12. šʼəwənatʷan - "they give him to you_{sg}"
+
+(c) Translations into Ubykh:  
+13. wəsəŝʷtʷən
+14. səŝʷəntʷən
+15. šʼawtʷan
+16. awəšʼtʷən
+17. šʼantʷən
+
+In Ubykh, the verb "to give" agrees with three arguments: giver, gift, and recipient. The giver is marked by a-, wə-, or zero; the gift by -šʼ- "us", -ŝʷ- "me/you_{pl}", -sə- "you_{sg}", or zero "him/them"; the recipient by -n "him/them", -tʷ "you_{sg}" or -tʷən "you_{pl}".
+
+Problem 2:
+
+(a) Correspondences:
+1F, 2T, 3Z, 4G, 5U, 6K, 7V, 8Y, 9X, 10A, 11H, 12L, 13B, 14J, 15Q, 16W, 17M, 18R, 19C, 20P, 21O, 22N, 23I, 24S, 25D, 26E
+
+(b) Translations:
+27. bállàaka - "they have holes" or "they are torn in several places" 
+28. inchafàali - "they are scattered"
+29. kawwi - "he peels the bark off"
+
+(c) Translations into Alabama:
+30. lómbafka
+31. litaffi
+32. apòttowi
+33. achánnowi
+
+(d) apòttowi can also mean "he turns it upside down".
+
+Observations:
+- Verb roots end in one or two consonants.
+- a- prefix marks singular object, zero marks plural; -li suffix marks plural subject, zero marks singular  
+- kV- prefix (for some V) derives intransitive from transitive
+- -ffi suffix adds meaning "in several places" 
+- -ka suffix derives stative from active verb
+- Tone patterns: H=káwwi, HL=káwwìika, LH=kawáffi, L=kawwi
+
+Problem 3:
+
+(a) Translations:
+17. I ask if your_{pl} grandfather calls him.
+18. I will not work in Upington.
+19. The woman is afraid of my dog.
+20. It is you_{pl} whom I will call.
+21. Whom do you_{pl} see?
+22. Whom do you_{sg} like?
+
+(b) Translations into Nǀuuki:
+23. ǁu xaŋki ke si ǃʔai ŋ ɡǀa ǁãu.
+24. ɡǀa xae ŋ ǂhun ǃaukea ŋ a.
+25. kiɟa xae u si ǂqheeke ŋǁa?  
+26. na kacuuʔi ŋ ɡǀu ǃuu xae ŋ ɡǀa ǂʔii ŋǁa.
+27. cuu xae si ǀqhõʕo ŋ ǃhaeke? 
+28. u ŋǀii ŋ ɡǀi?
+
+Observations:
+- Basic word order is SOV, but focused constituent is fronted.  
+- ŋ before verb marks yes-no question.
+- ke...ŋ around verb marks negation.
+- si before verb marks future tense.
+- a after verb introduces focused constituent. 
+- xae after noun phrase marks focus/question word.
+- Independent pronouns: ŋǀŋ "I", ɡǀa "you_{sg}", ɡǀi "we", u "you_{pl}". 
+- Possessive pronouns: ŋ "my", ɡǀa "your_{sg}", ɡǀu "our", u "your_{pl}".
+
+Problem 4:
+
+(a) Matching:
+A6, B8, C5, D1, E7, F2, G3, H18, I22, J20, K23, L24, M13, N17, O15, P12, Q10, R16, S14, T11, U9, V21, W19, X4
+
+(b) Filled in blanks:
+(i) kadnhini
+(ii) lhuka
+(iii) piyaka
+(iv) thanti
+(v) kupaka
+(vi) nhupa
+(vii) wardu
+(viii) kaku
+(ix) amanyi
+
+Observations:
+The kinship terms used:
+- kaku: mother's father, woman's daughter's husband 
+- amanyi: father's father
+- thanti: father's mother, mother's mother
+- apityi: father's sister, mother's brother's wife
+- nhupa: father, father's brother, husband
+- nhuthi: mother, father's brother's wife, wife
+- kadnhini: brother's child, woman's sister's child, grandchild
+- piyaka: woman's brother's child, man's sister's child
+- wardu: man's sister's child, woman's brother's child, woman's father's sister's child
+- kupaka: mother's brother
+- lhuka: man's child, brother's wife
+
+This suggests a classificatory kinship system typical of Australian languages. Arabana has separate terms for maternal vs paternal grandparents, and offspring of maternal uncle, paternal aunt, vs other siblings.
+
+Problem 5:
+
+(a) If *bala had survived in Tsat, it would have become phia¹¹.
+
+(b) Filled in blanks:
+1. liʔ⁴²
+2. taːnʔ⁴²
+3. pha⁵⁵
+4. ikaʔ
+5. kaʔ²⁴
+6. tapà
+7. pha³³
+8. mɨtày
+9. taːiʔ⁴²  
+10. talàm
+11. laːnʔ⁴² 
+12. lapùh
+13. phu⁵⁵
+14. pilàn
+15. laːnʔ⁴²
+16. phia¹¹
+17. phu⁵⁵
+18. ta³³
+
+Observations:
+- Proto-Chamic *a > Phan Rang Cham a, Tsat a
+- Proto-Chamic *aː > Phan Rang Cham a, Tsat aː
+- Proto-Chamic *b > Phan Rang Cham p, Tsat ph
+- Proto-Chamic *d > Phan Rang Cham t, Tsat th (word-initially), t (elsewhere)
+- Proto-Chamic *h > Phan Rang Cham h, Tsat Ø
+- Proto-Chamic *i > Phan Rang Cham i, Tsat i
+- Proto-Chamic *k > Phan Rang Cham k, Tsat k 
+- Proto-Chamic *l > Phan Rang Cham l, Tsat l
+- Proto-Chamic *m > Phan Rang Cham m, Tsat m (word-initially), n (word-finally)
+- Proto-Chamic *r > Phan Rang Cham r, Tsat z
+- Proto-Chamic *t > Phan Rang Cham t, Tsat t
+- Proto-Chamic *ʔ > Phan Rang Cham ʔ, Tsat ʔ 
+- Proto-Chamic *ə > Phan Rang Cham ə, Tsat ə
+
+Let me know if you need any clarification or have additional questions!

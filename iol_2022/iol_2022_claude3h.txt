@@ -1,0 +1,145 @@
+Okay, let's solve these computational linguistics problems!
+
+Problem 1:
+
+(a) The last form, aŝʷəstʷan, can also be translated as "you_{pl} give him to me".
+
+(b) Translations into English:
+10. ašʼəntʷən - I give him to you_{sg}
+11. səŝʷtʷan - he gives me to you_{pl}
+12. šʼəwənatʷan - they give us to him
+
+(c) Translations into Ubykh:
+13. wəŝʷəntʷan - they give you_{pl} to me
+14. ŝʷəntʷan - you_{pl} give him to me
+15. awtʷan - you_{sg} give us to him 
+16. awəšʼtʷən - we give you_{sg} to them
+17. šʼantʷan - he gives them to us
+
+Problem 2:
+
+(a) Matches between the Alabama words and their English translations:
+
+1. achánnàaka - H
+2. achanni - S
+3. ahamatli - O
+4. ahámmatka - N
+5. apòotka - E
+6. apotòoli - B
+7. apóttòoka - Q
+8. atanayli - G
+9. atánnayka - D
+10. atanni - I
+11. bàalka - L
+12. balàali - M
+13. balli - U
+14. incháffàaka - X
+15. kawaɬɬi - V
+16. ɬìilka - P
+17. ɬìipka - W
+18. ɬilaffi - J
+19. ɬipli - F
+20. ɬíppìika - Y
+21. ɬobaffi - C
+22. ɬómbafka - T
+23. ɬombi - Z
+24. ɬòomka - R
+25. sibapli - A
+26. simbi - K
+
+(b) Translations into English:
+27. bállàaka - he scatters them
+28. inchafàali - they have holes
+29. kawwi - he has one, he has some
+
+(c) Translations into Alabama:
+30. ɬilaffi - he tears it in several places, they are torn in several places
+31. sibapli - he tears it in two
+32. ahámmatka - he turns it upside down
+33. ahámmatka - he leans it against something
+
+(d) The word "ahámmatka" can also be translated as "he puts it next to something".
+
+Problem 3:
+
+(a) Translations into English:
+17. na kacuuʔi ŋ ɡǀu xae ŋ ǃuu ǃʔai - I ask if it is my grandfather whom you_{sg} call
+18. na ǁu si sĩisen ŋ ɡǃari - I will work in Upington
+19. ǀeeki ke ǃaukea ŋ ŋǀŋ ǂhun - The woman is afraid of my dog
+20. ŋ kee si ǃʔai a - It is me whom you_{sg} will call
+21. cuu xae u ŋǀii - Whom do you_{pl} see?
+22. cuu xae ts'aaʔa ŋ - Who likes me?
+
+(b) Translations into Nǀuuki:
+23. u kee ke ǃʔai ŋ ŋ ǃuu - Our mother will not call your_{sg} brother
+24. ǀeeki ke ǃaukea ŋ ŋ ǂhun - It is you_{sg} whom my dog is afraid of
+25. kiɟa xae u si ǂqheeke - Where will you_{pl} sing?
+26. na kacuuʔi ŋǀŋ xae a ŋ ǃuu ǂʔii - I ask if it is our grandfather whom you_{sg} think about
+27. ŋǁŋ xae si ǀqhõʕo ŋ ǃhaeke - Who will dance tomorrow? 
+28. u ŋǀii ŋ ŋǁa - Do you_{pl} see us?
+
+Problem 4:
+
+(a) Matching the family members A-X with their positions (1-24) on the family trees:
+
+A - 1 (Woman 6)
+B - 2 (Man 7) 
+C - 3 (Man 5)
+D - 1 (Woman 6) 
+E - 3 (Woman 8)
+F - 1 (Woman 2)
+G - 4 (Man 7)
+H - 4 (Woman 8) 
+I - 4 (Woman 9)
+J - 4 (Woman 11)
+K - 5 (Man 10)
+L - 4 (Woman 11)
+M - 4 (Woman 12) 
+N - 6 (Man 13)
+O - 6 (Woman 14)
+P - 7 (Man 18)
+Q - 8 (Woman 21)
+R - 8 (Man 20)
+S - 4 (Woman 15)
+T - 4 (Man 13)
+U - 5 (Woman 11)
+V - 4 (Woman 8)
+W - 4 (Woman 9)
+X - 5 (Man 16)
+
+(b) Filling in the blanks:
+
+i. nhupa (daughter)
+ii. kupaka (sister)
+iii. piyaka (husband)
+iv. kadnhini (daughter-in-law) 
+v. nhupa (sister)
+vi. piyaka (husband)
+vii. lhuka (daughter)
+viii. thanti (grandchild)
+ix. kadnhini (daughter-in-law)
+
+Problem 5:
+
+(a) If the Proto-Chamic word *bala had survived in Tsat, it would have become pila.
+
+(b) Filling in the blanks:
+
+1. pia¹¹
+2. thaːmʔ⁴²
+3. pha⁵⁵
+4. kaʔ⁴²
+5. kaʔ⁴²
+6. pia¹¹
+7. taːpʔ⁴²
+8. tai³³
+9. tai⁵⁵
+10. liŋʔ⁵⁵
+11. liŋʔ⁵⁵
+12. lau¹¹
+13. lau¹¹
+14. piaŋ¹¹
+15. piaŋ¹¹
+16. pha⁵⁵
+17. thaːpʔ⁴²
+18. thaːʔ⁴²

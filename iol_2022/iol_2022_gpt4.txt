@@ -1,1 +1,32 @@
+Let's start by solving Problem 1 related to Ubykh:
 
+### Problem 1:
+
+**Part (a)**  
+The last of the nine forms "aŝʷəstʷan" translates as "I give him to you_{pl}". Its other translation could logically be "I give them to you_{pl}" considering the plurality indicated by "you_{pl}". This is based on the pattern observed in other Ubykh translations where the plurality of pronouns and objects varies.
+
+**Part (b)**  
+Translate into English:
+- **10. ašʼəntʷən**: Looking at the patterns:
+  - "a-" commonly appears in the 1st person singular "I"
+  - "šʼ" is observed in a 1st person plural context "we"
+  - "əntʷən" might suggest a verb form related to giving to a plural group.
+  - Thus, a possible translation could be "I give them to us".
+- **11. səŝʷtʷan**: Based on similar patterns:
+  - "sə-" indicates a 3rd person singular "he"
+  - "ŝʷ" is found in contexts indicating "you_{pl}" as the recipient.
+  - Thus, "he gives me to you_{pl}".
+- **12. šʼəwənatʷan**: By the patterns:
+  - "šʼ" indicates "he gives"
+  - "əwənatʷan" resembles forms related to "they give you_{sg} to me".
+  - Possible translation: "he gives us to you_{sg}".
+
+**Part (c)**  
+Translate into Ubykh:
+- **13. they give you_{pl} to me**: Resembling "wəsənatʷən" ("they give you_{sg} to me"), the plural form could be "wəsənatʷən" with a different pronoun modification for "you_{pl}".
+- **14. you_{pl} give him to me**: Resembling "sawtʷən" ("you_{sg} give me to them"), with appropriate modifications, could be "səwətʷən".
+- **15. you_{sg} give us to him**: Following the pattern of "sawtʷən", possibly "sawəntʷən".
+- **16. we give you_{sg} to them**: Referring to "wəšʼtʷən" ("we give you_{sg} to him"), adjusting for "them" could be "wəšʼəntʷən".
+- **17. he gives them to us**: Following "šʼantʷan" ("he gives us to them"), an inverse could be "šʼəwəntʷan".
+
+Now, let's solve the other problems in subsequent turns.
