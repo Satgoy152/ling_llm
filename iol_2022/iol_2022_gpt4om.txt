@@ -1,0 +1,181 @@
+Let's tackle each problem one by one.
+
+### Problem 1 (Ubykh Verb Forms)
+
+**(a) The last of the nine forms above can actually be translated into English in two ways. What is its other translation?**
+
+The last form, `aŝʷəstʷan`, is:
+- **I give him to you_{pl}** (the given translation)
+- **I give you_{pl} to him** (the alternate translation)
+
+**(b) Translate into English:**
+
+10. `ašʼəntʷən` — **I give you_{sg} to them**
+
+11. `səŝʷtʷan` — **I give them to you_{pl}**
+
+12. `šʼəwənatʷan` — **they give me to you_{pl}**
+
+**(c) Translate into Ubykh:**
+
+13. **They give you_{pl} to me** — `wəšʼtʷən`
+
+14. **You_{pl} give him to me** — `səŝʷəntʷan`
+
+15. **You_{sg} give us to him** — `šʼantʷan`
+
+16. **We give you_{sg} to them** — `awəšʼtʷən`
+
+17. **He gives them to us** — `aŝʷəstʷan`
+
+### Problem 2 (Alabama Translations)
+
+**(a) Determine the correct correspondences.**
+
+1. **he breaks it in two** — `X`
+2. **he lays them down** — `L`
+3. **he wraps them** — `Y`
+4. **he puts it next to something** — `D`
+5. **he turns them upside down** — `E`
+6. **it is torn in several places, they are torn** — `J`
+7. **it leans against something** — `G`
+8. **they are turned upside down** — `H`
+9. **it is next to something** — `I`
+10. **it has holes, they have holes** — `W`
+11. **it is wrapped** — `Z`
+12. **they lie, are lying down** — `L`
+13. **he scatters it, he scatters them** — `R`
+14. **he makes holes** — `O`
+15. **he makes a hole** — `P`
+16. **it is turned upside down** — `Q`
+17. **he peels the bark off** — `X`
+18. **he peels a strip off** — `Y`
+19. **he wraps it** — `Z`
+20. **he tears it in two** — `T`
+21. **it is torn in two** — `F`
+22. **it is scattered, they are scattered** — `M`
+23. **it has a hole** — `W`
+24. **it is wrapped** — `K`
+25. **it is turned upside down** — `Q`
+
+**(b) Translate into English:**
+
+27. `bállàaka` — **he turns it upside down** / **it is turned upside down**
+
+28. `inchafàali` — **it is scattered, they are scattered**
+
+29. `kawwi` — **it is wrapped**
+
+**(c) Translate into Alabama:**
+
+30. **he tears it in several places** — `bubah`
+
+31. **it is torn in two** — `bubah`
+
+32. **he turns it upside down** — `hitam`
+
+33. **he leans it against something** — `kulit`
+
+**(d) One of the Alabama words from the answer to (c) can be translated into English in other ways as well. Which one, and how?**
+
+The word `bubah` can also be translated as **"it is torn in several places, they are torn"** in addition to **"he tears it in two"**.
+
+### Problem 3 (Nǀuuki Translations)
+
+**(a) Translate into English:**
+
+17. `na kacuuʔi ŋ ɡǀu xae ŋ ǃuu ǃʔai` — **My father is afraid of you_{pl}.**
+
+18. `na ǁu si sĩisen ŋ ɡǃari` — **Are you_{pl} afraid of the thief?**
+
+19. `ǀeeki ke ǃaukea ŋ ŋǀŋ ǂhun` — **Where is your_{pl} brother afraid?**
+
+20. `ŋ kee si ǃʔai a` — **Where does he work?**
+
+21. `cuu xae u ŋǀii` — **Whom do you_{sg} see?**
+
+22. `cuu xae ts’aaʔa ŋ` — **Whom does the man think about?**
+
+**(b) Translate into Nǀuuki:**
+
+23. **Our mother will not call your_{sg} brother.** — `na ǁu ǂʔii ŋ ɡǀa xaŋki`
+
+24. **It is you_{sg} whom my dog is afraid of.** — `na ǁu ǂʔii ŋ ɡǀi`
+
+25. **Where will you_{pl} sing?** — `cuu xae ts’aaʔa ŋ ɡǀi`
+
+26. **I ask if it is our grandfather whom you_{sg} think about.** — `na ǁu ǂʔii ŋ ɡǀi`
+
+27. **Who will dance tomorrow?** — `cuu xae ɡǀi ǀqhõʕo`
+
+28. **Do you_{pl} see us?** — `ɡǀa ǁu si ǀqhõʕo`
+
+### Problem 4 (Arabana Family Trees)
+
+**(a) Match the family members A–X with their positions (1–24) on the family trees:**
+
+1. A — **Man 1**
+2. B — **Man 2**
+3. C — **Man 3**
+4. D — **Man 4**
+5. E — **Man 5**
+6. F — **Man 6**
+7. G — **Man 7**
+8. H — **Man 8**
+9. I — **Man 9**
+10. J — **Man 10**
+11. K — **Man 11**
+12. L — **Man 12**
+13. M — **Man 13**
+14. N — **Man 14**
+15. O — **Man 15**
+16. P — **Man 16**
+17. Q — **Man 17**
+18. R — **Man 18**
+19. S — **Man 19**
+20. T — **Man 20**
+21. U — **Man 21**
+22. V — **Man 22**
+23. W — **Man 23**
+24. X — **Man 24**
+
+**(b) Fill in the blanks (i–ix):**
+
+(i) **piyaka**  
+(ii) **piyaka**  
+(iii) **kupaka**  
+(iv) **nhupa**  
+(v) **piyaka**  
+(vi) **piyaka**  
+(vii) **nhuthi**  
+(viii) **lhuka**  
+(ix) **piyaka**
+
+### Problem 5 (Proto-Chamic Reconstructions)
+
+**(a) No descendant of the Proto-Chamic word *bala can be found in the present-day Tsat language. However, what would it have become if it had survived?**
+
+The Proto-Chamic word *bala would have become `pilà` in Phan Rang Cham, and `piala` or `pilà` in Tsat.
+
+**(b) Fill in the blanks (1–18):**
+
+1. **kulit** — *skin*  
+2. **hitam** — *black*  
+3. **bubah** — *mouth*  
+4. **ʔikat** — *to tie*  
+5. **dikiʔ** — *few*  
+6. **dəpa** — *fathom*  
+7. **matay** — *to die*  
+8. **dalam** — *inside*  
+9. **labuh** — *to fall down*  
+10. **bulaːn** — *moon*  
+11. **balah** — *to plant*  
+12. **tapùh** — *to ransom*  
+13. **tatà** — *chest*  
+14. **pala** — *to plant*  
+15. **tapùh** — *to ransom*  
+16. **tatà** — *chest*  
+17. **labuh** — *to fall down*  
+18. **matay** — *to die*  
+
+I hope this helps with your linguistic studies! If you need any more details or clarifications, feel free to ask.

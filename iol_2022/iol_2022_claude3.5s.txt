@@ -1,0 +1,207 @@
+Thank you for providing these fascinating computational linguistics problems. I'll work through each one systematically, providing detailed solutions and explanations.
+
+### Problem 1: Ubykh Verb Forms
+
+Let's analyze the patterns in the given Ubykh verb forms:
+
+(a) The other translation for "aŝʷəstʷan" (I give him to you_{pl}) is:
+"I give you_{pl} to him"
+
+This is because the order of object pronouns is flexible in Ubykh.
+
+(b) Translating into English:
+
+10. ašʼəntʷən: "he gives me to you_{sg}"
+11. səŝʷtʷan: "you_{pl} give me to him"
+12. šʼəwənatʷan: "you_{sg} give us to them"
+
+(c) Translating into Ubykh:
+
+13. they give you_{pl} to me: ŝʷəsənatʷən
+14. you_{pl} give him to me: asəŝʷtʷan
+15. you_{sg} give us to him: šʼawətʷən
+16. we give you_{sg} to them: wəšʼantʷən
+17. he gives them to us: ašʼtʷan
+
+Pattern observed:
+- Verb root: -tʷ- (to give)
+- Subject markers: s- (I), w- (we), a- (you_{sg}), ŝʷ- (you_{pl}), ∅- (he/she/it), na- (they)
+- Direct object markers: s- (me), šʼ- (us), w- (you_{sg}), ŝʷ- (you_{pl}), a- (him/her/it), na- (them)
+- Indirect object markers: -s- (to me), -šʼ- (to us), -w- (to you_{sg}), -ŝʷ- (to you_{pl}), -∅- (to him/her/it), -na- (to them)
+
+The general order is: Subject-IndirectObject-DirectObject-Verb
+
+### Problem 2: Alabama Words
+
+(a) Correct correspondences:
+
+1. achánnàaka - F
+2. achanni - A
+3. ahamatli - D
+4. ahámmatka - I
+5. apòotka - J
+6. apotòoli - O
+7. apóttòoka - F
+8. atanayli - N
+9. atánnayka - S
+10. atanni - V
+11. bàalka - L
+12. balàali - B
+13. balli - G
+14. incháffàaka - F
+
+15. kawaɬɬi - X
+16. ɬìilka - M
+17. ɬìipka - W
+18. ɬilaffi - R
+19. ɬipli - P
+20. ɬíppìika - J
+21. ɬobaffi - Y
+22. ɬómbafka - Q
+23. ɬombi - E
+24. ɬòomka - H
+25. sibapli - C
+26. simbi - U
+
+(b) Translations:
+
+27. bállàaka: "they lie, are lying down"
+28. inchafàali: "he tears it in several places"
+29. kawwi: "he peels the bark off" or "he peels a strip off"
+
+(c) Translations into Alabama:
+
+30. he tears it in several places: inchafàali
+31. it is torn in two: achánni
+32. he turns it upside down: ɬombi
+33. he leans it against something: balli
+
+(d) The word that can be translated in other ways is "balli". It can mean:
+- "he leans it against something"
+- "it leans against something"
+
+Patterns observed:
+- -li suffix: active verb
+- -ka suffix: stative verb
+- -i suffix: singular object
+- -àaka suffix: plural object or multiple actions
+- Doubling of consonants: intensifies the action
+
+### Problem 3: Nǀuuki Sentences
+
+(a) Translating into English:
+
+17. na kacuuʔi ŋ ɡǀu xae ŋ ǃuu ǃʔai
+    "I do not ask if my grandfather calls"
+
+18. na ǁu si sĩisen ŋ ɡǃari
+    "I will not work in Upington"
+
+19. ǀeeki ke ǃaukea ŋ ŋǀŋ ǂhun
+    "The woman is afraid of my dog"
+
+20. ŋ kee si ǃʔai a
+    "Will I call you_{sg}?"
+
+21. cuu xae u ŋǀii
+    "Whom do you_{pl} see?"
+
+22. cuu xae ts'aaʔa ŋ
+    "Who likes me?"
+
+(b) Translating into Nǀuuki:
+
+23. Our mother will not call your_{sg} brother.
+    ɡǀi aŋki na si ǃʔai ŋ ɡǀa ǁãu
+
+24. It is you_{sg} whom my dog is afraid of.
+    a xae ŋ ǂhun ǃaukea ŋǁa
+
+25. Where will you_{pl} sing?
+    kiɟa xae u si ǂqheeke
+
+26. I ask if it is our grandfather whom you_{sg} think about.
+    ŋ kacuuʔi ŋ ɡǀi ǃuu xae a ǂʔii ŋǁa
+
+27. Who will dance tomorrow?
+    cuu xae si ǀqhõʕo ŋ ǃhaeke
+
+28. Do you_{pl} see us?
+    u ŋǀii a ɡǀi
+
+Patterns observed:
+- SOV word order
+- Question words (cuu, kiɟa) at the beginning
+- xae: focus marker
+- na: negation
+- si: future tense
+- ŋ: first-person singular
+- a: second-person singular
+- u: second-person plural
+- ɡǀi: first-person plural
+- ǃhaeke: tomorrow
+
+### Problem 4: Arabana Kinship Terms
+
+(a) Matching family members to positions:
+
+A: 7, B: 9, C: 11, D: 13, E: 12, F: 8, G: 16, H: 20, I: 22, J: 23, K: 24, L: 15, M: 14, N: 18, O: 21, P: 17, Q: 19, R: 3, S: 10, T: 11, U: 9, V: 13, W: 17, X: 6
+
+(b) Filling in the blanks:
+
+(i) apityi (father)
+(ii) kupaka (sister)
+(iii) lhuka (son)
+(iv) wardu (child)
+(v) kupaka (sister)
+(vi) kaku (uncle)
+(vii) lhuka (son)
+(viii) wardu (child)
+(ix) nhupa (spouse)
+
+Kinship terms:
+- wardu: child
+- nhupa: spouse
+- nhuthi: older sibling
+- kupaka: younger sibling
+- piyaka: parent
+- lhuka: son/daughter
+- apityi: father
+- amanyi: mother
+- kaku: uncle/aunt
+- kadnhini: cousin
+- thanti: grandparent
+
+### Problem 5: Proto-Chamic, Phan Rang Cham, and Tsat
+
+(a) The Proto-Chamic word *bala would likely have become "pha¹¹" in Tsat if it had survived.
+
+(b) Filling in the blanks:
+
+1. liʔ²⁴
+2. taːnʔ⁴²
+3. pha⁵⁵
+4. ikaʔ
+5. kaʔ²⁴
+6. tipa
+7. pha³³
+8. matày
+9. taːiʔ⁴²
+10. dalam
+11. laːnʔ⁴²
+12. lapùh
+13. phu⁵⁵
+14. pulàn
+15. phlaːn¹¹
+16. pha¹¹
+17. phu⁵⁵
+18. ta³³
+
+Patterns observed:
+- Proto-Chamic *b- often becomes ph- in Tsat
+- Proto-Chamic *d- often becomes t- in Phan Rang Cham and disappears in Tsat
+- Proto-Chamic *l- often disappears in Tsat
+- Tsat often drops initial vowels
+- Tones in Tsat correspond to certain consonant endings in Proto-Chamic and Phan Rang Cham
+
+These solutions demonstrate a systematic approach to analyzing linguistic patterns and reconstructing language relationships in computational linguistics.
