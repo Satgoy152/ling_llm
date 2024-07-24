@@ -1,0 +1,101 @@
+### Solution to Problem 1: Birom Arithmetic Equations
+
+(a) Writing the equalities in numerals based on provided examples and Birom arithmetic rules:
+
+1. **3 + 5 + 6 = 14**
+2. **5 + 6 = 11**
+3. **7 + 10 + 9 = 26**
+4. **10 + 9 = 10**
+5. **6 + 2 + 3 = 11**
+6. **2 + 3 = 14**
+7. **10 + 6 + 5 = 15**
+8. **6 + 5 = 11**
+9. **12 + 20 + 10 + 2 + 3 = 47**
+
+(b) Writing numbers and equalities:
+
+- **bākūrū bītāt = 10**
+- **ʃāāgwīnìŋ = 9**
+- **kūrū = 12**
+  
+Equalities (A) and (B) in numerals:
+- **A: 10 - 5 - 12 + 9 = 15 - 6**
+- **B: 26 - 12 - 5 = 14**
+
+(c) Writing out in Birom:
+- **6 = nààs**
+- **22 = bākūrū bītūŋūn ná vɛ̀ nààs**
+- **97 = kūrū ná vɛ̀ bà bākūrū bībā ná vɛ̀ tùŋūn**
+- **120 = kūrū ná vɛ̀ bà kūrū ná vɛ̀ bà kūrū ná vɛ̀ tùŋūn**
+
+### Solution to Problem 2: Abui Language Analysis
+
+(a) Determining correct correspondences for the Abui words and their translations:
+1. **abang = your (pl.) eyes (k)**
+2. **atáng heya = your (sg.) branch (o)**
+3. **bataa hawata = our pigs’ ears (g)**
+4. **dekafi = his fingertip (a)**
+5. **ebataa hatáng = your (sg.) shoulder (e)**
+6. **ekuda hawata = your (pl.) mother’s hand (f)**
+7. **falepak hawei = your (pl.) sea (q)**
+8. **hatáng hamin = my face (c)**
+9. **helui = n. seashore**
+10. **maama hefalepak = our noses (l)**
+11. **napong = j. trigger**
+12. **rièng = d. one’s own rope**
+13. **ritama = m. his knife**
+14. **riya hatáng = i. your (sg.) horse’s neck**
+15. **tama habang = h. father’s pistol**
+
+(b) Translating provided Abui phrases:
+1. **amin = his nose**
+2. **deya hebataa = your (sg.) father**
+
+(c) Translating into Abui:
+1. **pig = pig**
+2. **your (pl.) knife = ebataa ritama**
+3. **your (sg.) mother’s father = ifoci hefalepak**
+4. **my father’s face = atáng hamin**
+5. **one’s own ear = ritama rièng**
+6. **my sea = amon falepak**
+
+### Solution to Problem 3: Kimbundu Language Translation
+
+(a) Translating into English:
+12. **múlóʒí mwámónà ʒìtéténbwá** = My sorcerer saw the stars.
+13. **ʒìtéténbwá ʒjálà mùdjúlù** = Stars are in the sky.
+14. **ŋgákínà** = I danced.
+15. **djálá djámónà màhónʒò mùlwándá** = The man saw a banana in Luanda.
+
+(b) Translating into Kimbundu:
+16. **ŋgákínà?** = Did I sing?
+17. **múntu mwámónà múlóʒí nà dìkámbá mwámì mùkìtándà** = The person met the sorcerer and the friend in the square.
+18. **djálá mwámónà dìkúŋgú djámí** = My man (husband) saw the cave.
+19. **múlóʒí mwálá mùlwándà** = There are sorcerers in Luanda.
+
+### Solution to Problem 5: Madak Language Translation
+
+(a) Literal translation of "lavatbungmenemen":
+- **lavat = world**
+- **bungmenemen = all/everything/whole**
+- **Literal translation: "the whole world"**
+
+(b) Translating provided Madak words:
+1. **laradi = two words**
+2. **lavatkonuna = two worlds**
+3. **laxantoonan = many spirits**
+4. **levengkatli = many songs**
+5. **loxot = hot coal**
+6. **lubungkavus = group of white men**
+7. **luvaroos = two big vines**
+
+(c) Translating into Madak:
+8. **heart = levempeve**
+9. **gardens = luxan (plural form if specific)**
+10. **many things = laxavus**
+11. **grandchildren = lurubuno (plural form)**
+12. **two parts of day = lualeng**
+13. **branches = loxan (plural form if specific)**
+14. **big branches = lemparoos**
+
+These translations and solutions incorporate an understanding of language structure, numerical expressions, and literal translations based on linguistic data provided for each language.

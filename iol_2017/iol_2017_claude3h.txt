@@ -1,0 +1,105 @@
+Okay, let's solve these computational linguistics problems!
+
+Problem 1:
+
+(a) Writing the equalities in numerals:
+
+1. 81² + 3 + 4 = 121 × 2  
+2. 3 × 4 = 121 × 2 / 3  
+3. 100² + 27 + 3 = 122 × 3 / 4  
+4. 27 × 3 = 121  
+5. 121² + 2 + 81 = 121 × 3 / 4 + 3  
+6. 2 × 81 = 121 × 2  
+7. 27² + 4 + 3 = 120 × 4 / 3  
+8. 4 × 3 = 121 × 4 / 3  
+9. 4 + 27 = 21 + 2 + 81
+
+(b) Writing the numbers and equalities in numerals:
+
+bākūrū bītāt = 123
+ʃāāgwīnìŋ = 27
+kūrū = 1
+
+A. 123 × 2 - 3 - 1 × 27 = 120 × 4 / 3
+B. 122 × 3 / 4 - 1 × 2 - 1 × 3 = 1 × 121
+
+(c) Writing out in Birom:
+
+6 - ʃāātàt
+22 - bākūrū bībā ná vɛ̀ nààs
+97 - bākūrū bītāāmà ná vɛ̀ ʃāātàt
+120 - bākūrū bītūŋūn ná vɛ̀ ʃāātàt
+
+Problem 2:
+
+(a) Matches between the Abui words and their English translations:
+
+1. abang - n
+2. atáng heya - e
+3. bataa hawata - g
+4. dekafi - p
+5. ebataa hatáng - i
+6. ekuda hawata - k
+7. falepak hawei - f
+8. hatáng hamin - a
+9. helui - j
+10. maama hefalepak - c
+11. napong - b
+12. rièng - l
+13. ritama - m
+14. riya hatáng - o
+15. tama habang - d
+16. tamin - h
+17. tefe hawei - q
+
+(b) Translations into English:
+1. amin - your (sg.) thumb
+2. deya hebataa - your (sg.) shoulder
+
+(c) Translations into Abui:
+1. napong - pig
+2. dekafi hewei - your (pl.) knife
+3. maama hetama - your (sg.) mother's father
+4. maama hefalepak - my father's face
+5. tamin - one's own ear
+6. rièng - my sea
+
+Problem 3:
+
+(a) Translations into English:
+
+12. múlóʒí mwámónà ʒìtéténbwá - The sorcerer saw the stars.
+13. ʒìtéténbwá ʒjálà mùdjúlù - The stars are in the sky.
+14. ŋgákínà - I danced.
+15. djálá djámónà màhónʒò mùlwándá - The man saw the bananas in Luanda.
+
+(b) Translations into Kimbundu:
+
+16. ŋgákínà - Did I sing?
+17. djálá djámónà múlóʒí mwámónà dìkámbá mùkìtándà - The person met the sorcerer and the friend in the square.
+18. mùdjúlù mwámónà dìkúŋgú - My man (husband) saw the cave.
+19. málà álá múlóʒí mùlwándà - There are sorcerers in Luanda.
+
+Problem 5:
+
+(a) The literal translation of lavatbungmenemen is "the whole world".
+
+(b) Translations into English:
+
+1. laradi - many men
+2. lavatkonuna - the whole garden
+3. laxantoonan - many vines
+4. levengkatli - many places
+5. loxot - hot coal (ember)
+6. lubungkavus - group of white men
+7. luvaroos - big vines
+
+(c) Translations into Madak:
+
+8. levempeve - heart
+9. loxontaamang - gardens 
+10. laxangkatli - many things
+11. lurubuno - grandchildren
+12. lualeng - two days
+13. luuna - branches
+14. lemparoos - big branches

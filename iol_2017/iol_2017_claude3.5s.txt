@@ -1,0 +1,124 @@
+Thank you for these fascinating linguistics problems. I'll work through each one systematically, providing detailed solutions.
+
+### Problem 1: Birom Arithmetic
+
+(a) Writing the equalities in numerals:
+
+1. 5² + 3 + 4 = 32
+2. 3 × 4 = 24
+3. 6² + 7 + 2 = 45
+4. 7 × 2 = 14
+5. 8² + 1 + 5 = 70
+6. 1 × 5 = 5
+7. 7² + 4 + 3 = 56
+8. 4 × 3 = 24
+9. 14 + 17 = 20 + 1 + 10
+
+(b) Writing numbers and equalities in numerals:
+
+bākūrū bītāt = 30
+ʃāāgwīnìŋ = 12
+kūrū = 10
+
+A. 90 - 3 - 22 = 65
+B. 92 - 11 - 13 = 68
+
+(c) Writing out in Birom:
+
+6 = tìīmìn
+22 = kūrū ná vɛ̀ tùŋūn
+97 = bākūrū bīnāās ná vɛ̀ tàāmà
+120 = bākūrū bītūŋūn
+
+### Problem 2: Abui Words and Word Combinations
+
+(a) Determining the correct correspondences:
+
+1. abang - c. my face
+2. atáng heya - b. your (sg.) branch
+3. bataa hawata - i. your (sg.) horse's neck
+4. dekafi - j. trigger
+5. ebataa hatáng - m. his knife
+6. ekuda hawata - e. your (sg.) shoulder
+7. falepak hawei - p. your (sg.) thumb
+8. hatáng hamin - a. his fingertip
+9. helui - q. your (pl.) sea
+10. maama hefalepak - f. your (pl.) mother's hand
+11. napong - d. one's own rope
+12. rièng - l. our noses (the nose of each of us)
+13. ritama - n. seashore
+14. riya hatáng - h. father's pistol
+15. tama habang - o. upper part of a tree
+16. tamin - k. your (pl.) eyes
+17. tefe hawei - g. our pigs' ears (the ear of the pig of each of us)
+
+(b) Translating into English:
+
+1. amin - your (sg.) nose
+2. deya hebataa - my branch
+
+(c) Translating into Abui:
+
+1. pig - fe
+2. your (pl.) knife - etefe
+3. your (sg.) mother's father - emaama hemai
+4. my father's face - nemaama habang
+5. one's own ear - nawei
+6. my sea - nelui
+
+### Problem 3: Kimbundu Sentences
+
+(a) Translating into English:
+
+12. múlóʒí mwámónà ʒìtéténbwá 
+The sorcerer saw the stars.
+
+13. ʒìtéténbwá ʒjálà mùdjúlù 
+The stars are in the sky. (This is very similar to sentence 4)
+
+14. ŋgákínà 
+I danced.
+
+15. djálá djámónà màhónʒò mùlwándá 
+The man saw the bananas in Luanda.
+
+(b) Translating into Kimbundu:
+
+16. Did I sing?
+ŋgáʃíkà?
+
+17. The person met the sorcerer and the friend in the square.
+mùtú wásáŋgá múlóʒí nì dìkámbá mùkìtándà
+
+18. My man (husband) saw the cave.
+djálá djámì djámónà dìkúŋgù
+
+19. There are sorcerers in Luanda.
+mùlwándà mwálà álóʒí
+
+### Problem 5: Madak Words
+
+(a) Literal translation of lavatbungmenemen:
+"the big round village" (implying the whole world)
+
+(b) Translating into English:
+
+1. laradi - man
+2. lavatkonuna - big tree
+3. laxantoonan - many spirits
+4. levengkatli - eyes
+5. loxot - place
+6. lubungkavus - group of white men
+7. luvaroos - two big vines
+
+(c) Translating into Madak:
+
+8. heart - lempeve
+9. gardens - levengkontaamang
+10. many things - laxavanga
+11. grandchildren - levengkurubuno
+12. two parts of day (two moments) - lualeng
+13. branches - lengkompixan (assuming "branches" is metaphorically related to "songs")
+14. big branches - lempengkompixan
+
+These translations demonstrate the complex morphological structure of Madak, including its number system and classifiers.

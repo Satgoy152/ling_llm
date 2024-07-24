@@ -1,3 +1,5 @@
+Prompt: As an expert in computational linguistics solve the following problem:
+
 ### Problem 1 (20 points)
 
 Here are some arithmetic equalities in Birom:
@@ -144,36 +146,7 @@ Did the people eat the banana in Luanda?
 w=winwin. j=yinyum. ʃ and ʒ are consonants. The marks ˊ and ˋ indicate high and low tone, respectively. —Bruno L’Astorina
 
 * * *
-### Problem 4 (20 points)
 
-Here are some word combinations in Laven written in the Khom script and in phonetic transcription and their English translations:
-
-| Laven (Khom script)      | Laven (phonetic) | Translation                        |
-|--------------------------|------------------|------------------------------------|
-|                          | praj trie        | to wake up the wife                |
-|                          | caːk caj         | from the heart/mind/soul           |
-| ?                        | taw bɛː           | to see the raft                    |
-|                          | krɨət blaw       | to scratch the thigh               |
-|                          | plaj prɨət       | banana                             |
-| ?                        | ?                 | three bananas                      |
-| ?                        | ?                 | six rhinoceros                     |
-| ?                        | ?                 | four hands of bananas              |
-| ?                        | ?                 |                                    |
-| ?                        | cie pʌh laː       | seven sheets of paper              |
-| ?                        | ?                 | aubergine/eggplant leaf            |
-| ?                        | ?                 | two aubergines/eggplants           |
-|                          | plaj hnat pʌh plaj| seven pineapples                   |
-|                          | kruat pɛː toː     | three bees                         |
-|                          | laː prɨət traw laː|                                    |
-| ?                        | kəːr bəːr toː     | two doves                          |
-|                          | blaːk puan kaː    | four carp                          |
-|                          | piet traw plaː    | six knives                         |
-| ?                        | bəːr kaː           |                                    |
-| ?                        | ?                 | four blades                        |
-
-Fill in the cells with the question marks (you don’t have to fill in the shaded ones).
-
-* * *
 ### Problem 5 (20 points)
 
 Here are some words in Madak and their English translations:

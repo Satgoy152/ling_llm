@@ -1,0 +1,125 @@
+Here are my solutions to the problems:
+
+Problem 1:
+
+(a) Equalities in numerals:
+1. 6² + 3 + 4 = 43 
+2. 3 × 4 = 12
+3. 5² + 7 + 8 = 40
+4. 7 × 8 = 56 
+5. 2² + 1 + 6 = 11
+6. 1 × 6 = 6
+7. 7² + 4 + 3 = 56
+8. 4 × 3 = 12
+9. 24 + 27 = 35 + 1 + 15
+
+(b) Numbers and equalities in numerals:
+bākūrū bītāt = 35  
+ʃāāgwīnìŋ = 56
+kūrū = 20
+A. 105 - 3 - 18 = 84
+B. 89 - 21 - 23 = 45  
+
+(c) Numbers in Birom:
+6 = bà tùŋūn
+22 = bākūrū bībā ná vɛ̀ rwīīt
+97 = bākūrū bīnāās ná vɛ̀ ʃāāgwīnìŋ rwīīt
+120 = bākūrū ʃāābītāt
+
+Numbers in Birom:
+1 to 7: rwīīt, bà, tàt, nààs, tàāmà, tùŋūn, ʃāātàt
+8 = gwīnìŋ
+Multiples of 20: kūrū, bākūrū bībā (40), bākūrū bītāt (60), bākūrū bīnāās (80), bākūrū ʃāābītāt (100), kūrū ná vɛ̀ rwīīt (21), etc.
+ná vɛ̀ = "and"
+ná gwɛ̄ = "less" (lit. "and it lacks")
+
+Problem 2:
+
+(a) Correspondences:
+1l, 2o, 3n, 4m, 5p, 6i, 7j, 8a, 9b, 10f, 11e, 12c, 13k, 14g, 15h, 16d, 17q
+
+(b) Translations to English:
+1. amin - your (pl.) nose
+2. deya hebataa - my tree branch
+
+(c) Translations to Abui: 
+1. fe
+2. rimin 
+3. emaama hetatang
+4. maama niya
+5. hekuda hewei
+6. niya
+
+Abui possessive constructions:
+- Inalienable nouns (body parts) directly take possessive prefixes: 
+  na- "my", a- "his/her", e- "your (sg)", ri- "our", i- "your (pl)"  
+- Alienable nouns use independent possessive words:
+  nefe "my", efe "your (sg)", hefe "his/her", nife "our", ife "your (pl)"
+  Possessed noun is prefixed with he-.
+- Recursive possession: possessed noun is treated as inalienable.
+
+Problem 3:
+
+(a) Translations to English:
+12. The sorcerer saw the stars.
+13. There are stars in the sky.
+14. I danced.  
+15. The man saw the bananas in Luanda.
+
+(b) Translations to Kimbundu:
+16. ŋgáʃíkà? / ŋgáʃíkà nì?  
+17. mútù wásáŋgá múlóʒì nì dìkámbá múkìtándà.
+18. djálá djámí djámónà dìkúŋgù. 
+19. mùlwándá mwálà álóʒì. / álóʒì álà mùlwándà.
+
+Key observations:
+- SVO word order
+- Nouns have noun class prefixes agreeing with modifiers:
+  dì- and mù- for singular, à- and mà- for plural
+- Verbs agree with the subject in noun class: ŋgá- for 1sg, á- for class 1 plural, mú- for class 1 singular, etc. 
+- Yes/no questions have same word order as statements
+- Locative phrases use mù- "in" 
+- Conjunctions: nì "and", mù "in, on"
+- Genitive: N1 of N2 = N2 N1-ámì, where N1 takes the possessive suffix -ámì "my"
+
+Problem 5:
+
+(a) Literal translation of lavatbungmenemen: "the collection of all villages"
+
+la-vat-bung-menemen
+PLURAL-big-collection-village
+
+(b) Translations to English:
+1. laradi - men, people
+2. lavatkonuna - many big spirits
+3. laxantoonan - many spirits
+4. levengkatli - eyes  
+5. loxot - part of a place
+6. lubungkavus - group of white men
+7. luvaroos - two big vines
+
+(c) Translations to Madak:
+8. peve
+9. lataamang
+10. lavanga
+11. lurubuno
+12. luxaleng
+13. luuna
+14. lemparuuna
+
+Observations:
+- Plural prefixes:
+  la- general plural 
+  lu- dual/paucal (two, a few)
+  le- plural for some nouns
+- Derivational suffixes:
+  -ves "heart" → "seat of emotions"
+  -tli "eye" → "eye-like, round part"
+  -na "tree" → "long object"
+- Compounds: 
+  xao "fire" + xongkao "coal"
+  vat "big" + bung "collection" + menemen "village"
+- Reduplication expresses diversity:
+  luuna "tree" → laruuna "trees, forest"
+
+These problems demonstrate various morphological processes and grammatical features in languages from different families. Let me know if you have any other questions!

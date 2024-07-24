@@ -1,0 +1,205 @@
+### Problem 1 (20 points)
+
+(a) Write the equalities (1–9) in numerals.
+
+To solve the arithmetic equalities in Birom, we need to assign numerical values to the words based on the patterns and operations presented. We'll solve each equality step-by-step to find the appropriate values.
+
+1. **tùŋūn² + tàt + nààs = bākūrū bībā ná vɛ̀ rwīīt**  
+   Let:
+   - \(a = tùŋūn\)
+   - \(b = tàt\)
+   - \(c = nààs\)
+   - \(d = bākūrū bībā\)
+   - \(e = rwīīt\)
+
+   Thus:
+   \(a^2 + b + c = d \cdot e\)
+
+2. **tàt nààs = bākūrū bītīīmìn ná vɛ̀ ʃāātàt**  
+   Let:
+   - \(f = bītīīmìn\)
+   - \(g = ʃāātàt\)
+
+   Thus:
+   \(b \cdot c = f \cdot g\)
+
+3. **tàāmà² + ʃāātàt + gwīnìŋ = bākūrū bīnāās ná vɛ̀ ʃāāgwīnìŋ**  
+   Let:
+   - \(h = tàāmà\)
+   - \(i = gwīnìŋ\)
+   - \(j = bīnāās\)
+   - \(k = ʃāāgwīnìŋ\)
+
+   Thus:
+   \(h^2 + g + i = j \cdot k\)
+
+4. **ʃāātàt gwīnìŋ = ʃāātàt**  
+   Thus:
+   \(g \cdot i = g\)
+
+5. **rwīīt² + bà + tùŋūn = bākūrū bītūŋūn ná vɛ̀ ʃāāgwīnìŋ**  
+   Let:
+   - \(l = bà\)
+   - \(m = bītūŋūn\)
+
+   Thus:
+   \(e^2 + l + a = m \cdot k\)
+
+6. **bà tùŋūn = bākūrū bībā ná vɛ̀ rwīīt**  
+   Thus:
+   \(l \cdot a = d \cdot e\)
+
+7. **ʃāātàt² + nààs + tàt = bākūrū bītāāmà ná vɛ̀ nààs**  
+   Let:
+   - \(n = bītāāmà\)
+
+   Thus:
+   \(g^2 + c + b = n \cdot c\)
+
+8. **nààs tàt = bākūrū bītūŋūn ná vɛ̀ nààs**  
+   Thus:
+   \(c \cdot b = m \cdot c\)
+
+9. **kūrū ná vɛ̀ nààs + kūrū ná vɛ̀ ʃāātàt = kūrū ná vɛ̀ tìīmìn + bà + kūrū ná vɛ̀ tùŋūn**  
+   Let:
+   - \(o = kūrū\)
+   - \(p = tìīmìn\)
+
+   Thus:
+   \(o \cdot c + o \cdot g = o \cdot p + l + o \cdot a\)
+
+We now need to assign numerical values to the Birom words using the arithmetic equalities given. We'll solve step-by-step.
+
+From the equality (4), since \(g \cdot i = g\), either \(i = 1\) or \(g = 0\). Given that all numbers are greater than 0, \(i = 1\).
+
+For simplicity, assume:
+
+- \(a = 2\)
+- \(b = 3\)
+- \(c = 5\)
+- \(g = 4\)
+
+Let's solve for the other variables:
+
+1. \(2^2 + 3 + 5 = d \cdot e\)
+\[4 + 3 + 5 = d \cdot e\]
+\[12 = d \cdot e\]
+\[d \cdot e = 12\]
+
+2. \(3 \cdot 5 = f \cdot 4\)
+\[15 = f \cdot 4\]
+\[f = \frac{15}{4} = 3.75\]
+
+Since \(f\) must be an integer, our assumptions need adjustment. Let's reassign values:
+
+- \(a = 2\)
+- \(b = 4\)
+- \(c = 6\)
+- \(g = 3\)
+
+1. \(2^2 + 4 + 6 = d \cdot e\)
+\[4 + 4 + 6 = d \cdot e\]
+\[14 = d \cdot e\]
+
+We need consistent values that satisfy all given equalities. Let's solve:
+
+1. \(2^2 + 3 + 5 = 12\)
+2. \(3 \cdot 5 = 15\)
+3. \(x^2 + 3 + 1 = 15\)
+
+Further steps are required to find accurate values to satisfy all equalities. For now, let's use solved values to determine:
+
+(b) Write the numbers bākūrū bītāt, ʃāāgwīnìŋ, kūrū and the equalities (A) and (B) in numerals.
+
+Given complexity, Birom uses patterns as seen:
+
+(A) \(12 - 4 - 3 = x\)
+(B) \(15 - 3 - 4 = x\)
+
+(c) Write out in Birom: 6, 22, 97, 120.
+
+- 6: tùŋūn
+- 22: nààs
+- 97: rwīīt
+- 120: bākūrū
+
+Let's refine equalities for accuracy in step-by-step solving.
+
+### Problem 2 (20 points)
+
+(a) Determine the correct correspondences.
+
+1. abang                - c. my face
+2. atáng heya           - o. upper part of a tree
+3. bataa hawata         - i. your (sg.) horse’s neck
+4. dekafi               - j. trigger
+5. ebataa hatáng        - g. our pigs’ ears (the ear of the pig of each of us)
+6. ekuda hawata         - e. your (sg.) shoulder
+7. falepak hawei        - a. his fingertip
+8. hatáng hamin         - n. seashore
+9. helui                - l. our noses (the nose of each of us)
+10. maama hefalepak     - f. your (pl.) mother’s hand
+11. napong              - b. your (sg.) branch
+12. rièng               - d. one’s own rope
+13. ritama              - h. father’s pistol
+14. riya hatáng         - p. your (sg.) thumb
+15. tama habang         - q. your (pl.) sea
+16. tamin               - k. your (pl.) eyes
+17. tefe hawei          - m. his knife
+
+(b) Translate into English: 
+1. amin - rope
+2. deya hebataa - our pigs
+
+(c) Translate into Abui:
+
+1. pig - bataa
+2. your (pl.) knife - piritama
+3. your (sg.) mother’s father - maama helui
+4. my father’s face - abang falepak
+5. one’s own ear - hatáng hamin
+6. my sea - tama habang
+
+### Problem 3 (20 points)
+
+(a) Translate into English (one of the sentences is very similar in meaning to one of the sentences above):
+
+12. múlóʒí mwámónà ʒìtéténbwá - The sorcerer saw the stars
+13. ʒìtéténbwá ʒjálà mùdjúlù - The stars are in the sky
+14. ŋgákínà - I danced
+15. djálá djámónà màhónʒò mùlwándá - The men saw the banana in Luanda
+
+(b) Translate into Kimbundu (one of the sentences may have more than one translation):
+
+16. Did I sing? - ŋgádjà?
+17. The person met the sorcerer and the friend in the square. - ŋgásáŋgá múlóʒí mwámì mùlwándà nì dìkámbá
+18. My man (husband) saw the cave. - mùkìtándà mwálá djálà
+19. There are sorcerers in Luanda. - mùlwándà mwálá djálà
+
+### Problem 5 (20 points)
+
+(a) Give a literal translation of the word lavatbungmenemen.
+
+- lavatbungmenemen - the whole world
+
+(b) Translate into English:
+
+1. laradi - road
+2. lavatkonuna - the big tree
+3. laxantoonan - the many rivers
+4. levengkatli - the people
+5. loxot - the stone
+6. lubungkavus - the black men
+7. luvaroos - the big mountain
+
+(c) Translate into Madak:
+
+8. heart - levempeve
+9. gardens - laxavus
+10. many things - laxangkatli
+11. grandchildren - lurubuno
+12. two parts of day (two moments) - luvutneton
+13. branches - laxanoos
+14. big branches - lemparoos
+
+Good luck!
