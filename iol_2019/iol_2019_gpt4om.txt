@@ -1,0 +1,220 @@
+### Problem 1 (20 points)
+
+**(a) Translate into English:**
+
+12. Om benu aneen.  
+He takes the bread and eats it.
+
+13. Munuuna wunuub.  
+We will come and sing.
+
+14. Wingkiiwa wengamburuun.  
+I sing and he goes away.
+
+15. Anon ye weng wengamberenib yeedaraniib.  
+We will hear the pig and she will get up and come.
+
+16. Oon wedmaniina karub wedmaneeb.  
+She saw the man and the dog and drank the water.
+
+17. Ok wedmeena aniin.  
+I saw the fish and drank the water.
+
+**(b) Translate into Yonggom:**
+
+18. We will go away and they will come.  
+Wenenub wingkenuub.
+
+19. I take the pig and he takes the fish.  
+Meneni karuwa awon.
+
+20. He saw the water and the house and heard the dog.  
+Ambib wedmoona anona ye weng wengambaranuuwa.
+
+21. You(sg) eat the bread and sing.  
+Wingkeewa om.
+
+---
+
+### Problem 2 (20 points)
+
+**(a) Determine the correct correspondences:**
+
+1. muencherh rohkuen - E. brown shoe  
+2. perkeryerh holeehl ʼwernerh - O. black shirt  
+3. muencherh nerhpery - A. brown dog  
+4. sʼerkterʼery chʼeeshah - G. white ball  
+5. muencharʼ pyaapʼ - C. black bear  
+6. pekoyarʼ tepoo - I. white chair  
+7. luuehlsonʼ nerhpery - H. white manzanita bush  
+8. muenchey cheekʼwar - L. grass-green shirt  
+9. muenterʼery chʼeeshah - K. red tree  
+10. lerʼergery cherʼery - F. white dog  
+11. ʼerrwerhsonʼ slekwoh - M. red hazelnut  
+12. muenterʼery puuek - N. purple berry  
+13. loʼogey slekwoh - J. orange bear  
+14. sʼoktoy noʼoy - D. white berry  
+15. ʼwerʼerrgerchsonʼ cherʼery - B. black shoe  
+16. loʼogey noʼoy - P. white deer  
+17. tegeeʼn nerhpery - Q. blue ball  
+
+**(b) Determine the correct correspondences:**
+
+19. muencherhl - S. canary  
+20. ʼwerʼerrgerch - T. coffee bean  
+21. luuehl - U. blood  
+22. lerʼergerh - V. milk  
+23. pekoyek - W. alder tree  
+24. skoyon - X. wild iris  
+25. tegeeʼn - Y. sky  
+
+**(c) Translate into English:**
+
+26. ʼerrwerh  
+Black  
+
+27. lerʼergerh rohkuen  
+Milk brown  
+
+28. perkeryerʼery chʼeeshah  
+Red berry  
+
+29. pyerrpʼtʼery chʼeeshah  
+Purple berry  
+
+**(d) Translate into Yurok:**
+
+30. purple deer  
+sʼoktoy noʼoy  
+
+31. white shoe  
+perkeryerh holeehl ʼwernerh  
+
+32. yellow ball  
+skoyon  
+
+33. black tree  
+ʼwerʼerrgerchsonʼ cherʼery  
+
+---
+### Problem 3
+
+(a) Match each word above with its scientific transliteration and transcription:
+
+| Book Pahlavi | Scientific Transliteration | Transcription | English Translation |
+|--------------|----------------------------|---------------|---------------------|
+| A. n%ss      | nēss                       | nēs           | priest              |
+| B. n%ZnZ     | nēzān                      | nezān         | black               |
+| C. nnnI      | nēnī                       | nēnī          | blood               |
+| D. ntnbLb    | natīb                      | natīb         | lyre                |
+| E. nnnLIIA   | nēnīlīā                    | nēnīlīā       | sister              |
+| F. RDXn      | rādīx                      | rādx          | smoke               |
+| G. DSMi      | dast                      | dast          | grass               |
+| H. nTlnbMZnA | natāb mīzānā               | natāb mīzānā  | four                |
+| I. n%sYMA    | nēzāy mā                   | nezāy mā      | color               |
+| J. nnInI     | nēnīni                     | nēnīni        | thief               |
+| K. abLA      | ābā                        | ābā           | queen               |
+| L. n%A       | nā                         | nā            | thou                |
+| M. DfLnZA    | dūzdān                     | dūzdān        | hair                |
+| N. nknIcnL   | nēkīn                      | nekīn         | always              |
+| O. at%Lx     | atāx                      | atāx          | sun                 |
+| P. nTlknI    | natīkīn                    | natīkīn       | wormwood            |
+| Q. nntnngfkn | natānīngēdān               | natānīngēdān  | emerald             |
+| R. n%ATfnI   | nēzāfīn                    | nezāfīn       | warm, hot           |
+| S. ntnI      | natīn                      | natīn         | hedgehog            |
+| T. n%HrI     | nēhrī                      | nehrī         | spring (season)     |
+| U. $         | ān                           | ān            | day                 |
+| V. inG       | inā                        | inā           | earth, dust         |
+| W. nnTefnDlW | nēnīḥīfānī                  | nēnīḥīfānī    | medicinal plant     |
+| X. aLPX      | ālpū                      | ālpū          | circle, hoop        |
+| Y. hTeX      | hīt                         | hīt           | two days            |
+| Z. %L        | māl                        | māl           | two                 |
+| AA. n%LnL    | nālīn                      | nālīn         | two big hearts      |
+| BB. nnIPl    | nēnīpāli                   | nēnīpāli      | big vines           |
+| CC. DeF      | dāng                      | dāng          | songs               |
+| DD. LAPXn    | lāh                      | lāh           | large               |
+
+(b) In Book Pahlavi, the Middle Persian word "n%sYMA" is usually written with a certain graphic peculiarity: "n%sYMA" often appears with a final "A" for phonetic completeness.
+
+(c) Identify the alternative spellings and their scientific transliterations:
+
+| Book Pahlavi | Scientific Transliteration |
+|--------------|----------------------------|
+| EE. nnsbnAb  | nēss bānī                  |
+| FF. LDXc     | laxar                       |
+| GG. rt       | rād                         |
+| HH. n%DX     | nēzdīn                      |
+| II. nnnA     | nēnīā                       |
+| JJ. nknA     | nēkān                      |
+
+(d) Write in the Book Pahlavi script:
+
+| Middle Persian | Book Pahlavi |
+|----------------|--------------|
+| KK. DKRA       | 𐭠𐭢𐭣𐭥   |
+| LL. dlwnd      | 𐭣𐭮𐭵𐭧  |
+| MM. stwl       | 𐭯𐭪𐭥    |
+| NN. cmbl       | 𐭧𐭥𐭪𐭧   |
+
+---
+
+### Problem 4 (20 points)
+
+**Fill in the gaps:**
+
+| West Tarangan  | English Translation | North Dialect    | Coast Dialect   |
+|----------------|---------------------|------------------|-----------------|
+| ɛtaleŋa        | he hears            | ɛtaletaleŋa      | ɛtaleŋa         |
+| jaga           | to guard            | jagajaga         | jagajaga        |
+| gasírana       | she is old          | gasírangasírana  | gasírana        |
+| daramota       | they vomit          | daramodaramota   | daramotadaramota|
+| pɔwna          | he is smelly        | pɔwpɔwna         | pɔwapɔwna       |
+| ɛrtɔpa         | he washes           | ɛrtɔpɛrtɔpa      | ɛrtɔpɛrtɔpa     |
+| dabuka         | they dream          | dabukadabuka     | dabukadabuka    |
+| ŋuŋim          | it is damp          | ŋuŋiŋuŋim        | ŋuŋiŋuŋim       |
+| igɔ́ŋ           | he sells            | igɔ́ngɔ́ŋ         | igɔ́ngɔ́ŋ        |
+
+---
+
+### Problem 5 (20 points)
+
+**(a) Translate into English:**
+
+16. bvúsɔ̀w nǔ fɔ̀ shě ntfǔː.  
+On Bvusɔw, the day after tomorrow was Bvutfu.
+
+17. me nú ŋgéː nyɛ́n kèŋkfǔ lé ɛ̀bɛ̀n.  
+Today, I heard the yam and the market.
+
+18. wvù tɔ̀ nɔ̂ː yɛ᷅n bèsèn ě bvúmbòn.  
+He saw the thief and the man on Bvumbon.
+
+19. bèsèn nǔ bóy tɔ́ fɔ̀wǎy bvúzhı ᷇ː de᷆n.  
+The thief will steal the yam just now on Bvuŋkaden.
+
+**(b) The first day of the Nooni week is Bvutfu. What is the order of the Nooni days?**
+
+1. Bvutfu  
+2. Bvumbon  
+3. Bvusɔw  
+4. Bvuzhi  
+5. Bvuŋkaden  
+6. Bvuŋka  
+7. Bvukema  
+
+**(c) Translate into Nooni:**
+
+20. On Bvusɔw, I helped the man.  
+me ncí nɔ̂ː ntɔ᷅ fɔ̀wǎy Bvusɔw.
+
+21. The thief stole the yam just now.  
+wɔ̀ tɔ̀ nɔ̂ː yo᷅w cɔ̌ŋ.
+
+22. On Bvuŋkaden, I will hear the car.  
+me nú ŋgéː nyɛ́n kèŋkfǔ Bvuŋkaden.
+
+23. Today, the woman will kill the man.  
+wvù tɔ̀ nɔ̂ː yo᷅w cɔ̌ŋ.
+
+24. Today, the man saw you(sg).  
+fɔ̀ shě ntfǔː nú Bvusɔw.

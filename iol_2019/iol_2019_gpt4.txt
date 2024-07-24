@@ -1,0 +1,157 @@
+### Solution to Problem 1: Yonggom Language Translation
+
+(a) Translate into English:
+
+12. **Om benu aneen.** - He takes the bread and eats it.
+13. **Munuuna wunuub.** - They go away.
+14. **Wingkiiwa wengamburuun.** - You(sg) sing and I hear.
+15. **Anon ye weng wengamberenib yeedaraniib.** - We will hear the dog and we will get up.
+16. **Oon wedmaniina karub wedmaneeb.** - I saw the fish and I saw the man.
+17. **Ok wedmeena aniin.** - I saw the fish and drank.
+
+(b) Translate into Yonggom:
+
+18. **Wenenub miniib.** - We will go away and they will come.
+19. **Ambib baan ok anaana baan.** - I take the pig and he takes the fish.
+20. **Ambib wedmoona om bene wedmoona anon ye weng wengamburuun.** - He saw the water and the house and heard the dog.
+21. **Oma bene wingkanuub.** - You(sg) eat the bread and sing.
+
+### Solution to Problem 2: Yurok Language Analysis
+
+(a) Determining correct correspondences:
+- 1. muencherh rohkuen - A. brown dog
+- 2. perkeryerh holeehl ʼwernerh - B. black shoe
+- 3. muencherh nerhpery - C. black bear
+- 4. sʼerkterʼery chʼeeshah - D. white berry
+- 5. muencharʼ pyaapʼ - E. brown shoe
+- 6. pekoyarʼ tepoo - F. white dog
+- 7. luuehlsonʼ nerhpery - G. white ball
+- 8. muenchey cheekʼwar - H. white manzanita bush
+- 9. muenterʼery chʼeeshah - I. white chair
+- 10. lerʼergery cherʼery - J. orange bear
+- 11. ʼerrwerhsonʼ slekwoh - K. red tree
+- 12. muenterʼery puuek - L. grass-green shirt
+- 13. loʼogey slekwoh - M. red hazelnut
+- 14. sʼoktoy noʼoy - N. purple berry
+- 15. ʼwerʼerrgerchsonʼ cherʼery - O. black shirt
+- 16. loʼogey noʼoy - P. white deer
+- 17. tegeeʼn nerhpery - Q. blue ball
+- 18. skoyon rohkuen - R. yellow berry
+
+(b) Determining correct correspondences for the next set:
+- 19. muencherhl - S. canary
+- 20. ʼwerʼerrgerch - T. coffee bean
+- 21. luuehl - U. blood
+- 22. lerʼergerh - V. milk
+- 23. pekoyek - W. alder tree
+- 24. skoyon - X. wild iris
+- 25. tegeeʼn - Y. sky
+
+(c) Translate into English:
+- 26. ʼerrwerh - red
+- 27. lerʼergerh rohkuen - orange dog
+- 28. perkeryerʼery chʼeeshah - black berry
+- 29. pyerrpʼtʼery chʼeeshah - unknown, but likely some form of berry 
+
+(d) Translate into Yurok:
+- 30. sʼoktoy noʼoy - purple deer
+- 31. perkeryerh holeehl ʼwernerh - white shoe
+- 32. skoyon nerhpery - yellow ball
+- 33. ʼerrwerhsonʼ slekwoh - black tree
+
+### Solution to Problem 3: Middle Persian Language
+
+(a) Matching each Book Pahlavi word with its scientific transliteration and transcription:
+
+1. **A. n%ss** -> **Scientific Transliteration**: nhs -> **Transcription**: nahs (meaning: "man")
+2. **B. n%ZnZ** -> **Scientific Transliteration**: nznz -> **Transcription**: nazan (meaning: "know")
+3. **C. nnnI** -> **Scientific Transliteration**: nnn' -> **Transcription**: nēnē (meaning: "grandmother")
+4. **D. ntnbLb** -> **Scientific Transliteration**: ntnblb -> **Transcription**: natanbal (meaning: "carry")
+5. **E. nnnLIIA** -> **Scientific Transliteration**: nnnly' -> **Transcription**: nēnālya (meaning: "descendants")
+6. **F. RDXn** -> **Scientific Transliteration**: rdẖn -> **Transcription**: radhan (meaning: "satisfaction")
+7. **G. DSMi** -> **Scientific Transliteration**: dsm' -> **Transcription**: dasēm (meaning: "religious law")
+8. **H. nTlnbMZnA** -> **Scientific Transliteration**: ntlnbmẓn' -> **Transcription**: natalunbamazan (meaning: "protector")
+9. **I. n%sYMA** -> **Scientific Transliteration**: nsym' -> **Transcription**: nasīma (meaning: "breeze")
+10. **J. nnInI** -> **Scientific Transliteration**: nn'n' -> **Transcription**: nēnēn (meaning: "grandmothers")
+11. **K. abLA** -> **Scientific Transliteration**: abla -> **Transcription**: aplā (meaning: "water")
+12. **L. n%A** -> **Scientific Transliteration**: na' -> **Transcription**: nā (meaning: "no")
+13. **M. DfLnZA** -> **Scientific Transliteration**: dfnẓ' -> **Transcription**: dafinzā (meaning: "burial")
+14. **N. nknIcnL** -> **Scientific Transliteration**: nkncnl -> **Transcription**: nakānīchanal (meaning: "deceit")
+15. **O. at%Lx** -> **Scientific Transliteration**: atlx -> **Transcription**: atalakh (meaning: "fast")
+16. **P. nTlknI** -> **Scientific Transliteration**: ntlkn' -> **Transcription**: natalkan (meaning: "speaker")
+17. **Q. nntnngfkn** -> **Scientific Transliteration**: nntngfkn -> **Transcription**: nantānagafkan (meaning: "spread out")
+18. **R. n%ATfnI** -> **Scientific Transliteration**: naẖẗfn' -> **Transcription**: nāxātphan (meaning: "written")
+19. **S. ntnI** -> **Scientific Transliteration**: ntn' -> **Transcription**: natan (meaning: "given")
+20. **T. n%HrI** -> **Scientific Transliteration**: nhr' -> **Transcription**: nāhar (meaning: "day")
+21. **U. $** -> **Scientific Transliteration**: š -> **Transcription**: sh (symbolic representation for "and")
+22. **V. inG** -> **Scientific Transliteration**: yng -> **Transcription**: yang (meaning: "battle")
+23. **W. nnTefnDlW** -> **Scientific Transliteration**: nntfndlẃ -> **Transcription**: nantafandalāw (meaning: "reconciliation")
+24. **X. aLPX** -> **Scientific Transliteration**: alpx -> **Transcription**: alpakh (meaning: "hero")
+25. **Y. hTeX** -> **Scientific Transliteration**: hẗẹẖ -> **Transcription**: hēth (meaning: "sin")
+26. **Z. %L** -> **Scientific Transliteration**: l' -> **Transcription**: la (meaning: "to")
+27. **AA. n%LnL** -> **Scientific Transliteration**: nlnl -> **Transcription**: nalanal (meaning: "flow")
+28. **BB. nnIPl** -> **Scientific Transliteration**: n'npl -> **Transcription**: nēnpal (meaning: "palm")
+29. **CC. DeF** -> **Scientific Transliteration**: dẹf -> **Transcription**: daif (meaning: "weak")
+30. **DD. LAPXn** -> **Scientific Transliteration**: lapẖn -> **Transcription**: laphan (meaning: "scribe")
+
+(b) The word in Book Pahlavi with a graphic peculiarity:
+- **bākūrū bītāt** = 10 -> Unusual in that it employs a numeral abbreviation, unique among the listings.
+
+(c) Matching the alternative spellings:
+- **EE. nnsbnAb** = nsnb' (meaning: "to forget")
+- **FF. LDXc** = ldxẖ (meaning: "to claim")
+- **GG. rt** = rt (meaning: "road")
+- **HH. n%DX** = ndẖ (meaning: "to place")
+- **II. nnnA** = nnn' (meaning: "years")
+- **JJ. nknA** = nkna (meaning: "home")
+
+(d) Writing in the Book Pahlavi script:
+- **KK. DKRA** -> ![ʾdkr'] (meaning: "record")
+- **LL. dlwnd** -> ![dlwnd'] (meaning: "to turn")
+- **MM. stwl** -> ![stwl'] (meaning: "to stay")
+- **NN. cmbl** -> ![cmlb'] (meaning: "assemble")
+
+This response offers an example of complex transliteration and transcription tasks, involving detailed analysis of Middle Persian script and rendering into Roman characters using both scientific and phonetic systems.
+
+### Solution to Problem 4: West Tarangan Reduplication
+
+Fill in the gaps:
+
+| West Tarangan  | English Translation | North Dialect       | Coast Dialect      |
+|----------------|---------------------|---------------------|--------------------|
+| ɛtaleŋa        | he hears            | ɛtɛlɛtaleŋa         | ɛtalelɛŋa          |
+| jaga           | to guard            | jajaga              | jagajaga           |
+| gasírana       | she is old          | gasgasírana         | gasiragasírana     |
+| daramota       | they vomit          | daradaramota        | daramodaramota     |
+| pɔwna          | he is smelly        | pɔwpɔwna            | pɔwapɔwna          |
+| ɛrtɔpa         | he washes           | ɛrtɛrtɔpa           | ɛrtɔpɛrtɔpa        |
+| dabuka         | they dream          | dadabuka            | dabukabuka         |
+| ŋuŋim          | it is damp          | ŋuŋŋuŋim            | ŋuŋimuŋim          |
+| igɔ́ŋ           | he sells            | igigɔ́ŋ              | igɔ́ŋigɔ́ŋ          |
+
+### Solution to Problem 5: Nooni Language Translation
+
+(a) Translate into English:
+- 16. **bvúsɔ̀w nǔ fɔ̀ shě ntfǔː.** - The day after Bvusɔw is tomorrow.
+- 17. **me nú ŋgéː nyɛ́n kèŋkfǔ lé ɛ̀bɛ̀n.** - Today, I will help you(sg) catch the yam.
+- 18. **wvù tɔ̀ nɔ̂ː yɛ᷅n bèsèn ě bvúmbòn.** - He saw them steal at the market.
+- 19. **bèsèn nǔ bóy tɔ́ fɔ̀wǎy bvúzhı ᷇ː de᷆n.** - They will help at the market on Bvuzhi.
+
+(b) Order of the Nooni days:
+
+- Bvutfu
+- Bvumbon
+- Bvusɔw
+- Bvuzhi
+- Bvuŋka
+- Bvuŋkaden
+
+(c) Translate into Nooni:
+
+- 20. **kwɔ᷆ːn nǔ bóy me dìɛ̀msɛ̌n bvúsɔ̀w.** - On Bvusɔw, I helped the man.
+- 21. **bèsèn nǔ cɔ̌ŋ kèŋkfǔ fɔ̀wǎy.** - The thief stole the yam just now.
+- 22. **me nú nfí yɛ́n mutù bvûŋka᷆ːde᷆n.** - On Bvuŋkaden, I will hear the car.
+- 23. **kwɔ᷆ːn cǐ nɔ̂ː ɛ̀bɛ̀n yo᷅ wvù lé.** - Today, the woman will kill the man.
+- 24. **me nú nfí dìɛ̀msɛ̌n yɛ́n wvù.** - Today, the man saw you(sg).
+
+These solutions encompass a diverse range of linguistic structures and cultural contexts, providing accurate translations based on the lexical and grammatical information available for each language.

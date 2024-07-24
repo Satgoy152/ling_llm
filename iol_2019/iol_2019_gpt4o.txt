@@ -1,0 +1,333 @@
+### Problem 1 (20 points)
+
+(a) Translate into English:
+
+12. Om benu aneen.  
+- He takes the bread and eats it.
+
+13. Munuuna wunuub.  
+- They go away and come.
+
+14. Wingkiiwa wengamburuun.  
+- You (sg) will hear and sing.
+
+15. Anon ye weng wengamberenib yeedaraniib.  
+- We hear the dog and they get up.
+
+16. Oon wedmaniina karub wedmaneeb.  
+- She will see the fish and the man will see.
+
+17. Ok wedmeena aniin.  
+- I saw the water and he drank.
+
+(b) Translate into Yonggom:
+
+18. We will go away and they will come.  
+- Wenenub munuuna wunuub.
+
+19. I take the pig and he takes the fish.  
+- Awon ben anuun oon ben.
+
+20. He saw the water and the house and heard the dog.  
+- Ok wedmoona ambib ye weng wengambaranuuwa.
+
+21. You(sg) eat the bread and sing.  
+- Om an wingkiiwa.
+
+### Problem 2 (20 points)
+
+(a) Determine the correct correspondences:
+
+1. muencherh rohkuen        - E. brown shoe
+2. perkeryerh holeehl ʼwernerh - B. black shoe
+3. muencherh nerhpery       - C. black bear
+4. sʼerkterʼery chʼeeshah    - D. white berry
+5. muencharʼ pyaapʼ         - A. brown dog
+6. pekoyarʼ tepoo           - H. white manzanita bush
+7. luuehlsonʼ nerhpery      - G. white ball
+8. muenchey cheekʼwar       - I. white chair
+9. muenterʼery chʼeeshah    - D. white berry
+10. lerʼergery cherʼery     - F. white dog
+11. ʼerrwerhsonʼ slekwoh    - M. red hazelnut
+12. muenterʼery puuek       - L. grass-green shirt
+13. loʼogey slekwoh         - M. red hazelnut
+14. sʼoktoy noʼoy           - N. purple berry
+15. ʼwerʼerrgerchsonʼ cherʼery - O. black shirt
+16. loʼogey noʼoy           - N. purple berry
+17. tegeeʼn nerhpery        - Q. blue ball
+18. skoyon rohkuen          - K. red tree
+
+(b) Determine the correct correspondences:
+
+19. muencherhl - S. canary
+20. ʼwerʼerrgerch - T. coffee bean
+21. luuehl - U. blood
+22. lerʼergerh - V. milk
+23. pekoyek - W. alder tree
+24. skoyon - X. wild iris
+25. tegeeʼn - Y. sky
+
+(c) Translate into English:
+
+26. ʼerrwerh - tree
+27. lerʼergerh rohkuen - milk shoe
+28. perkeryerʼery chʼeeshah - black berry
+29. pyerrpʼtʼery chʼeeshah - red berry
+
+(d) Translate into Yurok:
+
+30. purple deer - sʼoktoy perkeryerh
+31. white shoe - muencherh rohkuen
+32. yellow ball - skoyon tegeeʼn
+33. black tree - perkeryerh ʼerrwerh
+
+### Problem 3 (20 points)
+
+(a) Match each word above with its scientific transliteration and transcription.
+
+Let's match each word in Book Pahlavi script to its scientific transliteration and transcription using the information given.
+
+1. **n%ss**
+   - Scientific Transliteration: ns
+   - Transcription: nas
+   - Meaning: "nose"
+
+2. **n%ZnZ**
+   - Scientific Transliteration: nznz
+   - Transcription: nēzēn
+   - Meaning: "sharp"
+
+3. **nnnI**
+   - Scientific Transliteration: nwny
+   - Transcription: nān
+   - Meaning: "bread"
+
+4. **ntnbLb**
+   - Scientific Transliteration: ntnblb
+   - Transcription: naten
+   - Meaning: "lake"
+
+5. **nnnLIIA**
+   - Scientific Transliteration: nnly
+   - Transcription: nīlāy
+   - Meaning: "indigo"
+
+6. **RDXn**
+   - Scientific Transliteration: rdxn
+   - Transcription: rōzan
+   - Meaning: "day"
+
+7. **DSMi**
+   - Scientific Transliteration: dsm'
+   - Transcription: dism'
+   - Meaning: "ten"
+
+8. **nTlnbMZnA**
+   - Scientific Transliteration: ntlnmz'
+   - Transcription: natlanamaz'
+   - Meaning: "crossroads"
+
+9. **n%sYMA**
+   - Scientific Transliteration: nsym'
+   - Transcription: nasīm'
+   - Meaning: "breeze"
+
+10. **nnInI**
+    - Scientific Transliteration: nny
+    - Transcription: nay
+    - Meaning: "reed"
+
+11. **abLA**
+    - Scientific Transliteration: bl'
+    - Transcription: bāl
+    - Meaning: "hair"
+
+12. **n%A**
+    - Scientific Transliteration: ns'
+    - Transcription: nasā
+    - Meaning: "woman"
+
+13. **DfLnZA**
+    - Scientific Transliteration: dflnz'
+    - Transcription: daflanzā
+    - Meaning: "road"
+
+14. **nknIcnL**
+    - Scientific Transliteration: nkncnl
+    - Transcription: naknak
+    - Meaning: "knot"
+
+15. **at%Lx**
+    - Scientific Transliteration: atlx
+    - Transcription: atalax
+    - Meaning: "star"
+
+16. **nTlknI**
+    - Scientific Transliteration: ntlkny
+    - Transcription: natlak
+    - Meaning: "flag"
+
+17. **nntnngfkn**
+    - Scientific Transliteration: ntnngfn
+    - Transcription: natnang
+    - Meaning: "earthquake"
+
+18. **n%ATfnI**
+    - Scientific Transliteration: natn'
+    - Transcription: nat
+    - Meaning: "true"
+
+19. **ntnI**
+    - Scientific Transliteration: ntn'
+    - Transcription: nat
+    - Meaning: "fish"
+
+20. **n%HrI**
+    - Scientific Transliteration: nhr'
+    - Transcription: nair
+    - Meaning: "man"
+
+21. **$**
+    - Scientific Transliteration: 
+    - Transcription: xwadāy
+    - Meaning: "god"
+
+22. **inG**
+    - Scientific Transliteration: yng
+    - Transcription: ēnag
+    - Meaning: "unity"
+
+23. **nnTefnDlW**
+    - Scientific Transliteration: ntfndlw
+    - Transcription: nitfan
+    - Meaning: "pillow"
+
+24. **aLPX**
+    - Scientific Transliteration: alpx
+    - Transcription: ālpax
+    - Meaning: "tooth"
+
+25. **hTeX**
+    - Scientific Transliteration: htx
+    - Transcription: hat
+    - Meaning: "seven"
+
+26. **%L**
+    - Scientific Transliteration: xl
+    - Transcription: xwāl
+    - Meaning: "sister"
+
+27. **n%LnL**
+    - Scientific Transliteration: nlnl
+    - Transcription: nilan
+    - Meaning: "silver"
+
+28. **nnIPl**
+    - Scientific Transliteration: nnyp
+    - Transcription: nay
+    - Meaning: "reed"
+
+29. **DeF**
+    - Scientific Transliteration: df
+    - Transcription: duf
+    - Meaning: "enemy"
+
+30. **LAPXn**
+    - Scientific Transliteration: lapxn
+    - Transcription: lapx
+    - Meaning: "axe"
+
+(b) In Book Pahlavi, one Middle Persian word is usually written with a certain graphic peculiarity. Identify this word.
+
+- The word "god" (xwadāy) is often written with the unique symbol "$" in Book Pahlavi script.
+
+(c) The following words are alternative spellings of some of the words above.
+
+| Book Pahlavi   | Scientific Transliteration | 
+|----------------|----------------------------|
+| EE. nnsbnAb    | nsbna                      |
+| FF. LDXc       | ldx                       |
+| GG. rt         | rth                       |
+| HH. n%DX       | nx                        |
+| II. nnnA       | nna                       |
+| JJ. nknA       | nka                       |
+
+(d) Write in the Book Pahlavi script:
+
+| Middle Persian | Book Pahlavi |
+|----------------|--------------|
+| DKRA           |             |
+| dlwnd          |             |
+| stwl           |             |
+| cmbl           |             |
+
+The correct Book Pahlavi script for the given Middle Persian words can be constructed by knowing the corresponding Pahlavi characters for each transliteration:
+
+| Middle Persian | Book Pahlavi |
+|----------------|--------------|
+| DKRA           | DKRA         |
+| dlwnd          | dlwnd        |
+| stwl           | stwl         |
+| cmbl           | cmbl         |
+
+### Problem 4 (20 points)
+
+Here is the table with the English translations inserted after the second column:
+
+| West Tarangan  | English Translation | North Dialect        | Coast Dialect     |
+|----------------|---------------------|----------------------|-------------------|
+| ɛtaleŋa        | he hears            | ɛtɛlɛŋɛla            | ɛtalɛŋa           |
+| jaga           | to guard            | jajaga               | jajaga            |
+| gasírana       | she is old          | gasísírana           | gasírana          |
+| daramota       | they vomit          | dadaramota           | dadaramota        |
+| pɔwna          | he is smelly        | pɔpɔwna              | pɔwna             |
+| ɛrtɔpa         | he washes           | ɛrɛrtɔpa             | ɛrtɔpa            |
+| dabuka         | they dream          | dadabuka             | dadabuka          |
+| ŋuŋim          | it is damp          | ŋuŋŋuŋim             | ŋuŋim             |
+| igɔ́ŋ           | he sells            | igɔ́gɔŋ              | igɔŋgɔŋ           |
+
+### Problem 5 (20 points)
+
+(a) Translate into English:
+
+16. bvúsɔ̀w nǔ fɔ̀ shě ntfǔː.  
+- The day after tomorrow is Bvusɔw.
+
+17. me nú ŋgéː nyɛ́n kèŋkfǔ lé ɛ̀bɛ̀n.  
+- Today, I will help the man at the market.
+
+18. wvù tɔ̀ nɔ̂ː yɛ᷅n bèsèn ě bvúmbòn.  
+- He heard us on Bvumbon.
+
+19. bèsèn nǔ bóy tɔ́ fɔ̀wǎy bvúzhı ᷇ː de᷆n.  
+- The woman found us at the market on Bvuzhi.
+
+(b) The first day of the Nooni week is Bvutfu. What is the order of the Nooni days?
+
+1. Bvutfu
+2. Bvumbon
+3. Bvusɔw
+4. Bvuzhi
+5. Bvuŋka
+6. Bvuŋkaden
+
+(c) Translate into Nooni:
+
+spoken on Bvumbon
+
+20. On Bvusɔw, I helped the man.  
+- wɔ̀ nǔ yo᷅ me yɛ́n ntɔ᷅ kèŋkfǔ bvúsɔ̀w.
+
+21. The thief stole the yam just now.  
+- cɔ̌ŋ tɔ́ nɔ̂ː bɔ́ŋ yɛ́.
+
+22. On Bvuŋkaden, I will hear the car.  
+- me nú ŋgéː nyɛ́n mutù bvûŋka᷆ːde᷆n.
+
+23. Today, the woman will kill the man.  
+- kwɔ᷆ːn mbɛ̂ː yo᷅ yɛ́n lě.
+
+24. Today, the man saw you(sg).  
+- me lě yɛ́n yɛ᷅n nɔ̂ː.
+
+Good luck!

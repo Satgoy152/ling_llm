@@ -1,0 +1,185 @@
+Here are my solutions to the problems:
+
+Problem 1:
+
+(a) Translations to English:
+
+12. He takes the bread and eats it.
+13. We went away and she came. 
+14. You(sg) sing and I hear.
+15. They will hear the dog and will get up.
+16. I saw the fish and they saw the man.
+17. You(sg) saw the water and ate it.
+
+(b) Translations to Yonggom:
+
+18. Wunenuub miniib.
+19. Awon banuuna oon beneen. 
+20. Ok anona ambib wedmoona anon ye weng wengambureen.
+21. Om benuwa wingkuun.
+
+Key observations:
+- SOV word order
+- Subject marked by suffix on first verb: 
+   -un "I", -uun "she", -een "he", -uub "we", -iib "they", zero "you(sg)"
+- Non-final verbs take suffix -a or -e 
+- Object marked by suffix on second verb:
+   -un "me", -een "it"
+- Future tense marked by prefix on second verb: wen- before consonants, weng- before vowels
+
+Problem 2:
+
+(a) Correspondences:
+1F, 2O, 3C, 4N, 5E, 6P, 7Q, 8H, 9I, 10J, 11K, 12L, 13M, 14D, 15B, 16R, 17G, 18A
+
+(b) Correspondences:
+19S, 20T, 21U, 22V, 23W, 24X, 25Y  
+
+(c) Translations to English:
+26. blood
+27. orange dog
+28. black berry
+29. grass-green berry
+
+(d) Translations to Yurok:
+30. sʼoktoyoy noʼoy
+31. muencheyhl ʼwernerh
+32. skoyoneyrʼ luuehlsonʼ  
+33. ʼwerʼerrgercherʼ slekwoh
+
+Observations:
+- Basic color terms: nerhpery "black", sʼerkterʼery "white", loʼogey "red", skoyon "yellow", tegeeʼn "blue", muencherh/muenchey/muenterʼery "brown", lerʼergery "orange", sʼoktoy "purple", pyerrpʼtʼery "grass-green"  
+- Class suffixes: 
+   -rh/-y/-ery/-oy "general" 
+   -uerʼ/-shlʼ "round"
+   -sonʼ "spherical, 3D"
+   -rchsonʼ/-rcherʼ "long, sticklike"
+   -lhl "living, animal"
+   -ek/-(e)k "plant, tree"
+   -shah "small, berry-like"
+
+Problem 3:
+
+Here are my solutions for the Middle Persian problem:
+
+(a) Matching the Book Pahlavi words with their scientific transliteration and transcription:
+
+| Book Pahlavi   | Scientific Transliteration | Transcription   |
+|----------------|----------------------------|-----------------|
+| A. n%ss        | ʾslwn'                     | āšrōn           |
+| B. n%ZnZ       | sydʾ                       | syā             |
+| C. nnnI        | DMYA                       | xōn             |
+| D. ntnbLb      | AHTE                       | xwah            |
+| E. nnnLIIA     | blbwt'                     | barbut          |
+| F. RDXn        | gyʾh                       | giyāh           |
+| G. DSMi        | ALBA                       | čahār           |
+| H. nTlnbMZnA   | dwt'                       | dūd             |
+| I. n%sYMA      | mwd                        | mōy             |
+| J. nnInI       | gdk'                       | gēg             |
+| K. abLA        | hmyšk'                     | hamešag         |
+| L. n%A         | LK                         | tō              |
+| M. DfLnZA      | gwklt'                     | gōgird          |
+| N. nknIcnL     | wʾcʾl                      | wāzār           |
+| O. at%Lx       | MLKTA                      | bāmišn          |
+| P. nTlknI      | HZWLYA                     | hūg             |
+| Q. nntnngfkn   | zwzk'                      | zuzāg           |
+| R. n%ATfnI     | whʾl                       | wahār           |
+| S. ntnI        | APLA                       | xāk             |
+| T. n%HrI       | gwn'                       | gōn             |
+| U. $           | LCDr'                      | tar             |
+| V. inG         | mng                        | mang            |
+| W. nnTefnDlW   | lwlk'                      | rūrag           |
+| X. aLPX        | ZWZN'                      | drahm           |
+| Y. hTeX        | dlmnk'                     | dramanag        |
+| Z. %L          | NKSWN-tn'                  | kuštan          |
+| AA. n%LnL      | ʾwzmbwlt'                  | uzumburd        |
+| BB. nnIPl      | glmwk'                     | garmōg          |
+| CC. DeF        | ʾhlmn'                     | Ahreman         |
+| DD. LAPXn      | ʾylʾnštr'                  | Ērān-šahr       |
+
+(b) The word $ (scientific transliteration: LCDr') has a peculiar spelling, using the Aramaic heterogram for "over, through, across".
+
+(c) Identifying the alternative spellings:
+
+| Book Pahlavi   | Scientific Transliteration | Equivalent to |
+|----------------|----------------------------|---------------|
+| EE. nnsbnAb    | blbwtn'                    | E. nnnLIIA    |
+| FF. LDXc       | ZWZN-c                     | X. aLPX       |
+| GG. rt         | LCL                        | U. $          |
+| HH. n%DX       | ALBA-DX                    | G. DSMi       |
+| II. nnnA       | ZWZN                       | X. aLPX       |
+| JJ. nknA       | ʾylk'                      | DD. LAPXn     |
+
+(d) Writing in the Book Pahlavi script:
+
+| Middle Persian | Book Pahlavi |
+|----------------|--------------|
+| KK. DKRA       | nnnTX       |
+| LL. dlwnd      | ntnn%s      |
+| MM. stwl       | sTen        |
+| NN. cmbl       | SriL        |
+
+Key observations:
+- The Book Pahlavi script is an abjad, writing mainly consonants. Some letters represent multiple consonants.
+- Certain common words are written with Aramaic heterograms (logograms), e.g. MLKTA for bāmišn.
+- Word-final consonants are often written with letters that have an inherent -A vowel.
+- Silent letters are sometimes added at the end of words, e.g. -DX in ALBA-DX, -c in ZWZN-c.
+- Some consonants are written the same despite being pronounced differently, e.g. d and y, g and w.
+- Vowels are sometimes indicated by matres lectionis, e.g. A, W, Y.
+
+Let me know if you need any clarification or have additional questions!
+
+Problem 4:
+
+| West Tarangan  | English Translation | North Dialect     | Coast Dialect     |
+|----------------|---------------------|-------------------|-------------------|
+| ɛtaleŋa        | he hears            | ɛtaleŋleŋa        | ɛtaleŋaleŋa       |
+| jaga           | to guard            | jajaga            | jajaga            |
+| gasírana       | she is old          | gasírasírana      | gasírasírana      |
+| daramota       | they vomit          | dararmota         | daramotamota      |
+| pɔwna          | he is smelly        | pɔpɔwna           | pɔpɔwna           |
+| ɛrtɔpa         | he washes           | ɛrtɔptɔpa         | ɛrtɔtɔpa          |
+| dabuka         | they dream          | dabdabuka         | dabudabuka        |
+| ŋuŋim          | it is damp          | ŋuŋŋuŋim          | ŋuŋuŋim           |
+| igɔ́ŋ           | he sells            | iggɔŋ             | igɔgɔŋ            |
+
+Rules:
+- Duplicate the first CVC- of the root
+- If root starts with vowel, gem      inate the consonant after it
+- Stress stays on the same vowel 
+- Exceptions:
+  - roots with identical vowels in first two syllables (bɛbar, letna, ɛrnɔnaw)
+  - CaC- reduplicates as CaC- in coast dialect (not CaCa-)
+
+Problem 5:
+
+(a) Translations to English:
+
+16. The day after Bvusɔw is Bvuŋkaden.
+17. Today, I am about to see the yam.  
+18. He saw us on Bvumbon a long time ago.
+19. We will come to the market on Bvuzhiden.
+
+(b) Order of Nooni week:
+Bvutfu, Bvusɔw, Bvuŋka, Bvuŋkaden, Bvumbon, Bvuzhi, Bvuzhiden
+
+(c) Translations to Nooni:
+
+20. me nɔ̂ː fí dìɛ̀msɛ̌n bvúsɔ̀w.
+21. cɔ̌ŋ cí yù cɔ̌ŋ kèŋkfǔ lé.
+22. me nú ŋgéː yów mutù bvûŋka᷆ːde᷆n.  
+23. kwɔ᷆ːn nǔ zhí dìɛ̀msɛ̌n ɛ̀bɛ̀n.
+24. dìɛ̀msɛ̌n cí nɔ̂ː yɛ᷅n wɔ̀ ɛ̀bɛ̀n.
+
+Key observations:
+- Day names begin with bvú- or bvû-
+- Verbs:
+  nú - present, nǔ - future, cí - past, tɔ̀ nɔ̂ː - remote past  
+  Progressive ("is about to") formed with nú + verb
+  Perfect ("just now") formed with cí + verb + lé
+- Tense overrides day name, e.g. fɔgò cǐ nú bvúmbòn "yesterday was Bvumbon"
+- Day name for "today" depends on the actual day, not relative 
+- Words for "yesterday", "today", etc. inflect for noun class
+- Object follows the verb
+
+These problems cover a nice range of morphological and syntactic structures across several language families. Let me know if you have any other questions!

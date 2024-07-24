@@ -1,0 +1,160 @@
+Okay, let's solve these computational linguistics problems!
+
+Problem 1:
+
+(a) Translations into English:
+12. Om benu aneen - He takes the bread and eats it. 
+13. Munuuna wunuub - They go away and will go.
+14. Wingkiiwa wengamburuun - You(sg) sing and hear.
+15. Anon ye weng wengamberenib yeedaraniib - We will hear the dog and they will get up.
+16. Oon wedmaniina karub wedmaneeb - I saw the fish and he saw the man.
+17. Ok wedmeena aniin - She saw the water and drank it.
+
+(b) Translations into Yonggom:
+18. Wenenub wingkanuub - We will go away and will sing.
+19. Awon bene aneen, oon bene aneen - I take the pig and he takes the fish.
+20. Oka wedmeen, om wedmeen, anon ye weng wengambereen - He saw the water and the house and heard the dog.
+21. Om banu anu, wingkiiwa - You(sg) eat the bread and sing.
+
+Problem 2:
+
+(a) Matches between the Yurok words and their English translations:
+1. muencherh rohkuen - A
+2. perkeryerh holeehl ʼwernerh - B
+3. muencherh nerhpery - C
+4. sʼerkterʼery chʼeeshah - D
+5. muencharʼ pyaapʼ - E
+6. pekoyarʼ tepoo - F
+7. luuehlsonʼ nerhpery - G
+8. muenchey cheekʼwar - H
+9. muenterʼery chʼeeshah - I
+10. lerʼergery cherʼery - J
+11. ʼerrwerhsonʼ slekwoh - K
+12. muenterʼery puuek - L
+13. loʼogey slekwoh - M
+14. sʼoktoy noʼoy - N
+15. ʼwerʼerrgerchsonʼ cherʼery - O
+16. loʼogey noʼoy - P
+17. tegeeʼn nerhpery - Q
+18. skoyon rohkuen - R
+
+(b) Matches between the additional Yurok words and their English translations:
+19. muencherhl - S
+20. ʼwerʼerrgerch - T
+21. luuehl - U
+22. lerʼergerh - V
+23. pekoyek - W
+24. skoyon - X 
+25. tegeeʼn - Y
+
+(c) Translations into English:
+26. ʼerrwerh - red
+27. lerʼergerh rohkuen - orange dog
+28. perkeryerʼery chʼeeshah - black berry
+29. pyerrpʼtʼery chʼeeshah - grass-green berry
+
+(d) Translations into Yurok:
+30. sʼoktoy nerhpery - purple deer
+31. sʼerkterʼery holeehl ʼwernerh - white shoe
+32. skoyon tepoo - yellow ball
+33. ʼwerʼerrgerchsonʼ slekwoh - black tree
+
+Problem 3:
+
+Okay, let's solve this Middle Persian computational linguistics problem!
+
+(a) Matching the words with their scientific transliterations and transcriptions:
+
+| Book Pahlavi   | Scientific Transliteration | Transcription   |
+|----------------|----------------------------|-----------------|
+| A. n%ss        | āšrōn                     | ʾslwn'          |
+| B. n%ZnZ       | syā                        | sydʾ            |
+| C. nnnI        | xōn                        | DMYA            |
+| D. ntnbLb      | xwah                       | AHTE            |
+| E. nnnLIIA     | barbut                     | blbwt'          |
+| F. RDXn        | giyāh                      | gyʾh            |
+| G. DSMi        | čahār                      | ALBA            |
+| H. nTlnbMZnA   | dūd                        | dwt'            |
+| I. n%sYMA      | mōy                        | mwd             |
+| J. nnInI       | gēg                        | gdk'            |
+| K. abLA        | hamešag                    | hmyšk'          |
+| L. n%A         | tō                         | LK             |
+| M. DfLnZA      | gōgird                     | gwklt'          |
+| N. nknIcnL     | wāzār                      | wʾcʾl           |
+| O. at%Lx       | bāmišn                     | MLKTA           |
+| P. nTlknI      | hūg                        | HZWLYA          |
+| Q. nntnngfkn   | zuzāg                      | zwzk'           |
+| R. n%ATfnI     | wahār                      | whʾl            |
+| S. ntnI        | xāk                        | APLA            |
+| T. n%HrI       | gōn                        | gwn'            |
+| U. $           | tar                        | LCDr'           |
+| V. inG         | mang                       | mng             |
+| W. nnTefnDlW   | rūrag                      | lwlk'           |
+| X. aLPX        | drahm                      | ZWZN'           |
+| Y. hTeX        | dramanag                   | dlmnk'          |
+| Z. %L          | kuštan                     | NKSWN-tn'       |
+| AA. n%LnL      | uzumburd                   | ʾwzmbwlt'       |
+| BB. nnIPl      | garmōg                     | glmwk'          |
+| CC. DeF        | Ahreman                    | ʾhlmn'          |
+| DD. LAPXn      | Ērān-šahr                  | ʾylʾnštr'       |
+| EE. nnsbnAb    | barbut                     | blbwt'          |
+| FF. LDXc       | čahār                      | ALBA            |
+| GG. rt         | tar                        | LCDr'           |
+| HH. n%DX       | xāk                        | APLA            |
+| II. nnnA       | xōn                        | DMYA            |
+| JJ. nknA       | gēg                        | gdk'            |
+
+(b) The word with a graphic peculiarity in Book Pahlavi is nnsbnAb, which is an alternative spelling of blbwt' (barbut).
+
+(c) Identifying the alternative spellings and providing their scientific transliterations:
+
+EE. nnsbnAb - blbwt' (barbut)
+FF. LDXc - ALBA (čahār)
+GG. rt - LCDr' (tar) 
+HH. n%DX - APLA (xāk)
+II. nnnA - DMYA (xōn)
+JJ. nknA - gdk' (gēg)
+
+(d) Writing the words in the Book Pahlavi script:
+
+| Middle Persian | Book Pahlavi |
+|----------------|--------------|
+| KK. DKRA       | $            |
+| LL. dlwnd      | dlwnd        |
+| MM. stwl       | stwl         |
+| NN. cmbl       | cmbl         |
+
+Problem 4:
+
+| West Tarangan  | English Translation | North Dialect    | Coast Dialect   |
+|----------------|---------------------|-----------------|-----------------|
+| ɛtaleŋa        | he hears            | ɛtaleŋleŋa       | ɛtalɛleŋa       |
+| jaga           | to guard            | jagjaga          | jagajaga        |
+| gasírana       | she is old          | gasragasirana    | gasigasirana    |
+| daramota       | they vomit          | daramdaramota    | daradaRemota    |
+| pɔwna          | he is smelly        | pɔwpɔwna         | pɔwpɔwna        |
+| ɛrtɔpa         | he washes           | ɛrtɔpɛrtɔpa      | ɛrtɔpɛrtɔpa     |
+| dabuka         | they dream          | dabdabuka        | dabdabuka       |
+| ŋuŋim          | it is damp          | ŋuŋŋuŋim         | ŋuŋŋuŋim        |
+| igɔ́ŋ           | he sells            | igɔŋgɔŋ          | igɔigɔŋ         |
+
+Problem 5:
+
+(a) Translations into English:
+
+spoken on Bvuŋkaden
+16. bvúsɔ̀w nǔ fɔ̀ shě ntfǔː - Bvusɔw is the day after tomorrow.
+17. me nú ŋgéː nyɛ́n kèŋkfǔ lé ɛ̀bɛ̀n - Today, I will steal the yam at the market.
+18. wvù tɔ̀ nɔ̂ː yɛ᷅n bèsèn ě bvúmbòn - He saw us on Bvumbon.
+19. bèsèn nǔ bóy tɔ́ fɔ̀wǎy bvúzhı ᷇ː de᷆n - Today, the woman will go to the market on Bvuzhiden.
+
+(b) The order of the Nooni days is: Bvutfu, Bvumbon, Bvusɔw, Bvuzhi, Bvuŋka, Bvuŋkaden.
+
+(c) Translations into Nooni:
+
+spoken on Bvumbon
+20. me ncí nɔ̂ː ntɔ᷅ fɔ̀wǎy bvúsɔ̀w - On Bvusɔw, I came to the market.
+21. wɔ̀ nǔ yúː cɔ́ŋ kèŋkfǔ bvúsɔ̀w - The thief will steal the yam on Bvusɔw.
+22. me nú ŋgéː nyɛ́n kèŋkfǔ lé ɛ̀bɛ̀n bvûŋka᷆ːde᷆n - Today, I will hear the car at the market on Bvuŋkaden.
+23. kwɔ᷆ːn nǔ bóy fí me bvúzhí - On Bvuzhi, the woman will kill me.
+24. dìɛ̀msɛ̌n nǔ yɛ́n wɔ᷅ ǎ - Today, the man saw you(sg).

@@ -1,0 +1,186 @@
+Thank you for providing these fascinating linguistics problems. I'll work through each one systematically, providing detailed solutions.
+
+### Problem 1: Yonggom Sentences
+
+(a) Translating into English:
+
+12. Om benu aneen.  
+"She will take the bread and he eats it."
+
+13. Munuuna wunuub.  
+"I come and we go away."
+
+14. Wingkiiwa wengamburuun.  
+"You (sg) sing and I hear."
+
+15. Anon ye weng wengamberenib yeedaraniib.  
+"They will hear the dog and will get up."
+
+16. Oon wedmaniina karub wedmaneeb.  
+"I will see the fish and you (sg) will see the man."
+
+17. Ok wedmeena aniin.  
+"I saw the water and she eats."
+
+(b) Translating into Yonggom:
+
+18. We will go away and they will come.
+Wunanuuwa minaniib.
+
+19. I take the pig and he takes the fish.
+Awon baana oon baaneen.
+
+20. He saw the water and the house and heard the dog.
+Ok ambib wedmoona anon ye weng wengambaroon.
+
+21. You (sg) eat the bread and sing.
+Om aneewa wingkeeb.
+
+### Problem 2: Yurok Word Combinations
+
+(a) Determining correspondences:
+
+1. muencherh rohkuen - A. brown dog
+2. perkeryerh holeehl ʼwernerh - B. black shoe
+3. muencherh nerhpery - C. black bear
+4. sʼerkterʼery chʼeeshah - D. white berry
+5. muencharʼ pyaapʼ - E. brown shoe
+6. pekoyarʼ tepoo - F. white dog
+7. luuehlsonʼ nerhpery - G. white ball
+8. muenchey cheekʼwar - H. white manzanita bush
+9. muenterʼery chʼeeshah - I. white chair
+10. lerʼergery cherʼery - J. orange bear
+11. ʼerrwerhsonʼ slekwoh - K. red tree
+12. muenterʼery puuek - L. grass-green shirt
+13. loʼogey slekwoh - M. red hazelnut
+14. sʼoktoy noʼoy - N. purple berry
+15. ʼwerʼerrgerchsonʼ cherʼery - O. black shirt
+16. loʼogey noʼoy - P. white deer
+17. tegeeʼn nerhpery - Q. blue ball
+18. skoyon rohkuen - R. yellow berry
+
+(b) Determining correspondences:
+
+19. muencherhl - V. milk
+20. ʼwerʼerrgerch - T. coffee bean
+21. luuehl - X. wild iris
+22. lerʼergerh - U. blood
+23. pekoyek - W. alder tree
+24. skoyon - S. canary
+25. tegeeʼn - Y. sky
+
+(c) Translating into English:
+
+26. ʼerrwerh - red
+27. lerʼergerh rohkuen - orange dog
+28. perkeryerʼery chʼeeshah - black berry
+29. pyerrpʼtʼery chʼeeshah - purple berry
+
+(d) Translating into Yurok:
+
+30. purple deer - pyerrpʼtʼery noʼoy
+31. white shoe - pekoyarʼ holeehl
+32. yellow ball - skoyon nerhpery
+33. black tree - perkeryerh slekwoh
+
+### Problem 3: Middle Persian Book Pahlavi
+
+I'll work through this problem systematically, matching the Book Pahlavi script to its scientific transliteration and transcription, and then addressing the additional tasks.
+
+(a) Matching Book Pahlavi to scientific transliteration and transcription:
+
+A. n%ss - ʾslwn' - āšrōn
+B. n%ZnZ - sydʾ - syā
+C. nnnI - DMYA - xōn
+D. ntnbLb - blbwt' - barbut
+E. nnnLIIA - AHTE - xwah
+F. RDXn - gyʾh - giyāh
+G. DSMi - mwd - mōy
+H. nTlnbMZnA - ʾwzmbwlt' - uzumburd
+I. n%sYMA - MLKTA - bāmišn
+J. nnInI - ALBA - čahār
+K. abLA - APLA - xāk
+L. n%A - LK - tō
+M. DfLnZA - gwklt' - gōgird
+N. nknIcnL - lwcynk' - lawzēnag
+O. at%Lx - HZWLYA - hūg
+P. nTlknI - dwt' - dūd
+Q. nntnngfkn - NKSWN-tn' - kuštan
+R. n%ATfnI - ʾylʾnštr' - Ērān-šahr
+S. ntnI - gdk' - gēg
+T. n%HrI - zwzk' - zuzāg
+U. $ - LCDr' - tar
+V. inG - mng - mang
+W. nnTefnDlW - wʾcʾl - wāzār
+X. aLPX - ZWZN' - drahm
+Y. hTeX - gwn' - gōn
+Z. %L - ZY - ī
+AA. n%LnL - lwlk' - rūrag
+BB. nnIPl - dhšk' - daxšag
+CC. DeF - gdk' - gēg
+DD. LAPXn - hmyšk' - hamešag
+
+(b) The word with a graphic peculiarity is likely "U. $" (LCDr' - tar), as it's written with a single symbol rather than a combination of letters.
+
+(c) Alternative spellings:
+
+EE. nnsbnAb - bʾmšn - bāmišn (alternative to I. n%sYMA)
+FF. LDXc - čhʾl - čahār (alternative to J. nnInI)
+GG. rt - ZY - ī (alternative to Z. %L)
+HH. n%DX - xwn - xōn (alternative to C. nnnI)
+II. nnnA - APLA - xāk (alternative to K. abLA)
+JJ. nknA - xʾk - xāk (alternative to K. abLA)
+
+(d) Writing in Book Pahlavi script:
+
+KK. DKRA (muɣ) - nnnLG
+LL. dlwnd - nnnglt
+MM. stwl - Ltnb
+NN. cmbl - LbMc
+
+These translations demonstrate the complex relationship between the Book Pahlavi script, scientific transliteration, and transcription in Middle Persian.
+
+### Problem 4: West Tarangan Reduplication
+
+Filling in the gaps:
+
+| West Tarangan  | English Translation | North Dialect    | Coast Dialect   |
+|----------------|---------------------|-----------------|-----------------|
+| ɛtaleŋa        | he hears            | ɛttalleŋa       | ɛtaleŋaleŋa     |
+| jaga           | to guard            | jagjaga         | jagajaga        |
+| gasírana       | she is old          | gasgasírana     | gasigasírana    |
+| daramota       | they vomit          | darmarmota      | daramotamota    |
+| pɔwna          | he is smelly        | pɔwpɔwna        | pɔwpɔwna        |
+| ɛrtɔpa         | he washes           | ɛrttɔpa         | ɛrtɔpatɔpa      |
+| dabuka         | they dream          | dambuka         | dabukabuka      |
+| ŋuŋim          | it is damp          | ŋuŋŋuŋim        | ŋuŋiŋuŋim       |
+| igɔ́ŋ           | he sells            | igɔgɔ́ŋ          | igɔgɔ́ŋ          |
+
+### Problem 5: Nooni Sentences and Days of the Week
+
+(a) Translating into English:
+
+16. Bvusɔw is the day after tomorrow.
+
+17. I am about to see the yam today.
+
+18. He saw us on Bvumbon.
+
+19. We will come to the market on Bvuzhiden.
+
+(b) Order of the Nooni days:
+Bvutfu, Bvumbon, Bvusɔw, Bvuzhi, Bvukema, Bvuŋka, Bvuŋkaden
+
+(c) Translating into Nooni:
+
+20. Me ncí nɔ̂ː fí dìɛ̀msɛ̌n é bvúsɔ̀w.
+
+21. Cɔ̌ŋ bɛ̂ː co᷅ŋ kèŋkfǔ lé.
+
+22. Me nú ŋwɔ́w mutù é bvûŋka᷆ːde᷆n.
+
+23. Kwɔ᷆ːn nú bóy yó dìɛ̀msɛ̌n ɛ̀bɛ̀n.
+
+24. Dìɛ̀msɛ̌n bɛ̂ː yɛ᷅n wɔ̀ ɛ̀bɛ̀n.
+
+These translations demonstrate the complex tense and aspect system in Nooni, as well as its tonal patterns and day-of-the-week references.
