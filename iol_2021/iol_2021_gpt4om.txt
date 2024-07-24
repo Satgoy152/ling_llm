@@ -1,0 +1,189 @@
+### Problem 1
+
+(a) Write in digits:
+
+1. **moeto waroewo**
+   - "moeto" suggests that the numeral is in the hundreds, likely involving multiples of 100.
+   - "waroewo" means 38, so "moeto waroewo" would be \(100 + 38 = 138\).
+
+2. **ijema joka rati**
+   - "ijema" is related to 39.
+   - "joka rati" means 38.
+   - Therefore, "ijema joka rati" would be \(39 + 38 = 77\).
+
+3. **moeto wido ma benomi ka wi**
+   - "moeto" indicates hundreds, but "wido" and "benomi" are not explicitly clear from the given numerals. 
+   - Breaking down each part:
+     - "moeto wido" might mean 100 + some value.
+     - "benomi" is 16 and "wi" could imply addition.
+     - From the structure and given numerals, "moeto wido ma benomi ka wi" = 129. 
+
+   So the digit representation:
+   - moeto waroewo: **138**
+   - ijema joka rati: **77**
+   - moeto wido ma benomi ka wi: **129**
+
+(b) Write out in Ekari:
+
+1. **1**: wija
+
+2. **19**: benomima rati ka wija (16 + 2 + 1 = 19)
+
+3. **26**: moeto wija ma ije (20 + 6 = 26)
+
+4. **104**: moeto idibima rati (100 + 4 = 104)
+
+5. **292**: moeto idibima rati ma moeto wija ma benomi (100 + 100 + 100 - 16 + 8 = 292)
+
+   Two ways for 26:
+   - moeto wija ma ije
+   - benomima rati ka wija
+
+### Problem 2
+
+(a) Determine the correct correspondences:
+
+1. **mo:chikwa datda:we** - A. chicken meat
+
+2. **haya:we** - B. tea (drink)
+
+3. **doko:ko mo’le** - C. sugar
+
+4. **ma:chikwa** - D. loaf of bread
+
+5. **mu:chikwa** - E. beads
+
+6. **mulonne ≈ mu’le** - F. peach pie
+
+7. **mowe** - G. piles of leaves
+
+8. **ha:k’yawe** - H. chicken egg
+
+9. **doko:ko shiwe** - I. peach trees
+
+10. **mo:chikwa mulo:chikwa** - J. chocolate bar
+
+(b) Determine the correct correspondences:
+
+11. **ade muwe** - K. granule, grain (for example of salt)
+
+12. **beyanne** - L. ear of corn [corn cob]
+
+13. **homa:we** - M. juniper leaves
+
+14. **ma:k’yawe** - N. salt water
+
+15. **ma:k’ose** - O. blood clots
+
+16. **ma’le** - P. field of grass
+
+17. **homayanne** - Q. blood
+
+18. **mi’le** - R. juniper branch
+
+(c) Translate into English:
+
+20. **be’le** - peach pie
+
+21. **chikwa** - meat
+
+22. **datdanne** - sugar
+
+23. **ade** - grain (for example of salt)
+
+24. **mulo:we** - chocolate bar
+
+25. **hawe** - tea (drink)
+
+(d) Translate into Zuni:
+
+26. **salty** - ma:k’yawe
+
+27. **juniper leaf** - homa:we
+
+28. **piece of meat** - chikwa
+
+29. **water** - mі ̃ńі ̃́
+
+30. **corn, maize** - beyanne
+
+31. **fields of grass** - ma’le
+
+(e) Ma’k’yayanne is likely "salt water" based on the Zuni translations.
+
+### Problem 3
+
+(a) Translate into English:
+
+14. **Navila vivila biyamata tomwaya mtona?**
+   - How many things will we look after this man?
+
+15. **Bikamkwamsi kweyu vivila minasina.**
+   - These four white men will eat something.
+
+16. **Amagudina gwadi lekota?**
+   - Which child arrived?
+
+17. **Tevila tauwau bigisesi gugwadi gudigasisi?**
+   - How many old women will look after the beautiful child?
+
+18. **Legisesi ketala waga vivila minasiwena.**
+   - That beautiful child saw these canoes.
+
+(b) Translate into Kilivila:
+
+19. **How many canoes did those old women see?**
+   - Navila waga legisesi gweguyau?
+
+20. **These four white men will look after this clever child.**
+   - Bibani kweyu tau mtona bigisi.
+
+21. **How many children will eat these pigs?**
+   - Navila bunukwa legisesi tanga?
+
+22. **Which woman caught those beautiful fish?**
+   - Amakena tetala bigisesi waga?
+
+23. **Two wild dogs saw that old man.**
+   - Amtona waga bigisesi namwaya.
+
+### Problem 4
+
+(a) The exception is **òtṹ**. The expected form following the rules would be **òtṹtṹtṹ**, following the pattern of doubling the word in Agbirigba.
+
+(b) Agbirigba forms:
+
+1. **rʊ́tʊ̂** - **tʊ́ŕʊ̂tʊ́**
+
+2. **rɛẁʊ̃́** - **tʊ̃́rɛẁʊ̃́**
+
+3. **bіḱó** - **túbіḱó**
+
+4. **ɲ́yẽ́ rɪỳã̀** - **tʊ̃́ɲ́yẽ́ tɪ̀rɪ̀ỳã̀**
+
+5. **bɛḱʷʊ̃́** - **túbɛḱʷʊ̃́**
+
+6. **rіýõ̀rõ̀** - **tʊ́rіýõ̀tõ̀**
+
+7. **hʷɔg̀â** - **tʊ́hʷɔg̀â**
+
+### Problem 5
+
+(a) Translate into English:
+
+- **aharapyryk** - I will hug you_{pl}
+- **mymyboro** - I will bite it
+- **uru** - he will cut it up
+- **tsiksiwynaha** - you_{sg} will wait for us
+- **ikwak** - I fell
+- **ziksi** - you_{sg} will leave
+
+(b) Translate into Rikbaktsa:
+
+- **we will fall** - tsipurunaha
+- **I bathed** - tsikmoronaha
+- **you_{sg} bit us** - zahaboro
+- **I will wait for them / he will wait for them** - ahaperyna / nimypery
+- **I will hug you_{pl} / he will hug you_{pl}** - tsipikharapyryk / nikharapyryk
+- **you_{sg} will leave** - piksi
+- **I killed it** - pikbeze

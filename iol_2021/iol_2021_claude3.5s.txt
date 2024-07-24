@@ -1,0 +1,180 @@
+Thank you for providing these fascinating linguistics problems. I'll work through each one systematically, providing detailed solutions and explanations.
+
+### Problem 1: Ekari Numerals
+
+Let's analyze the pattern in the given Ekari numerals:
+
+- wija = 2
+- rati = 5
+- joka = 3
+- mepija = 4
+- beo = 5
+- daemita = 10
+- moeto = 60
+- enama = 3
+- ka = and
+- ma = and (used with larger numbers)
+
+The number system appears to be base-5 and base-60.
+
+(a) Writing in digits:
+
+- moeto waroewo = 60 × 4 = 240
+- ijema joka rati = 20 + 3 × 5 = 35
+- moeto wido ma benomi ka wi = 60 × 5 + 16 + 1 = 317
+
+The numeral that has the same value as one above is "ijema joka rati" (35), which is the same as "ije mepija" (39) minus 4.
+
+(b) Writing out in Ekari:
+
+1. wi
+19. ijema mepija
+26. ijema joka rati ka wi
+104. moeto wi ma ije ka mepija
+292. moeto mepija ma ije ka wido ka wija
+
+The number that can be expressed in two ways is 1:
+- wi
+- moeto wi ma ije ka wido ka wija (60 × 0 + 20 + 15 + 2 - 36 = 1)
+
+### Problem 2: Zuni Words
+
+(a) Determining correspondences for the first set:
+
+1. mo:chikwa datda:we - H. chicken egg
+2. haya:we - E. beads
+3. doko:ko mo'le - J. chocolate bar
+4. ma:chikwa - A. chicken meat
+5. mu:chikwa - D. loaf of bread
+6. mulonne ≈ mu'le - C. sugar
+7. mowe - G. piles of leaves
+8. ha:k'yawe - B. tea (drink)
+9. doko:ko shiwe - I. peach trees
+10. mo:chikwa mulo:chikwa - F. peach pie
+
+(b) Determining correspondences for the second set:
+
+11. ade muwe - N. salt water
+12. beyanne - L. ear of corn [corn cob]
+13. homa:we - M. juniper leaves
+14. ma:k'yawe - O. blood clots
+15. ma:k'ose - Q. blood
+16. ma'le - K. granule, grain (for example of salt)
+17. homayanne - R. juniper branch
+18. mi'le - P. field of grass
+19. ade k'yawe - S. salt
+
+(c) Translating into English:
+
+20. be'le - corn, maize
+21. chikwa - meat
+22. datdanne - piece (of something)
+23. ade - salt
+24. mulo:we - sugar (plural)
+25. hawe - leaves
+
+The word that has the same translation as one above is "hawe" (leaves), which is similar to "mowe" (piles of leaves).
+
+(d) Translating into Zuni:
+
+26. salty - ade'le
+27. juniper leaf - homa
+28. piece of meat - chikwa datdanne
+29. water - k'yawe
+30. corn, maize - be'le
+31. fields of grass - mi'lewe
+
+(e) Ma'k'yayanne likely means "sacred blood site" or "place of blood", given that ma:k'ose means "blood" and -yanne seems to indicate a place or location.
+
+### Problem 3: Kilivila Sentences
+
+Analyzing the patterns in the given sentences:
+
+- Noun classifiers: te- (human male), na- (human female), ma- (non-human), kwe- (thing)
+- Number markers: -tala (one), -yu (two), -vasi (four), -vila (how many)
+- Tense markers: le- (past), bi- (future)
+- Word order: VSO (Verb-Subject-Object)
+
+(a) Translating into English:
+
+14. Navila vivila biyamata tomwaya mtona?
+    "How many women will look after this old man?"
+
+15. Bikamkwamsi kweyu vivila minasina.
+    "Those women will eat two things."
+
+16. Amagudina gwadi lekota?
+    "Which child arrived?"
+
+17. Tevila tauwau bigisesi gugwadi gudigasisi?
+    "How many men will see the wild children?"
+
+18. Legisesi ketala waga vivila minasiwena.
+    "Those women saw one canoe." OR "One canoe saw those women."
+    (This sentence has two possible translations due to ambiguous word order)
+
+(b) Translating into Kilivila:
+
+19. How many canoes did those old women see?
+    Navila waga legisesi nunumwaya minasiwena?
+
+20. These four white men will look after this clever child.
+    Biyamatasi gwadi magudina nakabitam dimdim mtosina navasi.
+
+21. How many children will eat these pigs?
+    Navila gugwadi bikamkwamsi bunukwa minasina?
+
+22. Which woman caught those beautiful fish?
+    Amna'ana vivila lebani yena minasiwena namanabweta?
+
+23. Two wild dogs saw that old man.
+    Legisesi tomwaya mtowena nayu ka'ukwa nagasisi.
+
+### Problem 4: Agbirigba Secret Language
+
+The pattern for forming Agbirigba words from Ogbakiri words:
+
+1. Insert 'tV' before each syllable, where 'V' is a copy of the following vowel.
+2. If the syllable starts with a vowel, use 'tɪ' for front vowels (i, e, ɛ) and 'tʊ' for back vowels (u, o, ɔ, a).
+3. For nasal vowels, use 'tṼ' where 'Ṽ' is a copy of the following nasal vowel.
+
+(a) The exception is "òtṹtṹ" (to look for). Its expected form would be "òtʊ́tṹ".
+
+(b) Agbirigba forms of the given Ogbakiri words:
+
+1. rʊ́tʊ̂ (chewing-stick) → tʊ́rʊ́tʊ̀tʊ̂
+2. rɛẁʊ̃́ (deity) → tɛr̀ɛt̀ʊ̃́wʊ̃́
+3. bіḱó (please) → tіb́іt́іḱó
+4. ɲ́yẽ́ rɪỳã̀ (female) → ńtɪ ̃ýẽ́ tɪr̀ɪt̀ɪ ̃ỳã̀
+5. bɛḱʷʊ̃́ (fire) → tɛb́ɛt́ʊ̃́kʷʊ̃́
+6. rіýõ̀rõ̀ (charcoal) → tіŕіt́ɪ ̃ýõ̀tʊ̃̀rõ̀
+7. hʷɔg̀â (go out!) → tʊ̀hʷɔt̀ʊ́gà
+
+### Problem 5: Rikbaktsa Verbs
+
+Analyzing the patterns in Rikbaktsa verbs:
+
+- Prefixes: a- (1st person object), tsi- (2nd person subject), ni- (3rd person subject)
+- Suffixes: -naha (1st person plural subject)
+- Tense: Present/past tense has no specific marker, future tense uses my- or pi-
+
+(a) Translating into English:
+
+- aharapyryk: "I hugged you_{pl}" / "he hugged you_{pl}"
+- mymyboro: "I will bite you_{pl}" / "he will bite you_{pl}"
+- uru: "you_{sg} slept"
+- tsiksiwynaha: "we cut you_{sg} up"
+- ikwak: "I hunted" / "he hunted"
+- ziksi: "you_{pl} left"
+
+(b) Translating into Rikbaktsa:
+
+- we will fall: tsimyknaranaha
+- I bathed: ikmoro
+- you_{sg} bit us: tsikboronaha
+- I will wait for them / he will wait for them: mysipery
+- I will hug you_{pl} / he will hug you_{pl}: myharapyryk
+- you_{sg} will leave: tsimyksi
+- I killed it: ibeze
+
+These translations demonstrate the complex verb structure in Rikbaktsa, including person and number marking, tense indicators, and object incorporation.

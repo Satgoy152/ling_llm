@@ -1,3 +1,5 @@
+Prompt: As an expert in computational linguistics solve the following problem:
+
 ### Problem 1 (20 points)
 
 Here are some numerals in Ekari and their values:
@@ -82,6 +84,8 @@ One of these words has the same translation as one of the Zuni words above.
 
 (e) A linguist looked at a map of the Zuni homeland and found Ma’k’yayanne, a sacred pilgrimage site. What is Ma’k’yayanne? You do not need to explain how the word Ma’k’yayanne is formed.
 
+△! Zuni is a language isolate. It is spoken by approx. 9,500 people in the landlocked states of New Mexico and Arizona in the United States.
+’ is a consonant (known as the glottal stop). The mark : indicates that the vowel is long. —Elysia Warner, Samuel Ahmed (consultant: Wells Mahkee Jr.)
 * * *
 ### Problem 3 (20 points)
 
@@ -121,6 +125,9 @@ One of these sentences has two possible translations. Give them both.
 22. Which woman caught those beautiful fish?  
 23. Two wild dogs saw that old man.  
 
+△Kilivila belongs to the Oceanic branch of the Austronesian family. It is spoken by approx.
+20,000 people on the Trobriand islands of Papua New Guinea. —Samuel Ahmed
+
 * * *
 ### Problem 4 (20 points)
 
@@ -156,14 +163,17 @@ Agbirigba is a cant, or secret language, used by around 30 speakers of the Ogbak
 
 (b) Give the Agbirigba forms of the following Ogbakiri words:
 
-1. rʊ́tʊ̂ chewing-stick  
-2. rɛẁʊ̃́ deity  
-3. bіḱó please  
-4. ɲ́yẽ́ rɪỳã̀ female  
-5. bɛḱʷʊ̃́ fire  
-6. rіýõ̀rõ̀ charcoal  
-7. hʷɔg̀â go out!  
+1. rʊ́tʊ̂ - chewing-stick  
+2. rɛẁʊ̃́ - deity  
+3. bіḱó - please  
+4. ɲ́yẽ́ rɪỳã̀ - female  
+5. bɛḱʷʊ̃́ - fire  
+6. rіýõ̀rõ̀ - charcoal  
+7. hʷɔg̀â - go out!  
 
+△! Ikwerre belongs to the Igboid group of the Atlantic-Congo family. It is spoken by approx. 200,000 people in Rivers State, Nigeria.
+The words are given in a simplified transcription. The mark  ̃ indicates the nasal pronun- ciation of the vowel. The marks ˊ, ˋ and ˆ indicate high, low, and falling tone, respectively. ŋ =nginhang;ɲ≈nyincanyon;y=yinyay!;ʧ=chinchurch. kwandhwarepronounced as k and h respectively, but with the lips rounded. ɛ, ɪ, ɔ and ʊ are pronounced as e, i, o and u respectively, but with the root of the tongue further back in the mouth.
+—Liam McKnight (consultant: Maureen Abel)
 * * *
 ### Problem 5 (20 points)
 
@@ -215,6 +225,8 @@ Here are some words in Rikbaktsa and their English translations:
 - you_{sg} will leave  
 - I killed it  
 
+△! Rikbaktsa belongs to the Macro-Jê family. It is spoken by approx. 600 people in Brazil.
+s = sh in sheesh; ts = ch in church; y is a vowel; z is a consonant. —André Nikulin
 ---
 
 Good luck!

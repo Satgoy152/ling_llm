@@ -1,0 +1,106 @@
+Okay, let's solve these computational linguistics problems!
+
+Problem 1:
+
+(a) The numerals "moeto waroewo" and "moeto wido ma benomi ka wi" both have the value 100.
+
+(b) Translations into Ekari:
+1. wija - 1
+19. benomi ma wija - 19 
+26. waroewoma joka rati ka wido - 26
+104. mepina daemita moeto ka wido - 104
+292. moeto idibi ma widoma mepija ka benomi - 292 or mepina kaŋka ma waroewoma joka rati - 292
+
+Problem 2:
+
+(a) Matches between the Zuni words and their English translations:
+1. mo:chikwa datda:we - A
+2. haya:we - B
+3. doko:ko mo'le - C
+4. ma:chikwa - D
+5. mu:chikwa - E
+6. mulonne ≈ mu'le - F
+7. mowe - G
+8. ha:k'yawe - H
+9. doko:ko shiwe - I
+10. mo:chikwa mulo:chikwa - J
+
+(b) Matches between the additional Zuni words and their English translations:
+11. ade muwe - K
+12. beyanne - L
+13. homa:we - M
+14. ma:k'yawe - N
+15. ma:k'ose - O
+16. ma'le - P
+17. homayanne - Q
+18. mi'le - R
+19. ade k'yawe - S
+
+(c) Translations into English:
+20. be'le - peach
+21. chikwa - chicken
+22. datdanne - pile of leaves
+23. ade - grain, granule
+24. mulo:we - peach tree
+25. hawe - tea
+
+(d) Translations into Zuni:
+26. ade k'yawe - salty
+27. mi'le - juniper leaf 
+28. mo:chikwa datda:we - piece of meat
+29. haya:we - water
+30. beyanne - corn, maize
+31. ma'le - fields of grass
+
+(e) Ma'k'yayanne is the sacred pilgrimage site. It means "salt water" in Zuni.
+
+Problem 3:
+
+(a) Translations into English:
+14. Navila vivila biyamata tomwaya mtona? - How many women will look after that old man?
+15. Bikamkwamsi kweyu vivila minasina. - They (the two women) will eat them (the things).
+16. Amagudina gwadi lekota? - Which child arrived?
+17. Tevila tauwau bigisesi gugwadi gudigasisi? - How many men will see their children?
+18. Legisesi ketala waga vivila minasiwena. - The women saw one canoe.
+
+The sentence "Bikamkwamsi kweyu vivila minasina" has two possible translations: "They (the two women) will eat them (the things)" or "The two women will eat them (the things)".
+
+(b) Translations into Kilivila:
+19. Navila waga legisesi nunumwaya minasiwena? - How many canoes did those old women see?
+20. Dimdim navasi mitosiwena biyamatasi gwadi tokabitam mtona. - These four white men will look after this clever child.
+21. Navila gugwadi bikamkwamsi bunukwa minasina? - How many children will eat these pigs?
+22. Amakena vivila lekalimati ka'ukwa magudiwesina? - Which woman caught those beautiful fish?
+23. Nayu ka'ukwa nagasisi tomwaya mtona. - Two wild dogs saw that old man.
+
+Problem 4:
+
+(a) The word "wẽr̀ũ̀" in the Agbirigba forms is the exception. If it were determined by the same rules, its Agbirigba form would be "tṹwẽt̀ʊ̃̀rʊ̃̀".
+
+(b) Agbirigba forms of the Ogbakiri words:
+
+1. tʊ́tʊt̀ʊ̂ - chewing-stick
+2. tɛ̀wṹ - deity
+3. tʊ́tɪ ́kɔ́ - please
+4. ǹtṹɲ́tṹ rɪ ̀tã̀ - female
+5. tɪḱʷṹ - fire
+6. tɪr̀ɪ ̃ýɔ̃̀tɔ̃̀rɔ̃̀ - charcoal
+7. tʷɔ̀tʊ̀gà - go out!
+
+Problem 5:
+
+(a) Translations into English:
+- aharapyryk - he waited for me
+- mymyboro - I will bite them / he will bite them
+- uru - he slept
+- tsiksiwynaha - you_{sg} left us
+- ikwak - I will fall / he will fall
+- ziksi - he left
+
+(b) Translations into Rikbaktsa:
+- tsikmoronaha - we will fall
+- nimoro - I bathed
+- zahaboro - you_{sg} bit us
+- ahaperynaha - I will wait for them / he will wait for them
+- tsipikharapyryk - I will hug you_{pl} / he will hug you_{pl} 
+- piksi - you_{sg} will leave
+- tsibeze - I killed it

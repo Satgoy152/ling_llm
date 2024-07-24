@@ -1,0 +1,124 @@
+### Solution to Problem 1: Ekari Numerals Analysis
+
+(a) Write in digits:
+
+- **moeto waroewo** - Referring to the word patterns seen in the provided list, "moeto" is observed in the hundreds (100) section, and "waroewo" resembles "waroewoma" which is part of 38, suggesting this number could be 100 + 38 = **138**.
+- **ijema joka rati** - "joka rati" is part of "waroewoma joka rati" which equals 38. Since "ijema" is not provided, it's hard to assign a specific value, but potentially it might represent an increment by 1 or another minor value leading to **39** or something similar.
+- **moeto wido ma benomi ka wi** - Again using the pattern, "moeto" is 100, and "benomi" can be inferred as part of 16 from "benomima rati". It's challenging to pinpoint the value of "wido" and "wi," but one can assume small integers adding to a figure slightly more than **116**. 
+
+(b) Write out in Ekari:
+- **1** - Likely expressed with a base numeral not provided.
+- **19** - Assuming the word for 10 is inferred from "benomima" as 10, and "waroewoma" for 8 plus a unit for 1: **benomima wija joka rati**.
+- **26** - **benomima wija idibima** (combining 16 + 10 from patterns of other numbers).
+- **104** - **moeto ije** (100 + 4, where 4 is assumed from compound structures seen).
+- **292** - **moeto idibi ma widoma mepija ka benomi** (100 + 192 from "moeto idibi ma widoma mepija ka benomi").
+
+**Note**: "26" and "104" might have dual expressions based on different numeral composition possibilities.
+
+---
+
+### Solution to Problem 2: Zuni Language Analysis
+
+(a) Determine the correct correspondences:
+- 1. mo:chikwa datda:we — J. chocolate bar (By inference, as mo:chikwa could imply a type of food)
+- 2. haya:we — B. tea (drink)
+- 3. doko:ko mo’le — C. sugar (doko:ko resembles sweet)
+- 4. ma:chikwa — D. loaf of bread
+- 5. mu:chikwa — E. beads
+- 6. mulonne ≈ mu’le — F. peach pie
+- 7. mowe — G. piles of leaves
+- 8. ha:k’yawe — H. chicken egg
+- 9. doko:ko shiwe — I. peach trees
+- 10. mo:chikwa mulo:chikwa — A. chicken meat
+
+(b) Determine the correct correspondences for the next set:
+- 11. ade muwe — K. granule, grain
+- 12. beyanne — L. ear of corn [corn cob]
+- 13. homa:we — M. juniper leaves
+- 14. ma:k’yawe — N. salt water
+- 15. ma:k’ose — O. blood clots
+- 16. ma’le — P. field of grass
+- 17. homayanne — Q. blood
+- 18. mi’le — R. juniper branch
+- 19. ade k’yawe — S. salt
+
+(c) Translate into English:
+- 20. be’le — **field of grass** (from similar forms like ma’le)
+- 21. chikwa — **meat (generic)** (since mo:chikwa is part of meat-based terms)
+- 22. datdanne — **salt** (assuming resemblance to ade k’yawe)
+- 23. ade — **grain, granule** (from ade muwe)
+- 24. mulo:we — **peach** (related to mulonne ≈ mu’le for peach pie)
+- 25. hawe — **water** (from the sound similarity to haya:we for tea)
+
+(d) Translate into Zuni:
+- 26. salty — **ade k’yawe** (since salt = ade k’yawe)
+- 27. juniper leaf — **homa:we** (from juniper leaves)
+- 28. piece of meat — **chikwa** (from mo:chikwa for chocolate bar, suggesting a processed food product)
+- 29. water — **hawe** (assuming it stands alone for water)
+- 30. corn, maize — **beyanne** (ear of corn)
+- 31. fields of grass — **ma’le**
+
+(e) **Ma’k’yayanne** - Given the translation of components and the sacred context, it likely refers to a "field of blood" or "place of blood," combining aspects of blood (homayanne) and grass/field (ma’le).
+
+### Solution to Problem 3: Kilivila Sentence Translation
+
+(a) Translate into English:
+
+14. Navila vivila biyamata tomwaya mtona? - **How many women will look after this old man?**
+15. Bikamkwamsi kweyu vivila minasina. - **These four children will eat fish.**
+16. Amagudina gwadi lekota? - **Which child arrived?**
+17. Tevila tauwau bigisesi gugwadi gudigasisi? - **How many old women saw those children?**
+18. Legisesi ketala waga vivila minasiwena. - **Which canoes did the chiefs see?**
+
+One of these sentences has two possible translations:
+- 16. Amagudina gwadi lekota? could also be translated as **Which child will arrive?**, depending on whether the context is past or future as indicated by verb tense in Kilivila which might not always be explicit.
+
+(b) Translate into Kilivila:
+
+19. Navila vivila biyamatasi waga mtosiwena? - **How many canoes did those old women see?**
+20. Minasina dimdim lekamkwamsi kwetala gwadi magudiwena. - **These four white men will look after this clever child.**
+21. Navila vivila gwadi bunukwa mtosiwena? - **How many children will eat these pigs?**
+22. Amtona tau lekalimati yu nayu? - **Which woman caught those beautiful fish?**
+23. Tevila tauwau ŋǁu namwaya gwadi. - **Two wild dogs saw that old man.**
+
+---
+
+### Solution to Problem 4: Agbirigba Language Analysis
+
+(a) Identify the exception in Agbirigba forms:
+The word "òtṹtṹ" stands out because it is simply a repetition of the Ogbakiri form "òtṹ", whereas other Agbirigba words use a more complex modification. If it followed the usual rules, its form might be something like "tũtũòtṹ" or similar, incorporating additional phonetic elements as seen in other transformations.
+
+(b) Give the Agbirigba forms of the following Ogbakiri words:
+
+1. rʊ́tʊ̂ - tṹrʊ́tṹtʊ̂
+2. rɛẁʊ̃́ - tʊ́rɛtʊ́ẁʊ̃́
+3. bіḱó - túbіt́іbіḱó
+4. ɲ́yẽ́ rɪỳã̀ - tɪɲ́tɪýẽ́ tɪrɪtɪỳã̀
+5. bɛḱʷʊ̃́ - tʊ́bɛtʊ́ḱʷʊ̃́
+6. rіýõ̀rõ̀ - tіŕіt́ṹrіýtõ̀rõ̀
+7. hʷɔg̀â - tʊ́hʷɔtʊ́g̀â
+
+---
+
+### Solution to Problem 5: Rikbaktsa Language Translation
+
+(a) Translate into English:
+
+- aharapyryk - **I will hug you_{sg}** or **he will hug you_{sg}** (based on similar verb endings seen in tsipikharapyryk)
+- mymyboro - **I will bite it repeatedly** or **he will bite it repeatedly** (combining repetitive action from "my" and biting from "piboro")
+- uru - **I will sleep** or **he will sleep** (shortened form of "puru")
+- tsiksiwynaha - **We will leave** (plural form of "tsiksi")
+- ikwak - **I fell repeatedly** (similar to "iknaraha" but with a repetitive aspect)
+- ziksi - **You_{sg} left** (cognate or inflected form of "tsiksi")
+
+(b) Translate into Rikbaktsa:
+
+- we will fall - **iknarahanaha**
+- I bathed - **nimoro**
+- you_{sg} bit us - **nisiboro**
+- I will wait for them / he will wait for them - **ahaperu** or **ahaperyk**
+- I will hug you_{pl} / he will hug you_{pl} - **aharapyryk**
+- you_{sg} will leave - **tsiksi**
+- I killed it - **tsibeze**
+
+These translations make use of patterns observed in verb conjugations and noun forms within Rikbaktsa to deduce likely translations, showcasing the complex interplay of prefixes, suffixes, and infixes in the language's morphology.

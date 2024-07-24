@@ -1,0 +1,127 @@
+### Problem 1 (20 points)
+
+(a) Write in digits:
+
+- moeto waroewo: 127
+- ijema joka rati: 69
+- moeto wido ma benomi ka wi: 185
+
+One of these numerals has the same value as one of the numerals above:
+- moeto wido ma benomi ka wi: 185 (same value as moeto idibi ma widoma mepija ka benomi: 343)
+
+(b) Write out in Ekari: 1, 19, 26, 104, 292. One of these numbers can be expressed in two ways. Give them both.
+
+- 1: wi
+- 19: benomima ka wi
+- 26: benomi ma wija
+- 104: moeto wido
+- 292: moeto idibi ma widoma mepija ka benomi
+
+### Problem 2 (20 points)
+
+(a) Determine the correct correspondences:
+
+1. mo:chikwa datda:we - I. chocolate bar
+2. haya:we - B. tea (drink)
+3. doko:ko mo’le - F. peach pie
+4. ma:chikwa - A. chicken meat
+5. mu:chikwa - H. chicken egg
+6. mulonne ≈ mu’le - E. beads
+7. mowe - G. piles of leaves
+8. ha:k’yawe - C. sugar
+9. doko:ko shiwe - D. loaf of bread
+10. mo:chikwa mulo:chikwa - I. chocolate bar
+
+(b) Determine the correct correspondences:
+
+11. ade muwe - K. granule, grain (for example of salt)
+12. beyanne - L. ear of corn [corn cob]
+13. homa:we - M. juniper leaves
+14. ma:k’yawe - N. salt water
+15. ma:k’ose - O. blood clots
+16. ma’le - P. field of grass
+17. homayanne - Q. blood
+18. mi’le - R. juniper branch
+19. ade k’yawe - S. salt
+
+(c) Translate into English:
+
+20. be’le - water
+21. chikwa - meat
+22. datdanne - leave
+23. ade - salt
+24. mulo:we - granules, grains
+25. hawe - field of grass
+
+One of these words has the same translation as one of the Zuni words above:
+- hawe (same as ma’le)
+
+(d) Translate into Zuni:
+
+26. salty - ade k’yawe
+27. juniper leaf - homa:we
+28. piece of meat - chikwa
+29. water - be’le
+30. corn, maize - beyanne
+31. fields of grass - ma’le
+
+(e) Ma’k’yayanne is a pilgrimage site.
+
+### Problem 3 (20 points)
+
+(a) Translate into English:
+
+14. Navila vivila biyamata tomwaya mtona? - How many women looked after this child?
+15. Bikamkwamsi kweyu vivila minasina. - The women will eat four pigs.
+16. Amagudina gwadi lekota? - Which child arrived?
+17. Tevila tauwau bigisesi gugwadi gudigasisi? - How many men saw that child?
+18. Legisesi ketala waga vivila minasiwena. - The clever women will see the canoes.
+
+One of these sentences has two possible translations. Give them both:
+- Navila vivila biyamata tomwaya mtona? - How many women looked after this child? / How many women will look after this child?
+
+(b) Translate into Kilivila:
+
+19. How many canoes did those old women see? - Navila waga leyamatasi minasiwena?
+20. These four white men will look after this clever child. - Bibani navasi dimdim minasina teyu tau kwetala gwadi magudiwena.
+21. How many children will eat these pigs? - Navila gwadi magudiwena kwevila lekamkwamsi minasina?
+22. Which woman caught those beautiful fish? - Amakena vivila legisi kwetala minawena tetala tau?
+23. Two wild dogs saw that old man. - Bunukwa leyamatasi ketala tau magudiwena dimdim.
+
+### Problem 4 (20 points)
+
+(a) One of the Agbirigba words above is an exception. Its form is not determined by the same rules which determine the rest of the Agbirigba words. Which is it? What would its form be if it were determined by the same rules?
+
+- Exception: òtṹ (to look for)
+- Regular form: òtʊ́tɔ́tʊ́
+
+(b) Give the Agbirigba forms of the following Ogbakiri words:
+
+1. rʊ́tʊ̂ - tʊ́rʊtʊ́tʊ́
+2. rɛẁʊ̃́ - tɛt̀ʊ́wʊ̃́tʊ̃́
+3. bіḱó - tіb́іt́іḱó
+4. ɲ́yẽ́ rɪỳã̀ - tɪ́ɲ́ɪt́ɪýẽ́tʊ̃́rɪỳã̀
+5. bɛḱʷʊ̃́ - tɛt́ʊ́kʷʊ̃́tʊ̃́
+6. rіýõ̀rõ̀ - tіŕіt́ṹyõ̀tʊ̃́rõ̀
+7. hʷɔg̀â - tʷɔg̀ʷʊt̀ɔ́
+
+### Problem 5 (20 points)
+
+(a) Translate into English:
+
+- aharapyryk - I will hug you.
+- mymyboro - I will bathe.
+- uru - sleep.
+- tsiksiwynaha - you will fall.
+- ikwak - I fell.
+- ziksi - you arrived.
+
+(b) Translate into Rikbaktsa:
+
+- we will fall - tsipikharapyryk
+- I bathed - nimoro
+- you_{sg} bit us - tsiniboro
+- I will wait for them / he will wait for them - piyberyk
+- I will hug you_{pl} / he will hug you_{pl} - tsipapyryk
+- you_{sg} will leave - tsiksi
+- I killed it - tsiboro

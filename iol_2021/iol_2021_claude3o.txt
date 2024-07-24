@@ -1,0 +1,132 @@
+Here are my solutions to the problems:
+
+Problem 1:
+
+(a)  
+moeto waroewo = 160
+ijema joka rati = 59 (same as ije mepija)
+moeto wido ma benomi ka wi = 141
+
+(b) 
+1 = wi
+19 = benomima mepija OR ije ka wi
+26 = widoma benomi 
+104 = moeto idibi ma idibi
+292 = moeto idibi ma enama rati beo daemita wija  
+
+The Ekari number system uses a base of 20. The numbers 1-5 are: wi, wija, waroewo, idibi, idi. 6-9 add -ma to 1-4. 10 = ije. 11-19 use ije plus 1-9. 
+20 = benomi, 40 = daemita wija, 60 = daemita waroewo, etc.  
+Multiples of 20 can also be formed by moeto (= "man") plus a number 1-19.  
+100 = moeto idi.
+
+Problem 2:
+
+(a) Correspondences:
+1H, 2B, 3I, 4D, 5E, 6F, 7G, 8A, 9C, 10J
+
+(b) Correspondences: 
+11K, 12L, 13M, 14N, 15O, 16P, 17Q, 18R, 19S
+
+(c)
+20. be'le - ear of corn 
+21. chikwa - chicken egg (same as ha:k'yawe)
+22. datdanne - chickens
+23. ade - salt 
+24. mulo:we - chocolate
+25. hawe - leaf
+
+(d)
+26. ma:k'yak'yanne  
+27. homannanne
+28. chilo:we
+29. k'yawe  
+30. beyaye
+31. ma'ma'le
+
+(e) Salt Juniper Leaves. Ma'k'yayanne analyzes as ma'- "juniper" + k'yawe "salt" + -yanne (suffix meaning "leaf"). 
+
+In Zuni:
+Compounds: AB = "A of B", e.g. ma:chikwa "loaf of bread" = ma:- "bread" + chikwa "egg" 
+Plurals: ABA = "Bs of A", e.g. mu:chikwa "beads" = mu:we "bead" + chikwa "egg"
+Suffixes: 
+-we = singulative 
+-le = collective (e.g. a pile or field of something)
+-nne = plural (of animates)
+-yanne = leaf
+
+Problem 3:
+
+(a) 
+14. How many women will look after that old man?
+15. Those two women will eat.
+16. Which child arrived? 
+17. How many wild male children will the men see?
+    OR How many male children will the wild men see?  
+18. Those women saw one canoe.
+
+(b)
+19. Navila waga legisesi minasiwena nunumwaya?
+20. Biyamatasi dimdim mtosina tevasi gwadi tokabitam mtona.
+21. Navila gugwadi bikamkwamsi bunukwa makunasina?
+22. Amminana vivila lebani minasina yena menumwenabwaita?  
+23. Legisesi namwaya mtona nayu ka'ukwa nagasisi.
+
+Observations on Kilivila:
+- Verb-initial word order
+- Subject/object markers on verbs:
+   le-: 3sg subject, le-...-si: 3pl subject
+   b-: future + 3sg subj, b-...-si: fut + 3pl subj 
+- Demonstratives: mtona "this", minana "this", makena "that", magudiwena "that"
+   Plural: mtosina, minasina, makesina, magudisina  
+- Question words: amakena "which", amminana "which", navila/kwevila "how many"
+- Numbers: natala "one", nayu "two", ketala "one long object", kweyu "two long objects", tevila "how many people" 
+- Adjectives after nouns, e.g. gwadi magudiwena gudimanabweta "that beautiful child"
+
+Problem 4:
+
+(a) The exception is tũ̀wẽt̀ũ̀rũ̀ "to have". By the regular rules it should be tṹwẽt́ṹrũ̀.
+
+(b) Agbirigba forms:
+
+1. tʊ́rʊ́tʊ́tʊ̂ 
+2. tɛŕɛt́ɛẁʊ̃́
+3. túbіt́úkó
+4. tɪ ̃ńyẽt́ɪr̀ɪt̀ɪ ̃ỳã̀  
+5. tɛb́ɛt́ɛḱʷʊ̃́
+6. tіŕіt́ɪỳõt̀õr̀õ̀
+7. tɪh̀ʷɔt̀ɪg̀â
+
+The derivation of Agbirigba words involves infixing -tV- after each vowel, where V is a high vowel agreeing with the preceding vowel in backness and rounding. Sequences of vowel + nasal are treated as units. Tones are copied along with the vowels.
+
+Problem 5:
+
+(a) Translations to English:
+
+- aharapyryk - I hugged you_{pl} 
+- mymyboro - I will bathe it / he will bathe it
+- uru - I slept
+- tsiksiwynaha - you_{pl} cut it up  
+- ikwak - I hunted
+- ziksi - they left
+
+(b) Translations to Rikbaktsa:
+
+- tsipiknaranaha 
+- amoro  
+- tsikahaboro
+- nihaperywak
+- tsaharapyrywak
+- tsipiksi
+- abeze
+
+Key observations:
+- Verbs show subject agreement: 
+  a- "I", tsi- "you_{sg}", ni- "he/they", tsi-...-naha "we", tsi-...-naha "you_{pl}"
+- Verbs also mark tense/aspect:
+  -wak "future/potential", unmarked for non-future. 
+- Object pronouns are infixed in the verb:
+  -ka- "me/us", -ha- "you_{pl}", -kaha- "you_{pl} object + I/we subject"
+- Verb roots: 
+  -pery "wait for", -ksi "leave", -puru "sleep", -mywak "hunt", -moro/-myboro "bathe", -zomo "arrive", -boro "bite", -knara "fall", -beze "kill", -wy "cut up", -rapyryk "hug"
+
+These are challenging problems that test a range of linguistic skills. Let me know if you need any clarification or have additional questions!
