@@ -1,0 +1,126 @@
+### Problem 1 (20 points)
+
+**Mark the stress:**
+
+| Creek                  | Translation            |
+|------------------------|------------------------|
+| [ifa]                  | dog                    |
+| [ifoci]                | puppy                  |
+| [nâːnaki]              | things                 |
+| [sâːsakwa]             | goose                  |
+| [aktopa]               | bridge                 |
+| [hoktaki]              | women                  |
+| [wanayita]             | to tie                 |
+| [awanayita]            | to tie to              |
+| [isiskitoci]           | little drinking vessel |
+| [aːtamihoma]           | bonnet (car hood)      |
+| [honantaːki]           | men                    |
+| [ilitohtaɬita]         | to cross legs          |
+
+**Stress Placement:**
+
+1. [nɤ ʒip ku ne] – Did I sleep? (The verb is "ʒip" with the stress on "ʒip".)
+
+2. [ati kəmə nirum lapkʰi tʰi ne] – Did he see us? ("lapkʰi" with stress on the verb.)
+
+3. [tarum kəmə nuʔrum cʰam ran ne] – Did they know youpl? ("cʰam" with stress on "cʰam".)
+
+4. [nirum kəmə tarum lan ki ne] – Do we know them? ("lan" with stress on "lan".)
+
+5. [nirum kəmə nɤ cʰam tiʔ ne] – Do we know yousg? ("cʰam" with stress on "cʰam".)
+
+6. [nirum ka tiʔ ne] – Do we sit? ("tiʔ" with stress on the verb.)
+
+---
+
+### Problem 2 (20 points)
+
+**(a) Translate into English:**
+
+1. Did you_{sg} sleep? (nɤ ʒip ku ne)
+2. Did he see us? (ati kəmə nirum lapkʰi tʰi ne)
+3. Did they know you_{pl}? (tarum kəmə nuʔrum cʰam ran ne)
+4. Do we know them? (nirum kəmə tarum lan ki ne)
+5. Do we know you_{sg}? (nirum kəmə nɤ cʰam tiʔ ne)
+6. Are we sitting? (nirum ka tiʔ ne)
+
+**(b) Translate into Hakhun:**
+
+7. Did I beat yousg? – ŋa kə tarum lan tʰu ne
+8. Did they see me? – tarum kəmə nirum lapkʰi ri ne
+9. Does he know yousg? – ati kəmə nɤ cʰam tuʔ ne
+10. Do you_{pl} sleep? – nuʔrum kəmə ʒip tuʔ ne
+
+---
+
+### Problem 3 (20 points)
+
+**(a) Fill in the gaps:**
+
+1. **mbîho** → **peîho** (to go)
+2. **yênom** → **yênom** (wife)
+3. **nêpo** → **pîyo** (animal)
+4. **nêmo** → **yêno** (mother)
+5. **ngásaxo** → **xásaxo** (to feel cold)
+6. **njérere** → **xérere** (side)
+7. **ndôko** → **pôko** (nape)
+8. **noínjoa** → **nôínjoa** (to see it)
+9. **vanénjo** → **vânénjo** (to buy)
+10. **mómindi** → **mômindi** (to be tired)
+11. **ínzikaxovoku** → **ínzikaxovoku** (school)
+
+**(b) Portuguese Borrowings:**
+
+1. **Differences**: These borrowed words have undergone specific phonological changes in Terêna, differing from native words. They might have distinctive patterns in their inflection or pronunciation.
+2. **Translate into Terêna**:
+   - My tin can: **leápina**
+   - My cloak: **keápana**
+
+---
+
+### Problem 4 (20 points)
+
+**(a) Name the missing word:**
+
+- The missing word X is **"biabys"** (meaning 'eggs' in the context).
+- It is implied by context because the number combinations typically follow a pattern where the word for the unit (eggs, betel nuts) is often omitted after the initial mention and only the numeral changes.
+  
+**Examples where "biabys" might be thought missing:**
+
+1. **biabys nybat** (for 'eggs') could imply the number of eggs if not specified explicitly.
+2. **biabys anowip** (for 'betel nuts') similarly could be the missing word in the context of eggs or other items.
+3. **biabys araman** (for 'eggs') where the context involves numbers and types of eggs.
+
+**(b) Translate into English:**
+
+12. 7 eggs
+13. 8 sheets of sago bark
+14. 5 sugar canes
+15. 6 sheets of sago bark
+16. 8 sheets of sago bark
+
+**(c) Translate into Mountain Arapesh:**
+
+17. 4 betel nuts – **nybat atub bøbys**
+18. 11 eggs – **wiwis atub juhurubys**
+19. 20 eggs – **wiwis anowip juhurubys**
+20. 25 sheets of sago bark – **wiwis anowip biagas atugas baigas**
+
+---
+
+### Problem 5 (20 points)
+
+**(a) Family Tree:**
+
+- **Man 1** is **Enu**.
+- **Woman 1** is **Ama**.
+- **Woman 2** is **Kunto**.
+- **Man 2** is **Berko**.
+- **Man 3** is **Yaw**.
+- **Woman 3** is **Esi**.
+
+**(b) Fill in the gaps:**
+
+1. **Yaw**: Yɛfrɛ me ɛnanom **Dubaku ne Kunto**. Yɛfrɛ me **nuanom** Thema ne **Ama**. Yɛfrɛ me **wɔfa** Awotwi. Yɛfrɛ me **wɔfa** Ofori. Yɛfrɛ me **sɛwanom** Esi ne **Kobina**. Yɛfrɛ me **ɔbɔfa** Berko.
+
+2. **Kofi**: Yɛfrɛ me **Man 5**. Yɛfrɛ me banom **Kofi ne Yaw**. Yɛfrɛ me **sɛwanom** Yaw ne **Ama**. Yɛfrɛ me **wɔfa** Kunto ne **Kobina**.

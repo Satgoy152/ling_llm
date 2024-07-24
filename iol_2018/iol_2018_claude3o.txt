@@ -1,0 +1,157 @@
+Here are my solutions to the problems:
+
+Problem 1:
+
+Creek with stress marked:
+
+| Creek                  | Translation            |
+|------------------------|------------------------|
+| [ífa]                  | dog                    |
+| [ifocí]                | puppy                  |
+| [nâːnáki]              | things                 |
+| [sâːsákwa]             | goose                  |
+| [aktópa]               | bridge                 |
+| [hoktáki]              | women                  |
+| [wanayíta]             | to tie                 |
+| [awanayíta]            | to tie to              |
+| [isiskitocí]           | little drinking vessel |
+| [aːtamihóma]           | bonnet (car hood)      |
+| [honantaːkí]           | men                    |
+| [ilitohtáɬita]         | to cross legs          |
+
+Observations:
+- Primary stress usually falls on the second to last syllable 
+- Exceptions:
+  - If penultimate vowel is short and final vowel is long, stress the final (ifocí, isiskitocí)
+  - If penultimate vowel carries a falling tone, it gets the stress (nâːnáki, sâːsákwa)
+- Suffixes and prefixes don't affect stress placement on the root (wanayíta, awanayíta)
+- In compounds, each member is stressed separately (aːtamihóma)
+
+Problem 2: 
+
+(a) Translations to English:
+1. nɤ ʒip ku ne - Do you_{sg} go to sleep? 
+2. ati kəmə nirum lapkʰi tʰi ne - Did he see us?
+3. tarum kəmə nuʔrum cʰam ran ne - Do they know you_{pl}?
+4. nirum kəmə tarum lan ki ne - Do we beat them?  
+5. nirum kəmə nɤ cʰam tiʔ ne - Did we know you_{sg}?
+6. nirum ka tiʔ ne - Do we go?
+
+(b) Translations to Hakhun:
+7. ŋabə nɤ lan tɤʔ ne
+8. tarum kəmə ŋa lapkʰi ri ne  
+9. ati kəmə nɤ cʰam tuʔ ne
+10. nuʔrum ʒip ruʔ ne
+
+Observations:
+- Basic word order: Subject - Object - Verb
+- Yes/no questions formed with final particle ne
+- Subject pronouns: ŋa "I", nɤ "you_{sg}", ati "he", nirum "we", nuʔrum "you_{pl}", tarum "they"  
+- kəmə marks the agent in questions
+- Verbs:
+  ka "go", ʒip "sleep", lapkʰi "see", cʰam "know", lan "beat"
+  Tense/aspect marked by suffixes on the verb: 
+    -ʔ/-k past, -Ø present, -i future
+
+Problem 3:
+
+(a) Filled in gaps:
+1. pîho
+2. mbîyo
+3. yêne
+4. yêum
+5. kéhaxo
+6. xirére
+7. teôko
+8. yexóxoa
+9. vetíxo
+10. meômi
+11. íhikaxovoku
+12. ndôxu
+13. mbîwo
+14. yéherana
+
+(b)
+1. The Portuguese borrowings don't follow the regular alternations between 1st and 2nd person forms. Instead, 1st person just replaces the initial l- with l-, while 2nd person prefixes le- or ke-.
+
+2. My tin can - látana
+   My cloak - kápana 
+
+Other observations:
+- Alternations between 1st and 2nd person forms:
+  - initial mb-/nj-/nd-/ng- becomes p-/x-/t-/k- 
+  - initial v-/y-/r- becomes v-/y-/r-
+  - some vowel changes in the first syllable: o/u → e, a → ya  
+- Phonological processes:
+  - Palatalization: ti → xi / _{i, e}
+  - Vowel harmony: o → e / e_
+
+Problem 4:
+
+(a) The implied word is anowip "forks". It is implied by the classifiers biagas/baigas used for flat flexible objects like sheets of sago bark. 
+
+The linguist thought it was missing in examples 5, 7, 16.
+
+(b) Translations to English:
+12. 7 betel nuts
+13. 3 eggs
+14. 15 sugar canes
+15. 28 sheets of sago bark
+16. 11 sheets of sago bark  
+
+(c) Translations to Mountain Arapesh:
+17. anowip biaruh bøbys
+18. biogu atuhu nybat juhurub
+19. anowip nybat juhurubys 
+20. anowip biabys atugas baigas 
+
+The Mountain Arapesh number system:
+- 1-3 use specific numbers: atub "one", biaruh "two", biagas "three"
+- 4-5 add biaruh/biagas to anowip "forks": anowip biaruh "four", anowip biagas "five"
+- 6-8 use nybat "legs" + biaruh/biagas/anowip: nybat biabys "six", nybat biabys bøbys "seven", anowip biabys bøbys "eight"
+- 9-10 use biogu "knots" + number words: biogu nybat atuh "nine", anowip biagas atugas atug "ten"
+- 11-25 use biogu atuhu/biabys/biagas/anowip + number words
+- 26-30 use araman "man" + number words
+
+Classifiers are used with numbers:
+- Generic: bø-, juhuru-  
+- Long rigid objects (sugar cane): ara-
+- Flat flexible objects (sago bark): baiga- 
+- Oval objects (eggs, betel nuts): -bys
+
+Problem 5:
+
+(a) Family tree with names:
+- Man 1 = Ofori, Woman 1 = Dubaku, Woman 2 = Kunto are siblings.
+- Man 2 = Enu, Man 3 = Berko, Woman 3 = Awotwi, Nsia are siblings. 
+- Ofori has 2 children:
+    - Esi and Kofi
+- Dubaku has 1 child:
+    - Kobina, who marries Efua
+- Kunto and Enu marry and have two children:
+	- Thema and Ama 
+- Berko has 1 child:
+    - Yaw
+- Awotwi has 1 child:
+    - Man 7
+
+(b) Filled in gaps:
+1. 
+Yɛfrɛ me Yaw. Yɛfrɛ me ɛnanom Kunto ne Dubaku. Yɛfrɛ me wɔfa Nsia ne Awotwi. Yɛfrɛ me nuanom Thema ne Ama. Yɛfrɛ me sewaa Awotwi. Yɛfrɛ me sewaanom Esi ne Kofi. Yɛfrɛ me wɔfaase Kobina. Yɛfrɛ me agya Berko.
+
+2.
+Yɛfrɛ me Thema. Yɛfrɛ me banom Kofi ne Esi. Yɛfrɛ me nuanom Yaw ne Ama. Yɛfrɛ me sewaanom Kunto ne Dubaku.  
+
+Kinship terms:
+- me yere "my wife"
+- me banom "my siblings' children" 
+- me agya "my father"
+- me ɛna "my mother"
+- me wɔfa "my mother's brother"  
+- me nuanom "my siblings"
+- me wɔfaase "my mother's brother's child"
+- me sewaa "my father's sister"
+- me sewaanom "my father's sisters"
+- me sewaabanom "my father's sisters' children"
+
+Let me know if you need any clarification or have additional questions!

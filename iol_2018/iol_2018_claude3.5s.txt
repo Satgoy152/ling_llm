@@ -1,0 +1,115 @@
+Thank you for these fascinating linguistics problems. I'll work through each one systematically, providing detailed solutions.
+
+### Problem 1: Creek Stress Patterns
+
+After analyzing the given words, we can identify these stress patterns:
+- Stress usually falls on the penultimate (second-to-last) syllable.
+- In words with 3+ syllables, if the penultimate syllable is short and the antepenultimate (third-to-last) is long, stress shifts to the antepenultimate.
+
+Marking stress on the given words:
+
+[ífa] - dog
+[ifóci] - puppy
+[nâːnaki] - things
+[sâːsakwa] - goose
+[aktópa] - bridge
+[hoktáki] - women
+[wanayíta] - to tie
+[awanayíta] - to tie to
+[isiskitóci] - little drinking vessel
+[aːtamihóma] - bonnet (car hood)
+[honantáːki] - men
+[ilitóhtaɬita] - to cross legs
+
+### Problem 2: Hakhun Sentences
+
+(a) Translating into English:
+
+1. nɤ ʒip ku ne - Do you (sg) sleep?
+2. ati kəmə nirum lapkʰi tʰi ne - Did he see us?
+3. tarum kəmə nuʔrum cʰam ran ne - Did they know you (pl)?
+4. nirum kəmə tarum lan ki ne - Do we beat them?
+5. nirum kəmə nɤ cʰam tiʔ ne - Did we know you (sg)?
+6. nirum ka tiʔ ne - Do we go?
+
+(b) Translating into Hakhun:
+
+7. Did I beat you (sg)? - ŋabə nɤ lan tɤʔ ne
+8. Did they see me? - tarum kəmə ŋa lapkʰi tʰu ne
+9. Does he know you (sg)? - ati kəmə nɤ cʰam ki ne
+10. Do you (pl) sleep? - nuʔrum ʒip kan ne
+
+### Problem 3: Terêna Words
+
+(a) Filling in the gaps:
+
+1. píhi
+2. ônjo
+3. yîno
+4. êno
+5. kásaxo
+6. xíriri
+7. teôko
+8. yoínjoa
+9. venénjo
+10. péemindi
+11. íhikaxevoku
+12. ônju
+13. nîwam
+14. áharana
+
+(b) Portuguese borrowings in Terêna:
+
+1. These borrowed words add a vowel at the beginning in the 1st person singular form, which is not typical for native Terêna words.
+
+2. Translations:
+- my tin can: lámbata
+- my cloak: kámbana
+
+### Problem 4: Mountain Arapesh Number System
+
+(a) The word X is likely "anowip" (meaning "four"). It's implied in examples 6, 7, and 16. The context implies it because these numbers are multiples of 4 plus 1, 2, or 3.
+
+(b) Translating into English:
+
+12. biabys atub bøbys - 7 betel nuts
+13. atub juhurub - 1 egg
+14. nybat atuh araruh - 5 sugar canes
+15. biagas atugas biagas baigas - 12 sheets of sago bark
+16. wiwis baigas - 17 sheets of sago bark
+
+(c) Translating into Mountain Arapesh:
+
+17. 4 betel nuts - anowip
+18. 11 eggs - biogu atut atub juhurubys
+19. 20 eggs - biogu atugu
+20. 25 sheets of sago bark - biogu atugu biogu biagas atugas atug baigas
+
+### Problem 5: Akan Family Relations
+
+(a) Filling in the family tree:
+
+Man 1: Ofori
+Woman 1: Nsia
+Woman 2: Dubaku
+Man 2: Enu
+Man 3: Kofi
+Woman 3: Awotwi
+Woman 4: Esi
+Man 4: Berko
+Man 5: Yaw
+Woman 5: Kunto
+Man 6: Thema
+Woman 6: Ama
+Woman 7: Efua
+Man 7: Kobina
+
+(b) Filling in the gaps:
+
+1. Yaw's statement:
+"Yɛfrɛ me Yaw. Yɛfrɛ me ɛnanom Enu ne Kunto. Yɛfrɛ me nuanom Nsia ne Awotwi. Yɛfrɛ me nuanom Thema ne Ama. Yɛfrɛ me wɔfa Awotwi. Yɛfrɛ me wɔfa Ofori. Yɛfrɛ me wɔfaase Esi ne Kofi. Yɛfrɛ me ba Berko."
+
+2. Ofori's statement:
+"Yɛfrɛ me Ofori. Yɛfrɛ me banom Kofi ne Awotwi. Yɛfrɛ me nananom Yaw ne Berko. Yɛfrɛ me sewaanom Kunto ne Dubaku."
+
+These solutions demonstrate a systematic approach to analyzing linguistic patterns, number systems, and family relations across different languages.

@@ -1,0 +1,103 @@
+Okay, let's solve these computational linguistics problems!
+
+Problem 1:
+
+Stress marking the Creek words:
+
+| Creek                  | Translation            |
+|------------------------|------------------------|
+| [ifá]                  | dog                    |
+| [ifóci]                | puppy                  |
+| [nâːnáki]              | things                 |
+| [sâːsákwa]             | goose                  |
+| [áktopa]               | bridge                 |
+| [hóktaki]              | women                  |
+| [wanáyíta]             | to tie                 |
+| [awanáyíta]            | to tie to              |
+| [isískítóci]           | little drinking vessel |
+| [áːtamíhóma]           | bonnet (car hood)      |
+| [hónantáːki]           | men                    |
+| [ilítóhtáɬíta]         | to cross legs          |
+
+Problem 2:
+
+(a) Translations into English:
+
+1. nɤ ʒip ku ne - Did you_{sg} sleep?  
+2. ati kəmə nirum lapkʰi tʰi ne - Did he see us?
+3. tarum kəmə nuʔrum cʰam ran ne - Do they know you_{pl}?
+4. nirum kəmə tarum lan ki ne - Did we beat them?
+5. nirum kəmə nɤ cʰam tiʔ ne - Do we know you_{sg}?
+6. nirum ka tiʔ ne - Do we go?
+
+(b) Translations into Hakhun:
+
+7. ŋa kəmə nɤ lan tʰu ne - Did I beat you_{sg}? 
+8. ŋabə kəmə tarum lapkʰi tʰɤ ne - Did they see me?
+9. ati kəmə nɤ cʰam tuʔ ne - Does he know you_{sg}?
+10. nuʔrum ʒip ku ne - Do you_{pl} sleep?
+
+Problem 3:
+
+(a) Filling in the gaps:
+
+1. mbîho - to go
+2. __ - pîyo - animal
+3. yêno - to walk
+4. yêno - mother
+5. ngásaxo - to feel cold
+6. njérere - side
+7. ndôko - nape
+8. noínjoa - to see it
+9. vanénjo - to buy
+10. mómindi - to be tired
+11. ínzikaxovoku - school
+12. yôxu - grandfather
+13. nîwo - nephew
+14. ánzarana - hoe
+
+(b) 1. The Portuguese borrowings differ from native Terena words in that they do not have the typical Terena patterns of person marking (prefixes, suffixes) and often show sounds that are uncommon in Terena (e.g. the final -a in lápis → lámbina).
+
+2. Translations into Terêna:
+my tin can - ímbovo leátana
+my cloak - ímbovo keápana
+
+Problem 4:
+
+(a) The missing word is "pieces/items of". The linguist initially thought it was missing in examples 3, 5, and 7, but realized it is implied by the context.
+
+(b) Translations into English:
+12. biabys atub bøbys - 12 betel nuts
+13. atub juhurub - 3 eggs
+14. nybat atuh araruh - 5 sugar canes
+15. biagas atugas biagas baigas - 10 sheets of sago bark
+16. wiwis baigas - 13 sheets of sago bark
+
+(c) Translations into Mountain Arapesh:
+17. anowip atuh bøbys - 4 betel nuts
+18. nybat atut juhurubys - 11 eggs 
+19. nybat juhurub biogu - 20 eggs
+20. wiwis biagas atugas biagas baigas - 25 sheets of sago bark
+
+Problem 5:
+
+(a) Filling in the family tree:
+
+- Man 1: Enu
+- Woman 1: Thema
+- Woman 2: Ama
+- Man 2: Kofi 
+- Man 3: Kobina
+- Woman 3: Awotwi
+- Woman 4: Kunto
+- Man 4: Yaw
+- Man 5: Berko
+- Woman 6: Efua
+- Man 6: Dubaku
+- Woman 7: Esi
+
+(b) Filling in the gaps:
+
+1. Yɛfrɛ me Yaw. Yɛfrɛ me ɛnanom Dubaku ne Kunto. Yɛfrɛ me nuanom Thema ne Ama. Yɛfrɛ me wɔfa Awotwi. Yɛfrɛ me wɔfa Ofori. Yɛfrɛ me nuabaanom Esi ne Nsia. Yɛfrɛ me wɔfaase Berko.
+
+2. Yɛfrɛ me Enu. Yɛfrɛ me banom Kofi ne Kobina. Yɛfrɛ me nuanom Yaw ne Ama. Yɛfrɛ me sewaanom Kunto ne Efua.

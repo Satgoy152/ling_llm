@@ -1,0 +1,113 @@
+### Solution to Problem 1: Creek Language Stress Marking
+
+Mark the stress for the given Creek words:
+
+| Creek                  | Translation                | Stress Marked              |
+|------------------------|----------------------------|----------------------------|
+| [ifa]                  | dog                        | [ífa]                      |
+| [ifoci]                | puppy                      | [ífoci]                    |
+| [nâːnaki]              | things                     | [nâːnaki]                  |
+| [sâːsakwa]             | goose                      | [sâːsakwa]                 |
+| [aktopa]               | bridge                     | [áktopa]                   |
+| [hoktaki]              | women                      | [hóktaki]                  |
+| [wanayita]             | to tie                     | [wanáyita]                 |
+| [awanayita]            | to tie to                  | [awanáyita]                |
+| [isiskitoci]           | little drinking vessel     | [isiskitóci]               |
+| [aːtamihoma]           | bonnet (car hood)          | [aːtamíhoma]               |
+| [honantaːki]           | men                        | [honantáːki]               |
+| [ilitohtaɬita]         | to cross legs              | [ilitohtáɬita]             |
+
+### Solution to Problem 2: Hakhun Language Translation
+
+(a) Translate into English:
+
+1. **nɤ ʒip ku ne** - Did you sleep?
+2. **ati kəmə nirum lapkʰi tʰi ne** - Did he see us?
+3. **tarum kəmə nuʔrum cʰam ran ne** - Did they know youpl?
+4. **nirum kəmə tarum lan ki ne** - Do we beat them?
+5. **nirum kəmə nɤ cʰam tiʔ ne** - Do we know yousg?
+6. **nirum ka tiʔ ne** - Do we go?
+
+(b) Translate into Hakhun:
+
+7. **ŋabə ati lan tʰu ne** - Did I beat yousg?
+8. **tarum kəmə nirum lapkʰi ri ne** - Did they see me?
+9. **ati kəmə nɤ cʰam tuʔ ne** - Does he know yousg?
+10. **nuʔrum ʒip tuʔrum ne** - Do youpl sleep?
+
+### Solution to Problem 3: Terêna Language Gaps and Translation
+
+(a) Fill in the gaps:
+1. **mbîpe** - to go (your form)
+2. **njeôna** - animal (my form)
+3. **njêno** - wife (my form)
+4. **mbûmo** - mother (my form)
+5. **ngâxa** - to feel cold (your form)
+6. **njêre** - side (your form)
+7. **ndôki** - nape (your form)
+8. **noína** - to see it (your form)
+9. **vanêna** - to buy (your form)
+10. **mômi** - to be tired (my form)
+11. **inzikaxoku** - school (your form)
+12. **nôna** - grandfather (my form)
+13. **neôma** - nephew (my form)
+14. **ânza** - hoe (your form)
+
+(b) Regarding borrowed Portuguese words:
+1. **Difference**: These borrowed words maintain a fixed form and typically receive prefix modifications in Terêna that differ from native transformations. Unlike native words, borrowed ones often have an unaltered root with a prefix adapting to person marking.
+2. **Translation**:
+   - **My tin can**: lámbitana
+   - **My cloak**: keámita
+
+### Solution to Problem 4: Mountain Arapesh Number Words
+
+(a) The word X is "biaruh" meaning "sugar cane", which is often implied in context rather than explicitly stated. It is missing in examples:
+- 4. **biogu nybat atuh araruh** - 9 sugar canes (implied)
+- 7. **wiwis atug baigas** - 13 sheets of sago bark (implied)
+- 9. **biogu atugu biogu biaruh atuh araruh** - 23 sugar canes (implied)
+
+(b) Translate into English:
+12. **biabys atub bøbys** - 8 betel nuts
+13. **atub juhurub** - 12 eggs
+14. **nybat atuh araruh** - 9 sugar canes
+15. **biagas atugas biagas baigas** - 10 sheets of sago bark
+16. **wiwis baigas** - 14 sheets of sago bark
+
+(c) Translate into Mountain Arapesh:
+17. **biabys nybat bøbys** - 4 betel nuts
+18. **anowip biabys juhurubys** - 11 eggs
+19. **biogu biogu biabys juhurubys** - 20 eggs
+20. **biogu biogu atug baigas** - 25 sheets of sago bark
+
+### Solution to Problem 5: Akan Family Introduction Analysis
+
+(a) Complete family tree:
+- Man 1: **Ofori**
+- Woman 1: **Kunto**
+- Woman 2: **Thema**
+- Man 2: **Enu**
+- Man 3: **Kofi**
+- Woman 3: **Awotwi**
+- Woman 4: **Ama**
+- Man 4: **Yaw**
+- Man 5: **Kobina**
+- Woman 6: **Esi**
+- Woman 7: **Efua**
+- Man 7: **Berko**
+
+(b) Fill in the gaps:
+1. Yɛfrɛ me Yaw:
+   - Yɛfrɛ me ɛnanom **Dubaku ne Kunto**.
+   - Yɛfrɛ me **wɔfa** Nsia ne **sewaananom**.
+   - Yɛfrɛ me nuanom Thema ne **Ama**.
+   - Yɛfrɛ me **agya** Awotwi.
+   - Yɛfrɛ me **wɔfa** Ofori.
+   - Yɛfrɛ me **nua** Esi ne **Enu**.
+   - Yɛfrɛ me **wɔfaase** Berko.
+
+2. Yɛfrɛ me **Dubaku**:
+   - Yɛfrɛ me banom Kofi ne **Enu**.
+   - Yɛfrɛ me **wɔfaase** Yaw ne **Kobina**.
+   - Yɛfrɛ me **wɔfaase** Kunto ne **Awotwi**.
+
+These solutions offer comprehensive translations and analysis based on the linguistic structures and cultural contexts provided for each language.

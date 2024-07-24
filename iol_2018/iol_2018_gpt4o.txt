@@ -1,0 +1,219 @@
+### Problem 1 (20 points)
+
+Here are some words in Creek and their English translations. The mark [ˊ] indicates stress:
+
+| Creek                  | Translation            |
+|------------------------|------------------------|
+| [cokó]                 | house                  |
+| [cáːlo]                | trout                  |
+| [sókca]                | sack                   |
+| [waːkocí]              | calf                   |
+| [pocóswa]              | axe                    |
+| [famíːca]              | muskmelon              |
+| [yanása]               | bison // buffalo       |
+| [iyanawá]              | his/her cheek          |
+| [hîːspákwa]            | robin                  |
+| [aklowahíː]            | mud                    |
+| [imahicíta]            | to look out for        |
+| [inkosapitá]           | to implore             |
+| [tapassóːla]           | daddy longlegs         |
+| [akkopánka]            | playing                |
+| [cokpilâːpilá]         | whippoorwill           |
+| [toknaːphotí]          | wallet                 |
+| [coːkakiɬɬitá]         | learning               |
+| [ɬafotaháya]           | pumpkin // winter squash |
+| [itiwanayipíta]        | to tie each other      |
+| [ipahankatíta]         | to count us            |
+| [pokkoɬakkoakkopankacóko] | basketball gym         |
+
+Mark the stress:
+
+| Creek                  | Translation            |
+|------------------------|------------------------|
+| [ífa]                  | dog                    |
+| [ifóci]                | puppy                  |
+| [nâːnaki]              | things                 |
+| [sâːsakwa]             | goose                  |
+| [aktópa]               | bridge                 |
+| [hoktáki]              | women                  |
+| [wanayíta]             | to tie                 |
+| [awanayíta]            | to tie to              |
+| [isiskitóci]           | little drinking vessel |
+| [aːtamihóma]           | bonnet (car hood)      |
+| [honantaːkí]           | men                    |
+| [ilitohtaɬitá]         | to cross legs          |
+
+The stress mark is placed on the appropriate syllable based on the pattern observed in the given Creek words.
+### Problem 2 (20 points)
+
+(a) Translate into English:
+
+1. nɤ ʒip ku ne  
+- Do you(sg) sleep?
+
+2. ati kəmə nirum lapkʰi tʰi ne  
+- Did he see us?
+
+3. tarum kəmə nuʔrum cʰam ran ne  
+- Did they know you(pl)?
+
+4. nirum kəmə tarum lan ki ne  
+- Do we beat them?
+
+5. nirum kəmə nɤ cʰam tiʔ ne  
+- Do we know you(sg)?
+
+6. nirum ka tiʔ ne  
+- Do we go?
+
+(b) Translate into Hakhun:
+
+7. Did I beat you(sg)?  
+- ŋabə nɤ lan tʰɤ ne?
+
+8. Did they see me?  
+- tarum kəmə ŋa lapkʰi tʰɤ ne?
+
+9. Does he know you(sg)?  
+- ati kəmə nɤ cʰam ti ne?
+
+10. Do you(pl) sleep?  
+- nuʔrum ʒip ku ne?
+
+### Problem 3 (20 points)
+
+(a) Fill in the gaps.
+
+| 1st person sg   | 2nd person sg   | Translation          |
+|-----------------|-----------------|----------------------|
+| îmam            | îme             | husband              |
+| mbîho           | mbêho           | to go                |
+| yónom           | yéno            | to walk              |
+| mbôro           | peôro           | pants                |
+| ndûti           | tiûti           | head                 |
+| âyom            | yâyo            | brother of a woman   |
+| mbîyo           | pîyo            | animal               |
+| yênom           | yêno            | wife                 |
+| mbûyu           | piûyu           | knee                 |
+| njûpa           | xiûpa           | manioc               |
+| ndoûno           | yêno            | mother               |
+| nêmem           | nîni            | tongue               |
+| mbâho           | peâho           | mouth                |
+| ndâki           | teâki           | arm                  |
+| vô’um           | veô’u           | hand                 |
+| ngásaxo         | ngêsaxo         | to feel cold         |
+| njérere         | jêrere          | side                 |
+| mônzi           | meôhi           | toy                  |
+| ndôko           | doko            | nape                 |
+| ímbovo          | ípevo           | clothes              |
+| enjóvi          | yexóvi          | elder sibling        |
+| noínjoa         | noîno           | to see it            |
+| vanénjo         | vanêno          | to buy               |
+| mbepékena       | pipíkina        | drum                 |
+| ongóvo          | yokóvo          | stomach, soul        |
+| rembéno         | ripíno          | shirt                |
+| nje’éxa         | xi’íxa          | son/daughter         |
+| ivándako        | ivétako         | to sit               |
+| mbirítauna      | piríteuna       | knife                |
+| mómindi         | mômindi         | to be tired          |
+| njovó’i         | xevó’i          | hat                  |
+| ngónokoa        | kénokoa         | to need it           |
+| ínzikaxovoku    | ízikaxovoku     | school               |
+| iníwo           | yôxu            | grandfather          |
+| íningone        | ínikene         | friend               |
+| vandékena       | vetékena        | canoe                |
+| óvongu          | yóvoku          | house                |
+| nzâro           | nîwo            | nephew               |
+| ánzarana        | ázana           | hoe                  |
+| nzapátuna       | hepátuna        | shoe                 |
+
+(b) Some Terena words are borrowed from Portuguese, the national language of Brazil. One example is the word ‘shoe’ above (← Portuguese sapato). Sometimes Portuguese borrowings behave in an unusual way in Terena.
+
+1. In what way are these words different from native Terena words?  
+- The borrowed words follow the same stress pattern and phonetic structure as native Terena words, but they retain their Portuguese phonological properties.
+
+2. Translate into Terêna: my tin can, my cloak.  
+- my tin can: léátana
+- my cloak: kéápana
+
+### Problem 4 (20 points)
+
+(a) A linguist who was examining the data first thought that the word X was missing in three of the examples above. However, studying the language further, the linguist went on to realize that no word is missing, as the word X is usually not used but implied by the context. Name the word X. In which three examples did the linguist think it was missing? How is it implied by the context?
+
+- The word X: "sugar cane"
+- Examples:
+  1. biarah atuh araruh (3 sugar canes)
+  2. biogu nybat atuh araruh (9 sugar canes)
+  3. biogu atugu biogu biaruh atuh araruh (23 sugar canes)
+
+The context implies "sugar cane" based on the counting and the structure of the noun phrases.
+
+(b) Translate into English:
+
+12. biabys atub bøbys  
+- 12 betel nuts
+
+13. atub juhurub  
+- 12 eggs
+
+14. nybat atuh araruh  
+- 6 sugar canes
+
+15. biagas atugas biagas baigas  
+- 20 sheets of sago bark
+
+16. wiwis baigas  
+- 13 sheets of sago bark
+
+(c) Translate into Mountain Arapesh:
+
+17. 4 betel nuts  
+- biabys atub bøbys
+
+18. 11 eggs  
+- wiwis biabys juhurub
+
+19. 20 eggs  
+- biagas atugas biagas baigas
+
+20. 25 sheets of sago bark  
+- biagas atugas biagas baigas
+
+### Problem 5 (20 points)
+
+(a) Supply the family tree with names.
+
+Family tree:
+
+Man 1: Enu  
+Woman 1: Thema  
+Woman 2: Kofi  
+
+Man 2: Kofi  
+Man 3: Kobina  
+Woman 3: Awotwi
+
+Man 1 has 2 children:  
+Woman 4: Yaw  
+Man 4: Ama
+
+Woman 1 has 1 child:  
+Man 5: Kobina (marries Woman 6: Efua)
+
+Woman 2 and Man 2 marry and have two children:  
+Man 6: Ofori  
+Woman 6: Kunto
+
+Man 3 has 1 child:  
+Woman 7: Esi
+
+Woman 3 has 1 child:  
+Man 7: Berko
+
+(b) Here are some more statements by two other men from this family:
+
+1. Yɛfrɛ me Yaw. Yɛfrɛ me ɛnanom Enu. Yɛfrɛ me wɔfaase Nsia ne Kobina. Yɛfrɛ me nuanom Thema ne Kofi. Yɛfrɛ me wɔfaase Awotwi. Yɛfrɛ me wɔfa Ofori. Yɛfrɛ me nuanom Esi ne Efua. Yɛfrɛ me wɔfa Berko.
+
+2. Yɛfrɛ me Kobina. Yɛfrɛ me banom Kofi ne Efua. Yɛfrɛ me ɛnanom Yaw ne Ama. Yɛfrɛ me wɔfa Kunto ne Dubaku.
+
+Good luck!
