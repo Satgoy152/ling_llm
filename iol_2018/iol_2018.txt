@@ -1,3 +1,5 @@
+Prompt: As an expert in computational linguistics solve the following problem:
+
 ### Problem 1 (20 points)
 
 Here are some words in Creek and their English translations. The mark [ˊ] indicates stress:
@@ -43,6 +45,10 @@ Mark the stress:
 | [honantaːki]           | men                    |
 | [ilitohtaɬita]         | to cross legs          |
 
+△Creek (Muskogee) belongs to the Muskogean family. It is spoken by approx. 4,500 people
+in the state of Oklahoma, USA. [ɬ]is a consonant. The mark[ˆ]indicates falling tone. The mark[ː]indicates that the
+preceding vowel is long. —Aleksejs Peguševs
+
 * * *
 ### Problem 2 (20 points)
 
@@ -51,13 +57,13 @@ Here are some sentences in Hakhun and their English translations:
 | Hakhun                        | Translation            |
 |-------------------------------|------------------------|
 | 1. ŋa ka kɤ ne                | Do I go?               |
-| 2. nɤ ʒip tuʔ ne              | Did yousg sleep?       |
+| 2. nɤ ʒip tuʔ ne              | Did you_{sg} sleep?       |
 | 3. ŋabə ati lapkʰi tɤʔ ne     | Did I see him?         |
 | 4. nirum kəmə nuʔrum cʰam ki ne | Do we know youpl?      |
-| 5. nɤbə ŋa lapkʰi rɤ ne        | Do yousg see me?       |
+| 5. nɤbə ŋa lapkʰi rɤ ne        | Do you_{sg} see me?       |
 | 6. tarum kəmə nɤ lan tʰu ne    | Did they beat yousg?   |
-| 7. nuʔrum kəmə ati lapkʰi kan ne | Do youpl see him?      |
-| 8. nɤbə ati cʰam tuʔ ne        | Did yousg know him?    |
+| 7. nuʔrum kəmə ati lapkʰi kan ne | Do you_{pl} see him?      |
+| 8. nɤbə ati cʰam tuʔ ne        | Did you_{sg} know him?    |
 | 9. tarum kəmə nirum lapkʰi ri ne | Do they see us?        |
 | 10. ati kəmə ŋa lapkʰi tʰɤ ne   | Did he see me?         |
 
@@ -75,12 +81,15 @@ Here are some sentences in Hakhun and their English translations:
 7. Did I beat yousg?  
 8. Did they see me?  
 9. Does he know yousg?  
-10. Do youpl sleep?  
+10. Do you_{pl} sleep?  
+
+△! Hakhun belongs to the Sal branch of the Sino-Tibetan family. It is spoken by approx. 10,000 people in the extreme East of India and the neighbouring districts of Myanmar.
+ə and ɤ are vowels. ch, kh, ŋ, th, ʒ and ʔ are consonants. —Peter Arkadiev
 
 * * *
 ### Problem 3 (20 points)
 
-Here are some words in Terêna in two grammatical forms (1st person sg, my … or I …; 2nd person sg, yoursg … or yousg …) and their English translations. Some forms are missing.
+Here are some words in Terêna in two grammatical forms (1st person sg, my … or I …; 2nd person sg, your_{sg} … or you_{sg} …) and their English translations. Some forms are missing.
 
 | 1st person sg   | 2nd person sg   | Translation          |
 |-----------------|-----------------|----------------------|
@@ -132,11 +141,14 @@ Here are some words in Terêna in two grammatical forms (1st person sg, my … o
 | 1st person sg   | 2nd person sg   | Translation          |
 |-----------------|-----------------|----------------------|
 | lámbina         | leápina         | pencil (← Portuguese lápis) |
-| leátana         | tin can (← Portuguese lata) |
-| keápana         | cloak (← Portuguese capa) |
+|                 | leátana         | tin can (← Portuguese lata) |
+|                 | keápana         | cloak (← Portuguese capa) |
 
 1. In what way are these words different from native Terena words?  
 2. Translate into Terêna: my tin can, my cloak.  
+
+△! Terêna belongs to the Bolivia-Paraná branch of the Arawakan family. It is spoken by approx. 15,000 people in Brazil.
+’isaconsonant(knownastheglottalstop). x=shinsheesh. y=yinyum. nj=n+ si in vision. Word-final m indicates the nasal pronunciation of the whole word. The mark ˆ indicates that the vowel is lengthened and pronounced with a falling pitch. The mark ́ indicates that the following consonant is lengthened. —André Nikulin
 
 * * *
 ### Problem 4 (20 points)
@@ -174,6 +186,9 @@ Here are some word combinations in Mountain Arapesh and their English translatio
 19. 20 eggs  
 20. 25 sheets of sago bark  
 
+△! Mountain Arapesh (Bukiyip) belongs to the Torricelli family. It is spoken by approx. 15,000 people in Papua New Guinea.
+Betel nuts are actually seeds of a certain kind of palm. —Aleksejs Peguševs
+
 * * *
 ### Problem 5 (20 points)
 
@@ -187,13 +202,31 @@ Below three Akan men who belong to one family introduce themselves and some memb
 
 (a) Supply the family tree with names.
 
+Family tree:
+- Man 1, Woman 1, Woman 2 are siblings.
+- Man 2, Man 3, Woman 3 are siblings. 
+- Woman 3 is Awotwi
+- Man 1 has 2 children:
+    - Woman 4 and Man 4
+- Woman 1 has 1 child:
+    - Man 5, who marries woman 6
+- Woman 2 and Man 2 marry and have two children:
+	- Man 6 and Woman 6
+- Man 3 has 1 child:
+    - Woman 7
+- Woman 3 has 1 child:
+    - Man 7
+
 (b) Here are some more statements by two other men from this family:
 
-1. Yɛfrɛ me Yaw. Yɛfrɛ me ɛnanom . Yɛfrɛ me Nsia ne . Yɛfrɛ me nuanom Thema ne . Yɛfrɛ me Awotwi. Yɛfrɛ me Ofori. Yɛfrɛ me Esi ne . Yɛfrɛ me Berko.
+1. Yɛfrɛ me Yaw. Yɛfrɛ me ɛnanom ___. Yɛfrɛ me ___ Nsia ne ___. Yɛfrɛ me nuanom Thema ne ___. Yɛfrɛ me ___  Awotwi. Yɛfrɛ me ___ Ofori. Yɛfrɛ me ___ Esi ne ___. Yɛfrɛ me ___ Berko.
 
-2. Yɛfrɛ me . Yɛfrɛ me banom Kofi ne . Yɛfrɛ me Yaw ne . Yɛfrɛ me Kunto ne .
+2. Yɛfrɛ me ___. Yɛfrɛ me banom Kofi ne ___. Yɛfrɛ me ___ Yaw ne ___. Yɛfrɛ me ___ Kunto ne ___.
 
 Fill in the gaps. (Some gaps contain more than one word.)
+
+△! Akan belongs to the Kwa group of the Atlantic-Congo family. It is spoken by approx.
+8,000,000 people in Ghana. —Ksenia Gilyarova
 
 ---
 
