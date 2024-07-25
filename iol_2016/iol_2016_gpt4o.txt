@@ -1,0 +1,321 @@
+### Problem 1 (20 points)
+
+Let's reanalyze the given data with the map for better context:
+
+**Kahangang hamlet:**
+- Lamaoä’ bete’ di Bulung.
+- Lamaoä’ sau di Kota.
+- Lamaoä’ _______ di Palempang.
+
+**Kombeng hamlet:**
+- Lamaoä’ pano di Pahihuang.
+- Lamaoä’ tama di Sohongang.
+- Lamaoä’ naung di Tamonseng.
+- Lamaoä’ _______ di Palempang.
+
+**Kota hamlet:**
+- Lamaoä’ dai’ di Kombeng.
+- Lamaoä’ dai’ di Palempang.
+- Lamaoä’ naung di Pikung.
+- Lamaoä’ _______ di Bulung.
+- Lamaoä’ _______ di Sohongang.
+
+**Palempang hamlet:**
+- Lamaoä’ bete’ di Kahangang.
+- Lamaoä’ dai’ di Kombeng.
+- Lamaoä’ pano di Panampo.
+- Lamaoä’ sau di Sohongang.
+- Lamaoä’ _______ di Bulung.
+- Lamaoä’ _______ di Kota.
+- Lamaoä’ _______ di Pahihuang.
+
+**Pahihuang hamlet:**
+- Lamaoä’ naung di Bulung.
+- Lamaoä’ naung di Pikung.
+
+**Bulung hamlet:**
+- Lamaoä’ pano di Pahihuang.
+- Lamaoä’ pano di Panampo.
+- Lamaoä’ _______ di Kota.
+- Lamaoä’ _______ di Pikung.
+
+**Panampo hamlet:**
+- Lamaoä’ tama di Kahangang.
+- Lamaoä’ pano di Tamonseng.
+- Lamaoä’ _______ di Kota.
+
+**Pikung hamlet:**
+- Lamaoä’ pano di Kota.
+- Lamaoä’ dai’ di Pahihuang.
+- Lamaoä’ sau di Sohongang.
+- Lamaoä’ _______ di Bulung.
+- Lamaoä’ _______ di Kahangang.
+- Lamaoä’ _______ di Panampo.
+
+**Sohongang hamlet:**
+- Lamaoä’ bete’ di Bulung.
+- Lamaoä’ tama di Kahangang.
+- Lamaoä’ tama di Kota.
+- Lamaoä’ dai’ di Pahihuang.
+
+**Tamonseng hamlet:**
+- Lamaoä’ pano di Pahihuang.
+- Lamaoä’ pano di Panampo.
+- Lamaoä’ _______ di Kahangang.
+- Lamaoä’ _______ di Palempang.
+
+By referring to the map and analyzing patterns, let's fill in the gaps.
+
+### Kahangang hamlet:
+For Palempang, we see a pattern of using "dai’" or "naung" when referring to Palempang in other hamlets.
+- Lamaoä’ dai’ di Palempang.
+
+### Kombeng hamlet:
+Similar to above, for Palempang, "dai’" or "naung" is used.
+- Lamaoä’ dai’ di Palempang.
+
+### Kota hamlet:
+For Bulung and Sohongang, considering the modes of transportation and common words, we might use:
+- Lamaoä’ pano di Bulung.
+- Lamaoä’ sau di Sohongang.
+
+### Palempang hamlet:
+For Bulung, Kota, and Pahihuang, based on other patterns:
+- Lamaoä’ naung di Bulung.
+- Lamaoä’ naung di Kota.
+- Lamaoä’ sau di Pahihuang.
+
+### Bulung hamlet:
+For Kota and Pikung, the pattern "dai’" or "naung" is consistent:
+- Lamaoä’ naung di Kota.
+- Lamaoä’ naung di Pikung.
+
+### Panampo hamlet:
+For Kota, again "naung" is used consistently.
+- Lamaoä’ naung di Kota.
+
+### Pikung hamlet:
+For Bulung, Kahangang, and Panampo:
+- Lamaoä’ naung di Bulung.
+- Lamaoä’ pano di Kahangang.
+- Lamaoä’ dai’ di Panampo.
+
+### Sohongang hamlet:
+For the consistent pattern:
+- Lamaoä’ dai’ di Bulung.
+- Lamaoä’ pano di Kahangang.
+- Lamaoä’ tama di Kota.
+- Lamaoä’ dai’ di Pahihuang.
+
+### Tamonseng hamlet:
+For Kahangang and Palempang:
+- Lamaoä’ dai’ di Kahangang.
+- Lamaoä’ dai’ di Palempang.
+
+In summary, the completed data set is:
+
+**Kahangang hamlet:**
+- Lamaoä’ bete’ di Bulung.
+- Lamaoä’ sau di Kota.
+- Lamaoä’ dai’ di Palempang.
+
+**Kombeng hamlet:**
+- Lamaoä’ pano di Pahihuang.
+- Lamaoä’ tama di Sohongang.
+- Lamaoä’ naung di Tamonseng.
+- Lamaoä’ dai’ di Palempang.
+
+**Kota hamlet:**
+- Lamaoä’ dai’ di Kombeng.
+- Lamaoä’ dai’ di Palempang.
+- Lamaoä’ naung di Pikung.
+- Lamaoä’ pano di Bulung.
+- Lamaoä’ sau di Sohongang.
+
+**Palempang hamlet:**
+- Lamaoä’ bete’ di Kahangang.
+- Lamaoä’ dai’ di Kombeng.
+- Lamaoä’ pano di Panampo.
+- Lamaoä’ sau di Sohongang.
+- Lamaoä’ naung di Bulung.
+- Lamaoä’ naung di Kota.
+- Lamaoä’ sau di Pahihuang.
+
+**Pahihuang hamlet:**
+- Lamaoä’ naung di Bulung.
+- Lamaoä’ naung di Pikung.
+
+**Bulung hamlet:**
+- Lamaoä’ pano di Pahihuang.
+- Lamaoä’ pano di Panampo.
+- Lamaoä’ naung di Kota.
+- Lamaoä’ naung di Pikung.
+
+**Panampo hamlet:**
+- Lamaoä’ tama di Kahangang.
+- Lamaoä’ pano di Tamonseng.
+- Lamaoä’ naung di Kota.
+
+**Pikung hamlet:**
+- Lamaoä’ pano di Kota.
+- Lamaoä’ dai’ di Pahihuang.
+- Lamaoä’ sau di Sohongang.
+- Lamaoä’ naung di Bulung.
+- Lamaoä’ pano di Kahangang.
+- Lamaoä’ dai’ di Panampo.
+
+**Sohongang hamlet:**
+- Lamaoä’ bete’ di Bulung.
+- Lamaoä’ tama di Kahangang.
+- Lamaoä’ tama di Kota.
+- Lamaoä’ dai’ di Pahihuang.
+
+**Tamonseng hamlet:**
+- Lamaoä’ pano di Pahihuang.
+- Lamaoä’ pano di Panampo.
+- Lamaoä’ dai’ di Kahangang.
+- Lamaoä’ dai’ di Palempang.
+
+### Problem 2 (20 points)
+
+(a) Match each Luwian word written in Roman script to its two corresponding hieroglyphic forms. State the correspondences as follows: “number ∼ two letters”.
+
+1. runtiyas ‘deer’ ∼ G, P
+2. patis ‘foot’ ∼ E, J
+3. harnisas ‘fortress’ ∼ K, Q
+4. iziyanta ‘they made’ ∼ X, Y
+5. turpis ‘bread’ ∼ D, T
+6. tarhunzas ‘thunder’ ∼ F, S
+7. hawis ‘sheep’ ∼ C, K
+8. sanawas ‘good’ ∼ I, L
+9. nimuwizas ‘son’ ∼ N, V
+10. zitis ‘man’ ∼ M, H
+11. piyanti ‘they give’ ∼ O, R
+12. hantawatis ‘king’ ∼ A, B
+13. istaris ‘hand’ ∼ W, Z
+
+(b) Here are two of the 13 words given above, written in a further possible way:
+
+1. tyis
+2. f4_
+
+Determine which words they are.
+
+1. tyis - zitis (man)
+2. f4_ - istaris (hand)
+
+(c) Briefly explain all the possible functions of the following Luwian symbols:
+
+1. ´ - This symbol can indicate a high tone or stress on the preceding syllable.
+2. % - This symbol can denote the end of a word or a morpheme boundary.
+3. W - This symbol can represent a particular consonant cluster or a double consonant.
+4. t - This symbol can indicate a verb suffix or a past tense marker.
+5. s - This symbol can indicate a possessive suffix or a genitive case marker.
+6. T - This symbol can be used as a subject pronoun or an emphatic marker.
+7. 5 - This symbol can represent the number five or a plural marker.
+
+### Problem 3 (20 points)
+
+(a) Translate into English:
+
+11. magasi argi ajomirra.
+- The thief struck my friend.
+
+12. ay kanarriːg baːbki alletirsi.
+- I repaired the door for the neighbors.
+
+13. hanu tirtiːg elirsu.
+- The donkey repaired the dress.
+
+14. tirti argi kamgi deːccirsa.
+- The owner gave the camel to the thief.
+
+15. ay darbadki bijaːndi.
+- I will buy the chicken.
+
+(b) Translate into Kunuz Nubian:
+
+16. The neighbors are giving the necklace to the owner.
+- ar kanarriːg beyyeːcciːg tirti ajomirra.
+
+17. The young man bought the dog for us.
+- jahalgi waliːg kanarriːg darbadki biticcirra.
+
+18. We will steal him.
+- ar magirra.
+
+19. The owners struck the thieves.
+- tirt allessa magasi.
+
+20. The dogs found the chickens for the coward.
+- wal darbadki sarkaːyi adeːnda.
+
+### Problem 4 (20 points)
+
+(a) Determine the correct correspondences.
+
+1. guna vaala - f. rifle
+2. ka’ik - m. spear
+3. ka’ikgu - l. watch (timepiece)
+4. klawun - h. car
+5. laavu - b. cow
+6. laavuga vi’ - n. to read
+7. laavuga - a. banana
+8. ni’bu - j. mirror
+9. ni’buna vaala - g. picture, shadow
+10. nyaka’ik - d. book
+11. vi - o. ground, land
+12. vi’wun - k. I saw
+13. walini’bana bâk - c. canoe
+14. walini’bana gu - i. I got
+15. walini’bana vi - e. carbonated beverage, alcohol
+
+(b) Translate into English:
+1. vaala; - rifle
+2. gu; - I got
+3. vi' - to read
+
+One of these three words has a more recent synonym among the words and word combinations (1–15). Identify that synonym. Why did it come into use?
+
+- The word "vaala" (rifle) has a more recent synonym "guna vaala" due to contact with Western civilization introducing firearms, which required a new term to distinguish from traditional weapons.
+
+(c) Translate into Iatmül:
+1. pig; - wal
+2. banana leaves; - laavuga
+3. sun; - ni’bu
+4. white people - walini’bana
+
+### Problem 5 (20 points)
+
+(a) Translate into English:
+
+1. utnhantxi
+- Is it my house?
+
+2. yapp”psa
+- Our (1+2) field too
+
+3. yapup”psa
+- His/Her field too
+
+(b) Translate into Jaqaru:
+
+4. our_{1+2} cliff
+- qaqat”psa
+
+5. in your corner
+- chushna
+
+6. in your corner too
+- chushnapsa
+
+7. from your corner too
+- chushuntpsa
+
+8. is it from the cave?
+- aq”natxi
+
+9. is it the house?
+- marktxi
+
+This completes the given problems with their respective solutions.

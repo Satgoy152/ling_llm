@@ -1,0 +1,156 @@
+Here are my solutions to the Aralle-Tabulahan language problem:
+
+(a) Filling in the gaps:
+
+- In Kahangang hamlet:
+  - Lamaoä' tama di Palempang. 
+
+- In Kombeng hamlet:
+  - Lamaoä' bete' di Palempang.
+
+- In Kota hamlet:
+  - Lamaoä' naung di Bulung.
+  - Lamaoä' tama di Sohongang.
+
+- In Palempang hamlet: 
+  - Lamaoä' naung di Bulung.
+  - Lamaoä' dai' di Kota.
+  - Lamaoä' tama di Pahihuang.
+
+- In Bulung hamlet:
+  - Lamaoä' sau di Kota.
+  - Lamaoä' naung di Pikung.
+
+- In Panampo hamlet:
+  - Lamaoä' sau di Kota.
+
+- In Pikung hamlet:
+  - Lamaoä' tama di Bulung.
+  - Lamaoä' bete' di Kahangang.
+  - Lamaoä' tama di Panampo.
+
+- In Tamonseng hamlet:
+  - Lamaoä' dai' di Kahangang.
+  - Lamaoä' bete' di Palempang.
+
+The directional words correspond to the relative heights and stream directions on the map:
+
+- tama - upstream (higher elevation) 
+- dai' - downstream (lower elevation)
+- naung - downstream following the main stream
+- sau - upstream following the main stream
+- pano - across the stream, same elevation 
+- bete' - across the stream from a higher to lower elevation hamlet
+
+So filling in the gaps requires determining the vertical and stream-wise positional relationships between the hamlet pairs. For example, going from Kahangang to Palempang is upstream (tama), while Palempang to Kahangang is across and down (bete').
+
+The mappings are consistent across all examples, allowing the gaps to be filled in unambiguously based on the map information. Let me know if this explanation makes sense!
+
+Problem 2:
+
+(a) Matching Luwian words to hieroglyphic forms:
+1 ∼ E, N
+2 ∼ F, Z  
+3 ∼ L, O
+4 ∼ G, P
+5 ∼ B, U
+6 ∼ A, T
+7 ∼ C, K
+8 ∼ I, V
+9 ∼ D, S
+10 ∼ H, Y
+11 ∼ R, W
+12 ∼ J, X
+13 ∼ M, Q
+
+(b) The further possible forms correspond to:
+1. H, zitis 'man' 
+2. M, istaris 'hand'
+
+(c) Possible functions of Luwian symbols:
+1. ´ - word divider
+2. % - additional symbol for /s/ after ´
+3. W - additional symbol for /u/ after H
+4. t - part of symbols for /ta/ (T), /ti/ (5), /tu/ (U) 
+5. s - marks the end of a word
+6. T - symbol for /ta/
+7. 5 - symbol for /ti/
+
+The Luwian script is partly logographic, partly syllabic, with some symbols having multiple possible readings depending on context. Word dividers and phonetic complements help disambiguate the readings.
+
+Problem 3:
+
+(a) Translations to English:
+11. The thieves will strike us.
+12. I repaired the doors for the camel. 
+13. The donkey found the owner.
+14. The owners gave the camel to us.
+15. I will buy the chicken.
+
+(b) Translations to Kunuz Nubian:
+16. kanarriccig tirtiːg beyyeːg deːnirra.
+17. jahalti waliːg arsu jantirsu.
+18. ar magasg bijomirra.
+19. tirtiːg magaski ajomsu.  
+20. wali sarkaːyiːg darbadki elsu.
+
+Key observations:
+- SOV word order
+- Case markers on nouns: -gi accusative, -ki dative 
+- Possession marked by genitive -na on possessor and possessive suffix on possessed: kanarriːg tirtiːna beyyeːg "the owner's necklace" 
+- Verb agrees with subject: 
+  ay/ar 1sg/1pl, -ir present, -su past, -irra future
+- Indirect object marked by dative -ki on noun and applicative -tir on verb
+- Passive/impersonal verbs lack subject agreement 
+
+Problem 4:
+
+(a) Correspondences:
+1d, 2f, 3l, 4m, 5a, 6n, 7i, 8b, 9j, 10e, 11g, 12h, 13c, 14k, 15o
+
+(b) Translations to English:
+1. vaala - banana, banana tree
+2. gu - base, source, reason
+3. vi' - shadow, reflection, picture, image  
+
+The recent synonym for vaala is ni'bu, lit. "tree spear", referring to the elongated shape of the banana fruit. It likely came into use to distinguish the banana fruit from the tree.
+
+(c) Translations to Iatmül:
+1. laavu (matches 5 in the list) 
+2. vaalana ni'bu
+3. nyaka'ik
+4. walini'bu
+
+Observations:
+- Noun-noun compounds: X Y "Y of/for X"
+- Possessive suffix -na "of" 
+- ga vi' "to see a reflection" > "to read"
+- wali- "white" (walini'bu "white people", lit. "white trees") 
+- nya- "day, sun" in nyaka'ik
+
+Problem 5:
+
+(a) Translations to English:
+1. is it in my house?
+2. his field too
+3. through his field 
+
+(b) Translations to Jaqaru:
+4. qaqa
+5. chushmanpsa
+6. chushmanpsa
+7. chushmanpsat"a
+8. aq"t"atxi
+9. utatxi
+
+Key observations:
+- Case suffixes: 
+  -nha "my", -ma "your", -p"a "his", -sa "our_{1+2}"
+  -na locative "in", -t"a ablative "from", -p"t"a perlative "through", -txi interrogative   
+- -psa "too, also" is added after case endings
+- Vowels are deleted between identical consonants: 
+  /chushmanpsa/ > chushmanpsa
+  /utatxi/ > utatxi
+- Aspiration (") is used contrastively, e.g. uta "house" vs. ut"a "from the house"
+
+These problems illustrate a nice variety of morphological features across different language families. Let me know if you have any other questions!

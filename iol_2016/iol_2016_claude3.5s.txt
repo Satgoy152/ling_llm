@@ -1,0 +1,133 @@
+I'll analyze the responses and the map to determine the directional terms used in Aralle-Tabulahan, then fill in the gaps accordingly.
+
+From the given responses, we can deduce:
+
+- bete' = upriver
+- sau = downriver
+- pano = across (on the same elevation)
+- tama = inward (towards the river)
+- naung = down (to lower elevation)
+- dai' = up (to higher elevation)
+
+Now I'll fill in the gaps:
+
+Kahangang:
+- Lamaoä' dai' di Palempang.
+
+Kombeng:
+- Lamaoä' bete' di Palempang.
+
+Kota:
+- Lamaoä' bete' di Bulung.
+- Lamaoä' tama di Sohongang.
+
+Palempang:
+- Lamaoä' bete' di Bulung.
+- Lamaoä' sau di Kota.
+- Lamaoä' naung di Pahihuang.
+
+Bulung:
+- Lamaoä' sau di Kota.
+- Lamaoä' naung di Pikung.
+
+Panampo:
+- Lamaoä' dai' di Kota.
+
+Pikung:
+- Lamaoä' dai' di Bulung.
+- Lamaoä' dai' di Kahangang.
+- Lamaoä' dai' di Panampo.
+
+Tamonseng:
+- Lamaoä' dai' di Kahangang.
+- Lamaoä' bete' di Palempang.
+
+These translations are based on the relative positions and elevations of the hamlets as shown on the map, using the directional terms deduced from the given responses.
+
+### Problem 2: Luwian Hieroglyphs
+
+(a) Matching Roman script to hieroglyphic forms:
+
+1 ~ HV
+2 ~ EU
+3 ~ OY
+4 ~ AB
+5 ~ NQ
+6 ~ FT
+7 ~ CK
+8 ~ IL
+9 ~ MX
+10 ~ GR
+11 ~ DW
+12 ~ PS
+13 ~ JZ
+
+(b) Additional hieroglyphic forms:
+1. tyis corresponds to 'man' (zitis)
+2. f4_ corresponds to 'hand' (istaris)
+
+(c) Functions of Luwian symbols:
+
+1. ´: Likely a phonetic complement or determinative
+2. %: Possibly a plural marker or grammatical suffix
+3. W: Seems to be used in words related to animals
+4. t: Could be a verbal marker or tense indicator
+5. s: Appears to be a common ending, possibly a nominative case marker
+6. T: Might represent a specific consonant sound
+7. 5: Could be a logogram for a common concept
+
+### Problem 3: Kunuz Nubian
+
+(a) Translating to English:
+
+11. The thieves will strike us.
+12. I repaired the door for the neighbor.
+13. The donkey found the owner.
+14. The owner gave us the camel.
+15. I am buying the chicken.
+
+(b) Translating to Kunuz Nubian:
+
+16. kanarri tirti beyyeːg ticcirra.
+17. jahali argi waliːg jaːntirsu.
+18. ar mani bimaːgri.
+19. tirti magaski ajomsu.
+20. wali sarkaːygi darbadki eldeːntirsu.
+
+### Problem 4: Iatmül
+
+(a) Determining correspondences:
+
+1-a, 2-m, 3-f, 4-h, 5-b, 6-e, 7-d, 8-c, 9-j, 10-g, 11-o, 12-k, 13-l, 14-n, 15-i
+
+(b) Translating to English:
+1. vaala - banana
+2. gu - to see
+3. vi' - to get
+
+The more recent synonym is "laavuga vi'" for "to read", which likely came into use with the introduction of written language.
+
+(c) Translating to Iatmül:
+1. pig - ka'ik
+2. banana leaves - vaala ni'bu
+3. sun - nyaka'ik
+4. white people - walini'bana
+
+"ka'ik" (pig) coincides with one of the words in the list.
+
+### Problem 5: Jaqaru
+
+(a) Translating to English:
+1. utnhantxi - is it in my house?
+2. yapp"psa - his field too
+3. yapup"psa - the field too
+
+(b) Translating to Jaqaru:
+4. qaqst"a
+5. chushmanpsa
+6. chushmanpsa
+7. chushmat"psa
+8. aq"t"txi
+9. uttxi
+
+These translations demonstrate the complex morphological structure of Jaqaru, including its possession, location, and question markers.

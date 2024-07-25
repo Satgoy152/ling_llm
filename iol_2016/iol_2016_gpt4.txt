@@ -1,0 +1,147 @@
+### Solution to Problem 1: Aralle-Tabulahan Language Gaps (Based on the Map and Responses)
+
+Based on the responses from various hamlets and the locations depicted on the map, let's attempt to logically fill in the missing answers by considering typical travel routes and unique responses not mentioned elsewhere.
+
+- **In Kahangang hamlet:**
+  - Lamaoä’ **pano** di Palempang. (Given "pano" appears in other travel contexts to further locations, assuming travel to a non-neighboring hamlet.)
+
+- **In Kombeng hamlet:**
+  - Lamaoä’ **sau** di Palempang. (Using "sau" since it is used elsewhere for traveling to Kota, a similar distance as Palempang.)
+
+- **In Kota hamlet:**
+  - Lamaoä’ **pano** di Bulung. (Given "pano" is used in similar travel contexts to neighboring hamlets.)
+  - Lamaoä’ **beté’** di Sohongang. ("beté’" reflects movement to nearby places.)
+
+- **In Palempang hamlet:**
+  - Lamaoä’ **sau** di Bulung. (Utilizing "sau" due to the proximity of Bulung.)
+  - Lamaoä’ **tama** di Kota. ("tama" generally denotes movement to a place of a similar or slightly further distance.)
+  - Lamaoä’ **naung** di Pahihuang. (Using "naung" as it denotes moving to a location not directly adjacent but not far either.)
+
+- **In Bulung hamlet:**
+  - Lamaoä’ **dai’** di Kota. ("dai’" used similarly for other inter-hamlet movements.)
+  - Lamaoä’ **sau** di Pikung. ("sau" seems appropriate for a mid-range travel distance.)
+
+- **In Panampo hamlet:**
+  - Lamaoä’ **beté’** di Kota. ("beté’" suggests movement to a neighboring hamlet.)
+
+- **In Pikung hamlet:**
+  - Lamaoä’ **pano** di Bulung. (Given "pano" is used for similar distances.)
+  - Lamaoä’ **beté’** di Kahangang. ("beté’" for near places, considering the map’s scale.)
+  - Lamaoä’ **sau** di Panampo. ("sau" reflects a bit further distance similar to Palempang.)
+
+- **In Tamonseng hamlet:**
+  - Lamaoä’ **beté’** di Kahangang. ("beté’" for nearby places.)
+  - Lamaoä’ **sau** di Palempang. ("sau" indicates a slightly longer yet not the furthest journey.)
+
+This method fills in the gaps based on the logical deduction from other answers in similar or neighboring travel patterns, given the map provided. Each chosen verb (pano, beté’, sau, dai’, naung, tama) has a contextual use that fits with the travel distances and directions inferred from the map.
+
+### Solution to Problem 2: Luwian Hieroglyphic Correspondences
+
+Given the list of Luwian words and their possible hieroglyphic forms, we will attempt to match each word with its two corresponding hieroglyphic forms:
+
+**1. runtiyas ‘deer’**
+   - Correspondences: **Y (f_is), Z (A°s)**
+
+**2. patis ‘foot’**
+   - Correspondences: **T (A50t), E (Ts)**
+
+**3. harnisas ‘fortress’**
+   - Correspondences: **C (HWs), Q (ÚWs)**
+
+**4. iziyanta ‘they made’**
+   - Correspondences: **R (°), F (A50´)**
+
+**5. turpis ‘bread’**
+   - Correspondences: **L (v), U (T)**
+
+**6. tarhunzas ‘thunder’**
+   - Correspondences: **W (vås), M (f4Wis)**
+
+**7. hawis ‘sheep’**
+   - Correspondences: **G (å), K (qHWs)**
+
+**8. sanawas ‘good’**
+   - Correspondences: **I (sNWs), V (´ys)**
+
+**9. nimuwizas ‘son’**
+   - Correspondences: **O (!fss), S (y2is)**
+
+**10. zitis ‘man’**
+   - Correspondences: **J (H!), X (H´%)**
+
+**11. piyanti ‘they give’**
+   - Correspondences: **P (å0T), N (5Ts)**
+
+**12. hantawatis ‘king’**
+   - Correspondences: **A (HtWTs), D (5)**
+
+**13. istaris ‘hand’**
+   - Correspondences: **B (+), H („0s)**
+
+### Further Possible Way Analysis:
+
+**1. tyis**
+   - This matches with **istaris ‘hand’**, since the root sounds similar.
+
+**2. f4_**
+   - Matches **hantawatis ‘king’** based on common symbol usage in other confirmed words.
+
+### Symbols' Functions:
+
+**1. ´**
+   - Indicates vowel modification or a specific phonetic trait not represented in the Roman script.
+
+**2. %**
+   - Typically used to represent unique or composite sounds, often modifying the preceding letter or as a standalone symbol for a specific sound.
+
+**3. W**
+   - Likely represents a labial sound or a phonetic component involving labial articulation.
+
+**4. t**
+   - Represents the consonantal sound 't', used in various contexts.
+
+**5. s**
+   - Represents the consonantal sound 's'.
+
+**6. T**
+   - Symbol for the Luwian hieroglyph representing the sound 't' or a similar articulation, possibly emphatic.
+
+**7. 5**
+   - Could symbolize a numeral, a specific modifier in pronunciation, or a placeholder in transcription.
+
+### Solution to Problem 3: Kunuz Nubian Translation
+
+#### Translate into English:
+
+**11. magasi argi ajomirra.**
+   - The thief struck the horse.
+
+**12. ay kanarriːg baːbki alletirsi.**
+   - I repaired the door for the camels.
+
+**13. hanu tirtiːg elirsu.**
+   - The donkey found the dress.
+
+**14. tirti argi kamgi deːccirsa.**
+   - The owner gave the camel to the thief.
+
+**15. ay darbadki bijaːndi.**
+   - I will strike the chicken.
+
+#### Translate into Kunuz Nubian:
+
+**16.** Arkanarriːg adːeːndi tirti. 
+   - The neighbours are giving the necklace to the owner.
+
+**17.** Magasi baːbgi kanarriːcciːg ajatirrsu.
+   - The young man bought the dog for us.
+
+**18.** Ar hanuːg allersu.
+   - We will steal him.
+
+**19.** Tirtiːgi magaski bijaːndi.
+   - The owners struck the thieves.
+
+**20.** Magasi darbadgi ticcirsu.
+   - The dogs found the chickens for the coward.
+

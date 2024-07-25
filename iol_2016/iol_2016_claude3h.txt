@@ -1,0 +1,132 @@
+Okay, let's solve this computational linguistics problem about the Aralle-Tabulahan language spoken in the hamlets of Salu Leang.
+
+Problem 1:
+
+Filling in the gaps:
+
+In Kahangang hamlet:
+- Lamaoä' pora di Palempang.
+
+In Kombeng hamlet: 
+- Lamaoä' pora di Palempang.
+
+In Kota hamlet:
+- Lamaoä' pora di Bulung.
+- Lamaoä' pora di Sohongang.
+
+In Palempang hamlet:
+- Lamaoä' pora di Bulung.
+- Lamaoä' pora di Kota.
+- Lamaoä' pora di Pahihuang.
+
+In Bulung hamlet:
+- Lamaoä' pora di Kota.
+- Lamaoä' pora di Pikung.
+
+In Panampo hamlet:
+- Lamaoä' pora di Kota.
+
+In Pikung hamlet:
+- Lamaoä' pora di Kahangang.
+- Lamaoä' pora di Panampo.
+
+In Tamonseng hamlet:
+- Lamaoä' pora di Kahangang.
+- Lamaoä' pora di Palempang.
+
+The missing word is "pora" which means "to go" in the Aralle-Tabulahan language.
+
+Problem 2:
+
+(a) Matching the Luwian words written in Roman script to their hieroglyphic forms:
+
+1. runtiyas ∼ HtWTs, „0s
+2. patis ∼ A50´, A50t
+3. harnisas ∼ HWs, K
+4. iziyanta ∼ Ts, ÚWs
+5. turpis ∼ +, H´%
+6. tarhunzas ∼ å, å0T
+7. hawis ∼ C, Q
+8. sanawas ∼ I, W
+9. nimuwizas ∼ sNWs, y2is
+10. zitis ∼ J, v
+11. piyanti ∼ F, f4Wis
+12. hantawatis ∼ H!, f_is
+13. istaris ∼ E, L
+
+(b) 1. tyis = zitis (man)
+    2. f4_ = f4Wis (they give)
+
+(c) Functions of the Luwian symbols:
+1. ´ - denotes vowel length
+2. % - logogram (represents a whole word)
+3. W - syllabic sign (represents a CV syllable)
+4. t - consonant sign (represents a single consonant)
+5. s - consonant sign (represents a single consonant)
+6. T - consonant sign (represents a single consonant)
+7. 5 - numeric sign (represents a numerical value)
+
+Problem 3:
+
+(a) Translations into English:
+11. magasi argi ajomirra - The thief will strike us.
+12. ay kanarriːg baːbki alletirsi - I found the camels for the owner. 
+13. hanu tirtiːg elirsu - The donkey found the dress.
+14. tirti argi kamgi deːccirsa - The owner gave the camels to us.
+15. ay darbadki bijaːndi - I am buying the chickens.
+
+(b) Translations into Kunuz Nubian:
+16. kadeːcciːg argi beyyeːg adaːnta - The neighbours are giving the necklace to the owner.
+17. jahali wali kanarriːg ajaːniti - The young man bought the dog for us.
+18. ar ticcirsu - We will steal him.
+19. kadarri magaski dabardki biticcirra - The owners struck the thieves.
+20. wal darbadki sarkaːyi baːbiːg elirsu - The dogs found the chickens for the coward.
+
+Problem 4:
+
+(a) Correspondences:
+1. guna vaala - o (ground, land)
+2. ka'ik - c (canoe) 
+3. ka'ikgu - h (car)
+4. klawun - d (book)
+5. laavu - e (carbonated beverage, alcohol)
+6. laavuga vi' - k (I saw)
+7. laavuga - n (to read)
+8. ni'bu - g (picture, shadow)
+9. ni'buna vaala - o (ground, land)
+10. nyaka'ik - j (mirror)
+11. vi - i (I got)
+12. vi'wun - l (watch (timepiece))
+13. walini'bana bâk - m (spear)
+14. walini'bana gu - b (cow)
+15. walini'bana vi - a (banana)
+
+(b) Translations into English:
+1. vaala - ground, land
+2. gu - cow
+3. vi' - I got
+
+The more recent synonym for "ground, land" is "guna vaala" (1), which came into use to distinguish it from the traditional meaning.
+
+(c) Translations into Iatmül:
+1. vavamba - pig
+2. laavuga - banana leaves
+3. waam - sun
+4. walini'bana bâk - white people
+
+The word "laavuga" (7) is the Iatmül translation for "banana leaves".
+
+Problem 5:
+
+(a) Translations into English:
+1. utnhantxi - is it my house?
+2. yapp"psa - in our_{1+2} field too
+3. yapup"psa - in their field too
+
+(b) Translations into Jaqaru:
+4. qaqat"a - our_{1+2} cliff
+5. chushp"a - in your corner
+6. chushp"a - in your corner too 
+7. chushp"t"a - from your corner too
+8. aq"nha - is it from the cave?
+9. ishma - is it the house?

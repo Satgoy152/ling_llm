@@ -1,0 +1,195 @@
+### Problem 1
+
+To fill in the gaps for each hamlet's answers to "Umba laungngola? 'Where are you going?'", we need to analyze the patterns of the provided sentences and infer the missing answers. We use the information that each sentence follows the pattern: "Lamaoä’ [verb] di [place]."
+
+Here’s a systematic approach to solve this problem:
+
+1. **Identify the places and verbs in each hamlet's responses.** This will help us fill in the gaps consistently.
+
+2. **Use cross-references**: For each place (e.g., Bulung, Kota, etc.), identify common patterns in the answers from other hamlets.
+
+Let’s fill in the gaps:
+
+**In Kahangang hamlet:**
+- Lamaoä’ bete’ di Bulung.
+- Lamaoä’ sau di Kota.
+- Lamaoä’ **pano** di Palempang. *(Based on pattern, "pano" matches the common verb in other places)*
+
+**In Kombeng hamlet:**
+- Lamaoä’ pano di Pahihuang.
+- Lamaoä’ tama di Sohongang.
+- Lamaoä’ naung di Tamonseng.
+- Lamaoä’ **bete’** di Palempang. *(Based on pattern and other answers)*
+
+**In Kota hamlet:**
+- Lamaoä’ dai’ di Kombeng.
+- Lamaoä’ dai’ di Palempang.
+- Lamaoä’ naung di Pikung.
+- Lamaoä’ **pano** di Bulung. *(Based on pattern and other answers)*
+- Lamaoä’ **tama** di Sohongang. *(Based on pattern and other answers)*
+
+**In Palempang hamlet:**
+- Lamaoä’ bete’ di Kahangang.
+- Lamaoä’ dai’ di Kombeng.
+- Lamaoä’ pano di Panampo.
+- Lamaoä’ sau di Sohongang.
+- Lamaoä’ **pano** di Bulung. *(Based on pattern and other answers)*
+- Lamaoä’ **dai’** di Kota. *(Based on pattern and other answers)*
+- Lamaoä’ **tama** di Pahihuang. *(Based on pattern and other answers)*
+
+**In Pahihuang hamlet:**
+- Lamaoä’ naung di Bulung.
+- Lamaoä’ naung di Pikung.
+
+**In Bulung hamlet:**
+- Lamaoä’ pano di Pahihuang.
+- Lamaoä’ pano di Panampo.
+- Lamaoä’ **dai’** di Kota. *(Based on pattern and other answers)*
+- Lamaoä’ **bete’** di Pikung. *(Based on pattern and other answers)*
+
+**In Panampo hamlet:**
+- Lamaoä’ tama di Kahangang.
+- Lamaoä’ pano di Tamonseng.
+- Lamaoä’ **dai’** di Kota. *(Based on pattern and other answers)*
+
+**In Pikung hamlet:**
+- Lamaoä’ pano di Kota.
+- Lamaoä’ dai’ di Pahihuang.
+- Lamaoä’ sau di Sohongang.
+- Lamaoä’ **bete’** di Bulung. *(Based on pattern and other answers)*
+- Lamaoä’ **naung** di Kahangang. *(Based on pattern and other answers)*
+- Lamaoä’ **pano** di Panampo. *(Based on pattern and other answers)*
+
+**In Sohongang hamlet:**
+- Lamaoä’ bete’ di Bulung.
+- Lamaoä’ tama di Kahangang.
+- Lamaoä’ tama di Kota.
+- Lamaoä’ dai’ di Pahihuang.
+
+**In Tamonseng hamlet:**
+- Lamaoä’ pano di Pahihuang.
+- Lamaoä’ pano di Panampo.
+- Lamaoä’ **tama** di Kahangang. *(Based on pattern and other answers)*
+- Lamaoä’ **bete’** di Palempang. *(Based on pattern and other answers)*
+
+### Problem 2
+
+(a) **Match each Luwian word written in Roman script to its two corresponding hieroglyphic forms:**
+
+1. runtiyas ~ I. sNWs
+2. patis ~ E. Ts, U. T
+3. harnisas ~ J. H!
+4. iziyanta ~ A. HtWTs
+5. turpis ~ D. 5
+6. tarhunzas ~ K. qHWs
+7. hawis ~ C. HWs, N. 5Ts
+8. sanawas ~ Z. A°s
+9. nimuwizas ~ M. f4Wis
+10. zitis ~ F. A50´
+11. piyanti ~ V. ´ys
+12. hantawatis ~ L. v
+13. istaris ~ Y. f_is
+
+(b) **Determine which words are written as tyis and f4_:**
+
+1. tyis ~ zitis
+2. f4_ ~ hawis
+
+(c) **Explain functions of the following Luwian symbols:**
+
+1. ´ – May denote a suffix or part of a compound word.
+2. % – Likely used for a specific phonetic value or word ending.
+3. W – May represent a common root or word base.
+4. t – Often used as a suffix or part of a word structure.
+5. s – Commonly used as a suffix indicating a plural form or a case marker.
+6. T – Represents a common phoneme or root.
+7. 5 – Likely denotes a specific phonetic value or word ending.
+
+### Problem 3
+
+(a) **Translate into English:**
+
+11. magasi argi ajomirra.  
+   *The thief gave the necklace to the owner.*
+
+12. ay kanarriːg baːbki alletirsi.  
+   *I bought the door for the neighbours.*
+
+13. hanu tirtiːg elirsu.  
+   *The owner repaired the donkey.*
+
+14. tirti argi kamgi deːccirsa.  
+   *The owner stole the camels from the neighbours.*
+
+15. ay darbadki bijaːndi.  
+   *I am buying the chicken.*
+
+(b) **Translate into Kunuz Nubian:**
+
+16. The neighbours are giving the necklace to the owner.  
+   *magasi argi ajomirra.*
+
+17. The young man bought the dog for us.  
+   *ay beyyeːcciːg ajomirri.*
+
+18. We will steal him.  
+   *ar kanarriːg elirsu.*
+
+19. The owners struck the thieves.  
+   *aygi darbadki bijomri.*
+
+20. The dogs found the chickens for the coward.  
+   *magasi argi darbadki biticcirra.*
+
+### Problem 4
+
+(a) **Determine the correct correspondences:**
+
+1. guna vaala – o. ground, land
+2. ka’ik – b. cow
+3. ka’ikgu – b. cow
+4. klawun – k. I saw
+5. laavu – e. carbonated beverage, alcohol
+6. laavuga vi’ – e. carbonated beverage, alcohol
+7. laavuga – e. carbonated beverage, alcohol
+8. ni’bu – i. I got
+9. ni’buna vaala – a. banana
+10. nyaka’ik – f. rifle
+11. vi – l. watch (timepiece)
+12. vi’wun – l. watch (timepiece)
+13. walini’bana bâk – j. mirror
+14. walini’bana gu – g. picture, shadow
+15. walini’bana vi – d. book
+
+(b) **Translate into English:**
+
+1. vaala; – ground, land
+2. gu; – picture, shadow
+3. vi' – watch (timepiece)
+
+**Synonym: "vi'"** – A more recent synonym of "vi'" is "watch (timepiece)." This likely came into use due to the introduction of Western timekeeping devices.
+
+(c) **Translate into Iatmül:**
+
+1. pig – **no direct correspondence;** might use general term.
+2. banana leaves – **no direct correspondence;** might use specific phrase.
+3. sun – **no direct correspondence;** might use different term.
+4. white people – **likely related to modern terms introduced due to contact.**
+
+### Problem 5
+
+(a) **Translate into English:**
+
+1. utnhantxi – *in your house*
+2. yapp”psa – *in our field too*
+3. yapup”psa – *in our field too*
+
+(b) **Translate into Jaqaru:**
+
+4. our_{1+2} cliff – *qaqat”a*
+5. in your corner – *chushp”a*
+6. in your corner too – *chushuntxi*
+7. from your corner too – *qucxst”psa*
+8. is it from the cave? – *chushuntxi*
+9. is it the house? – *utamt”a*
+
