@@ -1,0 +1,204 @@
+### Problem 1 (20 points)
+The following are sentences in the Georgian language and their English translations in arbitrary order:
+
+**Georgian Sentences:**
+- erti ts’iteli kalis ts’iteli ch’itis ts’iteli kalata aris.
+- orive kalis ts’iteli ch’iti aris.
+- erti kalis shavi ch’iti aris.
+- katsi ch’itis kali aris.
+
+**English Translations:**
+- Both women are red (this sentence is ambiguous: "red" may refer to either the women or something they possess).
+- One woman is black.
+- One of the red women has a red goat.
+- Both women have a red goat.
+
+(a) Determine the correct correspondences.
+
+(b) Translate into Georgian:
+1. The red man has a goat.
+   - ts’iteli katsi ts’iteli ch’itis kali aris.
+
+2. Both men are black.
+   - orive katsi shavi arian.
+
+3. One woman has a black goat.
+   - erti kalis shavi ch’itis kali aris.
+
+4. Both women are red.
+   - orive kalis ts’iteli arian.
+
+---
+
+### Problem 2 (20 points)
+The following are words from various languages and their English translations. Some translations are missing:
+
+**Twi:**
+- wo ho te sɛn?: How are you?
+- me ho yɛ: I am well.
+
+**Ga:**
+- Afɛ he?e: How are you?
+- Mi yoo: I am well.
+
+**Ewe:**
+- Efɔa?: How are you?
+- Me gbona: I am well.
+
+**Fante:**
+- Wo ho tɔ wo? Hen?: How are you?
+- Me ho yɛ: I am well.
+
+**Dangme:**
+- Hia yɛkɛ: How are you?
+- Mi koo: I am well.
+
+(a) Determine the correct correspondences for the missing translations.
+
+(b) Translate into English:
+1. Me yoo: I am well. (Ga)
+2. Wo ho te sɛn?: How are you? (Twi)
+3. Mi koo: I am well. (Dangme)
+
+(c) Translate into the respective languages:
+1. How are you? (Fante)
+   - Wo ho tɔ wo? Hen?
+
+2. I am well. (Ewe)
+   - Me gbona.
+
+---
+
+### Problem 3 (20 points)
+Here are sentences in the Seneca language and their English translations. The symbol # stands for a space between words, and (1), (2), (3), and so on, are symbols for morphemes which will be explained below the table.
+
+**Seneca Sentences:**
+1. ya’wënítha# (1)tha (2)ya (3)ní (4)tha (5)ní (6)tha.
+2. hë:wakëtho# (1)tho (2)wa (3)kë (4)tho (5)kë (6)tho.
+3. shä:wa:she# (1)she (2)wa (3)shä (4)she (5)shä (6)she.
+4. wëníshe# (1)we (2)ní (3)we (4)she (5)ní (6)she.
+
+**English Translations:**
+- The flower has bloomed.
+- The dog is running.
+- The boy is eating.
+- The girl is singing.
+
+Assignment 1. Match the correct translations with the sentences.
+
+Assignment 2. Translate into Seneca:
+1. The boy is running.
+   - hë:wakëtho# (1)tho (2)wa (3)kë (4)tho (5)kë (6)tho.
+
+2. The girl has bloomed.
+   - ya’wënítha# (1)tha (2)ya (3)ní (4)tha (5)ní (6)tha.
+
+3. The flower is singing.
+   - wëníshe# (1)we (2)ní (3)we (4)she (5)ní (6)she.
+
+4. The dog is eating.
+   - shä:wa:she# (1)she (2)wa (3)shä (4)she (5)shä (6)she.
+
+---
+
+### Problem 4 (20 points)
+Below are words and their translations from an ancient language into English. Some translations are missing:
+
+| Ancient Language       | English               |
+|------------------------|-----------------------|
+| bian                   | bread                 |
+| cuni                   | water                 |
+| dou                    | house                 |
+| efi                    | man                   |
+| fodi                   | woman                 |
+| gagino                 | child                 |
+| hemi                   | sun                   |
+| huni                   | moon                  |
+| ini                    | star                  |
+| jiri                   | tree                  |
+| koko                   | fruit                 |
+| lomu                   | day                   |
+| miti                   | night                 |
+| nika                   | earth                 |
+| oli                    | sky                   |
+| piu                    | fire                  |
+| quli                   | river                 |
+| rimi                   | mountain              |
+| sini                   | wind                  |
+| tumi                   | animal                |
+| viro                   | stone                 |
+| wumu                   | rain                  |
+| xini                   | cloud                 |
+| yami                   | light                 |
+| zomi                   | dark                  |
+
+Assignment 1. Fill in the gaps.
+
+Assignment 2. Translate into the ancient language:
+1. The man is eating bread.
+   - efi bian.
+
+2. The woman is drinking water.
+   - fodi cuni.
+
+3. The child is playing with the dog.
+   - gagino tumi.
+
+4. The sun is shining.
+   - hemi yami.
+
+---
+
+### Problem 5 (20 points)
+Below you see phrases from an unknown language and their English translations:
+
+| Unknown Language       | English                           |
+|------------------------|-----------------------------------|
+| ipte menar             | my house                          |
+| ipto menar             | your house                        |
+| ipte s'lar             | my dog                            |
+| ipto s'lar             | your dog                          |
+| ipti s'lar             | his/her dog                       |
+| iptu menar             | our house                         |
+| ipte menar-lar         | my houses                         |
+| ipto menar-lar         | your houses                       |
+| ipte s'lar-lar         | my dogs                           |
+| ipto s'lar-lar         | your dogs                         |
+| ipti s'lar-lar         | his/her dogs                      |
+| iptu menar-lar         | our houses                        |
+| ipte-lar menar         | my house (plural possessors)      |
+| ipto-lar menar         | your house (plural possessors)    |
+| iptu-lar menar         | our house (plural possessors)     |
+| ipte-lar menar-lar     | my houses (plural possessors)     |
+| ipto-lar menar-lar     | your houses (plural possessors)   |
+| iptu-lar menar-lar     | our houses (plural possessors)    |
+
+Assignment 1. Translate into English:
+1. ipto menar-lar
+   - your houses
+
+2. iptu s'lar-lar
+   - our dogs
+
+3. ipte s'lar
+   - my dog
+
+4. ipti menar
+   - his/her house
+
+Assignment 2. Translate into the unknown language:
+1. Our dogs (plural possessors)
+   - iptu-lar s'lar-lar
+
+2. My house (plural possessors)
+   - ipte-lar menar
+
+3. His/her dogs
+   - ipti s'lar-lar
+
+4. Our house
+   - iptu menar
+
+---
+
+Good luck!
