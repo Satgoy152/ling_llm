@@ -1,0 +1,237 @@
+### Problem 1 (10 points)
+Consider the following sentences in the Kayapo language (printed in Latin transliteration) and their English translations:
+
+| Kayapo                      | English                            |
+|-----------------------------|------------------------------------|
+| Atoro kêt                   | You are not dancing                |
+| Ba m! m! anhê               | We are decorating you guys         |
+| Ba rê                       | I am swimming                      |
+| Ga iku                      | You are devouring me               |
+| Ga m! to                    | You guys are dancing               |
+| Ij" m! akuru kêt            | I am not devouring you guys        |
+| M! aj" inhêrê kêt           | You guys are not decorating me     |
+| M! irêrê kêt                | We are not swimming                |
+
+Assignment 1. Translate into English; if you believe that some sentences have several translations, give all of them:
+
+1. Aje ikuru kêt
+   - He is not devouring you.
+
+2. Ba m! aku
+   - We are devouring.
+
+3. Irêrê kêt
+   - He is not swimming.
+
+Assignment 2. Translate into Kayapo:
+
+1. You guys are not devouring us
+   - M! irêrê inhêrê kêt
+
+2. We are not decorating you guys
+   - M! aj" inhêrê kêt
+
+3. We are dancing
+   - Ba m! to
+
+4. I am devouring you
+   - Ga iku
+
+---
+
+### Problem 2 (10 points)
+A translator at the Swift News agency, which regularly receives lots of material in English, tries to work as fast and efficiently as possible, and therefore first translates titles of articles and only then some of the articles. Because of this technique, however, some of the titles do not correspond to the contents of the translated articles and have to be reconsidered. This happened to three of the articles whose titles are given below.
+
+1. Budget Cut Threatens Railway Modernization Project Funding.
+2. Cold Winter Threatens Start of Shipping Season in Small Lakes.
+3. Insanitariness in Brobdingnag Threatens Cholera Outbreak.
+4. New Crisis in Blefuscu Threatens Collapse of Peace Talks.
+5. Password Leak From Megasoft Threatens Mass Piracy.
+6. Population Crisis in Lilliput Threatens Tax Reform.
+7. Sudden Weather Change Threatens Arrival of Reinforcements to Besieged City.
+8. Suspension of Talks Threatens Peace Process in Lilliput and Blefuscu.
+9. Unexpected Event in Country of Houyhnhnms Threatens Early Elections.
+10. Terrorist Activity Threatens Public Security.
+11. Global Cooling Threatens Food Shortages.
+
+Assignment. Indicate which titles did not correspond to the contents of the articles after translations. Give the appropriate translations. Explain your solution.
+
+Titles that did not correspond to the contents of the articles:
+1. Cold Winter Threatens Start of Shipping Season in Small Lakes.
+   - Correct translation: Sudden Weather Change Threatens Arrival of Reinforcements to Besieged City.
+
+2. Insanitariness in Brobdingnag Threatens Cholera Outbreak.
+   - Correct translation: Population Crisis in Lilliput Threatens Tax Reform.
+
+3. Password Leak From Megasoft Threatens Mass Piracy.
+   - Correct translation: New Crisis in Blefuscu Threatens Collapse of Peace Talks.
+
+Explanation:
+The translator likely confused the titles due to the similar structure and overlapping vocabulary in the original and translated titles.
+
+---
+
+### Problem 3 (10 points)
+Consider fourteen Latin words and their English translations:
+
+| Latin Word       | English Translation  |
+|------------------|----------------------|
+| barba            | beard                |
+| dividit          | he divides           |
+| fumus            | smoke                |
+| fracas           | sediment             |
+| fovere           | to heat              |
+| mandere          | to chew              |
+| verbum           | word                 |
+| vidua            | widow                |
+| mordax           | biting               |
+| glabra           | hairless             |
+| falx             | sickle               |
+| rubrica          | red paint            |
+| mediocris        | moderate             |
+| fingo            | I sculpt             |
+
+Consider the four English words cognate to four of the Latin words given above:
+- beard
+- word
+- widow
+- red
+
+Assignment 1. Indicate the Latin word of the above list that never contained the dh sound. Explain your solution.
+
+- Latin word: rubrica
+- Explanation: The word "red" comes from the Proto-Indo-European root *h₁rewdʰ-. The Latin "rubrica" has undergone a change, but it did not contain the dh sound originally.
+
+Assignment 2. Consider six more Latin words:
+
+| Latin Word     | English Translation |
+|----------------|---------------------|
+| brevis         | short               |
+| gurdus         | silly               |
+| frigus         | cold                |
+| unda           | wave                |
+| combrutum      | reed                |
+| debeo          | I owe               |
+
+Which of these words are sure to have never contained the dh sound? Why?
+
+- Words: gurdus, unda, debeo
+- Explanation: These words are sure to have never contained the dh sound because they derive from different Proto-Indo-European roots that did not include the dh sound.
+
+---
+
+### Problem 4 (10 points)
+Consider some words of the Lakhota language (in Latin transliteration):
+
+| Lakhota         | English Translation                       |
+|-----------------|-------------------------------------------|
+| k(z)            | a single high-pitched tone sounds         |
+| žata            | it (e.g., a road) forks into two parts    |
+| šuža            | it is badly bruised                       |
+| *i              | it is brown                               |
+| miniža          | it is curled but can be smoothed again    |
+| g"l"za          | it is ruled:  | | |                       |
+| nu*a            | it is hard and immovable (e.g., a gnarl on a tree) |
+| mini*a          | it is shrunk permanently                  |
+| zi              | it is yellow                              |
+| šli             | thick liquid is being squeezed out        |
+| k(ž)            | a blending high-pitched tone sounds (e.g., a trill) |
+| g"l"*)          | it is striped:  + + +                     |
+
+Assignment 1. Match the following words with their translations given in misarranged order:
+1. k'e*): it is fractured
+2. k'ez): it sparks
+3. phešniža: it has a slight bruise
+4. suza: the surface is in a scratched condition
+5. xu*a: the surface is in a scraped condition
+
+Assignment 2. Translate into Lakhota:
+
+1. A thin liquid is being squeezed out
+   - šli
+
+2. It is soft and movable (e.g., an enlarged gland under the skin)
+   - nu*a
+
+3. It is red hot
+   - zi*ši
+
+4. It is semi-hard and movable (e.g., a cartilage)
+   - nu*a*
+
+5. It is branching into several directions
+   - žaža
+
+Assignment 3. Explain the meaning of the word ži.
+- ži means "it is yellow."
+
+---
+
+### Problem 5 (10 points)
+The table below contains Chuvash verbs (in Latin transliteration) and their English translations. Some of the data has been left out.
+
+| Chuvash Verb   | English Translation          |
+|----------------|------------------------------|
+| aman           | to be crippled               |
+| amant          | to cripple                   |
+| aptra          | to suffer                    |
+| ?              | to torment                   |
+| av,n           | to be flexible               |
+| av             | to bend                      |
+| ç-t            | to get lost                  |
+| ç-ter          | to lose                      |
+| çit            | to reach                     |
+| ?              | to lead                      |
+| .ühen          | ?                            |
+| .ühe           | to rinse                     |
+| hup,n          | ?                            |
+| ?              | to close                     |
+| hur,n          | to lie (e.g., on the table)  |
+| hur            | to lay (e.g., something on the table) |
+| kaç            | to move (e.g., from one flat to another) |
+| ?              | to transport                 |
+| k,vakar        | to become blue               |
+| k,vakart       | to make blue                 |
+| kuç            | to migrate                   |
+| kuçar          | to resettle                  |
+| puçtar,n       | to get together              |
+| puçtar         | to gather                    |
+| sh,n           | ?                            |
+| sh,nt          | to put on ice                |
+| taptan         | to be trampled               |
+| tapta          | to trample down              |
+| tup,n          | to be found                  |
+| tup            | to find                      |
+| uç,n           | to be revealed               |
+| uç             | to reveal                    |
+| ük             | ?                            |
+| üker           | to drop                      |
+| vacka          | to be in a hurry             |
+| vackat         | to precipitate               |
+| varalan        | to be smirched               |
+| varala         | to besmirch                  |
+| v-re           | to be boiling                |
+| v-ret          | to boil (e.g., water)        |
+| v-ren          | to learn                     |
+| verent         | to teach                     |
+| vit-n          | to be covered                |
+| vit            | to cover                     |
+| ?              | to enter                     |
+| k-rt           | to hide oneself              |
+| pytar          | to hide (something)          |
+
+Assignment. Fill in the gaps. If in some cases you cannot form a Chuvash verb with certainty, indicate it. Explain your solution.
+
+1. aptrant - to torment
+2. çittent - to lead
+3. .ühen - to clean
+4. hup,n - to close
+5. vacka - to be in a hurry
+6. varent - to transport
+7. k,retan - to enter
+
+Explanation: The formation of Chuvash verbs involves identifying patterns of verb conjugation and understanding root transformations.
+
+---
+
+Good luck!
