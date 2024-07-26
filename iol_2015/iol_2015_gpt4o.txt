@@ -1,0 +1,148 @@
+### Problem 1
+
+**(a) Write the equalities (1–12) and the numbers (13–16) in numerals.**
+
+Nahuatl:
+1. 11 × 10 = 550
+2. 20 × 2 = 40
+3. 70 + 14 = 84
+4. 5 + 2 = 7
+5. 13 × 3 = 780
+6. 5 × 3 = 15
+
+Arammba:
+7. 1 + 1 = 1 × 2 (1 + 1 = 2)
+8. 1 + 4 = 5
+9. 2 × 10 + 4 × 10 = 6 × 10 (20 + 40 = 60)
+10. 5 × 5 × 10 = 25 × 10 (5 × 50 = 250)
+11. 7 × 20 = 140
+12. 7 + 2 × 10 = 7 + 20 (7 + 20 = 27)
+
+Nahuatl and Arammba:
+13. 74084 = 98900
+14. 1742 = 140
+15. 400 = 540
+16. 8000 = 140020
+
+**(b) Write out in Nahuatl: 42; 494.**
+
+- 42: mahtlactli-on-omë (mahtlactli: 10, omë: 2, 10*4 + 2 = 42)
+- 494: näuh-tzontli-on-mahtlactli-om-nähui (näuh: 4, tzontli: 400, mahtlactli: 10, nähui: 4, 4*100 + 94 = 494)
+
+**(c) Write out in Arammba: 43; 569.**
+
+- 43: tambaroy fete (40 + 3)
+- 569: tarumba tarumba fete asàr (500 + 60 + 9)
+
+### Problem 2
+
+**(a) Translate into English:**
+
+1. ʒeq̇én = to bite
+2. medéf = (he/she) is sewing
+3. medáfe = (he/she) is pretending to sew
+4. səfə́n = to sew
+5. megʷəš’ə́ʔe = (he/she) is speaking
+6. mebə́b = (he/she) is flying
+
+**(b) Translate into English:**
+
+1. c̣ent𝑥ʷéfme = if (they) are able to slide
+2. šxáfexeq̇əm = (he/she) isn’t able to eat
+3. bəbə́ft = (they) were flying
+4. šxet = (he/she) was eating
+5. ṭəgʷərəgʷə́peme = if (they) are trembling
+
+**(c) Translate into Beslenei:**
+
+1. (they) are sewing = méde
+2. (they) are pretending to fly = mebə́be
+3. (he/she) really was burning = másxafe
+4. (he/she) isn’t able to eat = mášxaq̇əm
+5. if (they) are speaking = məgʷəš’əxeme
+6. (they) are biting = məʒeq̇é
+
+### Problem 3
+
+**(a) Describe how a Soundex code is produced, step by step.**
+
+1. Retain the first letter of the surname.
+2. Convert the remaining letters to numerical codes: B, F, P, V → 1; C, G, J, K, Q, S, X, Z → 2; D, T → 3; L → 4; M, N → 5; R → 6.
+3. Remove all vowels (A, E, I, O, U), Y, H, and W.
+4. Replace the consonants with digits as per the rules in step 2.
+5. If two or more letters with the same number are adjacent, retain only the first number.
+6. The resulting number should be of length 4; if shorter, add zeros; if longer, truncate to 4 characters.
+
+**(b) Match the surnames with the corresponding Soundex codes and restore the omitted characters.**
+
+1. Allaway = A420
+2. Anderson = A536
+3. Ashcombe = A251
+4. Buckingham = B252
+5. Chapman = C155
+6. Colquhoun = C400
+7. Evans = E152
+8. Fairwright = F620
+9. Kingscott = K520
+10. Lewis = L000
+11. Littlejohns = L432
+12. Stanmore = S500
+13. Stubbs = S320
+14. Tocher = T260
+15. Tonks = T520
+16. Whytehead = W300
+
+**(c) Generate Soundex codes for the following surnames:**
+
+1. Ferguson = F622
+2. Fitzgerald = F326
+3. Hamnett = H553
+4. Keefe = K100
+5. Maxwell = M240
+6. Razey = R200
+7. Shaw = S000
+8. Upfield = U114
+
+### Problem 4
+
+**(a) Translate into English:**
+
+18. Alayulujba nguyunyu bungmanyani. = The girl will see you (sg.) with the doctor.
+19. Yagu gininya. = He left you (sg.).
+20. Janji darrangguwaji. = The dog left without the stick.
+21. Ngirra nya alanga. = You (sg.) stole the girl.
+22. Daguma nyinga. = The old woman struck you (sg.).
+23. Dirragbi ga balamurrungunya. = The old man saw you (sg.) with the spear.
+
+**(b) Translate into Wambaya:**
+
+24. You (sg.) will leave me. = Yagujba nyuninya.
+25. The doctor slept. = Gulugba ngunybulugi.
+26. The man will run (away) with the money. = Bardbi ga juwani gijilulungunya.
+27. He will steal the dog. = Ngirra ngu janji.
+28. The girl saw you (sg.). = Alanga ga nyinya.
+
+### Problem 5
+
+**(a) Describe the structure of a masafo half-line.**
+
+1. Each half-line contains around 7–8 syllables.
+2. The half-lines are composed of two to four syntactic units.
+3. There is a specific rhythmic structure that needs to be maintained, often involving alliteration and internal rhyme.
+4. The syllable pattern tends to be similar between the lines, maintaining a balance of consonants and vowels.
+
+**(b) Here are 10 more masafo half-lines. Five of them are genuine, and five are obtained by random rearrangement. Which is which?**
+
+Genuine:
+1. war ismaaciil daarood
+2. dir miyaad wadaagtaan
+3. labadaad ka duudiye
+4. ka jannadaad daahiye
+5. adiga iyo deriskaa
+
+Rearranged:
+1. digaxaarka mariyoo
+2. ciid iyo doolo diraac
+3. nooma keeneen darka
+4. kala deyaayaa miyaan
+5. wuxuun kaa danqaabaan

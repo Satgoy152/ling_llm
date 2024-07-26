@@ -1,3 +1,5 @@
+Prompt: As an expert in computational linguistics solve the following problem:
+
 ### Problem 1 (20 points)
 
 Nahuatl:
@@ -28,6 +30,9 @@ Nahuatl and Arammba:
 
 (c) Write out in Arammba: 43; 569.
 
+△! Classical Nahuatl, of the Uto–Aztecan family, was the language of the Aztec Empire in Mexico.
+The Arammba language (also called Serki, Serkisetavi, or Upper Morehead) belongs to the South-Central Papuan family. It is spoken by approx. 970 people in Papua New Guinea. —Milena Veneva
+
 * * *
 ### Problem 2 (20 points)
 
@@ -39,7 +44,7 @@ Here are some verb forms of the Beslenei dialect of Kabardian (subdialect of Uly
 | gʷəš’əʔén           | to speak                      |
 | máde                | (he/she) is sewing            |
 | mášxe               | (he/she) is eating            |
-| mec̣ántʷe          | (he/she) is sliding           |
+| mec̣ánt𝑥ʷe          | (he/she) is sliding           |
 | megʷəš’əʔéf         | (he/she) is able to speak     |
 | mes                 | (he/she) is burning           |
 | mebəbə́pe           | (he/she) really is flying     |
@@ -61,12 +66,12 @@ Here are several more Beslenei words:
 
 | Beslenei            | Translation                       |
 |---------------------|-----------------------------------|
-| c̣ántʷeq̇əm         | (he/she) isn’t sliding            |
-| c̣ántʷet           | (he/she) was sliding              |
-| c̣entʷéft          | (he/she) was able to slide        |
+| c̣ánt𝑥ʷeq̇əm         | (he/she) isn’t sliding            |
+| c̣ánt𝑥ʷet           | (he/she) was sliding              |
+| c̣ent𝑥ʷéft          | (he/she) was able to slide        |
 | dápet               | (he/she) really was sewing        |
 | défxeme             | if (they) are able to sew         |
-| c̣ántʷexeme        | if (they) are sliding             |
+| c̣ánt𝑥ʷexeme        | if (they) are sliding             |
 | meṭəgʷərə́gʷxe       | (they) are trembling              |
 | sə́fq̇əm            | (he/she) isn’t able to burn       |
 | bə́bme              | if (he/she) is flying             |
@@ -76,7 +81,7 @@ Here are several more Beslenei words:
 
 (b) Translate into English:
 
-1. c̣entʷéfme
+1. c̣ent𝑥ʷéfme
 2. šxáfexeq̇əm
 3. bəbə́ft
 4. šxet
@@ -93,12 +98,20 @@ Here are several more Beslenei words:
 
 Be sure to mark the stresses.
 
+△! Kabardian belongs to the Abkhaz–Adyghe group of the North Caucasian family. It is spoken in the Russian Federation (516,000 people), as well as in Turkey and other countries in the Middle East.
+c̣, gw, q̇, š, š’, ṭ, x, 𝑥ʷ, ʒ, ʔ are consonants; ə is a vowel. The mark “ ́” indicates stress. —Peter Arkadiev
+
 * * *
 ### Problem 3 (20 points)
 
-Soundex is an algorithm for coding names. It was developed in the USA in 1918–1922 by Robert C. Russell and Margaret King Odell in order to facilitate searching for similar-sounding surnames. In the middle of the 20th century, Soundex was extensively used in the USA to analyze results of 1890–1920 censuses.
+Soundex is an algorithm for coding names. It was developed in the USA in 1918–1922 by Robert C. Russell and Margaret King Odell in order to facilitate searching for similar-sounding surnames. 
+In the middle of the 20th century, Soundex was extensively used in the USA to analyze results of 1890–1920 censuses.
 
-Here is a list of surnames, with the corresponding Soundex codes in arbitrary order. Some characters are missing:
+Example:
+From the 1910 US Census: Wilson coded to W425
+
+Here is a list of surnames, with the corresponding Soundex codes in arbitrary order. Values in the same row do not neccesary correlate with one another.
+Some characters are missing:
 
 | Surnames            | Soundex Codes     |
 |---------------------|-------------------|
@@ -199,6 +212,9 @@ The old man will jump.
 27. He will steal the dog.  
 28. The girl saw you (sg.).
 
+△! The Wambaya language belongs to the West Barkly family. It is spoken by approx. 50 people in the Northern Territory, Australia.
+—Ksenia Gilyarova
+
 * * *
 ### Problem 5 (20 points)
 
@@ -217,7 +233,6 @@ Here are 25 half-lines of Somali poetry written in a meter known as masafo:
 11. dacalkaaga kuma shuban
 12. miyaan duudsiyaayaa
 13. doodaye maxaad oran
-
 14. daliilkii ku siiyaye
 15. miyaad iigu duurxuli
 16. dorraad adigu kama dhigin
@@ -238,7 +253,6 @@ To help you understand the structure of masafo, here are 10 half-lines which wer
 28. qoran daftarkaaga kuma
 29. fuushaan kaama dusha
 30. helo dabacayuun kulaan
-
 31. kuu miyuu tari wax dafir
 32. kuu daalasaayee nin
 33. shareecada dikrigiyo
@@ -254,7 +268,6 @@ To help you understand the structure of masafo, here are 10 half-lines which wer
 38. labadaad ka duudiye  
 39. ka jannadaad daahiye  
 40. adiga iyo deriskaa
-
 41. digaxaarka mariyoo  
 42. ciid iyo doolo diraac  
 43. nooma keeneen darka  

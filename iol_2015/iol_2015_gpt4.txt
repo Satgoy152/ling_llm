@@ -1,0 +1,114 @@
+### Solution to Problem 1:
+
+(a) **Equalities in numerals:**
+1. \( 13 \times 10 = 150 \)
+2. \( 1 \times 2 = 2 \)
+3. \( 15 + 40 = 79 \)
+4. \( 15 + 2 = 17 \)
+5. \( 50 \times 3 = 435 \)
+6. \( 15 \times 3 = 60 \)
+7. \( 1 + 1 = 2 \)
+8. \( 1 + 5 = 7 \)
+9. \( 4 + 10 = 14 \)
+10. \( 5 \times 4 = 20 \)
+11. \( 3 \times 5 = 15 \)
+12. \( 3 + 4 = 8 \)
+13. \( 1009 = 600 \)
+14. \( 320 = 250 \)
+15. \( 320 = 180 \)
+16. \( 400 = 200 \)
+
+(b) **Numbers in Nahuatl:**
+- 42: chicöme-on-öme
+- 494: caxtölli-on-cem-pöhualli-on-chicöme
+
+(c) **Numbers in Arammba:**
+- 43: tambaroy fete asàr
+- 569: yenówe fete tarumba
+
+### Solution to Problem 2:
+
+(a) **Translations:**
+1. ʒeq̇én - to pretend to bite
+2. medéf - he/she is sewing
+3. medáfe - he/she really is sewing
+4. səfə́n - to be able to burn
+5. megʷəš’ə́ʔe - he/she is speaking
+6. mebə́b - he/she is flying
+
+(b) **Translations:**
+1. c̣ent𝑥ʷéfme - if he/she was able to slide
+2. šxáfexeq̇əm - if he/she isn’t eating
+3. bəbə́ft - they were flying
+4. šxet - they were eating
+5. ṭəgʷərəgʷə́peme - if they are trembling
+
+(c) **Translations:**
+1. madéme - they are sewing
+2. bəbə́peme - they are pretending to fly
+3. dápet - he/she really was burning
+4. šxápəm - he/she isn’t able to eat
+5. megʷəš’əʔéxeme - if they are speaking
+6. ʒeq̇ápe - they are biting
+
+### Solution to Problem 3:
+
+(a) **Soundex code production:**
+1. Retain the first letter of the surname.
+2. Remove all vowels, unless it is the first letter.
+3. Replace consonants with digits: (B, F, P, V) = 1, (C, G, J, K, Q, S, X, Z) = 2, (D, T) = 3, (L) = 4, (M, N) = 5, (R) = 6.
+4. If two or more letters with the same number are adjacent, only keep the first letter.
+5. If the surname has fewer than three consonants, fill with zeros.
+
+(b) **Matching surnames with codes:**
+- Anderson - A536
+- Ashcombe - A252
+- Buckingham - B252
+- Chapman - C155
+- Colquhoun - C425
+- Evans - E152
+- Fairwright - F662
+- Kingscott - K523
+- Lewis - L200
+- Littlejohns - L324
+- Stanmore - S356
+- Stubbs - S312
+- Tocher - T260
+- Tonks - T520
+- Whytehead - W330
+
+(c) **Generate Soundex codes:**
+- Ferguson - F625
+- Fitzgerald - F263
+- Hamnett - H553
+- Keefe - K100
+- Maxwell - M240
+- Razey - R200
+- Shaw - S000
+- Upfield - U143
+
+### Solution to Problem 4:
+
+(a) **Translations:**
+18. The girl struck me.
+19. He left you (sg.).
+20. The dog with the stick.
+21. I danced with the girl.
+22. The old woman is biting.
+23. The old man is jumping.
+
+(b) **Translations:**
+24. Yagu gininga.
+25. Ngunybulugi ngu.
+26. Juwani ga ngajbi gijilulu.
+27. Ngirra gu janji.
+28. Alanga nginya.
+
+### Solution to Problem 5:
+
+(a) **Masafo half-line structure:**
+- Masafo poetry uses a pattern of alternating stressed and unstressed syllables with a consistent rhyme scheme. Typically, each half-line contains a set number of syllables, often five or seven.
+
+(b) **Genuine vs. Rearranged half-lines:**
+Genuine: 36, 37, 41, 42, 44
+Rearranged: 38, 39, 40, 43, 45

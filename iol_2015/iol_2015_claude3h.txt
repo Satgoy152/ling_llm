@@ -1,0 +1,126 @@
+Here is my attempt at solving the computational linguistics problems you provided:
+
+Problem 1:
+
+(a) Equalities (1-12) in numerals:
+1. 10-on-1 × 10 = 5-pöhualli-om-10
+2. 100 × 2 = 2-pöhualli
+3. 3-pöhualli-on-7 + 10-on-4 = 4-pöhualli-on-1
+4. 5 + 2 = 7 
+5. 10-om-3 × 3 = 100-on-15-on-4
+6. 5 × 3 = 15
+
+Arammba equalities (7-12) in numerals:
+7. 1 + 1 = 1 × 2
+8. 1 + 1 = 2
+9. 2 tàxwo + 5 tàxwo = 2 5
+10. 1 × 1 tàxwo = 5 1 tàxwo
+11. 3 × 5 = 15
+12. 3 + 2 tàxwo = 1 tàxwo
+
+Numbers (13-16) in numerals:
+13. 3-tzontli-on-4-pöhualli-on-15-on-1 = 3000
+14. 100-on-100-om-10-om-2 = 1212
+15. 100 = 15 2 5
+16. 100 = 9999 3 2
+
+(b) In Nahuatl:
+42 = mahtlactli-on-nähui
+494 = nähui-pöhualli-om-caxtölli-om-nähui
+
+(c) In Arammba: 
+43 = yànparo fete tambaroy
+569 = yenówe tarumba tambaroy
+
+Problem 2:
+
+(a)
+1. to bite
+2. (he/she) is able to sew
+3. (he/she) really is sewing
+4. to be able to burn
+5. (he/she) is able to speak
+6. (he/she) really is flying
+
+(b) 
+1. (they) were able to slide
+2. (he/she) isn't really eating
+3. (they) had flown
+4. (he/she) was eating
+5. if (they) really are trembling
+
+(c)
+1. mádefe
+2. mebə́bpe
+3. dápet
+4. sə́fq̇əm
+5. megʷəš'ə́ʔeme
+6. meʒeq̇áfe
+
+Problem 3:
+
+(a) The Soundex algorithm works as follows:
+1. Keep the first letter of the surname.
+2. Replace the following letters with numbers:
+   - B, F, P, V -> 1
+   - C, G, J, K, Q, S, X, Z -> 2
+   - D, T -> 3 
+   - L -> 4
+   - M, N -> 5
+   - R -> 6
+3. Discard any duplicate consecutive numbers.
+4. Return the first letter and up to 3 numbers.
+
+(b) Matched surnames and Soundex codes:
+Allaway - A400
+Anderson - A536
+Ashcombe - A523
+Buckingham - B252
+Chapman - C155
+Colquhoun - C425
+Evans - E152
+Fairwright - F623
+Kingscott - K523
+Lewis - L200
+Littlejohns - L324
+Stanmore - S355
+Stubbs - S312
+Tocher - T260
+Tonks - T520
+Whytehead - W300
+
+(c) Soundex codes for the given surnames:
+Ferguson - F622
+Fitzgerald - F326
+Hamnett - H530
+Keefe - K100
+Maxwell - M240
+Razey - R200
+Shaw - S000
+Upfield - U141
+
+Problem 4:
+
+(a)
+18. The old woman will see you (sg.).
+19. He left you (sg.).
+20. The dog with the stick.
+21. I stole the girl.
+22. He struck me.
+23. The old man will jump with the spear.
+
+(b)
+24. Yagu nyinga.
+25. Ngunybulugi gu.
+26. Juwani gu ngirra gijiluluwaji.
+27. Ngirra janji.
+28. Alayulu nga ngajbi nyinga.
+
+The structure of a masafo half-line is:
+- 4 syllables
+- Stress on the second syllable
+- Containing certain consonant sounds in specific positions
+
+For part (b):
+The genuine masafo half-lines are: 36, 38, 39, 41, 42.
+The randomly rearranged half-lines are: 37, 40, 43, 44, 45.

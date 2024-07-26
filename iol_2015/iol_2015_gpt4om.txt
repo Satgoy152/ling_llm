@@ -1,0 +1,147 @@
+### Problem 1
+
+**(a) Numerals and Number Representation**
+
+**Nahuatl:**
+
+1. \(10 \times 10 = 100\)  
+2. \(1 \times 2 = 2\)  
+3. \(7 + 10 = 17\)  
+4. \(5 + 2 = 7\)  
+5. \(10 \times 2 = 20\)  
+6. \(5 \times 2 = 10\)
+
+**Arammba:**
+
+7. \(ngámbi + ngámbi = ngámbi \times yànparo\)  
+8. \(ngámbi + asàr = tambaroy\)  
+9. \(yànparo tàxwo + fete asàr tàxwo = yànparo fete\)  
+10. \(yenówe \times yenówe tàxwo = fete yenówe tàxwo\)  
+11. \(nimbo \times fete = tarumba\)  
+12. \(nimbo + yànparo tàxwo = yenówe tàxwo\)
+
+**(b) Write Out in Nahuatl:**
+
+- 42: **nahui-on-ome** (4 + 2)
+- 494: **mahtlactli-on-nahui-on-cē-on-cē** (400 + 90 + 4)
+
+**(c) Write Out in Arammba:**
+
+- 43: **ngámbi + ngámbi + yànparo** (40 + 3)
+- 569: **ngámbi × yànparo + ngámbi × yànparo + ngámbi** (500 + 60 + 9)
+
+### Problem 2
+
+**(a) Translate into English:**
+
+1. **ʒeq̇én** - to bite (present tense)
+2. **medéf** - (he/she) is able to sew
+3. **medáfe** - (he/she) is able to pretend to sew
+4. **səfə́n** - to be able to burn
+5. **megʷəš’ə́ʔe** - (he/she) is able to speak
+6. **mebə́b** - (he/she) is really flying
+
+**(b) Translate into English:**
+
+1. **c̣ent𝑥ʷéfme** - (they) were able to slide
+2. **šxáfexeq̇əm** - (he/she) wasn’t able to eat
+3. **bəbə́ft** - (he/she) really was flying
+4. **šxet** - to eat
+5. **ṭəgʷərəgʷə́peme** - (they) are not trembling
+
+**(c) Translate into Beslenei:**
+
+1. **(they) are sewing** - **máde**
+2. **(they) are pretending to fly** - **meʒeq̇áfe**
+3. **(he/she) really was burning** - **bəbə́b**
+4. **(he/she) isn’t able to eat** - **sə́fq̇əm**
+5. **if (they) are speaking** - **gʷəš’əʔén**
+6. **(they) are biting** - **ʒeq̇én**
+
+### Problem 3
+
+**(a) Describe How a Soundex Code is Produced:**
+
+1. **Retain the first letter** of the surname.
+2. **Replace each consonant** (except the first letter) with its corresponding Soundex digit:
+   - B, F, P, V → 1
+   - C, G, J, K, Q, S, X, Z → 2
+   - D, T → 3
+   - L → 4
+   - M, N → 5
+   - R → 6
+3. **Ignore consecutive duplicates** of the same digit.
+4. **Truncate or pad** the result to ensure it is exactly 4 characters long.
+
+**(b) Match the Surnames with Soundex Codes:**
+
+1. **Allaway** - S312
+2. **Anderson** - T652
+3. **Ashcombe** - A252
+4. **Buckingham** - B252
+5. **Chapman** - C351
+6. **Colquhoun** - C422
+7. **Evans** - E152
+8. **Fairwright** - F163
+9. **Kingscott** - K523
+10. **Lewis** - L020
+11. **Littlejohns** - L352
+12. **Stanmore** - S545
+13. **Stubbs** - S313
+14. **Tocher** - T260
+15. **Tonks** - T522
+16. **Whytehead** - W030
+
+**(c) Generate Soundex Codes:**
+
+1. **Ferguson** - F626
+2. **Fitzgerald** - F326
+3. **Hamnett** - H533
+4. **Keefe** - K100
+5. **Maxwell** - M240
+6. **Razey** - R020
+7. **Shaw** - S020
+8. **Upfield** - U314
+
+### Problem 4
+
+**(a) Translate into English:**
+
+18. **Alayulujba nguyunyu bungmanyani** - The girl will see the old woman.
+19. **Yagu gininya** - He left you (sg.).
+20. **Janji darrangguwaji** - The stick ran away.
+21. **Ngirra nya alanga** - I stole the girl.
+22. **Daguma nyinga** - The old woman saw you (sg.).
+23. **Dirragbi ga balamurrungunya** - The old man will jump with the spear.
+
+**(b) Translate into Wambaya:**
+
+24. **You (sg.) will leave me** - **Yagujba ngiyinga.**
+25. **The doctor slept** - **Gulugba ngu.**
+26. **The man will run (away) with the money** - **Juwani gina dagumajba gijilulungunya.**
+27. **He will steal the dog** - **Ngirra nga gijilulu.**
+28. **The girl saw you (sg.)** - **Alanga gu ngajbi.**
+
+### Problem 5
+
+**(a) Describe the Structure of a Masafo Half-Line:**
+
+1. **Each half-line** is divided into two parts of equal syllabic length.
+2. **The meter** involves a specific pattern of syllable stresses and a set number of syllables.
+3. **The structure** often features a pattern of alliteration or rhyme.
+
+**(b) Genuine vs. Random Rearrangement:**
+
+**Genuine Masafo Half-Lines:**
+36. **war ismaaciil daarood**  
+37. **dir miyaad wadaagtaan**  
+38. **labadaad ka duudiye**  
+40. **adiga iyo deriskaa**  
+42. **ciid iyo doolo diraac**  
+
+**Random Rearrangement:**
+27. **waad nimankaad ma diidi**  
+29. **qoran daftarkaaga kuma**  
+30. **helo dabacayuun kulaan**  
+31. **kuu miyuu tari wax dafir**  
+34. **dumarkii furayaan ma**

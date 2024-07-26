@@ -1,0 +1,185 @@
+Thank you for providing this fascinating set of computational linguistics problems. I'll work through them step-by-step, providing my analysis and solutions.
+
+### Problem 1: Nahuatl and Arammba Numerals
+
+Let's start by analyzing the number system for each language:
+
+For Nahuatl:
+- pöhualli seems to mean 20
+- tzontli appears to be 400
+- xiquipilli seems to be 8000
+
+For Arammba:
+- yànparo appears to be 2
+- tambaroy seems to be 3
+- yenówe looks like 4
+- nimbo might be 5
+- tarumba seems to be 10
+- ndamno appears to be 1000
+- weremeke might be 8
+
+Now, let's solve each part:
+
+(a) Writing equalities (1-12) and numbers (13-16) in numerals:
+
+1. 11 × 10 = 110
+2. 20 × 2 = 40
+3. 67 + 14 = 81
+4. 5 + 2 = 7
+5. 13 × 3 = 39
+6. 5 × 3 = 15
+7. 5 + 5 = 5 × 2
+8. 5 + 1 = 3
+9. 2 + 1 = 3
+10. 4 × 4 = 16
+11. 5 × 2 = 10
+12. 5 + 2 = 4
+13. 1671 = 1000
+14. 432 = 20
+15. 400 = 13
+16. 8000 = 8000
+
+(b) Writing out in Nahuatl:
+42: öm-pöhualli-om-öme
+494: cen-tzontli-on-näuh-pöhualli-on-mahtlactli-on-nähui
+
+(c) Writing out in Arammba:
+43: tarumba yànparo fete
+569: weremeke nimbo yànparo tarumba yenówe
+
+### Problem 2: Beslenei Dialect of Kabardian
+
+Let's analyze the structure of the verbs:
+
+- me- seems to be a present tense marker
+- -f- appears to indicate ability
+- -pe seems to mean "really"
+- -fe might mean "pretending"
+- -q̇əm seems to be a negation marker
+- -t looks like a past tense marker
+- -xe might be a plural marker
+
+Now, let's translate:
+
+(a) 
+1. ʒeq̇én: to bite
+2. medéf: (he/she) is able to sew
+3. medáfe: (he/she) is pretending to sew
+4. səfə́n: to be able to burn
+5. megʷəš'ə́ʔe: (he/she) is speaking
+6. mebə́b: (he/she) is flying
+
+(b)
+1. c̣ent𝑥ʷéfme: if (he/she) is able to slide
+2. šxáfexeq̇əm: (they) aren't pretending to eat
+3. bəbə́ft: (he/she) was able to fly
+4. šxet: (he/she) was eating
+5. ṭəgʷərəgʷə́peme: if (he/she) really is trembling
+
+(c)
+1. máde𝑥e
+2. mebəbáfe𝑥e
+3. sə́pet
+4. šxéfq̇əm
+5. gʷəš'əʔé𝑥eme
+6. meʒéq̇e𝑥e
+
+### Problem 3: Soundex Algorithm
+
+(a) The Soundex algorithm appears to work as follows:
+
+1. Retain the first letter of the name.
+2. Remove all occurrences of a, e, i, o, u, y, h, w unless it's the first letter.
+3. Assign numbers to the remaining letters:
+   1 = b, f, p, v
+   2 = c, g, j, k, q, s, x, z
+   3 = d, t
+   4 = l
+   5 = m, n
+   6 = r
+4. If two or more letters with the same number are adjacent, keep only the first letter.
+5. Keep the first three numbers after the initial letter.
+6. If you don't have three numbers, pad with zeros.
+
+(b) Matching surnames with Soundex codes:
+
+Allaway - A400
+Anderson - A536
+Ashcombe - A251
+Buckingham - B252
+Chapman - C155
+Colquhoun - C425
+Evans - E152
+Fairwright - F623
+Kingscott - K523
+Lewis - L200
+Littlejohns - L342
+Stanmore - S356
+Stubbs - S312
+Tocher - T260
+Tonks - T520
+Whytehead - W330
+
+(c) Generating Soundex codes for the given surnames:
+
+Ferguson - F622
+Fitzgerald - F326
+Hamnett - H553
+Keefe - K100
+Maxwell - M240
+Razey - R200
+Shaw - S000
+Upfield - U143
+
+### Problem 4: Wambaya Language
+
+Analyzing the structure:
+
+- -lu, -ba, -jba seem to be verb endings
+- nga, ngu, nya, nyu, gininga, gininya appear to be pronoun forms
+- -waji seems to mean "without"
+- -ngunya appears to mean "with"
+
+Now, let's translate:
+
+(a) 
+18. The old woman will find you.
+19. He left you.
+20. The dog is without a stick.
+21. You stole the girl.
+22. He struck you.
+23. He jumped with the spear.
+
+(b)
+24. Yagujba nguyunya.
+25. Gulugba ga ngunybulugi.
+26. Bardbi gu juwani gijilulungunya.
+27. Ngirra gu janji.
+28. Ngajbi gininga alangani.
+
+### Problem 5: Somali Poetry (Masafo)
+
+(a) The structure of a masafo half-line appears to be:
+
+- It consists of 4 syllables.
+- The last syllable is always long (ends in a long vowel or a consonant).
+- The first three syllables can be either short or long.
+- There must be at least one long syllable among the first three.
+
+(b) Genuine half-lines:
+
+36. war ismaaciil daarood
+37. dir miyaad wadaagtaan
+40. adiga iyo deriskaa
+41. digaxaarka mariyoo
+44. kala deyaayaa miyaan
+
+Rearranged half-lines:
+
+38. labadaad ka duudiye
+39. ka jannadaad daahiye
+42. ciid iyo doolo diraac
+43. nooma keeneen darka
+45. wuxuun kaa danqaabaan
+
+These solutions are based on the patterns and structures observed in the given data. The analysis of the Somali poetry structure is particularly interesting, as it requires careful observation of syllable patterns and lengths.
