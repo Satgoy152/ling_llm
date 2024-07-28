@@ -1,0 +1,282 @@
+### Problem 1 (20 points)
+
+**(a) Translate into English:**
+
+1. **nonifibe**
+   - Breakdown: no-nif-ibe
+   - no = you (sg.)
+   - nif = pierce
+   - ibe = we both
+   - Translation: "we both are piercing you (sg)"
+
+2. **halu'ibe**
+   - Breakdown: halu'-ibe
+   - halu' = will strike
+   - ibe = you both
+   - Translation: "you both will strike"
+
+3. **lifilatagihe**
+   - Breakdown: lifila-tagihe
+   - lifila = pierce us
+   - tagihe = because
+   - Translation: "because you both will pierce us"
+
+4. **nokufune**
+   - Breakdown: nokufu-ne
+   - nokufu = I will pierce
+   - ne = you (sg)
+   - Translation: "I will pierce you (sg)"
+
+5. **nolahanagihe**
+   - Breakdown: nolaha-nagihe
+   - nolaha = strike me
+   - nagihe = because
+   - Translation: "because you (pl) will strike me"
+
+**(b) Translate into Benabena:**
+
+1. **you both are striking him**
+   - Breakdown: no-kaho-ibe
+   - no = you (sg)
+   - kaho = strike
+   - ibe = we both
+   - Translation: "nokoho'ibe"
+
+2. **we will pierce you (sg)**
+   - Breakdown: kahalu-ne
+   - kahalu = will pierce
+   - ne = you (sg)
+   - Translation: "kahalune"
+
+3. **because we are striking you (pl)**
+   - Breakdown: nolena-gihe
+   - nolena = strike you (pl)
+   - gihe = because
+   - Translation: "nolenufu'inagihe"
+
+4. **because you (pl) will pierce him**
+   - Breakdown: laha-nagihe
+   - laha = will pierce
+   - nagihe = because
+   - Translation: "lenahalube"
+
+### Problem 2 (20 points)
+
+**Fill in the cells with the question marks.**
+
+| Singular        | Dual            | Plural            | Translation         |
+|-----------------|-----------------|-------------------|---------------------|
+| adↄ             | a               | a                 | tree                |
+| matʰↄnsjan      | matʰↄnsjan      | matʰↄnsjadↄ       | little girl         |
+| k’ↄ             | k’ↄ             | k’ↄgↄ             | knife               |
+| tʰot’olagↄ      | tʰot’ola        | tʰot’olagↄ        | orange              |
+| aufi            | aufigↄ          | aufiadↄ           | fish                |
+| pʰjaboadↄ       | pʰjaboa         | pʰjaboagↄ         | street lamp         |
+| matʰↄn          | matʰↄdↄ         | matʰadↄ           | girl                |
+| k’ↄnbohodↄ      | k’ↄnbohon       | k’ↄnbohondↄ       | hat                 |
+| t’ↄ             | t’ↄgↄ           | t’ↄadↄ            | spoon               |
+| e               | ejadↄ           | alↄsↄhjegↄ        | plum                |
+| ↄlu             | tsegun          | tsegudↄ           | dog                 |
+| alↄguk’ogↄ      | alↄguk’o        | alↄguk’odↄ        | lemon               |
+| k’apʰtʰↄ        | k’apʰtʰↄgↄ      | k’apʰtʰↄgↄ        | old man             |
+| kʰↄdↄ           | kʰↄ             | kʰadↄ             | blanket             |
+| k’ↄdↄ           | k’ↄdadↄ         | k’ↄdↄ             | tomato              |
+| al              | alↄ             | aladↄ             | apple               |
+| pʰ              | pʰↄ             | pʰadↄ             | buffalo             |
+| sad             | sadadↄ          | sadadↄ            | child               |
+| ↄlsun           | ↄlsungↄ         | ↄlsungadↄ         | comb                |
+| pit             | pitso           | pitsogↄ           | fork                |
+| tʰↄp            | tʰↄpʰpaa        | tʰↄpʰpaadↄ        | chair               |
+
+### Problem 3 (20 points)
+
+**(a) Reconstruct the family tree.**
+
+1. Ldiu²±e1 Nie²tse.1 'yn1 kâ. j ngu².
+   - Nie²tse.1 is the father of Ldiu²±e1.
+
+2. Lhie²nyn² Ngwi1mbyn² 'yn1 lio² ngu².
+   - Ngwi1mbyn² is the child of Lhie²nyn².
+
+3. Sei1na1 Wa²nie1 'yn1 ndo.n1 ngu².
+   - Wa²nie1 is the daughter of Sei1na1.
+
+4. Ldiu²±e1 Œan1nia1 'yn1 ndo.n1 ngu².
+   - Œan1nia1 is the daughter of Ldiu²±e1.
+
+5. Œan1nia1 Syn1mei1 'yn1 ¹we.j1 ngu².
+   - Syn1mei1 is the sibling of Œan1nia1.
+
+6. Ldiu²±e1 Syn1mei1 'yn1 ¹we.j1 ngu².
+   - Syn1mei1 is the sibling of Ldiu²±e1.
+
+7. Ldiu²±e1 Wa²nie1 'yn1 ¹we.j1 ngu².
+   - Wa²nie1 is the sibling of Ldiu²±e1.
+
+8. Ke.i1¹ey² Ldiu²±e1 'yn1 ¹we.j1 ngu².
+   - Ldiu²±e1 is the sibling of Ke.i1¹ey².
+
+9. Ldiu²±e1 Ke.i1¹ey² 'yn1 ¹we.j1 ngu².
+   - Ke.i1¹ey² is the sibling of Ldiu²±e1.
+
+10. Lhie²nyn² Syn1mei1 'yn1 wia1 ngu².
+    - Syn1mei1 is the child of Lhie²nyn².
+
+11. Lhie²nyn² Sie1tsie1 'yn1 'i@1 ngu².
+    - Sie1tsie1 is the child of Lhie²nyn².
+
+12. Ke.i1¹ey² Wa²nie1 'yn1 lio² ngu².
+    - Wa²nie1 is the child of Ke.i1¹ey².
+
+13. Ke.i1¹ey² Sie1tsie1 'yn1 ¹we.j1 ngu².
+    - Sie1tsie1 is the sibling of Ke.i1¹ey².
+
+14. Lhie²nyn² Ke.i1¹ey² 'yn1 wiej² ngu².
+    - Ke.i1¹ey² is the sibling of Lhie²nyn².
+
+15. Syn1mei1 Nie²tse.1 'yn1 ¹we.j1 ngu².
+    - Nie²tse.1 is the sibling of Syn1mei1.
+
+16. Ngon²ngwe1 Mbe²phon1 'yn1 kâ.j1 ngu².
+    - Mbe²phon1 is the father of Ngon²ngwe1.
+
+17. Syn1mei1 Sei1na1 'yn1 kâ.j1 ngu².
+    - Sei1na1 is the father of Syn1mei1.
+
+18. Ldiu²±e1 Sie1tsie1 'yn1 ndo.n1 ngu².
+    - Sie1tsie1 is the daughter of Ldiu²±e1.
+
+19. Lhie²nyn² Wa²nie1 'yn1 wia1 ngu².
+    - Wa²nie1 is the child of Lhie²nyn².
+
+20. Ldiu²±e1 Sei1na1 'yn1 ¹we.j1 ngu².
+    - Sei1na1 is the sibling of Ldiu²±e1.
+
+21. Wa²nie1 Sei1na1 'yn1 mu1 ngu².
+    - Sei1na1 is the spouse of Wa²nie1.
+
+22. Œan1nia1 Wa²nie1 'yn1 ¹we.j1 ngu².
+    - Wa²nie1 is the sibling of Œan1nia1.
+
+23. Ngon²ngwe1 Ldiu²±e1 'yn1 la² ngu².
+    - Ldiu²±e1 is the father of Ngon²ngwe1.
+
+24. Lhie²nyn² Mbe²phon1 'yn1 mu1 ngu².
+    - Mbe²phon1 is the spouse of Lhie²nyn².
+
+25. Mbe²phon1 Ldiu²±e1 'yn1 ma1 ngu².
+    - Ldiu²±e1 is the spouse of Mbe²phon1.
+
+26. Lhie²nyn² Nie²tse.1 'yn1 'i@1 ngu².
+    - Nie²tse.1 is the child of Lhie²nyn².
+
+27. Lhie²nyn² Ngon²ngwe1 'yn1 mu1 ngu².
+    - Ngon²ngwe1 is the spouse of Lhie²nyn².
+
+28. Œan1nia1 Sie1tsie1 'yn1 lio² ngu².
+    - Sie1tsie1 is the child of Œan1nia1.
+
+29. Lhie²nyn² Ldiu²±e1 'yn1 'i@1 ngu².
+    - Ldiu²±e1 is the child of Lhie²nyn².
+
+30. Lhie²nyn² Sei1na1 'yn1 wiej² ngu².
+    - Sei1na1 is the sibling of Lhie²nyn².
+
+31. Œan1nia1 Nie²tse.1 'yn1 mu1 ngu².
+    - Nie²tse.1 is the spouse of Œan1nia1.
+
+32. Lhie²nyn² Œan1nia1 'yn1 'i@1 ngu².
+    - Œan1nia1 is the child of Lhie²nyn².
+
+33. Ngon²ngwe1 Ke.i1¹ey² 'yn1 ny1 ngu².
+    - Ke.i1¹ey² is the spouse of Ngon²ngwe1.
+
+34. Syn1mei1 Œan1nia1 'yn1 ¹we.j1 ngu².
+    - Œan1nia1 is the sibling of Syn1mei1.
+
+35. Mbe²phon1 Sie1tsie1 'yn1 ma1 ngu².
+    - Sie1tsie1 is the spouse of Mbe²phon1.
+
+36. Nie²tse.1 Sie1tsie1 'yn1 ndo.n1 ngu².
+    - Sie1tsie1 is the child of Nie²tse.1.
+
+**(b) Fill in the blank in the last sentence (there is only one way to do this).**
+
+36. Nie²tse.1 Sie1tsie1 'yn1 ndo.n1 ngu².
+    - Translation: "Nie²tse.1 is the child of Sie1tsie1."
+
+### Problem 4 (20 points)
+
+**(a) Translate into English:**
+
+8. edèì ânò nwa. sese ozyi à?
+   - Translation: "Will this man frighten the thief?"
+
+   amemùrè wei ga ò. nwa. sese ozyi.
+   - Translation: "The girl said that he[the man] will frighten the thief."
+
+9. amemùré le. lemu wúesè a.modhyòmù â. nò à?
+   - Translation: "Did this girl not kill the youth?"
+
+   amemùré le. lemù wei ga òki wúesè a.modhyòmù â. nò.
+   - Translation: "The girl said that he[the youth] did not kill the youth."
+
+10. ozyi ânò wei ga a.mó gbunono edèì.
+   - Translation: "The thief said that he[this man] healed the child."
+
+**(b) Translate into Engenni:**
+
+11. Will the old man resemble this coughing youth?  
+    - Translation: "edèì dhia gbúnonò a.mò à?"
+    
+    The child said that he[the old man] would not resemble this coughing youth.
+    - Translation: "a. vùràmú wei ga òkí gbúnonò a.mò."
+
+12. Did this beaten woman not frighten the man?  
+    - Translation: "edèì ânò nwa. sese amù à?"
+
+    This beaten woman said that she[this beaten woman] did not frighten the man.
+    - Translation: "amù wei ga ò nwa. sese edèì ânò."
+
+**(c) If you were to compile an Engenni dictionary, what would the base forms of the words "thief" and "girl" be? Explain your answer.**
+
+- The base form of "thief" would be "ozyi." In Engenni, "ozyì" is consistently used as the noun form for "thief" in different contexts.
+- The base form of "girl" would be "amemùré." This word is used to refer to a girl in different sentences, suggesting it is the base form.
+
+### Problem 5 (20 points)
+
+**(a) Determine the correct correspondences.**
+
+| Northwest Gbaya           | Translation           |
+|---------------------------|-----------------------|
+| Páá                      | eye socket            |
+| Páá náng nú kò        | eyebrow               |
+| Páá sèè                | eyelash               |
+| búmá ýık                | to envy               |
+| búmá zù ýık            | to put                |
+| dáng gòk                | good field            |
+| d́ı fò                   | foot                  |
+| d́ı sèè                 | liver                 |
+| kò ýık                  | at the surface        |
+| kò zòk                  | poisonous snake       |
+| náng ẃı                 | above, on             |
+| nú fò                   | nostril               |
+| nú lébé                | tip of the tongue     |
+| sèè ẃı                 | happiness             |
+| ýık                      | eyes/face             |
+| ýık ẃı                  | field edge            |
+| zù                      | to be dying           |
+
+**(b) Translate into English:**
+
+- búmá zù = to put
+- kò = at the surface
+- lébé gòk = good field
+- lébé ẃı = field edge
+
+**(c) Translate into Northwest Gbaya:**
+
+- at the center = kò sèè
+- head = ýık
+- displeasure = nú lébé
+- nose = nú fò

@@ -1,0 +1,262 @@
+Let's tackle each problem step-by-step.
+
+### Problem 1
+
+#### (a) Translate into English:
+
+1. **nonifibe**  
+   **Translation:** "we both are striking you(sg)"
+
+2. **halu'ibe**  
+   **Translation:** "you both are striking us"
+
+3. **lifilatagihe**  
+   **Translation:** "because you both will pierce me"
+
+4. **nokufune**  
+   **Translation:** "because I am striking you(sg)"
+
+5. **nolahanagihe**  
+   **Translation:** "because you(pl) will strike me"
+
+#### (b) Translate into Benabena:
+
+1. **you both are striking him**  
+   **Translation:** "nolifi'ibe"
+
+2. **we will pierce you(sg)**  
+   **Translation:** "lenifilu'ibe"
+
+3. **because we are striking you(pl)**  
+   **Translation:** "nofunagihe"
+
+4. **because you(pl) will pierce him**  
+   **Translation:** "nahalanagihe"
+
+### Problem 2
+
+#### (a) Fill in the cells with the question marks:
+
+| Singular        | Dual            | Plural            | Translation         |
+|-----------------|-----------------|-------------------|---------------------|
+| adↄ             | a               | a                 | tree                |
+| matʰↄnsjan      | matʰↄnsjan      | matʰↄnsjadↄ       | little girl         |
+| k’ↄ             | k’ↄ             | k’ↄgↄ             | knife               |
+| tʰot’olagↄ      | tʰot’ola        | tʰot’olagↄ        | orange              |
+| aufi            | aufigↄ          | aufigↄ           | fish                |
+| pʰjaboadↄ       | pʰjaboa         | pʰjaboadↄ         | street lamp         |
+| matʰↄn          | matʰↄdↄ         | matʰↄs            | girl                |
+| k’ↄnbohodↄ      | k’ↄnbohon       | k’ↄnbohodↄ       | hat                 |
+| t’ↄ             | t’ↄgↄ           | t’ↄgↄ             | spoon               |
+| e               | alↄsↄhjegↄ     | alↄsↄhjegↄ        | plum                |
+| tsegun          | tsegudↄ         | tsegudↄ           | dog                 |
+| alↄguk’ogↄ      | alↄguk’o        | alↄguk’ogↄ        | lemon               |
+| k’apʰtʰↄ        | k’apʰtʰↄ        | k’apʰtʰↄgↄ        | old man             |
+| kʰↄdↄ           | kʰↄdↄ           | kʰↄdↄ             | blanket             |
+| k’ↄdↄ           | k’ↄdↄ           | k’ↄdↄ             | tomato              |
+| alↄ            | alↄgↄ           | alↄgↄ             | apple               |
+| pʰↄ            | pʰↄ             | pʰↄ               | buffalo             |
+| sadↄ           | sadↄ            | sadↄ              | child               |
+| ↄlsun           | pitso           | pitso             | comb                |
+| pitso           | tʰↄpʰpaa        | tʰↄpʰpaa          | fork                |
+
+#### (b) Translate into English:
+
+1. **búmá zù**  
+   **Translation:** "good field"
+
+2. **kò**  
+   **Translation:** "above, on"
+
+3. **lébé gòk**  
+   **Translation:** "foot"
+
+4. **lébé ẃı**  
+   **Translation:** "tip of the tongue"
+
+#### (c) Translate into Northwest Gbaya:
+
+1. **at the center**  
+   **Translation:** "búmá ýık"
+
+2. **head**  
+   **Translation:** "sèè"
+
+3. **displeasure**  
+   **Translation:** "dáng gòk"
+
+4. **nose**  
+   **Translation:** "nú lébé"
+
+### Problem 3
+
+#### (a) Reconstruct the family tree:
+
+1. **Ldiu²±e1 Nie²tse.1 'yn1 kâ. j ngu².**  
+   Ldiu²±e1 is Nie²tse.1’s father.
+
+2. **Lhie²nyn² Ngwi1mbyn² 'yn1 lio² ngu².**  
+   Lhie²nyn² is Ngwi1mbyn²’s uncle (mother’s brother or father’s brother).
+
+3. **Sei1na1 Wa²nie1 'yn1 ndo.n1 ngu².**  
+   Sei1na1 is Wa²nie1’s sibling (brother/sister).
+
+4. **Ldiu²±e1 Œan1nia1 'yn1 ndo.n1 ngu².**  
+   Ldiu²±e1 is Œan1nia1’s sibling (brother/sister).
+
+5. **Œan1nia1 Syn1mei1 'yn1 ¹we.j1 ngu².**  
+   Œan1nia1 is Syn1mei1’s sibling (brother/sister).
+
+6. **Ldiu²±e1 Syn1mei1 'yn1 ¹we.j1 ngu².**  
+   Ldiu²±e1 is Syn1mei1’s sibling (brother/sister).
+
+7. **Ldiu²±e1 Wa²nie1 'yn1 ¹we.j1 ngu².**  
+   Ldiu²±e1 is Wa²nie1’s sibling (brother/sister).
+
+8. **Ke.i1¹ey² Ldiu²±e1 'yn1 ¹we.j1 ngu².**  
+   Ke.i1¹ey² is Ldiu²±e1’s parent.
+
+9. **Ldiu²±e1 Ke.i1¹ey² 'yn1 ¹we.j1 ngu².**  
+   Ldiu²±e1 is Ke.i1¹ey²’s child.
+
+10. **Lhie²nyn² Syn1mei1 'yn1 wia1 ngu².**  
+    Lhie²nyn² is Syn1mei1’s grandparent.
+
+11. **Lhie²nyn² Sie1tsie1 'yn1 'i@1 ngu².**  
+    Lhie²nyn² is Sie1tsie1’s parent.
+
+12. **Ke.i1¹ey² Wa²nie1 'yn1 lio² ngu².**  
+    Ke.i1¹ey² is Wa²nie1’s parent.
+
+13. **Ke.i1¹ey² Sie1tsie1 'yn1 ¹we.j1 ngu².**  
+    Ke.i1¹ey² is Sie1tsie1’s sibling (brother/sister).
+
+14. **Lhie²nyn² Ke.i1¹ey² 'yn1 wiej² ngu².**  
+    Lhie²nyn² is Ke.i1¹ey²’s parent.
+
+15. **Syn1mei1 Nie²tse.1 'yn1 ¹we.j1 ngu².**  
+    Syn1mei1 is Nie²tse.1’s sibling (brother/sister).
+
+16. **Ngon²ngwe1 Mbe²phon1 'yn1 kâ.j1 ngu².**  
+    Ngon²ngwe1 is Mbe²phon1’s parent.
+
+17. **Syn1mei1 Sei1na1 'yn1 kâ.j1 ngu².**  
+    Syn1mei1 is Sei1na1’s parent.
+
+18. **Ldiu²±e1 Sie1tsie1 'yn1 ndo.n1 ngu².**  
+    Ldiu²±e1 is Sie1tsie1’s sibling (brother/sister).
+
+19. **Lhie²nyn² Wa²nie1 'yn1 wia1 ngu².**  
+    Lhie²nyn² is Wa²nie1’s grandparent.
+
+20. **Ldiu²±e1 Sei1na1 'yn1 ¹we.j1 ngu².**  
+    Ldiu²±e1 is Sei1na1’s sibling (brother/sister).
+
+21. **Wa²nie1 Sei1na1 'yn1 mu1 ngu².**  
+    Wa²nie1 is Sei1na1’s parent.
+
+22. **Œan1nia1 Wa²nie1 'yn1 ¹we.j1 ngu².**  
+    Œan1nia1 is Wa²nie1’s sibling (brother/sister).
+
+23. **Ngon²ngwe1 Ldiu²±e1 'yn1 la² ngu².**  
+    Ngon²ngwe1 is Ldiu²±e1’s grandparent.
+
+24. **Lhie²nyn² Ldiu²±e1 'yn1 kâ.j1 ngu².**  
+    Lhie²nyn² is Ldiu²±e1’s parent.
+
+25. **Syn1mei1 Ke.i1¹ey² 'yn1 lio² ngu².**  
+    Syn1mei1 is Ke.i1¹ey²’s sibling (brother/sister).
+
+26. **Lhie²nyn² Ldiu²±e1 'yn1 ¹we.j1 ngu².**  
+    Lhie²nyn² is Ldiu²±e1’s sibling (brother/sister).
+
+27. **Syn1mei1 Ldiu²±e1 'yn1 lio² ngu².**  
+    Syn1mei1 is Ldiu²±e1’s sibling (brother/sister).
+
+28. **Ldiu²±e1 Lhie²nyn² 'yn1 lio² ngu².**  
+    Ldiu²±e1 is Lhie²nyn²’s sibling (brother/sister).
+
+### Problem 4
+
+1. **Jangri**  
+   **Translation:** "horse"
+
+2. **ozi**  
+   **Translation:** "mango"
+
+3. **duru**  
+   **Translation:** "river"
+
+4. **ike**  
+   **Translation:** "dog"
+
+5. **ovada**  
+   **Translation:** "fish"
+
+6. **kebi**  
+   **Translation:** "grape"
+
+7. **ume**  
+   **Translation:** "house"
+
+8. **eji**  
+   **Translation:** "cat"
+
+9. **dashi**  
+   **Translation:** "table"
+
+10. **ngozi**  
+    **Translation:** "blessing"
+
+### Problem 5
+
+#### (a) Translate into English:
+
+1. **'aɪ kʊd lʌv sʌm lʌŋ 'ɡʊd hʌbɪts**  
+   **Translation:** "I could love some long good habits"
+
+2. **dʒʌst wʌn dʒʌsʌn ælʌŋ wʌnt ʌɪ noʊ **  
+   **Translation:** "Just one Justin along won't I know"
+
+3. **'ʌmˈbeɪ ʌv dʌn**  
+   **Translation:** "I'm not sure"
+
+4. **saɪ zʌn**  
+   **Translation:** "Sigh sun"
+
+5. **hʌve mʌnɪ 'ɡʊd bɒrɪŋ**  
+   **Translation:** "Have money good boring"
+
+#### (b) Translate into Vowel Art:
+
+1. **bʌnʌn**  
+   **Translation:** "banan"
+
+2. **ʌrʌ**  
+   **Translation:** "ura"
+
+3. **mæn**  
+   **Translation:** "man"
+
+4. **dʌk**  
+   **Translation:** "duck"
+
+5. **bæʌ**  
+   **Translation:** "back"
+
+6. **mʌtʃ**  
+   **Translation:** "mush"
+
+7. **vɪn**  
+   **Translation:** "vine"
+
+8. **gʌr**  
+   **Translation:** "go"
+
+9. **fɪʃ**  
+   **Translation:** "fish"
+
+10. **hʌt**  
+    **Translation:** "hut"
+
+Let me know if there's anything else you need!

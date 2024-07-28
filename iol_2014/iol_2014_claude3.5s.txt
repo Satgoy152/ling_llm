@@ -1,0 +1,155 @@
+Thank you for providing these fascinating linguistic problems. I'll work through them one by one, providing my analysis and solutions.
+
+### Problem 1: Benabena Verb Forms
+
+Let's analyze the structure of Benabena verbs:
+
+- no-/ni- seems to be a present tense marker
+- -ha- appears to indicate future tense
+- -fu- seems to mean "pierce"
+- -ho- looks like it means "strike"
+- -be indicates first person singular subject
+- -ne indicates second person singular subject
+- -'ibe seems to indicate dual subject
+- -lu- might indicate plural object
+- -tagihe and -nagihe appear to mean "because"
+
+Now, let's translate:
+
+(a) Translate into English:
+1. nonifibe: I am piercing you (sg)
+2. halu'ibe: you both are striking us
+3. lifilatagihe: because you (sg) are piercing them
+4. nokufune: you (sg) are piercing us
+5. nolahanagihe: because we will pierce him
+
+(b) Translate into Benabena:
+1. you both are striking him: noho'ibe
+2. we will pierce you(sg): kafilune
+3. because we are striking you(pl): nolenahatagihe
+4. because you(pl) will pierce him: nafilanagihe
+
+### Problem 2: Kiowa Noun Forms
+
+After analyzing the patterns, here are the filled-in cells:
+
+| Singular        | Dual            | Plural            | Translation         |
+|-----------------|-----------------|-------------------|---------------------|
+| adↄ             | a               | a                 | tree                |
+| matʰↄnsjan      | matʰↄnsjan      | matʰↄnsjadↄ       | little girl         |
+| k'ↄ             | k'ↄ             | k'ↄgↄ             | knife               |
+| tʰot'olagↄ      | tʰot'ola        | tʰot'olagↄ        | orange              |
+| aufi            | aufigↄ          | aufi              | fish                |
+| pʰjaboadↄ       | pʰjaboa         | pʰjaboadↄ         | street lamp         |
+| matʰↄn          | matʰↄdↄ         | matʰↄn            | girl                |
+| k'ↄnbohodↄ      | k'ↄnbohon       | k'ↄnbohodↄ        | hat                 |
+| t'ↄ             | t'ↄgↄ           | t'ↄ               | spoon               |
+| e               | egↄ             | alↄsↄhjegↄ        | plum                |
+| tsegun          | tsegun          | tsegudↄ           | dog                 |
+| alↄguk'ogↄ      | alↄguk'o        | alↄguk'ogↄ        | lemon               |
+| k'apʰtʰↄ        | k'apʰtʰↄ        | k'apʰtʰↄgↄ        | old man             |
+| kʰↄdↄ           | kʰↄ             | kʰↄdↄ             | blanket             |
+| k'ↄdↄ           | k'ↄ             | k'ↄdↄ             | tomato              |
+| alↄ             | alↄ             | alↄgↄ             | apple               |
+| pʰↄ             | pʰↄ             | pʰↄgↄ             | buffalo             |
+| sa              | sa              | sadↄ              | child               |
+| ↄlsun           | ↄlsun           | ↄlsudↄ            | comb                |
+| pitso           | pitso           | pitsogↄ           | fork                |
+| tʰↄpʰpa         | tʰↄpʰpaa        | tʰↄpʰpagↄ         | chair               |
+
+### Problem 3: Tangut Family Relations
+
+After analyzing the relationships, here's the family tree:
+
+```
+          Lhie²nyn² === Ngon²ngwe1    Œan1nia1 === Ldiu²±e1
+             |              |             |           |
+    +--------+--------+     |        +----+----+      |
+    |        |        |     |        |         |      |
+ Sie1tsie1  Wa²nie1 Mbe²phon1     Syn1mei1  Nie²tse.1 Sei1na1
+                                                       |
+                                                    Ke.i1¹ey²
+```
+
+The relationships are:
+- kâ.j = parent
+- ndo.n = child
+- ¹we.j = sibling
+- wia = spouse
+- 'i@ = sibling's spouse
+- mu = parent's sibling
+- la = parent's sibling's child
+- ma = grandchild
+- wiej = child's spouse
+- ny = grandchild's spouse
+- lio = cousin
+
+(b) The blank in the last sentence should be filled with "mu", as Nie²tse.1 is Sie1tsie1's parent's sibling (aunt or uncle).
+
+### Problem 4: Engenni Language
+
+(a) Translations:
+
+8. Will this man frighten the thief?
+   The girl said that he[this man] would frighten the thief.
+
+9. Did the deceived girl kill this youth?
+   The deceived girl said that she[the deceived girl] did not kill this youth.
+
+10. This thief said that the child healed the man.
+
+The last sentence could have multiple translations because Engenni doesn't distinguish between "he" and "she" in reported speech. So it could also mean:
+"This thief said that he[the thief] healed the man."
+"This thief said that she[the child] healed the man."
+
+(b) Translations into Engenni:
+
+11. okàá ki.nono a.modhyòmù ko�lomù ânò à?
+    a.mò wei ga ó. ki.nono a.modhyòmù ko�lomù ânò.
+
+12. a. vùràmú nu. amù ânò nwa. sese edèì à?
+    a. vùràmú nu. amù ânò wei ga òkí nwa. sese edèì.
+
+(c) Base forms:
+
+"Thief" - The base form is likely "ozyi". The form "ozyì" appears to be modified, possibly for tense or aspect.
+
+"Girl" - The base form is likely "amemùrè". The form "amemùré" appears when it's the subject of a sentence, possibly indicating a nominative case.
+
+### Problem 5: Northwest Gbaya
+
+(a) Correspondences:
+
+| Northwest Gbaya | English Translation |
+|-----------------|---------------------|
+| Páá | above, on |
+| Páá náng nú kò | tip of the tongue |
+| Páá sèè | at the surface |
+| búmá ýık | good field |
+| búmá zù ýık | field edge |
+| dáng gòk | eye socket |
+| d́ı fò | foot |
+| d́ı sèè | liver |
+| kò ýık | eyebrow |
+| kò zòk | eyelash |
+| náng ẃı | nostril |
+| nú fò | to put |
+| nú lébé | to be dying |
+| sèè ẃı | happiness |
+| ýık | eyes/face |
+| ýık ẃı | to envy |
+| zù | poisonous snake |
+
+(b) Translations into English:
+- búmá zù: field snake
+- kò: tongue
+- lébé gòk: snake eye
+- lébé ẃı: snake nose
+
+(c) Translations into Northwest Gbaya:
+- at the center: Páá d́ı
+- head: kò
+- displeasure: sèè zòk
+- nose: ẃı
+
+These solutions are based on the patterns and structures observed in the given data. The analysis of the Tangut family relations was particularly interesting, requiring careful mapping of the relationships to reconstruct the family tree.

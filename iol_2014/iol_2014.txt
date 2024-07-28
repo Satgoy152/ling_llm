@@ -8,23 +8,23 @@ Here are some verb forms of Benabena and their English translations:
 | kahalune                    | we will strike you(sg)            |
 | nokoho'ibe                  | we both are striking you(sg)      |
 | nolenufu'inagihe            | because we both are piercing you(pl) |
-| noli'ibe                    | you both are piercing us          |
+| nolifi'ibe                    | you both are piercing us          |
 | nofunagihe                  | because I am piercing him         |
 | no'ne                       | you(sg) are piercing him          |
-| ni'la'ibe                   | you both will pierce me           |
+| nifila'ibe                   | you both will pierce me           |
 | nonahatagihe                | because you(sg) are striking me   |
 | lenahalube                  | I will strike you(pl)             |
 | nahalanagihe                | because you(pl) will strike me    |
 | lahal'ibe                   | you both will strike us           |
 | nofunagihe                  | because we are piercing him       |
-| leni'lu'ibe                 | we both will pierce you(pl)       |
+| lenifilu'ibe                | we both will pierce you(pl)       |
 | noho'inagihe                | because we both are striking him  |
 
 (a) Translate into English:
 
-1. noni'be
+1. nonifibe
 2. halu'ibe
-3. li'latagihe
+3. lifilatagihe
 4. nokufune
 5. nolahanagihe
 
@@ -35,6 +35,8 @@ Here are some verb forms of Benabena and their English translations:
 3. because we are striking you(pl)
 4. because you(pl) will pierce him
 
+△! The Benabena language belongs to the Trans-New Guinea family. It is spoken by approx. 45,000 people in Papua New Guinea. Ivan Derzhanski
+
 * * *
 ### Problem 2 (20 points)
 
@@ -42,73 +44,77 @@ Here are the singular, dual, and plural forms of some Kiowa nouns and their Engl
 
 | Singular        | Dual            | Plural            | Translation         |
 |-----------------|-----------------|-------------------|---------------------|
-| adO             | a               | a                 | tree                |
-| mathOnsjan      | mathOnsjan      | mathOnsjadO       | little girl         |
-| k’O             | k’O             | k’OgO             | knife               |
-| thot’olagO      | thot’ola        | thot’olagO        | orange              |
-| aufi            | aufigO          | ?                 | fish                |
-| phjaboadO       | phjaboa         | ?                 | street lamp         |
-| mathOn          | mathOdO         | ?                 | girl                |
-| k’OnbohodO      | k’Onbohon       | ?                 | hat                 |
-| t’O             | t’OgO           | ?                 | spoon               |
-| e               | ?               | alOsOhjegO        | plum                |
-| ?               | tsegun          | tsegudO           | dog                 |
-| alOguk’ogO      | alOguk’o        | ?                 | lemon               |
-| ?               | k’aphthO        | k’aphthOgO        | old man             |
-| khOdO           | khO             | ?                 | blanket             |
-| k’OdO           | ?               | k’OdO             | tomato              |
-| ?               | alO             | ?                 | apple               |
-| ?               | phO             | ?                 | buffalo             |
-| ?               | ?               | sadO              | child               |
-| Olsun           | ?               | ?                 | comb                |
+| adↄ             | a               | a                 | tree                |
+| matʰↄnsjan      | matʰↄnsjan      | matʰↄnsjadↄ       | little girl         |
+| k’ↄ             | k’ↄ             | k’ↄgↄ             | knife               |
+| tʰot’olagↄ      | tʰot’ola        | tʰot’olagↄ        | orange              |
+| aufi            | aufigↄ          | ?                 | fish                |
+| pʰjaboadↄ       | pʰjaboa         | ?                 | street lamp         |
+| matʰↄn          | matʰↄdↄ         | ?                 | girl                |
+| k’ↄnbohodↄ      | k’ↄnbohon       | ?                 | hat                 |
+| t’ↄ             | t’ↄgↄ           | ?                 | spoon               |
+| e               | ?               | alↄsↄhjegↄ        | plum                |
+| ?               | tsegun          | tsegudↄ           | dog                 |
+| alↄguk’ogↄ      | alↄguk’o        | ?                 | lemon               |
+| ?               | k’apʰtʰↄ        | k’apʰtʰↄgↄ        | old man             |
+| kʰↄdↄ           | kʰↄ             | ?                 | blanket             |
+| k’ↄdↄ           | ?               | k’ↄdↄ             | tomato              |
+| ?               | alↄ             | ?                 | apple               |
+| ?               | pʰↄ             | ?                 | buffalo             |
+| ?               | ?               | sadↄ              | child               |
+| ↄlsun           | ?               | ?                 | comb                |
 | ?               | pitso           | ?                 | fork                |
-| ?               | thOphpaa        | ?                 | chair               |
+| ?               | tʰↄpʰpaa        | ?                 | chair               |
 
 Fill in the cells with the question marks.
+
+△! The Kiowa language belongs to the Kiowa-Tanoan family. It is an endangered language, only spoken by a few hundred people in Oklahoma, USA.
+The Kiowa words are given in a simplified transcription. k’, t’, p’, kʰ, pʰ, tʰ are consonants; ↄ is a vowel. -Aleksejs Pegu2evs
 
 * * *
 ### Problem 3 (20 points)
 
 Once upon a time in the Tangut Empire ("the Great State of the White and the Lofty") there lived two brothers and two sisters. They each had a son and a daughter.
 
-Below you see statements in the Tangut language concerning the relations between these people. The name Lhie2nyn2 belongs to a man.
 
-1. Ldiu2±e1 Nie2tse.1 'yn1 kâ. j ngu2.
-2. Lhie2nyn2 Ngwi1mbyn2 'yn1 lio2 ngu2.
-3. Sei1na1 Wa2nie1 'yn1 ndo.n1 ngu2.
-4. Ldiu2±e1 Œan1nia1 'yn1 ndo.n1 ngu2.
-5. Œan1nia1 Syn1mei1 'yn1 ¹we.j1 ngu2.
-6. Ldiu2±e1 Syn1mei1 'yn1 ¹we.j1 ngu2.
-7. Ldiu2±e1 Wa2nie1 'yn1 ¹we.j1 ngu2.
-8. Ke.i1¹ey2 Ldiu2±e1 'yn1 ¹we.j1 ngu2.
-9. Ldiu2±e1 Ke.i1¹ey2 'yn1 ¹we.j1 ngu2.
-10. Lhie2nyn2 Syn1mei1 'yn1 wia1 ngu2.
-11. Lhie2nyn2 Sie1tsie1 'yn1 'i@1 ngu2.
-12. Ke.i1¹ey2 Wa2nie1 'yn1 lio2 ngu2.
-13. Ke.i1¹ey2 Sie1tsie1 'yn1 ¹we.j1 ngu2.
-14. Lhie2nyn2 Ke.i1¹ey2 'yn1 wiej2 ngu2.
-15. Syn1mei1 Nie2tse.1 'yn1 ¹we.j1 ngu2.
-16. Ngon2ngwe1 Mbe2phon1 'yn1 kâ.j1 ngu2.
-17. Syn1mei1 Sei1na1 'yn1 kâ.j1 ngu2.
-18. Ldiu2±e1 Sie1tsie1 'yn1 ndo.n1 ngu2.
-19. Lhie2nyn2 Wa2nie1 'yn1 wia1 ngu2.
-20. Ldiu2±e1 Sei1na1 'yn1 ¹we.j1 ngu2.
-21. Wa2nie1 Sei1na1 'yn1 mu1 ngu2.
-22. Œan1nia1 Wa2nie1 'yn1 ¹we.j1 ngu2.
-23. Ngon2ngwe1 Ldiu2±e1 'yn1 la2 ngu2.
-24. Lhie2nyn2 Mbe2phon1 'yn1 mu1 ngu2.
-25. Mbe2phon1 Ldiu2±e1 'yn1 ma1 ngu2.
-26. Lhie2nyn2 Nie2tse.1 'yn1 'i@1 ngu2.
-27. Lhie2nyn2 Ngon2ngwe1 'yn1 mu1 ngu2.
-28. Œan1nia1 Sie1tsie1 'yn1 lio2 ngu2.
-29. Lhie2nyn2 Ldiu2±e1 'yn1 'i@1 ngu2.
-30. Lhie2nyn2 Sei1na1 'yn1 wiej2 ngu2.
-31. Œan1nia1 Nie2tse.1 'yn1 mu1 ngu2.
-32. Lhie2nyn2 Œan1nia1 'yn1 'i@1 ngu2.
-33. Ngon2ngwe1 Ke.i1¹ey2 'yn1 ny1 ngu2.
-34. Syn1mei1 Œan1nia1 'yn1 ¹we.j1 ngu2.
-35. Mbe2phon1 Sie1tsie1 'yn1 ma1 ngu2.
-36. Nie2tse.1 Sie1tsie1 'yn1 ngu2.
+Below you see statements in the Tangut language concerning the relations between these people. The name Lhie²nyn² belongs to a man.
+
+1. Ldiu²±e1 Nie²tse.1 'yn1 kâ. j ngu².
+2. Lhie²nyn² Ngwi1mbyn² 'yn1 lio² ngu².
+3. Sei1na1 Wa²nie1 'yn1 ndo.n1 ngu².
+4. Ldiu²±e1 Œan1nia1 'yn1 ndo.n1 ngu².
+5. Œan1nia1 Syn1mei1 'yn1 ¹we.j1 ngu².
+6. Ldiu²±e1 Syn1mei1 'yn1 ¹we.j1 ngu².
+7. Ldiu²±e1 Wa²nie1 'yn1 ¹we.j1 ngu².
+8. Ke.i1¹ey² Ldiu²±e1 'yn1 ¹we.j1 ngu².
+9. Ldiu²±e1 Ke.i1¹ey² 'yn1 ¹we.j1 ngu².
+10. Lhie²nyn² Syn1mei1 'yn1 wia1 ngu².
+11. Lhie²nyn² Sie1tsie1 'yn1 'i@1 ngu².
+12. Ke.i1¹ey² Wa²nie1 'yn1 lio² ngu².
+13. Ke.i1¹ey² Sie1tsie1 'yn1 ¹we.j1 ngu².
+14. Lhie²nyn² Ke.i1¹ey² 'yn1 wiej² ngu².
+15. Syn1mei1 Nie²tse.1 'yn1 ¹we.j1 ngu².
+16. Ngon²ngwe1 Mbe²phon1 'yn1 kâ.j1 ngu².
+17. Syn1mei1 Sei1na1 'yn1 kâ.j1 ngu².
+18. Ldiu²±e1 Sie1tsie1 'yn1 ndo.n1 ngu².
+19. Lhie²nyn² Wa²nie1 'yn1 wia1 ngu².
+20. Ldiu²±e1 Sei1na1 'yn1 ¹we.j1 ngu².
+21. Wa²nie1 Sei1na1 'yn1 mu1 ngu².
+22. Œan1nia1 Wa²nie1 'yn1 ¹we.j1 ngu².
+23. Ngon²ngwe1 Ldiu²±e1 'yn1 la² ngu².
+24. Lhie²nyn² Mbe²phon1 'yn1 mu1 ngu².
+25. Mbe²phon1 Ldiu²±e1 'yn1 ma1 ngu².
+26. Lhie²nyn² Nie²tse.1 'yn1 'i@1 ngu².
+27. Lhie²nyn² Ngon²ngwe1 'yn1 mu1 ngu².
+28. Œan1nia1 Sie1tsie1 'yn1 lio² ngu².
+29. Lhie²nyn² Ldiu²±e1 'yn1 'i@1 ngu².
+30. Lhie²nyn² Sei1na1 'yn1 wiej² ngu².
+31. Œan1nia1 Nie²tse.1 'yn1 mu1 ngu².
+32. Lhie²nyn² Œan1nia1 'yn1 'i@1 ngu².
+33. Ngon²ngwe1 Ke.i1¹ey² 'yn1 ny1 ngu².
+34. Syn1mei1 Œan1nia1 'yn1 ¹we.j1 ngu².
+35. Mbe²phon1 Sie1tsie1 'yn1 ma1 ngu².
+36. Nie²tse.1 Sie1tsie1 'yn1 ____ ngu².
 
 (a) Reconstruct the family tree.
 
@@ -119,7 +125,7 @@ Below you see statements in the Tangut language concerning the relations between
 
 Here are some short dialogs in Engenni and their English translations:
 
-1. edèì âno nwá. sesè ozyí le. lemù à?  
+1. edèì âno nwá.ạsesè ozyí le. lemù à?  
    Will this man frighten the deceived thief?  
    edèì ânò wei ga òkí nwa. sese ozyí le. lemù.  
    This man said that he[this man] would not frighten the deceived thief.

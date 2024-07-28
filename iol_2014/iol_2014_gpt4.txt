@@ -1,0 +1,106 @@
+### Solution to Problem 1
+
+**Benabena Translations**
+
+(a) **Translate into English:**
+1. nonifibe - we will strike you (pl)
+2. halu'ibe - you (pl) will strike us
+3. lifilatagihe - because we are piercing you (pl)
+4. nokufune - I am piercing you (sg)
+5. nolahanagihe - because you (sg) are striking me
+
+(b) **Translate into Benabena:**
+1. nohobe'ibe - you both are striking him
+2. kahalu - we will pierce you (sg)
+3. nohalunagihe - because we are striking you (pl)
+4. lenifilunagihe - because you (pl) will pierce him
+
+### Solution to Problem 2
+
+**Kiowa Noun Forms**
+
+| Singular        | Dual            | Plural            | Translation         |
+|-----------------|-----------------|-------------------|---------------------|
+| adↄ             | a               | a                 | tree                |
+| matʰↄnsjan      | matʰↄnsjan      | matʰↄnsjadↄ       | little girl         |
+| k’ↄ             | k’ↄ             | k’ↄgↄ             | knife               |
+| tʰot’olagↄ      | tʰot’ola        | tʰot’olagↄ        | orange              |
+| aufi            | aufigↄ          | aufigudↄ          | fish                |
+| pʰjaboadↄ       | pʰjaboa         | pʰjaboadↄgↄ       | street lamp         |
+| matʰↄn          | matʰↄdↄ         | matʰↄdↄgↄ         | girl                |
+| k’ↄnbohodↄ      | k’ↄnbohon       | k’ↄnbohodↄgↄ      | hat                 |
+| t’ↄ             | t’ↄgↄ           | t’ↄgudↄ           | spoon               |
+| e               | e               | alↄsↄhjegↄ        | plum                |
+| a'a             | tsegun          | tsegudↄ           | dog                 |
+| alↄguk’ogↄ      | alↄguk’o        | alↄguk’ogↄg       | lemon               |
+| k’apʰtʰↄ        | k’apʰtʰↄ        | k’apʰtʰↄgↄ        | old man             |
+| kʰↄdↄ           | kʰↄ             | kʰↄdↄgↄ           | blanket             |
+| k’ↄdↄ           | k’ↄ             | k’ↄdↄ             | tomato              |
+| a'a             | alↄ             | alↄgudↄ           | apple               |
+| pʰↄa             | pʰↄ             | pʰↄadↄ            | buffalo             |
+| sadↄa           | sadↄ            | sadↄ              | child               |
+| ↄlsun           | ↄlsu            | ↄlsun             | comb                |
+| pitso           | pitso           | pitsodↄ           | fork                |
+| tʰↄpʰpa         | tʰↄpʰpaa        | tʰↄpʰpaadↄ        | chair               |
+
+### Solution to Problem 3
+
+(a) **Reconstruct the family tree:** 
+- The relations imply siblings, parent-child relationships, and other kinships based on their roles and actions in the provided statements.
+
+(b) **Fill in the blank in the last sentence (36):**
+- The missing word could be a relationship marker indicating a familial or social role based on other known kinships or actions.
+- Since this problem is complex and needs analysis of provided relationships, it requires more context or detail that may not be immediately deducible from the given sentences alone.
+
+### Solution to Problem 4
+
+(a) **Translate into English:**
+8. Will this man not strike the thief?
+   The girl said that he [this man] would not strike the thief.
+9. Did this deceived girl not kill the youth?
+   This deceived girl said that she [deceived girl] did kill the youth.
+10. This thief said that he would heal the man.
+
+(b) **Translate into Engenni:**
+11. edèí kí.nonò a.mò ko�lomù â? a.mò â. nò wei ga òki kí.nonò a.mò ko�lomù.
+12. vùràmù ki.nono amemùrè a.nò à? vùràmù ki.nono wei ga òki amemùrè a.nò.
+
+(c) **Base forms of the words "thief" and "girl":**
+- "Thief" - ozyì
+- "Girl" - amemùré
+- These base forms are used consistently throughout the dialogs, indicating their root forms in the language.
+
+### Solution to Problem 5
+
+(a) **Determine correct correspondences:**
+- "Páá" - happiness
+- "Páá náng nú kò" - eyes/face
+- "Páá sèè" - eyebrow
+- "búmá ýık" - eyelash
+- "búmá zù ýık" - eye socket
+- "dáng gòk" - good field
+- "d́ı fò" - liver
+- "d́ı sèè" - field edge
+- "kò ýık" - nostril
+- "kò zòk" - poisonous snake
+- "náng ẃı" - above, on
+- "nú fò" - foot
+- "nú lébé" - tip of the tongue
+- "sèè ẃı" - to put
+- "ýık" - to be dying
+- "ýık ẃı" - to envy
+- "zù" - to put
+
+(b) **Translate into English:**
+- búmá zù - eye socket
+- kò - nostril
+- lébé gòk - tip of the tongue good field (interpreted as an incorrect combination)
+- lébé ẃı - tip of the tongue at the surface (interpreted as an incorrect combination)
+
+(c) **Translate into Northwest Gbaya:**
+- at the center - could be a specific term for center like "nú central"
+- head - could be "nú head"
+- displeasure - a specific term for displeasure, possibly "m̀m displeasure"
+- nose - kò
+
+These translations and solutions are provided based on understanding the structure and common patterns of the given languages and their translations.
