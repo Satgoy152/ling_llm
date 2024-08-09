@@ -1,3 +1,5 @@
+Prompt: As an expert in computational linguistics solve the following problem:
+
 ### Problem 1 (10 points)
 Consider the following sentences in the Kayapo language (printed in Latin transliteration) and their English translations:
 
@@ -15,27 +17,20 @@ Consider the following sentences in the Kayapo language (printed in Latin transl
 Assignment 1. Translate into English; if you believe that some sentences have several translations, give all of them:
 
 1. Aje ikuru kêt
-   - He is not devouring you.
 
 2. Ba m! aku
-   - We are devouring.
 
 3. Irêrê kêt
-   - He is not swimming.
 
 Assignment 2. Translate into Kayapo:
 
 1. You guys are not devouring us
-   - M! irêrê inhêrê kêt
 
 2. We are not decorating you guys
-   - M! aj" inhêrê kêt
 
 3. We are dancing
-   - Ba m! to
 
 4. I am devouring you
-   - Ga iku
 
 ---
 
@@ -54,20 +49,8 @@ A translator at the Swift News agency, which regularly receives lots of material
 10. Terrorist Activity Threatens Public Security.
 11. Global Cooling Threatens Food Shortages.
 
-Assignment. Indicate which titles did not correspond to the contents of the articles after translations. Give the appropriate translations. Explain your solution.
-
-Titles that did not correspond to the contents of the articles:
-1. Cold Winter Threatens Start of Shipping Season in Small Lakes.
-   - Correct translation: Sudden Weather Change Threatens Arrival of Reinforcements to Besieged City.
-
-2. Insanitariness in Brobdingnag Threatens Cholera Outbreak.
-   - Correct translation: Population Crisis in Lilliput Threatens Tax Reform.
-
-3. Password Leak From Megasoft Threatens Mass Piracy.
-   - Correct translation: New Crisis in Blefuscu Threatens Collapse of Peace Talks.
-
-Explanation:
-The translator likely confused the titles due to the similar structure and overlapping vocabulary in the original and translated titles.
+Assignment. Indicate which titles did not correspond to the contents of the articles after translations. 
+Give the appropriate translations. Explain your solution.
 
 ---
 
@@ -91,6 +74,9 @@ Consider fourteen Latin words and their English translations:
 | mediocris        | moderate             |
 | fingo            | I sculpt             |
 
+Linguists believe that in ancient times all these words except one contained the dh sound (d pronounced with an aspiration). 
+Later, dh was replaced by other sounds.
+
 Consider the four English words cognate to four of the Latin words given above:
 - beard
 - word
@@ -98,9 +84,6 @@ Consider the four English words cognate to four of the Latin words given above:
 - red
 
 Assignment 1. Indicate the Latin word of the above list that never contained the dh sound. Explain your solution.
-
-- Latin word: rubrica
-- Explanation: The word "red" comes from the Proto-Indo-European root *h₁rewdʰ-. The Latin "rubrica" has undergone a change, but it did not contain the dh sound originally.
 
 Assignment 2. Consider six more Latin words:
 
@@ -114,9 +97,6 @@ Assignment 2. Consider six more Latin words:
 | debeo          | I owe               |
 
 Which of these words are sure to have never contained the dh sound? Why?
-
-- Words: gurdus, unda, debeo
-- Explanation: These words are sure to have never contained the dh sound because they derive from different Proto-Indo-European roots that did not include the dh sound.
 
 ---
 
@@ -139,31 +119,26 @@ Consider some words of the Lakhota language (in Latin transliteration):
 | g"l"*)          | it is striped:  + + +                     |
 
 Assignment 1. Match the following words with their translations given in misarranged order:
-1. k'e*): it is fractured
-2. k'ez): it sparks
-3. phešniža: it has a slight bruise
-4. suza: the surface is in a scratched condition
-5. xu*a: the surface is in a scraped condition
+k'e*), k'ez), phešniža, suza, xu*a;
+ it sparks, it is fractured, the surface is in a scratched condition, it has a slight bruise, the surface is in a scraped condition
 
 Assignment 2. Translate into Lakhota:
 
 1. A thin liquid is being squeezed out
-   - šli
 
 2. It is soft and movable (e.g., an enlarged gland under the skin)
-   - nu*a
 
 3. It is red hot
-   - zi*ši
 
 4. It is semi-hard and movable (e.g., a cartilage)
-   - nu*a*
 
 5. It is branching into several directions
-   - žaža
 
 Assignment 3. Explain the meaning of the word ži.
-- ži means "it is yellow."
+
+Note. The letter x is pronounced similarly to English h as in hard; the letter " is the voiced correlate of #; 
+š and ž are pronounced similarly to sh as in shoe and s as in pleasure, respectively. The letters k' and ph signify
+ specific Lakhota consonants, and $, i, % signify specific Lakhota vowels.
 
 ---
 
@@ -222,16 +197,8 @@ The table below contains Chuvash verbs (in Latin transliteration) and their Engl
 
 Assignment. Fill in the gaps. If in some cases you cannot form a Chuvash verb with certainty, indicate it. Explain your solution.
 
-1. aptrant - to torment
-2. çittent - to lead
-3. .ühen - to clean
-4. hup,n - to close
-5. vacka - to be in a hurry
-6. varent - to transport
-7. k,retan - to enter
-
-Explanation: The formation of Chuvash verbs involves identifying patterns of verb conjugation and understanding root transformations.
-
+Note. & is pronounced as a short a, ' is pronounced as a short e, ü is pronounced similarly to English ew as in stew, 
+ç is pronounced similarly to English c as in cereal, ( is pronounced similarly to English ch as in church.
 ---
 
 Good luck!

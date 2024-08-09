@@ -1,0 +1,142 @@
+## Problem 1 
+
+**Assignment 1**
+
+1. **Aje ikuru kêt:** He/She is not devouring you. 
+2. **Ba m! aku:** I am devouring you guys.
+3. **Irêrê kêt:** They/He/She is/are not swimming.
+
+**Assignment 2**
+
+1. You guys are not devouring us: **M! ij" ore kêt** 
+2. We are not decorating you guys: **Ba m! inhêrê kêt**
+3. We are dancing: **Ore to**
+4. I am devouring you: **Ga aku**
+
+
+## Problem 2 
+
+The following titles likely did not correspond to their articles after translation:
+
+* **2. Cold Winter Threatens Start of Shipping Season in Small Lakes:** This title uses common, concrete language. Translation errors are less likely here.
+* **3. Insanitariness in Brobdingnag Threatens Cholera Outbreak:**  This title uses a specific place name from Jonathan Swift's *Gulliver's Travels*. If the agency translates fictional works, this is less likely to be an error.
+* **5. Password Leak From Megasoft Threatens Mass Piracy:** This title refers to a fictional company ("Megasoft"). Translation errors are less likely here. 
+* **11. Global Cooling Threatens Food Shortages:** This title uses common, concrete language. Translation errors are less likely here.
+
+**The remaining titles (1, 4, 6, 7, 8, 9, 10) are more problematic because they mention specific (and potentially fictional) place names like Lilliput, Blefuscu, and the Country of Houyhnhnms, all from Swift's *Gulliver's Travels*.**  
+
+If the Swift News Agency does *not* typically translate fictional material, these titles likely did not match their articles. The translator would need to:
+
+1. **Verify:** Check if the original articles were indeed about the fictional places mentioned. 
+2. **Replace:** If not, the translator needs to replace the fictional place names with the real-world locations discussed in the articles.
+
+**Example:**
+
+* **Original Title:**  New Crisis in Blefuscu Threatens Collapse of Peace Talks.
+* **Possible Corrected Title:** New Crisis in [Actual Country Name] Threatens Collapse of Peace Talks.
+
+
+## Problem 3
+
+**Assignment 1**
+
+The Latin word that never contained the dh sound is **rubrica** (red paint).
+
+**Explanation:**
+
+The English cognates provide clues to the original Proto-Indo-European sound:
+
+* **beard, word, widow:** These words all retain a 'd' sound, suggesting the Latin words they're related to also had a 'd' sound at some point.
+* **red:** This word, however, has an 'r' sound. This indicates a different sound change occurred, and the Latin word likely never had the dh sound.
+
+**Assignment 2**
+
+The Latin words **brevis** (short) and **frigus** (cold) are sure to have never contained the dh sound.
+
+**Explanation:**
+
+These words contain the sounds 'b' and 'f'.  The sound change from dh to 'b' or 'f' is unlikely in the development of Latin. Therefore, these words likely never had the dh sound in their history.
+
+
+## Problem 4
+
+**Assignment 1**
+
+* **k'e*):** the surface is in a scraped condition
+* **k'ez):** it sparks
+* **phešniža:** it has a slight bruise
+* **suza:** it is fractured
+* **xu*a:** the surface is in a scratched condition 
+
+**Assignment 2**
+
+1. A thin liquid is being squeezed out: **šlila**
+2. It is soft and movable (e.g., an enlarged gland under the skin): **lunu*a** 
+3. It is red hot: ***iša** 
+4. It is semi-hard and movable (e.g., a cartilage): **he nu*a he miniža** (literally: hard and also curled)
+5. It is branching into several directions: **yazazata** (reduplication of žata, implying plurality)
+
+**Assignment 3** 
+
+Based on the provided data, the meaning of the word **ži** is likely "it is orange" or "it is a shade between yellow and red." This deduction is made by observing the meanings of "zi" (yellow) and "*i" (brown) and assuming a semantic pattern.
+
+
+## Problem 5
+
+| Chuvash Verb   | English Translation          |
+|----------------|------------------------------|
+| aman           | to be crippled               |
+| amant          | to cripple                   |
+| aptra          | to suffer                    |
+| **aptart**     | to torment                   |
+| av,n           | to be flexible               |
+| av             | to bend                      |
+| ç-t            | to get lost                  |
+| ç-ter          | to lose                      |
+| çit            | to reach                     |
+| **çit-r**      | to lead                      |
+| .ühen          | **to be rinsed**               |
+| .ühe           | to rinse                     |
+| hup,n          | **to be closed**              |
+| **hup**         | to close                     |
+| hur,n          | to lie (e.g., on the table)  |
+| hur            | to lay (e.g., something on the table) |
+| kaç            | to move (e.g., from one flat to another) |
+| **kaçar**       | to transport                 |
+| k,vakar        | to become blue               |
+| k,vakart       | to make blue                 |
+| kuç            | to migrate                   |
+| kuçar          | to resettle                  |
+| puçtar,n       | to get together              |
+| puçtar         | to gather                    |
+| sh,n           | **to be put on ice**           |
+| sh,nt          | to put on ice                |
+| taptan         | to be trampled               |
+| tapta          | to trample down              |
+| tup,n          | to be found                  |
+| tup            | to find                      |
+| uç,n           | to be revealed               |
+| uç             | to reveal                    |
+| ük             | **to be dropped**              |
+| üker           | to drop                      |
+| vacka          | to be in a hurry             |
+| vackat         | to precipitate               |
+| varalan        | to be smirched               |
+| varala         | to besmirch                  |
+| v-re           | to be boiling                |
+| v-ret          | to boil (e.g., water)        |
+| v-ren          | to learn                     |
+| verent         | to teach                     |
+| vit-n          | to be covered                |
+| vit            | to cover                     |
+| **k-r**       | to enter                     |
+| k-rt           | to hide oneself              |
+| pytar          | to hide (something)          |
+
+**Explanation:**
+
+* The gaps are filled based on the discernible patterns in the provided data:
+    * **Transitive/Intransitive Pairs:** Many verbs come in pairs, with one form being transitive (takes an object) and the other intransitive. For example, "amant" (to cripple) is transitive, while "aman" (to be crippled) is intransitive. This pattern is used to fill in missing verbs.
+    * **Suffixes:**  Suffixes like "-t," "-ter," "-r," and "-n" are frequently used to create different forms of verbs. These patterns help in inferring the missing forms.
+
+* **Uncertainty:** The verb "k-r" for "to enter" is a best guess based on the pattern of dropping the "-t" suffix for the intransitive form. However, without more data, this cannot be confirmed. 

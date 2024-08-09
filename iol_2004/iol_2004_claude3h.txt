@@ -1,0 +1,88 @@
+Thank you for the computational linguistics problem. I'll do my best to solve it.
+
+### Problem 1
+
+Assignment 1:
+
+1. Aje ikuru kêt: You guys are not devouring me.
+2. Ba m! aku: We are devouring you guys.
+3. Irêrê kêt: We are not swimming.
+
+Assignment 2:
+
+1. M! m! kuru kêt: You guys are not devouring us.
+2. Ba m! akuru kêt: We are not decorating you guys.
+3. Ba m! anhê: We are dancing.
+4. Ga iku: I am devouring you.
+
+Explanation:
+The translation is based on the patterns observed in the given Kayapo sentences and their English translations. For example, the negation pattern "kêt" is used to negate the actions, and the prefixes "M!" and "Ba" are used to indicate the subject (you guys and we, respectively).
+
+### Problem 2
+
+The titles that did not correspond to the contents of the articles after translations are:
+
+1. Budget Cut Threatens Railway Modernization Project Funding.
+2. Cold Winter Threatens Start of Shipping Season in Small Lakes.
+3. New Crisis in Blefuscu Threatens Collapse of Peace Talks.
+
+Appropriate translations:
+1. Funding for Railway Modernization Project Threatened by Budget Cut.
+2. Start of Shipping Season in Small Lakes Threatened by Cold Winter.
+3. Peace Talks in Blefuscu Threatened by New Crisis.
+
+Explanation:
+The original titles suggest that the events or situations mentioned in the titles are threatening something (e.g., "Budget Cut Threatens Railway Modernization Project Funding"). However, the corrected translations indicate that the events or situations are being threatened by something (e.g., "Funding for Railway Modernization Project Threatened by Budget Cut"). This subtle difference in meaning is important to capture the accurate translation.
+
+### Problem 3
+
+Assignment 1:
+The Latin word that never contained the dh sound is "fracas" (sediment).
+
+Explanation:
+The four English words cognate to the Latin words given are "beard", "word", "widow", and "red". These words all contain the "dh" sound in their Latin roots, which later evolved into different sounds in English. The word "fracas" (sediment) does not have a cognate English word that contains the "dh" sound, indicating that it never had the "dh" sound in its Latin root.
+
+Assignment 2:
+The Latin words that are sure to have never contained the dh sound are:
+- brevis (short)
+- gurdus (silly)
+- frigus (cold)
+- unda (wave)
+- combrutum (reed)
+
+Explanation:
+These Latin words do not have any cognates in English that contain the "dh" sound, suggesting that they never had the "dh" sound in their Latin roots.
+
+### Problem 4
+
+Assignment 1:
+The matching of the Lakhota words with their English translations is:
+k'e*), k'ez) - it sparks
+phešniža - the surface is in a scratched condition
+suza - it has a slight bruise
+xu*a - the surface is in a scraped condition
+
+Assignment 2:
+1. šli - A thin liquid is being squeezed out
+2. nu*a - It is soft and movable (e.g., an enlarged gland under the skin)
+3. *i - It is red hot
+4. mini*a - It is semi-hard and movable (e.g., a cartilage)
+5. žata - It is branching into several directions
+
+Assignment 3:
+The word "ži" means "it is yellow".
+
+Explanation:
+The matching in Assignment 1 is based on the pattern of the Lakhota words and their English translations provided in the table. The translations in Assignment 2 are formed by identifying the relevant Lakhota words and their meanings. The meaning of "ži" is directly given in the table as "it is yellow".
+
+### Problem 5
+
+Filled in gaps:
+
+| Chuvash Verb   | English Translation          |
+|----------------|------------------------------|
+| aman           | to be crippled               |
+| amant          | to cripple                   |
+| aptra          | to suffer                    |
+| aptrat         | to torment                   |
+| av,n           

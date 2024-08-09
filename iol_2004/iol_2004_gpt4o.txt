@@ -1,0 +1,126 @@
+Certainly! Let's tackle each problem systematically.
+
+### Problem 1
+
+#### Assignment 1: Translate into English
+
+1. **Aje ikuru kêt**: 
+   - "I am not devouring you." 
+   - **Explanation**: "Ikuru" seems to mean "devouring" (based on "Ga iku" - "You are devouring me"). "Kêt" indicates negation. "Aje" appears to mean "I" based on sentence structure.
+
+2. **Ba m! aku**: 
+   - "We are devouring you."
+   - **Explanation**: "Ba" means "we", "m!" likely refers to "you" (plural), and "aku" seems to relate to "devour" based on similar sentence structure.
+
+3. **Irêrê kêt**: 
+   - "We are not swimming."
+   - **Explanation**: "Irêrê" is "we swim" or "we are swimming" based on sentence structure, and "kêt" is negation.
+
+#### Assignment 2: Translate into Kayapo
+
+1. **You guys are not devouring us**:
+   - "M! ij" ikuru kêt"
+   - **Explanation**: "M!" is "you guys", "ij"" is likely "us", "ikuru" is "devour", and "kêt" for negation.
+
+2. **We are not decorating you guys**:
+   - "M! aj" inhêrê kêt"
+   - **Explanation**: "M!" is "you guys", "aj"" is "we", "inhêrê" is "decorate", and "kêt" is negation.
+
+3. **We are dancing**:
+   - "Ba to"
+   - **Explanation**: "Ba" is "we" and "to" is "dancing".
+
+4. **I am devouring you**:
+   - "Aje iku"
+   - **Explanation**: "Aje" is "I" and "iku" is "devouring".
+
+---
+
+### Problem 2
+
+To determine which titles do not correspond to the contents of the articles, we need to identify mismatches based on expected content given by the titles.
+
+1. **Budget Cut Threatens Railway Modernization Project Funding.**
+2. **Cold Winter Threatens Start of Shipping Season in Small Lakes.**
+3. **Insanitariness in Brobdingnag Threatens Cholera Outbreak.**
+4. **New Crisis in Blefuscu Threatens Collapse of Peace Talks.**
+5. **Password Leak From Megasoft Threatens Mass Piracy.**
+6. **Population Crisis in Lilliput Threatens Tax Reform.**
+7. **Sudden Weather Change Threatens Arrival of Reinforcements to Besieged City.**
+8. **Suspension of Talks Threatens Peace Process in Lilliput and Blefuscu.**
+9. **Unexpected Event in Country of Houyhnhnms Threatens Early Elections.**
+10. **Terrorist Activity Threatens Public Security.**
+11. **Global Cooling Threatens Food Shortages.**
+
+Given the pattern here, let's assume that some titles suggest threats that do not align with logical or realistic consequences. 
+
+- **Insanitariness in Brobdingnag Threatens Cholera Outbreak**: This seems logically consistent as insanitariness can lead to disease outbreaks.
+- **Password Leak From Megasoft Threatens Mass Piracy**: This is logical as leaked passwords can lead to unauthorized access, resulting in piracy.
+- **Population Crisis in Lilliput Threatens Tax Reform**: This seems less direct; a population crisis might more directly threaten resources or governance stability.
+
+Thus, title 6 might not match its content.
+
+---
+
+### Problem 3
+
+#### Assignment 1: Indicate the Latin word that never contained the dh sound
+
+- **verbum (word)**: Cognate with English "word". The transformation from "dh" to "w" is consistent.
+- **barba (beard)**: Cognate with English "beard". The transformation from "bh" to "b" is consistent.
+- **vidua (widow)**: Cognate with English "widow". The transformation from "dh" to "w" is consistent.
+- **rubrica (red paint)**: Cognate with English "red". However, this doesn't follow the expected transformation pattern.
+
+Thus, **rubrica** likely never contained the dh sound.
+
+#### Assignment 2: Which words never contained the dh sound?
+
+- **brevis** (short): Likely did not contain dh sound as it doesn't correspond to an English word with a similar transformation.
+- **gurdus** (silly): Does not appear to relate to an English word with dh transformation.
+- **frigus** (cold): Likely did not contain dh as it doesn't relate directly to a similar English word.
+- **unda** (wave): Could be related to "wave" (old English "wæg"), possibly containing dh.
+- **combrutum** (reed): Does not directly relate to an English word with dh transformation.
+- **debeo** (I owe): Could relate to "debt", but the transformation isn't straightforward.
+
+Thus, **gurdus** and **frigus** are sure to have never contained the dh sound.
+
+---
+
+### Problem 4
+
+#### Assignment 1: Match the Lakhota words with their translations
+
+1. **k'e*)**: It is fractured.
+2. **k'ez)**: It sparks.
+3. **phešniža**: The surface is in a scraped condition.
+4. **suza**: The surface is in a scratched condition.
+5. **xu*a**: It has a slight bruise.
+
+#### Assignment 2: Translate into Lakhota
+
+1. **A thin liquid is being squeezed out**: **šla**
+2. **It is soft and movable (e.g., an enlarged gland under the skin)**: **xu*a**
+3. **It is red hot**: **žata**
+4. **It is semi-hard and movable (e.g., a cartilage)**: **nu*a**
+5. **It is branching into several directions**: **žata**
+
+#### Assignment 3: Explain the meaning of the word ži
+
+The word **ži** is likely related to a color or state, potentially meaning "red" or "hot" based on the translations provided.
+
+---
+
+### Problem 5
+
+To fill in the gaps:
+
+1. **To torment**: Likely derived from "aptra" (to suffer), possibly **aptrat**.
+2. **To lead**: Could be a direct transformation, possibly **çiter**.
+3. **To rinse**: Given the pattern, this is **.ühen**.
+4. **To close**: Based on pattern, possibly **ç-tan**.
+5. **To transport**: Derived from similar verbs, possibly **kaçtan**.
+6. **To enter**: Based on pattern, possibly **ükkan**.
+
+---
+
+This completes the set of problems. Let me know if you need further clarifications or adjustments!

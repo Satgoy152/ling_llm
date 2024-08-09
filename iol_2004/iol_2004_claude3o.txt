@@ -1,0 +1,75 @@
+Here are the solutions to the problems:
+
+Problem 1:
+Assignment 1 translations:
+1. Aje ikuru kêt - You are not devouring me
+2. Ba m! aku - I am devouring you guys  
+3. Irêrê kêt - He/she is not swimming
+
+Assignment 2 translations:
+1. M! aj" ikuru kêt 
+2. Ba m! anhê kêt
+3. Ba to 
+4. Ba aku
+
+The key observations are:
+- The subject pronouns are: ba (I), ga (you singular), m! (you plural), ij" (he/she/it)
+- The object pronouns are: i- (me), m! a- (you guys), aj" (he/she/it) 
+- Verbs: -to (dance), -rê (swim), -nhê (decorate), -kuru (devour)
+- Negation is indicated by kêt at the end of the sentence
+
+Problem 2:
+The titles that did not match the translated articles are:
+3. Insanitariness in Brobdingnag Threatens Cholera Outbreak. 
+   Correct: Unsanitary Conditions in Brobdingnag Threaten Cholera Outbreak.
+6. Population Crisis in Lilliput Threatens Tax Reform.
+   Correct: Population Crisis in Lilliput Threatens to Derail Tax Reform. 
+9. Unexpected Event in Country of Houyhnhnms Threatens Early Elections.
+   Correct: Unexpected Event in Country of Houyhnhnms Threatens to Trigger Early Elections.
+
+The errors are due to incorrect translation of the verb "threaten" which implies a potential negative future outcome. The correct translations use "threaten to" or "threatens to" to indicate this.
+
+Problem 3: 
+Assignment 1: 
+The word that never contained the 'dh' sound is "fingo". 
+Explanation: In the cognate words, 'dh' became 'd' in English. There are no English words starting with 'f' that correspond to the 'f' words in Latin, suggesting 'f' words never had 'dh'.
+
+Assignment 2:
+The words "brevis", "frigus", and "unda" likely never contained 'dh'. 
+Explanation: These words start with 'b', 'f' and vowels respectively. As established in assignment 1, Latin 'f' words likely never had 'dh'. 'b' and vowel-initial words also seem unlikely to have had 'dh' historically based on the data.
+
+Problem 4:
+Assignment 1:
+k'e*) - it sparks
+k'ez) - it is fractured
+phešniža - the surface is in a scratched condition 
+suza - it has a slight bruise
+xu*a - the surface is in a scraped condition
+
+Assignment 2:
+1. šli
+2. nu*a  
+3. *i 
+4. g"l"za
+5. žata
+
+Assignment 3: 
+ži likely means "it is orange". 
+Explanation: zi means "it is yellow" and *i means "it is brown". Orange is between yellow and brown on the color spectrum, so ži, containing elements of both words, likely means "it is orange".
+
+Problem 5:
+Filled in Gaps:
+? (row 4) - aptrat
+.ühen - to be rinsed  
+hup,n - to be closed
+? (row 10) - çiter
+? (row 18) - kaçar
+sh,n - to freeze
+ük - to fall
+? (row 41) - k-r
+
+Explanations:
+- Verbs ending in t are transitive (do to something else), those without are intransitive/reflexive (done to self)
+- Verbs ending in n are passive voice
+- The vowels a/,/- seem to indicate different verb aspects, likely related to completion or duration of action
+- ük / üker and k-r / k-rt seem to be irregular verb pairs based on their distinct patterns compared to the other verbs

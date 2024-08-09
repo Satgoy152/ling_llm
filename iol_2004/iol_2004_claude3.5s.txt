@@ -1,0 +1,95 @@
+I'll address each problem systematically:
+
+### Problem 1
+
+Assignment 1:
+
+1. "Aje ikuru kêt" - You are not devouring me
+2. "Ba m! aku" - We are devouring you guys
+3. "Irêrê kêt" - I am not swimming / He/She is not swimming
+
+Assignment 2:
+
+1. "M! aj" iku kêt" - You guys are not devouring us
+2. "Ba m! anhê kêt" - We are not decorating you guys
+3. "Ba to" - We are dancing
+4. "Ij" aku" - I am devouring you
+
+Explanation:
+- "kêt" is a negation marker
+- "ba" means "we" or "I"
+- "ga" means "you"
+- "m!" seems to indicate plural "you"
+- "ij"" or "aj"" means "I" in object position
+- Verb roots: "to" (dance), "ku" (devour), "nhê" (decorate), "rê" (swim)
+
+### Problem 2
+
+The titles that likely didn't correspond to the contents are:
+
+3. Insanitariness in Brobdingnag Threatens Cholera Outbreak.
+6. Population Crisis in Lilliput Threatens Tax Reform.
+9. Unexpected Event in Country of Houyhnhnms Threatens Early Elections.
+
+Explanation:
+These titles contain fictional place names from Jonathan Swift's "Gulliver's Travels" (Brobdingnag, Lilliput, Country of Houyhnhnms). A translator working quickly might not recognize these as fictional and translate them literally, resulting in nonsensical headlines in the target language.
+
+### Problem 3
+
+Assignment 1:
+The word that never contained the dh sound is likely "falx" (sickle).
+
+Explanation:
+In the cognate English words, we can see that 'dh' became 'd' in medial positions (beard, widow) and initial 'w' (word). In "red", it became 'r'. Looking at the Latin words, we can see this pattern in "barba", "vidua", "verbum", and "rubrica". "falx" doesn't fit this pattern and likely never had a 'dh' sound.
+
+Assignment 2:
+Words that likely never contained the dh sound:
+
+- brevis (short)
+- frigus (cold)
+- unda (wave)
+
+Explanation:
+These words don't show the typical sound changes associated with original 'dh'. The others could potentially have contained 'dh' that changed to 'd' or 'b'.
+
+### Problem 4
+
+Assignment 1:
+k'e*) - it sparks
+k'ez) - the surface is in a scratched condition
+phešniža - it has a slight bruise
+suza - it is fractured
+xu*a - the surface is in a scraped condition
+
+Assignment 2:
+1. šli
+2. nu*a
+3. ži
+4. miniža
+5. žata
+
+Assignment 3:
+"ži" likely means "it is red" or "it is red-hot", based on the pattern observed and the given translation.
+
+### Problem 5
+
+Filled gaps:
+
+aptra - to suffer
+aptrat - to torment
+çit - to reach
+çitter - to lead
+.ühen - to be rinsed
+hup,n - to be closed
+hup - to close
+kaçar - to transport
+sh,n - to freeze
+ük - to fall
+k-r - to enter
+
+Explanation:
+- Intransitive verbs often end in -n, -,n, or -en
+- Transitive counterparts often remove this ending or replace it with -t or -ar
+- Some verbs (like "ük" - "üker") have irregular patterns
+
+Some verbs couldn't be formed with certainty due to irregular patterns or insufficient data.
