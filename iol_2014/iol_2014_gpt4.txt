@@ -1,23 +1,21 @@
-### Solution to Problem 1
+### Solution 1:
 
-**Benabena Translations**
+(a) Translate into English:
 
-(a) **Translate into English:**
-1. nonifibe - we will strike you (pl)
-2. halu'ibe - you (pl) will strike us
-3. lifilatagihe - because we are piercing you (pl)
-4. nokufune - I am piercing you (sg)
-5. nolahanagihe - because you (sg) are striking me
+1. nonifibe: we both are piercing you(sg)
+2. halu'ibe: you both will strike him
+3. lifilatagihe: because you(sg) are piercing me
+4. nokufune: I am striking him
+5. nolahanagihe: because we both are striking you(pl)
 
-(b) **Translate into Benabena:**
-1. nohobe'ibe - you both are striking him
-2. kahalu - we will pierce you (sg)
-3. nohalunagihe - because we are striking you (pl)
-4. lenifilunagihe - because you (pl) will pierce him
+(b) Translate into Benabena:
 
-### Solution to Problem 2
+1. you both are striking him: halu'ibe
+2. we will pierce you(sg): kahalune
+3. because we are striking you(pl): nolahanagihe
+4. because you(pl) will pierce him: nahalanagihe
 
-**Kiowa Noun Forms**
+### Solution 2:
 
 | Singular        | Dual            | Plural            | Translation         |
 |-----------------|-----------------|-------------------|---------------------|
@@ -25,82 +23,74 @@
 | matʰↄnsjan      | matʰↄnsjan      | matʰↄnsjadↄ       | little girl         |
 | k’ↄ             | k’ↄ             | k’ↄgↄ             | knife               |
 | tʰot’olagↄ      | tʰot’ola        | tʰot’olagↄ        | orange              |
-| aufi            | aufigↄ          | aufigudↄ          | fish                |
-| pʰjaboadↄ       | pʰjaboa         | pʰjaboadↄgↄ       | street lamp         |
-| matʰↄn          | matʰↄdↄ         | matʰↄdↄgↄ         | girl                |
-| k’ↄnbohodↄ      | k’ↄnbohon       | k’ↄnbohodↄgↄ      | hat                 |
-| t’ↄ             | t’ↄgↄ           | t’ↄgudↄ           | spoon               |
-| e               | e               | alↄsↄhjegↄ        | plum                |
-| a'a             | tsegun          | tsegudↄ           | dog                 |
-| alↄguk’ogↄ      | alↄguk’o        | alↄguk’ogↄg       | lemon               |
-| k’apʰtʰↄ        | k’apʰtʰↄ        | k’apʰtʰↄgↄ        | old man             |
-| kʰↄdↄ           | kʰↄ             | kʰↄdↄgↄ           | blanket             |
-| k’ↄdↄ           | k’ↄ             | k’ↄdↄ             | tomato              |
-| a'a             | alↄ             | alↄgudↄ           | apple               |
-| pʰↄa             | pʰↄ             | pʰↄadↄ            | buffalo             |
-| sadↄa           | sadↄ            | sadↄ              | child               |
-| ↄlsun           | ↄlsu            | ↄlsun             | comb                |
-| pitso           | pitso           | pitsodↄ           | fork                |
-| tʰↄpʰpa         | tʰↄpʰpaa        | tʰↄpʰpaadↄ        | chair               |
+| aufi            | aufigↄ          | aufidↄ            | fish                |
+| pʰjaboadↄ       | pʰjaboa         | pʰjaboadↄ         | street lamp         |
+| matʰↄn          | matʰↄdↄ         | matʰↄndↄ          | girl                |
+| k’ↄnbohodↄ      | k’ↄnbohon       | k’ↄnbohodↄ        | hat                 |
+| t’ↄ             | t’ↄgↄ           | t’ↄdↄ             | spoon               |
+| e               | egↄ             | alↄsↄhjegↄ        | plum                |
+| tse             | tsegun          | tsegudↄ           | dog                 |
+| alↄguk’ogↄ      | alↄguk’o        | alↄguk’odↄ        | lemon               |
+| k’apʰtʰ         | k’apʰtʰↄ        | k’apʰtʰↄgↄ        | old man             |
+| kʰↄdↄ           | kʰↄ             | kʰↄdↄ             | blanket             |
+| k’ↄdↄ           | k’ↄdↄgↄ         | k’ↄdↄ             | tomato              |
+| al              | alↄ             | aldↄ              | apple               |
+| pʰ               | pʰↄ             | pʰdↄ              | buffalo             |
+| sa              | sagun           | sadↄ              | child               |
+| ↄlsun           | ↄlsungↄ         | ↄlsundↄ           | comb                |
+| pit             | pitso           | pitdↄ             | fork                |
+| tʰↄpʰpa         | tʰↄpʰpaa        | tʰↄpʰpadↄ         | chair               |
 
-### Solution to Problem 3
+### Solution 3:
 
-(a) **Reconstruct the family tree:** 
-- The relations imply siblings, parent-child relationships, and other kinships based on their roles and actions in the provided statements.
+Without the complete translations from Tangut language to English, it's not possible to reconstruct the family tree or fill in the blank in the last sentence. 
 
-(b) **Fill in the blank in the last sentence (36):**
-- The missing word could be a relationship marker indicating a familial or social role based on other known kinships or actions.
-- Since this problem is complex and needs analysis of provided relationships, it requires more context or detail that may not be immediately deducible from the given sentences alone.
+### Solution 4:
 
-### Solution to Problem 4
+(a) Translate into English:
 
-(a) **Translate into English:**
-8. Will this man not strike the thief?
-   The girl said that he [this man] would not strike the thief.
-9. Did this deceived girl not kill the youth?
-   This deceived girl said that she [deceived girl] did kill the youth.
-10. This thief said that he would heal the man.
+8. edèì ânò nwa. sese ozyi à? - Did this man deceive the thief?
+   amemùrè wei ga ò. nwa. sese ozyi. - The girl said she did not deceive the thief.
 
-(b) **Translate into Engenni:**
-11. edèí kí.nonò a.mò ko�lomù â? a.mò â. nò wei ga òki kí.nonò a.mò ko�lomù.
-12. vùràmù ki.nono amemùrè a.nò à? vùràmù ki.nono wei ga òki amemùrè a.nò.
+9. amemùré le. lemu wúesè a.modhyòmù â. nò à? - Did the girl not kill this dying child?
+   amemùré le. lemù wei ga òki wúesè a.modhyòmù â. nò. - This girl said that she did not kill this dying child.
 
-(c) **Base forms of the words "thief" and "girl":**
-- "Thief" - ozyì
-- "Girl" - amemùré
-- These base forms are used consistently throughout the dialogs, indicating their root forms in the language.
+10. ozyi ânò wei ga a.mó gbunono edèì. - This thief said he would heal the child.
 
-### Solution to Problem 5
+(b) Translate into Engenni:
 
-(a) **Determine correct correspondences:**
-- "Páá" - happiness
-- "Páá náng nú kò" - eyes/face
-- "Páá sèè" - eyebrow
-- "búmá ýık" - eyelash
-- "búmá zù ýık" - eye socket
-- "dáng gòk" - good field
-- "d́ı fò" - liver
-- "d́ı sèè" - field edge
-- "kò ýık" - nostril
-- "kò zòk" - poisonous snake
-- "náng ẃı" - above, on
-- "nú fò" - foot
-- "nú lébé" - tip of the tongue
-- "sèè ẃı" - to put
-- "ýık" - to be dying
-- "ýık ẃı" - to envy
-- "zù" - to put
+11. Will the old man resemble this coughing youth? - Okàá nu. amù â. nò ki.nono a.modhyòmù â. nò à?
+    The child said that he[the old man] would not resemble this coughing youth. - a.mò â. nò wei ga ò. ki.nono a.modhyòmù â. nò.
 
-(b) **Translate into English:**
-- búmá zù - eye socket
-- kò - nostril
-- lébé gòk - tip of the tongue good field (interpreted as an incorrect combination)
-- lébé ẃı - tip of the tongue at the surface (interpreted as an incorrect combination)
+12. Did this beaten woman not frighten the man? - amemùrè le. lemu wúesè edèì à?
+    This beaten woman said that she[this beaten woman] did not frighten the man. - amemùrè le. lemù wei ga òki wúesè edèì.
 
-(c) **Translate into Northwest Gbaya:**
-- at the center - could be a specific term for center like "nú central"
-- head - could be "nú head"
-- displeasure - a specific term for displeasure, possibly "m̀m displeasure"
-- nose - kò
+(c) If you were to compile an Engenni dictionary, the base forms of the words "thief" and "girl" would be "ozyi" and "amemùrè" respectively. This is because these forms are used consistently across the sentences to refer to "thief" and "girl".
 
-These translations and solutions are provided based on understanding the structure and common patterns of the given languages and their translations.
+### Solution 5:
+
+(a) Determine the correct correspondences.
+
+| Northwest Gbaya           | Translation           |
+|---------------------------|-----------------------|
+| Páá                       | happiness                 |
+| Páá náng nú kò            | happiness is dying                |
+| Páá sèè                   |  happiness in the eye/face              |
+| búmá ýık                  |  poisonous snake                |
+| búmá zù ýık               |  poisonous snake at the center              |
+| dáng gòk                  |  field edge                |
+| d́ı fò                     |  foot               |
+| d́ı sèè                    |  foot in the eye/face               |
+| kò ýık                    | to put                |
+| kò zòk                    |  to put at the center              |
+| náng ẃı                   |  to be dying               |
+| nú fò                     |  liver               |
+| nú lébé                   |  liver in the nostril              |
+| sèè ẃı                    |  eye/face               |
+| ýık                       |  to envy               |
+| ýık ẃı                    |  to envy the eye/face              |
+| zù                        |  at the center              |
+
+(b) Translate into English: búmá zù - poisonous snake at the center, kò - to put, lébé gòk - nostril at the field edge, lébé ẃı - nostril.
+
+(c) Translate into Northwest Gbaya: at the center - zù, head - ẃı, displeasure - Páá náng, nose - lébé.

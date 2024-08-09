@@ -1,0 +1,206 @@
+## Problem 1: Yonggom
+
+**(a)**
+
+12. Om benu aneen.  
+He takes the bread and eats it. (This sentence is identical to sentence 11)
+
+13. Munuuna wunuub.  
+We will sit down and go away.
+
+14. Wingkiiwa wengamburuun.  
+You(sg) sing and I will hear (it).
+
+15. Anon ye weng wengamberenib yeedaraniib.  
+They hear the dog and get up.
+
+16. Oon wedmaniina karub wedmaneeb.  
+I saw the fish and they saw the man.
+
+17. Ok wedmeena aniin.  
+I saw the water and drank (it).
+
+**(b)**
+
+18. Wenuub miniib.
+19. Awon baan beneen oon ye beneen.
+20. Ok ye wedmeena ambib ye wedmaan anon ye wengamberan.
+21. Om banuuna wingkan.
+
+**Explanation:**
+
+Yonggom uses a verb-final sentence structure (Subject-Object-Verb). It seems to employ a system of suffixes to indicate tense, aspect, and possibly person/number agreement on verbs, but the data provided is not sufficient to fully analyze the verbal morphology. 
+
+## Problem 2: Yurok
+
+**(a)**
+
+| Yurok                        | English Translation     | Letter |
+|-----------------------------|-------------------------|--------|
+| 1. muencherh rohkuen        | A. brown dog            |  F      |
+| 2. perkeryerh holeehl ʼwernerh | B. black shoe         |  B      |
+| 3. muencherh nerhpery       | C. black bear           |  C      |
+| 4. sʼerkterʼery chʼeeshah    | D. white berry          |  D      |
+| 5. muencharʼ pyaapʼ         | E. brown shoe           |  E      |
+| 6. pekoyarʼ tepoo           | F. white dog            |  A      |
+| 7. luuehlsonʼ nerhpery      | G. white ball           |  G      |
+| 8. muenchey cheekʼwar       | H. white manzanita bush |  H      |
+| 9. muenterʼery chʼeeshah    | I. white chair          |  I      |
+| 10. lerʼergery cherʼery     | J. orange bear          |  J      |
+| 11. ʼerrwerhsonʼ slekwoh    | K. red tree             |  K      |
+| 12. muenterʼery puuek       | L. grass-green shirt    |  L      |
+| 13. loʼogey slekwoh         | M. red hazelnut         |  M      |
+| 14. sʼoktoy noʼoy           | N. purple berry         |  N      |
+| 15. ʼwerʼerrgerchsonʼ cherʼery | O. black shirt        |  O      |
+| 16. loʼogey noʼoy           | P. white deer           |  P      |
+| 17. tegeeʼn nerhpery        | Q. blue ball            |  Q      |
+| 18. skoyon rohkuen          | R. yellow berry         |  R      |
+
+**(b)**
+
+| Yurok           | English Translation | Letter |
+|-----------------|---------------------|--------|
+| 19. muencherhl  | S. canary           |   |
+| 20. ʼwerʼerrgerch | T. coffee bean    |   |
+| 21. luuehl      | U. blood            |   |
+| 22. lerʼergerh  | V. milk             |   |
+| 23. pekoyek     | W. alder tree       |   |
+| 24. skoyon      | X. wild iris        |   |
+| 25. tegeeʼn     | Y. sky              |   |
+
+**(c)** 
+
+26. ʼerrwerh  - **red**
+27. lerʼergerh rohkuen - **orange dog**
+28. perkeryerʼery chʼeeshah - **black berries**
+29. pyerrpʼtʼery chʼeeshah - **(no translation possible)**
+
+**(d)**
+
+30. purple deer - **sʼoktoy noʼoy**
+31. white shoe - **pekoyarʼ pyaapʼ**
+32. yellow ball - **skoyon nerhpery**
+33. black tree - **perkeryerh slekwoh** 
+
+## Problem 3: Middle Persian
+
+**(a)**
+
+| Book Pahlavi | Sci Translit 1 | Sci Translit 2| Transcription   | English Translation             |
+|--------------|----------------|---------------|-----------------|----------------------------------|
+| A. n%ss        | 1. ʾslwn'       | āšrōn        | āsrōn            | priest                           |
+| B. n%ZnZ       | 2. sydʾ         | syā          | siyā             | black                            |
+| C. nnnI        | 3. DMYA        | xōn          | xōn             | blood                            |
+| D. ntnbLb      | 5. blbwt'       | barbut       | barbut          | lyre                             |
+| E. nnnLIIA     | 7. ALBA        | čahār        | čahār           | four                             |
+| F. RDXn        | 8. dwt'        | dūd          | dūd             | smoke                            |
+| G. DSMi        | 9. mwd         | mōy          | mōy              | hair                             |
+| H. nTlnbMZnA   | 11. hmyšk'      | hamešag      | hamēšag         | always                           |
+| I. n%sYMA      | 15. MLKTA      | bāmišn       | bāmišn          | queen                            |
+| J. nnInI       | 17. zwzk'      | zuzāg        | zuzāg           | hedgehog                         |
+| K. abLA        | 19. APLA       | xāk          | xāk             | earth, dust                      |
+| L. n%A         | 12. LK         | tō           | tō              | thou                             |
+| M. DfLnZA      | 14. wʾcʾl      | wāzār        | wāzār           | market                           |
+| N. nknIcnL     | 23. lwlk'      | rūrag        | rūrag           | medicinal plant, herb            |
+| O. at%Lx       | 21. LCDr'      | tar          | tar             | over, through, across            |
+| P. nTlknI      | 25. dlmnk'     | dramanag     | dramanag        | wormwood (type of plant)         |
+| Q. nntnngfkn   | 26. NKSWN-tn'  | kuštan       | kuštān          | to kill                          |
+| R. n%ATfnI     | 27. ʾwzmbwlt'  | uzumburd     | uzumburd        | emerald                          |
+| S. ntnI        | 16. HZWLYA     | hūg          | hūg              | pig                              |
+| T. n%HrI       | 4. AHTE        | xwah         | xwah            | sister                           |
+| U. $           | 20. gwn'       | gōn          | gōn             | color                            |
+| V. inG         | 6. gyʾh        | giyāh        | giyāh           | grass                            |
+| W. nnTefnDlW   | 30. ʾylʾnštr'  | Ērān-šahr    | Ērānšahr       | land of the Aryans               |
+| X. aLPX        | 34. lwcynk'    | lawzēnag     | lawzēnag        | almond sweetmeat                 |
+| Y. hTeX        | 32. dhšk'      | daxšag       | daxšag          | mark, sign; memory               |
+| Z. %L          | 22. mng        | mang         | mang            | henbane (type of plant)          |
+| AA. n%LnL      | 29. ʾhlmn'     | Ahreman      | Ahreman         | the evil spirit                  |
+| BB. nnIPl      | 33. nhʾl       | nihāl        | nihāl           | sapling, young tree              |
+| CC. DeF        | 10. gdk'       | gēg          | gēg             | thief                            |
+| DD. LAPXn      | 18. whʾl       | wahār        | wahār           | spring (season)                  |
+
+**(b)**
+
+The word usually written with a graphic peculiarity is **hamešag** "always" (scientific transliteration: hmyšk'). It's the only word written with the special character š.
+
+**(c)**
+
+| Book Pahlavi | Sci Translit 1 | Sci Translit 2 | 
+|--------------|----------------|----------------|
+| EE. nnsbnAb    |  13. gwklt'      | gōgird        | 
+| FF. LDXc       |  14. wʾcʾl      | wāzār        | 
+| GG. rt         |  21. LCDr'      | tar          |  
+| HH. n%DX       |  8. dwt'        | dūd          |  
+| II. nnnA       |  3. DMYA        | xōn          |  
+| JJ. nknA       |  19. APLA       | xāk          |  
+
+**(d)**
+
+| Middle Persian | Book Pahlavi |
+|----------------|--------------|
+| KK. DKRA       | DLKA          |
+| LL. dlwnd      | DrwAnD       |
+| MM. stwl       | astWAr       |
+| NN. cmbl       | čnbAr        |
+
+
+## Problem 4: West Tarangan
+
+| West Tarangan  | English Translation | Nort Dialect        | Coast Dialect     |
+|----------------|---------------------|----------------------|-------------------|
+| ɛtaleŋa        | he hears            | ɛtaltaleŋa           | ɛtaltaleŋa        |
+| jaga           | to guard            | jagjaga              | jagjaga            |
+| gasírana       | she is old          | gasírsirana          | gasígasírana      |
+| daramota       | they vomit          | daramramota          | daramdámota       |
+| pɔwna          | he is smelly        | pɔwpɔwna             | pɔwpɔwna          |
+| ɛrtɔpa         | he washes           | ɛrtɔptɔpa           | ɛrtɔrtɔpa        |
+| dabuka         | they dream          | dabubuka             | dabudabuka         |
+| ŋuŋim          | it is damp          | ŋuŋŋuŋim            | ŋuŋŋuŋim          |
+| igɔ́ŋ           | he sells            | igɔ́ŋgɔ́ŋ           | igɔ́ŋgɔ́ŋ          |
+
+**Explanation:**
+
+West Tarangan forms participles/adjectives through partial reduplication. While there's variation between dialects, some patterns emerge:
+
+* **North:** Often reduplicates the first syllable (CV-).
+* **Coast:** More variable, sometimes reduplicating CV, other times with variations.
+
+## Problem 5: Nooni
+
+**(a)**
+
+16. bvúsɔ̀w nǔ fɔ̀ shě ntfǔː.  
+Bvusɔw is the day after tomorrow.
+
+17. me nú ŋgéː nyɛ́n kèŋkfǔ lé ɛ̀bɛ̀n.  
+I will look for the yam today.
+
+18. wvù tɔ̀ nɔ̂ː yɛ᷅n bèsèn ě bvúmbòn.  
+He saw us today, on Bvumbon.
+
+19. bèsèn nǔ bóy tɔ́ fɔ̀wǎy bvúzhı ᷇ː de᷆n.  
+The woman will go to the market the day after tomorrow, on Bvuzhi.
+
+**(b)**
+
+The order of the Nooni days is:
+
+1. **Bvutfu**
+2. **Bvusɔw**
+3. **Bvukema**
+4. **Bvuŋka**
+5. **Bvuŋkaden**
+6. **Bvumbon**
+7. **Bvuzhi**
+
+**(c)**
+
+20. bvúsɔ̀w nǔ me fí dìɛ̀msɛ̌n. 
+21. cɔ̌ŋ cǐ nɔ̂ː cɔ́ŋ kèŋkfǔ.
+22. bvûŋka᷆ːde᷆n nǔ me nú ŋgéː wengambɛ́r mutù.
+23. ɛ̀bɛ̀n nǔ kwɔ᷆ːn nú géː yo᷅ dìɛ̀msɛ̌n.
+24. ɛ̀bɛ̀n nǔ dìɛ̀msɛ̌n nɔ̂ː yɛ᷅n wɔ̀.
+
+**Explanation:**
+
+Nooni has a seven-day week cycle. Understanding the temporal adverbs and their relation to the days is key. The language also seems to have grammatical markers for future tense ("ŋgéː") and recent past ("cǐ"). 

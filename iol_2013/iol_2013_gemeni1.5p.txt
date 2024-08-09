@@ -1,0 +1,121 @@
+## Problem 1 (Yidiny)
+
+**(a)** 
+
+- mugaóumu (from a fishing net): **mugaó:mu**
+- waNalgu (for a boomerang): **waNalgu** (no long vowels)
+
+**(b)**
+
+- baman (man): **bama:n** 
+- buñabi (another woman): **buña:bi**
+- maéurmuéay (with another frog): **maéu:rmuéay** 
+- muéamni (of a mother): **muéamni**
+
+**(c)**
+
+- of a stranger: **muyubarini**
+- for a fishing net: **mugaó:mu:gu**
+- father: **bimbi**
+- from a frog: **maéu:rm**
+- without a man: **wagugimbal**
+- of a pigeon: **éudu:lumuéayni** 
+- tortoise: **baéigal**
+- without a boomerang: **waNalgimbal**
+
+## Problem 2 (Tundra Yukaghir)
+
+**(a)** 
+
+| Tundra Yukaghir     | English               |
+|---------------------|-----------------------|
+| ilennime            | gunshot               |
+| joqonnime           | wooden box            |
+| saancohoje          | nose                  |
+| johudawur           | bird                  |
+| ilenlegul           | Yakut knife           |
+| cireme              | deer feed             |
+| johul               | bag                   |
+| aariinmøŋer         | rifle’s muzzle        |
+| joqodile            | horse                 |
+| møŋer               | nose case             |
+| ciremennime         | wooden house          |
+| joqoncohoje         | grandchild            |
+| saadoŋoj            | thunder               |
+| uoduo               | Yakut person          |
+| oŋoj                | cradle                |
+| aariinjohul         | herd of deer          |
+| uodawur             | wooden knife          |
+| joqol               | nest                  |
+
+**(b)**
+
+- aarii: **nose**
+- aariidoŋoj: **tip of nose**
+- ciremedawur: **wooden house**
+- ile: **gunshot**
+- johudewce: **tip of bird's beak**
+- legul: **Yakut knife**
+- saal: **deer feed**
+- saannime: **nose case**
+- uo: **Yakut person**
+
+**(c)**
+
+- iron bird: **cuo johudawur**
+- snoring: **ciremeewce**
+- tip of knife’s blade: **ilenlegulewce**
+- sack for provisions: **aariinjohul**
+
+## Problem 3 (Pirahã)
+
+**(a)**
+
+- xaaibi: [1Pa.ai.bi] 
+- xaapisi: [1Paa.pi.si] 
+- xitiixisi: [1Pii.tii.xi.si] 
+
+**(b)** 
+
+- bigi: **ground**
+- kagahoaogii: **papaya**
+- kaibai: **monkey**
+- kapiigaiitoii: **pencil**
+- poogaihiai toio: **old banana**
+- xabagi kapioxio: **another toucan**
+- xabagi xogiai: **big toucan**
+
+## Problem 4 (Muna)
+
+**(a)**
+
+12. andoandoke nogholi lagahiku.
+- **The Monkey's mountain is close.**
+
+13. a dhinihi dasumuli we murindo robhinehi.
+- **The demons will return to the woman's pupil.**
+
+**(b)**
+
+14. The Ant will climb the pupil’s stone.
+- **lagahi dofoni murindo we kontuhi.**
+
+15. The ants are going to the Demon.
+- **lagahi we adhiadhini.**
+
+16. My women’s monkeys will cut my bananas.
+- **murihi dhini tamandia robhine me dhini.**
+
+17. The monkey’s mountains are far.
+- **molo dofoni andoandoke.**
+
+## Problem 5 (Brain Activity)
+
+| Word         | Location A | Location B | Location C | Location D |  Match  |
+|--------------|------------|------------|------------|------------|---------|
+| 1            | low        | low        | high       | high       | lettuce |
+| 2            | low        | low        | high       | low        |  corn   |
+| 3            | high       | low        | low        | low        |  igloo  |
+| 4            | low        | low        | low        | high       | screwdriver |
+| 5            | low        | high       | high       | low        |  butterfly |
+| 6            | low        | low        | low        | low        |  bed     | 

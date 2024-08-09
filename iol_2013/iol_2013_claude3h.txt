@@ -1,0 +1,102 @@
+Here is my attempt at solving the problems:
+
+Problem 1:
+
+a) Marked long vowels:
+- mugaóumu (from a fishing net)
+- waNalgu (for a boomerang)
+
+b) Marked long vowels and translations:
+- bama:n (man)
+- buña:bi (another woman)
+- maéu:rmuéay (with another frog)
+- muéa:mni (of a mother)
+
+c) Translated into Yidiny:
+- of a stranger: muyubarini
+- for a fishing net: mugaóumu:gu
+- father: bimbi
+- from a frog: maéu:m
+- without a man: wagugimbal
+- of a pigeon: éudu:lumuéayni
+- tortoise: baéigal
+- without a boomerang: waNalgimbal
+
+Problem 2:
+
+a) Correct correspondences:
+| Tundra Yukaghir     | English               |
+|---------------------|----------------------|
+| ilennime            | gunshot              |
+| joqonnime           | wooden box           |
+| saancohoje          | nose                 |
+| johudawur           | bird                 |
+| ilenlegul           | Yakut knife          |
+| cireme              | deer feed            |
+| johul               | bag                  |
+| aariinmøŋer         | rifle's muzzle       |
+| joqodile            | horse                |
+| møŋer               | nose case            |
+| ciremennime         | wooden house         |
+| joqoncohoje         | grandchild           |
+| saadoŋoj            | thunder              |
+| uoduo               | Yakut person         |
+| oŋoj                | cradle               |
+| aariinjohul         | herd of deer         |
+| uodawur             | wooden knife         |
+| joqol               | nest                 |
+
+b) Translations:
+- aarii: (nose)
+- aariidoŋoj: (tip of nose)
+- ciremedawur: (wooden house)
+- ile: (gunshot)
+- johudewce: (tip of bird's beak)
+- legul: (Yakut knife)
+- saal: (deer feed)
+- saannime: (nose case)
+- uo: (Yakut person)
+
+c) Translations into Yukaghir:
+- iron bird: cuo johudawur
+- snoring: ciremeewce
+- tip of knife's blade: ilenlegulewce
+- sack for provisions: aariinjohul
+
+Problem 3:
+
+a) Pronunciations:
+- xaaibi: [1Pa.ai.bi] (thin)
+- xaapisi: [1Paa.pi.si] (arm)
+- xitiixisi: [1Pii.tii.xi.si] (fish)
+
+b) Translations:
+- bigi: [ground]
+- kagahoaogii: [papaya]
+- kaibai: [monkey]
+- kapiigaiitoii: [pencil]
+- poogaihiai toio: [old banana]
+- xabagi kapioxio: [another toucan]
+- xabagi xogiai: [big toucan]
+
+Problem 4:
+
+a) Translations:
+12. The ants' mountain is close.
+13. The demons will return to the woman's pupil.
+
+b) Translations into Muna:
+14. lagahi dofoni murindo we kontuhi.
+15. lagahi we adhiadhini.
+16. murihi dhini tamandia rohibine me dhini.
+17. molo dofoni andoandoke.
+
+Problem 5:
+
+The correspondences:
+1 = bed
+2 = butterfly
+3 = cat
+4 = cow
+5 = refrigerator
+6 = spoon

@@ -1,0 +1,175 @@
+### Problem 1
+
+#### (a) Explanation of the Error
+The animal species that is regarded as “old women” in one of the myths of the Dyirbal people is the **dragonfly**. The linguist considered there was an error because the sentence involving the dragonfly used the human gender marker "bala," which is typically used for animate beings, such as humans or animals with a special cultural significance. In the Dyirbal myth, dragonflies are considered to have a special cultural significance, thus justifying the use of the human gender marker.
+
+#### (b) Translations
+
+17. **Dyirbal to English**: 
+   - Dyirbal: balan ñalNga baNgul NumaNgu guniymuNagu bambunman.
+   - English: The young boy is being made tired by the man that is always bending.
+
+18. **Dyirbal to English**:
+   - Dyirbal: bala diban bilmbalmuNa baNgun biñéiriñéu guniñu.
+   - English: The big stone is being searched for by the tired lizard.
+
+19. **Dyirbal to English**:
+   - Dyirbal: bayi bargan baNgul yaóaNgu gubimbuluNunéanaymuNagu banéan.
+   - English: The quiet girl is following the doctor that is always being blamed.
+
+#### (c) Translations
+
+20. **English to Dyirbal**:
+   - English: The little wallaby is looking at the dragonfly.
+   - Dyirbal: bala yila guniñu baNgul duNangu buóan.
+
+21. **English to Dyirbal**:
+   - English: The aunt that is always being followed is bending the feather.
+   - Dyirbal: balan mugunanéa guliNgu NaéilmuNagu dimban.
+
+22. **English to Dyirbal**:
+   - English: The sleeping possum is ignoring the loud noise.
+   - Dyirbal: bayi yaóa munduNgu NaéilmuNagu muNgan.
+
+23. **English to Dyirbal**:
+   - English: The caterpillar is searching for the man that is always carrying stones.
+   - Dyirbal: bayi bayimbam guniñu baNgul yaóaNgu dibanbilmbalNaymuNagu.
+
+---
+
+### Problem 2
+
+#### (a) Write in Numerals
+
+- **tokapu polangipu**: 50
+- **tokapu talu rureponga telu**: 48
+- **tokapu yepoko malapunga talu**: 59
+- **tokapu yepoko polangipunga telu**: 77
+
+#### (b) Write in Umbu-Ungu
+
+- **13**: alapunga telu
+- **66**: tokapu talu malapu telu
+- **72**: tokapu talu alapunga yepoko
+- **76**: tokapu talu polangipunga talu
+- **95**: tokapu yepoko rureponga talu
+
+---
+
+### Problem 3
+
+#### (a) Correct Correspondences
+- ahaztu ditut: I forgot them
+- ahaztu zaizkit: I forgot them
+- ahaztu zaizu: you(sg) forgot him
+- hurbildu natzaizue: I approached you(pl)
+- hurbildu zait: he approached me
+- lagundu ditugu: we helped them
+- lagundu dituzu: you(sg) helped them
+- lagundu dute: they helped him
+- lagundu nauzue: you(pl) helped me
+- mintzatu natzaizu: I talked to you(sg)
+- mintzatu gatzaizkizue: we talked to you(pl)
+- mintzatu zaizkigu: they talked to us
+- ukitu ditugu: we touched them
+- ukitu naute: they touched me
+
+#### (b) Translate into Basque
+
+- **you(sg) touched me**: ukitu nauzu
+- **they approached me**: hurbildu zaizkit
+
+#### (c) Translate into English
+
+- **lagundu dut**: I helped him
+- **hurbildu gatzaizkizu**: we approached you(pl)
+
+#### (d) Additional Translation
+
+- The sentence "I forgot them" can also be translated as: ahaztu zaizkit.
+
+---
+
+### Problem 4
+
+#### (a) Translate into English
+
+13. **Teop to English**: 
+   - Teop: Eam paa ani a overe.
+   - English: You (pl.) ate the coconut.
+
+14. **Teop to English**:
+   - Teop: Ean paa tasu a oraoraa bona kae.
+   - English: You (sg.) struck the sorcerer with the bag.
+
+15. **Teop to English**:
+   - Teop: Eove paa tara ameam.
+   - English: He saw you (pl.).
+
+#### (b) Translate into Teop
+
+16. **English to Teop**:
+   - English: We gave the food to you (sg.).
+   - Teop: Enam paa hee a taba’ani bona ean.
+
+17. **English to Teop**:
+   - English: He called me a child.
+   - Teop: Eove paa dao anaa bona beiko.
+
+18. **English to Teop**:
+   - English: I killed him with it (lit. with him).
+   - Teop: Enaa paa asun bona bona.
+
+19. **English to Teop**:
+   - English: The sorcerer gave the fish to the boy.
+   - Teop: A oraoraa paa hee a iana bona visoasi.
+
+#### (c) Contextual Translations
+
+24. **Teop Context**:
+   - English: They called the sorcerer a woman.
+   - Teop: Eori paa dao a oraoraa bona moon.
+
+25. **Teop Context**:
+   - English: The boy killed the fish with the axe.
+   - Teop: A visoasi paa asun bona iana bona toraara.
+
+---
+
+### Problem 5
+
+#### (a) Correct Correspondences
+
+| Rotuman | English         |
+|---------|-----------------|
+| ‘u‘u    | arm/hand        |
+| isu     | eye             |
+| kia     | neck            |
+| leva    | heart           |
+| mafa    | hair            |
+| susu    | breast          |
+| huga    | nose            |
+
+#### (b) Translate into English
+
+- **tiro**: to cut
+- **poga (noun)**: hole
+- **huag lala**: courageous
+- **ha. f puhra. ki**: to boil
+- **maf pogi = maf pala**: to pierce the night
+
+#### (c) Translate into Rotuman
+
+- **round**: poag
+- **to cut copra**: niu ‘olo
+- **curly hair**: mafa piri
+- **sticky**: pulu
+- **to flash**: riamrima
+- **rubbish**: moafmofa
+
+#### (d) Theoretical Translations
+
+- **‘word’**: *huag ‘ele*
+- **‘to exhaust’**: *ha. fha. huag*
+
+This completes the problem set with the provided solutions!

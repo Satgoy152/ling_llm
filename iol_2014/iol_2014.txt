@@ -1,3 +1,5 @@
+Prompt: As an expert in computational linguistics solve the following problem:
+
 ### Problem 1 (20 points)
 
 Here are some verb forms of Benabena and their English translations:
@@ -79,38 +81,38 @@ Once upon a time in the Tangut Empire ("the Great State of the White and the Lof
 
 Below you see statements in the Tangut language concerning the relations between these people. The name Lhie²nyn² belongs to a man.
 
-1. Ldiu²±e1 Nie²tse.1 'yn1 kâ. j ngu².
+1. Ldiu²śe1 Nie²tse.1 'yn1 kâ. j ngu².
 2. Lhie²nyn² Ngwi1mbyn² 'yn1 lio² ngu².
 3. Sei1na1 Wa²nie1 'yn1 ndo.n1 ngu².
-4. Ldiu²±e1 Œan1nia1 'yn1 ndo.n1 ngu².
+4. Ldiu²śe1 Œan1nia1 'yn1 ndo.n1 ngu².
 5. Œan1nia1 Syn1mei1 'yn1 ¹we.j1 ngu².
-6. Ldiu²±e1 Syn1mei1 'yn1 ¹we.j1 ngu².
-7. Ldiu²±e1 Wa²nie1 'yn1 ¹we.j1 ngu².
-8. Ke.i1¹ey² Ldiu²±e1 'yn1 ¹we.j1 ngu².
-9. Ldiu²±e1 Ke.i1¹ey² 'yn1 ¹we.j1 ngu².
+6. Ldiu²śe1 Syn1mei1 'yn1 ¹we.j1 ngu².
+7. Ldiu²śe1 Wa²nie1 'yn1 ¹we.j1 ngu².
+8. Ke.i1¹ey² Ldiu²śe1 'yn1 ¹we.j1 ngu².
+9. Ldiu²śe1 Ke.i1¹ey² 'yn1 ¹we.j1 ngu².
 10. Lhie²nyn² Syn1mei1 'yn1 wia1 ngu².
-11. Lhie²nyn² Sie1tsie1 'yn1 'i@1 ngu².
+11. Lhie²nyn² Sie1tsie1 'yn1 'iə1 ngu².
 12. Ke.i1¹ey² Wa²nie1 'yn1 lio² ngu².
 13. Ke.i1¹ey² Sie1tsie1 'yn1 ¹we.j1 ngu².
 14. Lhie²nyn² Ke.i1¹ey² 'yn1 wiej² ngu².
 15. Syn1mei1 Nie²tse.1 'yn1 ¹we.j1 ngu².
 16. Ngon²ngwe1 Mbe²phon1 'yn1 kâ.j1 ngu².
 17. Syn1mei1 Sei1na1 'yn1 kâ.j1 ngu².
-18. Ldiu²±e1 Sie1tsie1 'yn1 ndo.n1 ngu².
+18. Ldiu²śe1 Sie1tsie1 'yn1 ndo.n1 ngu².
 19. Lhie²nyn² Wa²nie1 'yn1 wia1 ngu².
-20. Ldiu²±e1 Sei1na1 'yn1 ¹we.j1 ngu².
+20. Ldiu²śe1 Sei1na1 'yn1 ¹we.j1 ngu².
 21. Wa²nie1 Sei1na1 'yn1 mu1 ngu².
 22. Œan1nia1 Wa²nie1 'yn1 ¹we.j1 ngu².
-23. Ngon²ngwe1 Ldiu²±e1 'yn1 la² ngu².
+23. Ngon²ngwe1 Ldiu²śe1 'yn1 la² ngu².
 24. Lhie²nyn² Mbe²phon1 'yn1 mu1 ngu².
-25. Mbe²phon1 Ldiu²±e1 'yn1 ma1 ngu².
-26. Lhie²nyn² Nie²tse.1 'yn1 'i@1 ngu².
+25. Mbe²phon1 Ldiu²śe1 'yn1 ma1 ngu².
+26. Lhie²nyn² Nie²tse.1 'yn1 'iə1 ngu².
 27. Lhie²nyn² Ngon²ngwe1 'yn1 mu1 ngu².
 28. Œan1nia1 Sie1tsie1 'yn1 lio² ngu².
-29. Lhie²nyn² Ldiu²±e1 'yn1 'i@1 ngu².
+29. Lhie²nyn² Ldiu²śe1 'yn1 'iə1 ngu².
 30. Lhie²nyn² Sei1na1 'yn1 wiej² ngu².
 31. Œan1nia1 Nie²tse.1 'yn1 mu1 ngu².
-32. Lhie²nyn² Œan1nia1 'yn1 'i@1 ngu².
+32. Lhie²nyn² Œan1nia1 'yn1 'iə1 ngu².
 33. Ngon²ngwe1 Ke.i1¹ey² 'yn1 ny1 ngu².
 34. Syn1mei1 Œan1nia1 'yn1 ¹we.j1 ngu².
 35. Mbe²phon1 Sie1tsie1 'yn1 ma1 ngu².
@@ -119,6 +121,11 @@ Below you see statements in the Tangut language concerning the relations between
 (a) Reconstruct the family tree.
 
 (b) Fill in the blank in the last sentence (there is only one way to do this).
+
+
+△! Tangut is an extinct language of the Tibeto-Burman famil y that was spoken in the Tangut Empire (1038-1227, present-day central China). There is no agreement among scholars on what it sounded like, therefore the transcription is based on one of the reconstructions. The 12
+superscript numbers indicate its two tones (¹ = at, ² = rising); in particular, the words for
+`father' and `mother' are in the first tone. â., ê, e., o., y, ə are vowels; ś, 1, ' are consonants.  -Ivan Derzhanski
 
 * * *
 ### Problem 4 (20 points)
@@ -155,9 +162,9 @@ Here are some short dialogs in Engenni and their English translations:
    ozyì wei ga òkí gbunono okàá nu. amù â. nò.  
    The thief said that he[the thief] did not heal this beaten old man.
 
-7. ozyi âno kí.nonò edèí ko�lomù à?  
+7. ozyi âno kí.nonò edèí kofilomù à?  
    Will this thief resemble the coughing man?  
-   a.mò â. nò wei ga ó. ki.nono edèí ko�lomù.  
+   a.mò â. nò wei ga ó. ki.nono edèí kofilomù.  
    This child said that he[this thief] would not resemble the coughing man.
 
 (a) Translate into English:
@@ -184,6 +191,12 @@ Translate it into English. If it can be translated in more than one way, provide
 
 (c) If you were to compile an Engenni dictionary, what would the base forms of the words "thief" and "girl" be? Explain your answer.
 
+△! The Engenni language belongs to the Benue-Congo family. It is spoken by approx. 20,000 people in Nigeria.
+The mark .
+pronounced with a slightly lowered tongue. The marks ', ' and ^ indicate high, low, and falling tone, respectively; if none is present, the syllable has middle tone.
+   -Arturs Semenuks
+
+
 * * *
 ### Problem 5 (20 points)
 
@@ -191,23 +204,23 @@ Here are some words and word combinations in Northwest Gbaya and their English t
 
 | Northwest Gbaya           | Translation           |
 |---------------------------|-----------------------|
-| Páá                      |                       |
-| Páá náng nú kò        |                       |
-| Páá sèè                |                       |
-| búmá ýık                |                       |
-| búmá zù ýık            |                       |
-| dáng gòk                |                       |
-| d́ı fò                   |                       |
-| d́ı sèè                 |                       |
-| kò ýık                  |                       |
-| kò zòk                  |                       |
-| náng ẃı                 |                       |
-| nú fò                   |                       |
-| nú lébé                |                       |
-| sèè ẃı                 |                       |
-| ýık                      |                       |
-| ýık ẃı                  |                       |
-| zù                      |                       |
+| Páá                       |                       |
+| Páá náng nú kò            |                       |
+| Páá sèè                   |                       |
+| búmá ýık                  |                       |
+| búmá zù ýık               |                       |
+| dáng gòk                  |                       |
+| d́ı fò                     |                       |
+| d́ı sèè                    |                       |
+| kò ýık                    |                       |
+| kò zòk                    |                       |
+| náng ẃı                   |                       |
+| nú fò                     |                       |
+| nú lébé                   |                       |
+| sèè ẃı                    |                       |
+| ýık                       |                       |
+| ýık ẃı                    |                       |
+| zù                        |                       |
 |---------------------------|-----------------------|
 | Translation               | Northwest Gbaya       |
 |---------------------------|-----------------------|
@@ -234,6 +247,10 @@ Here are some words and word combinations in Northwest Gbaya and their English t
 (b) Translate into English: búmá zù, kò, lébé gòk, lébé ẃı.
 
 (c) Translate into Northwest Gbaya: at the center, head, displeasure, nose.
+
+△! The Northwest Gbaya language belongs to the Ubangian family. It is spoken by approx. 200,000 people in the Central African Republic.
+The Northwest Gbaya words are given in a simplied transcription. ? is a consonant. 
+-Boris Iomdin
 
 ---
 

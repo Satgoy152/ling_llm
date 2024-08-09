@@ -1,0 +1,97 @@
+Here are my solutions to the problems in computational linguistics:
+
+Problem 1:
+(a) The animal species regarded as "old women" in the Dyirbal myths is the wallaby. The linguist considered the sentence "bala yila wura baNgul bargandu biNgundu guniñu" (The tired wallaby is searching for the little feather) to be an error, but it is in fact correct.
+
+(b) 17. balan ñalNga baNgul NumaNgu guniymuNagu bambunman.
+- The young boy is being made tired by the man that is always bending.
+
+18. bala diban bilmbalmuNa baNgun biñéiriñéu guniñu.
+- The big stone is being searched for by the tired lizard.
+
+19. bayi bargan baNgul yaóaNgu gubimbuluNunéanaymuNagu banéan.
+- The quiet girl is following the doctor that is always being blamed.
+
+(c) 20. bala yila guniñu baNgul duNangu buóan.
+- The little wallaby is looking at the dragonfly.
+
+21. balan mugunanéa guliNgu NaéilmuNagu dimban.
+- The aunt that is always being followed is bending the feather.
+
+22. bayi yaóa munduNgu NaéilmuNagu muNgan.
+- The sleeping possum is ignoring the loud noise.
+
+23. bayi bayimbam guniñu baNgul yaóaNgu dibanbilmbalNaymuNagu.
+- The caterpillar is searching for the man that is always carrying stones.
+
+Problem 2:
+(a) 
+- tokapu polangipu: 50
+- tokapu talu rureponga telu: 48
+- tokapu yepoko malapunga talu: 59
+- tokapu yepoko polangipunga telu: 77
+
+(b)
+- 13: alapunga telu
+- 66: tokapu talu malapu telu
+- 72: tokapu talu alapunga yepoko
+- 76: tokapu talu polangipunga talu
+- 95: tokapu yepoko rureponga talu
+
+Problem 3:
+(a) The correct correspondences are given in the table.
+
+(b) 
+- you(sg) touched me: ukitu nauzu
+- they approached me: hurbildu zaizkit
+
+(c)
+- lagundu dut: I helped him
+- hurbildu gatzaizkizu: we approached you(pl)
+
+(d) The sentence "I forgot them" can be translated into Basque in one more way: ahaztu zaizkit.
+
+Problem 4:
+(a) 
+13. Eam paa ani a overe.
+- (You (pl.) ate the coconut.)
+
+14. Ean paa tasu a oraoraa bona kae.
+- (You (sg.) struck the sorcerer with the bag.)
+
+15. Eove paa tara ameam.
+- (He saw you (pl.).)
+
+(b) 
+16. Enam paa hee a taba'ani bona ean.
+- We gave the food to you (sg.).
+
+17. Eove paa dao anaa bona beiko.
+- He called me a child.
+
+18. Enaa paa asun bona bona.
+- I killed him with it (lit. with him).
+
+19. A oraoraa paa hee a iana bona visoasi.
+- The sorcerer gave the fish to the boy.
+
+(c)
+24. Eori paa dao a oraoraa bona moon.
+- (They called the sorcerer a woman.)
+
+25. A visoasi paa asun bona iana bona toraara.
+- (The boy killed the fish with the axe.)
+
+Problem 5:
+(a) The correct correspondences are:
+- 'u'u: arm/hand
+- isu: eye
+- kia: neck
+- leva: heart
+- mafa: hair
+- susu: breast
+- huga: nose
+
+(b)
+- tiro: to cut
+- poga (noun): hole

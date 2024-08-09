@@ -1,229 +1,70 @@
-Here are the solutions to the linguistics problems:
+Here are my solutions to the computational linguistics problems:
 
-### Problem 1 Solution
+Problem 1:
 
-(a) English translations:
-1. nonifibe - we are piercing him
-2. halu'ibe - you both will strike him 
-3. lifilatagihe - because you both will pierce us
-4. nokufune - we are piercing you(sg)
-5. nolahanagihe - because I will strike you(pl)  
+a) English translations:
+1. nonifibe - I am piercing you(sg) 
+2. halu'ibe - we both will strike you(sg)
+3. lifilatagihe - because you(pl) will pierce us
+4. nokufune - I am piercing you(pl)
+5. nolahanagihe - because we will strike you(sg)
 
-(b) Benabena translations:
-1. you both are striking him - noho'ibe
-2. we will pierce you(sg) - kahafune  
-3. because we are striking you(pl) - nohalunagihe
-4. because you(pl) will pierce him - lefilutagihe
+b) Benabena translations:
+1. nohobe  
+2. kifilune
+3. nolahanagibe
+4. nifutagihe
 
+Problem 2:
 
+Filled in forms:
+Singular: aufi, pʰjaboadↄ, matʰↄn, k'ↄnbohodↄ, t'ↄ, ?, tsegu, ?, k'apʰtʰↄgↄ, ?, k'ɑdɑ, alɑsɑhje, pʰɑ, sa, ?, pitsodɑ, tʰɑpʰpaadɑ  
+Dual: ?, ?, ?, ?, ?, egɑ, ?, alɑguk'o, ?, kʰɑdɑ, ?, ?, ?, ?, ɑlsudɑ, ?, ? 
+Plural: aufidɑ, pʰjaboa, matʰɑdɑ, k'ɑnbohogɑ, t'ɑgɑ, alɑsɑhje, ?, alɑguk'ogɑ, ?, kʰɑ, ?, alɑ, ?, ?, ?, ?, ?
 
-Verb Structure: (object)-stem-(tense/aspect)-(subject)-(case)
-- Object prefixes: 
-  - no- 1sg object 
-  - le- 2pl object
-  - Ø- 3sg object
-- Verb stems:
-  - -ho(be)- "strike"
-  - -fu(ne)- "pierce" 
-- Tense/Aspect suffixes:
-  - -Ø- present
-  - -l(u/a)- future  
-  - -'i- present dual subject
-  - -fi- future dual subject
-- Subject suffixes:  
-  - -be 1pl 
-  - -ne 1pl>2sg
-  - -Ø 2sg/3sg
-  - -lu 2pl>1
-  - -na 1sg>2pl
-  - -'i 3dl
-  - -fi 2dl/1dl>2
-- Other suffixes:
-  - -tagihe "because"
-  - -gihe "because" (after vowel)
+Problem 3: 
 
+a) Family tree:
+                                 Older Generation
+Ngon²ngwe1 -- Mbe²phon1            Nie²tse.1 -- Sie1tsie1   
 
-The data shows an ergative-absolutive alignment, where the verb agrees with the absolutive argument (object of transitives, subject of intransitives). The "strike" verb has suppletive stems for different subject numbers. 
+                                 Younger Generation             
+Lhie²nyn² (m)      Ldiu²śe1 (m)       Wa²nie1 (f)     Syn1mei1 (f)
+   |                   |                 |               |
+Œan1nia1 (f)        Sei1na1 (f)       Ke.i1¹ey² (m)  Ngwi1mbyn² (m)  
 
-### Problem 2 Solution
+b) The blank should be filled with "ma1". Nie²tse.1 is the father of Sie1tsie1.
 
-Completed paradigms:
+Problem 4:
 
-| Singular        | Dual            | Plural            | Translation         |
-|-----------------|-----------------|-------------------|---------------------|
-| adↄ             | a               | agↄ               | tree                |
-| matʰↄnsjan      | matʰↄnsjan      | matʰↄnsjadↄ       | little girl         |
-| k'ↄ             | k'ↄ             | k'ↄgↄ             | knife               |
-| tʰot'olagↄ      | tʰot'ola        | tʰot'olagↄ        | orange              |
-| aufi            | aufigↄ          | aufigↄ            | fish                |
-| pʰjaboadↄ       | pʰjaboa         | pʰjaboadↄ         | street lamp         |
-| matʰↄn          | matʰↄdↄ         | matʰↄdↄ           | girl                |
-| k'ↄnbohodↄ      | k'ↄnbohon       | k'ↄnbohodↄ        | hat                 |
-| t'ↄ             | t'ↄgↄ           | t'ↄgↄ             | spoon               |
-| e               | egↄ             | alↄsↄhjegↄ        | plum                |
-| tsegu           | tsegun          | tsegudↄ           | dog                 |
-| alↄguk'ogↄ      | alↄguk'o        | alↄguk'ogↄ        | lemon               |
-| k'apʰtʰↄ        | k'apʰtʰↄ        | k'apʰtʰↄgↄ        | old man             |
-| kʰↄdↄ           | kʰↄ             | kʰↄdↄ             | blanket             |
-| k'ↄdↄ           | k'ↄdↄ           | k'ↄdↄ             | tomato              |
-| alↄ             | alↄ             | alↄgↄ             | apple               |
-| pʰↄ             | pʰↄ             | pʰↄgↄ             | buffalo             |
-| sa              | sadↄ            | sadↄ              | child               |
-| ↄlsun           | ↄlsun           | ↄlsudↄ            | comb                |
-| pitso           | pitso           | pitsogↄ           | fork                |
-| tʰↄpʰpaa        | tʰↄpʰpaa        | tʰↄpʰpaagↄ        | chair               |
+a) English translations:  
+8. The woman said that she did frighten the thief.
+9. The deceived girl said that she did not kill this child.
+10. This thief said that the child healed the man.
+    Alternative: This thief said that the child would heal the man.
+    The verb gbunono could be interpreted as past tense or future tense.
 
-Number marking patterns:
-- Most nouns take -gↄ in the plural
-- Some nouns are unmarked in the singular and take -dↄ in dual/plural
-- Some animate nouns take -n in the dual 
-- Irregular patterns: suppletion (e/alↄsↄhje), apophony (pʰↄ/pʰaa, kʰↄ/kʰↄdↄ) 
+b) Engenni translations:
+11. okàá nu. amù ki.nono amemùré kofilomù ânò à?
+    a.mò wei ga ó. ki.nono amemùré kofilomù ânò.  
+12. a. vùràmù nu. amù â. nò nwa. sese edèì à? 
+    a. vùràmù nu. amù â. nò wei ga òkí nwa. sese edèì.
 
+c) The base forms would be:
+ozyi - "thief"  
+amemùrè - "girl"
+The forms ozyì and amemùré have high tone on the final vowel, indicating they are not the base forms. The base forms have middle tone throughout.
 
+Problem 5:
 
-### Problem 3 Solution
-
-(a) The reconstructed family tree:
-
-```mermaid
-graph TD
-    A[1st Gen Male] --- B[1st Gen Female]
-    C[2nd Gen Male 1] --- D[2nd Gen Female 1] 
-    E[2nd Gen Male 2] --- F[2nd Gen Female 2]
-    A --- C
-    A --- E
-    B --- D
-    B --- F
-    C --- H[Lhie²nyn²]
-    C --- I[Sie1tsie1]
-    D --- J[Ldiu²±e1]  
-    D --- K[Ke.i1¹ey²]
-    E --- L[Ngon²ngwe1]
-    E --- M[Mbe²phon1 ♂] 
-    F --- N[Wa²nie1 ♀]
-    F --- O[Syn1mei1 ♀]
-    H --- P[Nie²tse.1 ♂] 
-    H --- Q[Ngwi1mbyn² ?]
-    J --- R[Sei1na1 ♀]
-    J --- S[Œan1nia1 ♀]
-```
-
-Kinship terms:
-- 'i@1 - father
-- mu1 - mother's brother 
-- wiej² - father's brother's child
-- wia1 - father's sister's child
-- ¹we.j1 - mother's sister's child
-- ndo.n1 - mother's brother's child
-- lio² - father's sister's child's child
-- kâ.j1 - mother's sister's daughter's child
-- ny1 - mother's mother's sister's son's child
-- ma1 - mother's father's sister's son's son
-- la² - mother's father's brother's daughter's son 
-
-(b) The blank in the last sentence should be filled with "lio²".
-
-
-
-### Problem 4 Solution
-
-(a) English translations:
-8. Did this man frighten the thief?
-   The girl said that he[this man] frightened the thief.
-
-9. Did the deceived girl not kill this youth?
-   The deceived girl said that she[the deceived girl] did not kill this youth.
-
-10. This thief said that the child healed the man. 
-    OR
-    This thief said that the child would heal the man.
-
-The ambiguity arises because Engenni doesn't mark future tense overtly in affirmative statements, only in questions and negated statements. So the verb "gbunono" could be interpreted as either past or future tense.
-
-(b) Engenni translations:
-11. okàá nu. amù ânò ki.nono a.modhyòmú ko�lomù a nò à?  
-    a.mò wei ga ó. ki.nono a.modhyòmú ko�lomù â. nò.
-
-12. a. vùràmú nu. amù ânò kí nwa. sese edèì à?  
-    a. vùràmú nu. amù ânò wei ga òkí nwa. sese edèì.
-
-(c) The base form of "thief" is most likely "ozyi". It appears in both subject and object positions without any additional marking (ozyi, ozyì).
-
-The base form of "girl" is most likely "amemùrè". The form "amemùré" with a high tone on the last vowel seems to be a subject case form used with past tense verbs. The base form "amemùrè" is used elsewhere (e.g. in object position).
-
-
-
-- SVO word order
-- Tones mark grammatical distinctions (e.g. past vs non-past)
-- Questions formed by a sentence-final particle "à" 
-- Negation marked by "kí" (future) or "kí" + verb tone change (past) 
-- Pronouns: 
-  - ò "he" (human) 
-  - ó. "she" (human)
-- Tense/aspect:
-  - Unmarked: non-future  
-  - Future: Aux "ga" + irrealis mood (low tones)
-  - Past: High tones on verb (and pronouns)
-- Reported speech: "wei ga" + embedded clause
-
-
-Engenni appears to be a tonal language with SVO basic word order and a nominative-accusative alignment. Tense/aspect/mood distinctions are marked by auxiliaries and tone. Reported speech uses a "say" verb and a subordinator.
-
-### Problem 5 Solution
-
-(a) Correspondences:
-
-| Northwest Gbaya           | Translation           |
-|---------------------------|-----------------------|
-| Páá                      | liver                 |
-| Páá náng nú kò            | to envy               |
-| Páá sèè                   | happiness             |  
-| búmá ýık                  | eyelash               |
-| búmá zù ýık               | eyebrow               |
-| dáng gòk                  | field edge            |
-| d́ı fò                     | foot                  |
-| d́ı sèè                    | tip of the tongue     |
-| kò ýık                    | eye socket            |
-| kò zòk                    | to be dying           |
-| náng ẃı                   | above, on             |
-| nú fò                     | to put                |
-| nú lébé                   | at the surface        |
-| sèè ẃı                    | poisonous snake       |
-| ýık                       | eyes/face             |
-| ýık ẃı                    | good field            |
-| zù                        | head                  |
-
-(b) English translations:
-- búmá zù - head hair
-- kò - in, inside  
-- lébé gòk - center of field
-- lébé ẃı - in the middle, in the center
-
-(c) Northwest Gbaya translations:
-- at the center - nú lébé  
-- head - zù
-- displeasure - Páá d́ı sèè
-- nose - zú ýık
-
-
-
-Northwest Gbaya productively forms compounds:
-
-- Body part + body part:  
-  ýık "eye" + ẃı "field" = "good field"   
-  d́ı "mouth" + sèè "pointed object" = "tip of the tongue"
-
-- Body part + location:  
-  kò "internal opening" + ýık "eye" = "eye socket"
-  nú "at, on" + lébé "middle" = "at the surface"
-
-- Verb + body part:  
-  náng "to be attached" + nú "on" + kò "internal opening" = "to envy"  
-  kò "internal opening" + zòk "death" = "to be dying"
-
-- Modification: 
-  búmá "hair" + ýık "face, eye" = "eyelash"
-  búmá "hair" + zù "head" + ýık "face, eye" = "eyebrow"
-
-
-The data reveals several productive compounding patterns in Northwest Gbaya involving body part terms, locatives, and verbs. Compounds encode various semantic relations between their components.
+a) Correspondences:
+Northwest Gbaya - Translation 
+Páá - foot
+Páá náng nú kò - nostril
+Páá sèè - toe 
+búmá ýık - eyelash
+búmá zù ýık - eyebrow  
+dáng gòk - field edge
+d́ı fò - poisonous snake
+d́ı sèè - tip of the tongue
+kò ýık - eye

@@ -1,0 +1,16 @@
+The problems are based on different models used in computational linguistics. Here's how to solve them:
+
+### Problem 1
+(a) The animal species regarded as “old women” in one of the myths of the Dyirbal people is the death adder. The linguist may have considered the sentence "The strong man is blaming the mother that is always following death adders." to be an error, as it might sound strange to say that a mother is always following venomous snakes.
+
+### Problem 2
+These problems can be solved by identifying the numerical system used in the Umbu-Ungu language. It seems to be a base-10 system with unique words for each digit and ten. The word "tokapu" appears to mean "40" or "4 tens", and "talu" equals "8", and so on.
+
+### Problem 3
+Basque is an ergative-absolutive language, which means it treats the subject of an intransitive verb and the object of a transitive verb in the same way (absolutive case), while the subject of a transitive verb is treated differently (ergative case). This differs from English, which is a nominative-accusative language. 
+
+### Problem 4
+Teop appears to be a subject-object-verb (SOV) language with a complex system of noun and verb phrases. Verbs agree with their subjects in person and number, and there are different pronouns for singular and plural.
+
+### Problem 5
+Rotuman appears to have an agglutinative morphology, meaning that words are built up from a sequence of morphemes (each of which represents a single semantic unit). The language also appears to make use of reduplication, a process where a morpheme or part of a morpheme is repeated.

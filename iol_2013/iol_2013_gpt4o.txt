@@ -1,0 +1,87 @@
+To solve the problems presented, we need to analyze the linguistic patterns and logical connections in each problem.
+
+### Problem 1: Yidiny Language Analysis
+
+(a) Mark the long vowels:
+- mugaóumu: The word "mugaóumu" does not contain any long vowels based on the pattern observed in the examples.
+- waNalgu: The word "waNalgu" does not contain any long vowels based on the pattern observed in the examples.
+
+(b) Mark the long vowels and translate into English:
+- baman: "bama" means "person" or "man", and "baman" would mean "man". No long vowels to mark.
+- buñabi: "buña" means "woman", so "buñabi" would be "another woman". No long vowels to mark.
+- maéurmuéay: "maéu:rbi" means "another frog", so "maéurmuéay" would be "with another frog". Long vowel after "é".
+- muéamni: "muéam" means "mother", so "muéamni" would be "of a mother". Long vowel after "é".
+
+(c) Translate into Yidiny:
+- of a stranger: muyubarini
+- for a fishing net: mugaóumu:gu
+- father: bimbi
+- from a frog: maéu:m
+- without a man: wagugimbal
+- of a pigeon: éudu:lumuéayni
+- tortoise: baéigal
+- without a boomerang: waNalgimbal
+
+### Problem 2: Tundra Yukaghir Language Analysis
+
+(a) Determine the correct correspondences:
+- The words need to be matched based on known translations and similarities in structure.
+
+(b) Translate into English:
+- aarii: (nose)
+- aariidoŋoj: (tip of nose)
+- ciremedawur: (wooden house)
+- ile: (gunshot)
+- johudewce: (tip of bird's beak)
+- legul: (Yakut knife)
+- saal: (deer feed)
+- saannime: (nose case)
+- uo: (Yakut person)
+
+(c) Translate into Yukaghir:
+- iron bird: cuo johudawur
+- snoring: ciremeewce
+- tip of knife’s blade: ilenlegulewce
+- sack for provisions: aariinjohul
+
+### Problem 3: Pirahã Language Analysis
+
+(a) Write down how the following words and phrases are pronounced:
+- xaaibi: [1Pa.ai.bi]
+- xaapisi: [1Paa.pi.si]
+- xitiixisi: [1Pii.tii.xi.si]
+
+(b) Translate into English:
+- bigi: [ground]
+- kagahoaogii: [papaya]
+- kaibai: [monkey]
+- kapiigaiitoii: [pencil]
+- poogaihiai toio: [old banana]
+- xabagi kapioxio: [another toucan]
+- xabagi xogiai: [big toucan]
+
+### Problem 4: Muna Language Analysis
+
+(a) Translate into English:
+12. andoandoke nogholi lagahiku: The ants’ mountain is close.
+13. a dhinihi dasumuli we murindo robhinehi: The demons will return to the woman’s pupil.
+
+(b) Translate into Muna:
+14. The Ant will climb the pupil’s stone: lagahi dofoni murindo we kontuhi.
+15. The ants are going to the Demon: lagahi we adhiadhini.
+16. My women’s monkeys will cut my bananas: murihi dhini tamandia rohibine me dhini.
+17. The monkey’s mountains are far: molo dofoni andoandoke.
+
+### Problem 5: Brain Activity and Word Correspondences
+
+To determine the correspondences:
+- Analyze the patterns in brain activity for each word and match them to the known patterns from the first table.
+
+1. Location A: low, Location B: low, Location C: high, Location D: high matches "lettuce" (1).
+2. Location A: low, Location B: low, Location C: high, Location D: low matches "cup" (2).
+3. Location A: high, Location B: low, Location C: low, Location D: low matches "igloo" (3).
+4. Location A: low, Location B: low, Location C: low, Location D: high matches "bed" (4).
+5. Location A: low, Location B: high, Location C: high, Location D: low matches "cow" (5).
+6. Location A: low, Location B: low, Location C: low, Location D: low matches "butterfly" (6).
+
+By analyzing the structures and patterns, the problems are solved by understanding linguistic rules and logical deductions.

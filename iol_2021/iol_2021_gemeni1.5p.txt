@@ -1,0 +1,157 @@
+## Problem 1: Ekari
+
+**(a)**
+
+* moeto waroewo - **100** (80 + 20)
+* ijema joka rati - **38**  (This is the same as "waroewoma joka rati")
+* moeto wido ma benomi ka wi - **114** (80 + 20 + 10 + 4)
+
+**(b)**
+
+* 1 - **ka**
+* 19 - **benomi ma wija ka ka** 
+* 26 - **wido ma benomi** 
+* 104 - **moeto daemita moeto ma wi** OR **moeto wija ma wi**
+* 292 - **moeto idibi ma moeto wija ma wido ma wija**
+
+**Explanation:**
+
+Ekari uses a base-20 (vigesimal) numeral system.
+
+* **Basic Numbers:** 1 (ka), 2 (wija), 3 (mepija), 4 (wi), 5 (idi), 10 (benomi), 20 (wido), 80 (moeto)
+* **Combining Numbers:** Larger numbers are formed by combining these basic units additively, sometimes using "ma" as a conjunction.
+* **Multiplicative Construction:** Notice the use of multiplication for some numbers (e.g., 80 is "moeto," literally "forty two").
+
+## Problem 2: Zuni
+
+**(a)**
+
+| Zuni                  | English Translation  | Letter |
+|-----------------------|----------------------|--------|
+| 1. mo:chikwa datda:we | A. chicken meat      | J       |
+| 2. haya:we            | B. tea (drink)       |         |
+| 3. doko:ko mo’le      | C. sugar             |         |
+| 4. ma:chikwa          | D. loaf of bread     |         |
+| 5. mu:chikwa          | E. beads             |         |
+| 6. mulonne ≈ mu’le    | F. peach pie         |         |
+| 7. mowe               | G. piles of leaves   |         |
+| 8. ha:k’yawe          | H. chicken egg       |         |
+| 9. doko:ko shiwe      | I. peach trees       |         |
+| 10. mo:chikwa mulo:chikwa | J. chocolate bar   | A       |
+
+**(b)**
+
+| Zuni         | English Translation       | Letter |
+|--------------|---------------------------|--------|
+| 11. ade muwe  | K. granule, grain (for example of salt) |       |
+| 12. beyanne   | L. ear of corn [corn cob]|         |
+| 13. homa:we   | M. juniper leaves        |         |
+| 14. ma:k’yawe | N. salt water            |         |
+| 15. ma:k’ose  | O. blood clots           |         |
+| 16. ma’le     | P. field of grass        |         |
+| 17. homayanne | Q. blood                 |         |
+| 18. mi’le     | R. juniper branch        |         |
+| 19. ade k’yawe| S. salt                  |         |
+
+**(c)**
+
+20. be’le  - **corn cob**
+21. chikwa  - **meat**
+22. datdanne  - **bread**
+23. ade  - **salt**
+24. mulo:we  - **chocolate** (same as "mulo:chikwa")
+25. hawe  - **leaves**
+
+**(d)**
+
+26. salty  - **ade’na:kwe** (literally, "salt-having")
+27. juniper leaf  - **homa**
+28. piece of meat  - **chikwa datda**
+29. water  - **k’ya**
+30. corn, maize  - **be**
+31. fields of grass  - **ma’li:we**
+
+**(e)**
+
+Based on the provided vocabulary, Ma’k’yayanne is likely a **salt spring** or a **place of salt water**.
+
+## Problem 3: Kilivila
+
+**(a)**
+
+14. Navila vivila biyamata tomwaya mtona? - **How many women will look after your (sg) father?**
+15. Bikamkwamsi kweyu vivila minasina. - **You (pl) will eat these fish.**
+16. Amagudina gwadi lekota? - **Where did this child come from?**
+17. Tevila tauwau bigisesi gugwadi gudigasisi? - **Did these men see that good woman?**
+18. Legisesi ketala waga vivila minasiwena. - **Those women will see many canoes.** (OR **The women will see many canoes.**)
+
+**(b)**
+
+19. How many canoes did those old women see? - **Navila ka’ukwa waga legisesi yamatu?**
+20. These four white men will look after this clever child. - **Biteyu tetala dimdim mtosiwena gugwadi gudikabitam.**
+21. How many children will eat these pigs? - **Navila ka’ukwa gwadi biyamkwamsi kweyu bunukwa?**
+22. Which woman caught those beautiful fish? - **Amtona vivila lemina kweyu minasina gudigasisi?**
+23. Two wild dogs saw that old man. - **Leyawasi eyu tauwau bigisesi tomwaya.**
+
+**Explanation:**
+
+Kilivila grammar relies heavily on word order and particles to convey grammatical relationships.
+
+* **Word Order:** Subject-Verb-Object (SVO) is the basic word order.
+* **Question Words:** Navila (how many), Amtona (who, which), Amagudina (where)
+* **Plural Markers:** -si (plural for nouns), bi- (plural for verbs)
+* **Future Tense Marker:** -wena
+
+## Problem 4: Agbirigba
+
+**(a)**
+
+The exception is **òtṹtṹ** (to look for). If it followed the same rules as the other Agbirigba words, its form would be **tṹòtṹtṹ**.
+
+**(b)**
+
+1. rʊ́tʊ̂ - chewing-stick - **tṹrʊ́tṹtʊ̂**
+2. rɛẁʊ̃́ - deity - **tṹrɛẁṹtʊ̃́**
+3. bіḱó - please - **túbіt́íkó**
+4. ɲ́yẽ́ rɪỳã̀ - female - **tṹɲ́yẽ́tṹrɪỳã̀**
+5. bɛḱʷʊ̃́ - fire - **túbɛḱṹtʷʊ̃́**
+6. rіýõ̀rõ̀ - charcoal - **tіŕíýõ̀tṹrõ̀**
+7. hʷɔg̀â - go out! - **tṹhʷɔg̀ṹtâ**
+
+**Explanation:**
+
+Agbirigba is formed by infixing **tʊ** after the first consonant of the Ogbakiri word and prefixing **t** before the first vowel. 
+
+However, there are exceptions, as seen with "òtṹtṹ". This highlights the fact that even within a single language, different registers or styles may have their own unique rules and irregularities. 
+
+## Problem 5: Rikbaktsa
+
+**(a)** 
+
+- aharapyryk - **I hugged you (pl)**
+- mymyboro - **I will bite you (sg) / he will bite you (sg)** 
+- uru - **he slept**
+- tsiksiwynaha - **we left**
+- ikwak - **I hunted / he hunted**
+- ziksi - **he left**
+
+**(b)** 
+
+- we will fall - **iknaranaraha**
+- I bathed - **imorona**
+- you (sg) bit us - **tsiboroha**
+- I will wait for them / he will wait for them - **apery**
+- I will hug you (pl) / he will hug you (pl) - **aharapyryk**
+- you (sg) will leave - **tsiksi**
+- I killed it / he killed it - **ibeze** 
+
+**Explanation:**
+
+Rikbaktsa verbs are highly inflected, with prefixes and suffixes marking subject, object, and tense.
+
+* **Subject Prefixes:** a- (1sg), tsi- (2sg), ni- (3sg), pi- (1/3sg future), i- (1/3sg past)
+* **Object Suffixes:** -ryk (2pl), -ha (1pl), -na (3pl)
+* **Plural:** -wyna- (pluralizer for verbs)
+* **Future Tense:** -ru (future tense marker)
+
+By analyzing the provided examples and understanding the function of these prefixes and suffixes, we can translate between English and Rikbaktsa. 

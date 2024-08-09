@@ -1,0 +1,182 @@
+## Problem 1 Solution:
+
+Here are the filled gaps, based on analyzing the travel patterns revealed in the existing phrases:
+
+**Kahangang hamlet:**
+
+- Lamaoä’ bete’ di Bulung.
+- Lamaoä’ sau di Kota.
+- Lamaoä’ **pano** di Palempang. 
+
+**Kombeng hamlet:**
+
+- Lamaoä’ pano di Pahihuang.
+- Lamaoä’ tama di Sohongang.
+- Lamaoä’ naung di Tamonseng.
+- Lamaoä’ **dai’** di Palempang. 
+
+**Kota hamlet:**
+
+- Lamaoä’ dai’ di Kombeng.
+- Lamaoä’ dai’ di Palempang.
+- Lamaoä’ naung di Pikung.
+- Lamaoä’ **tama** di Bulung.
+- Lamaoä’ **dai’** di Sohongang.
+
+**Palempang hamlet:**
+
+- Lamaoä’ bete’ di Kahangang.
+- Lamaoä’ dai’ di Kombeng.
+- Lamaoä’ pano di Panampo.
+- Lamaoä’ sau di Sohongang.
+- Lamaoä’ **tama** di Bulung.
+- Lamaoä’ **bete’** di Kota.
+- Lamaoä’ **tama** di Pahihuang. 
+
+**Pahihuang hamlet:**
+
+- Lamaoä’ naung di Bulung.
+- Lamaoä’ naung di Pikung.
+
+**Bulung hamlet:**
+
+- Lamaoä’ pano di Pahihuang.
+- Lamaoä’ pano di Panampo.
+- Lamaoä’ **sau** di Kota.
+- Lamaoä’ **sau** di Pikung. 
+
+**Panampo hamlet:**
+
+- Lamaoä’ tama di Kahangang.
+- Lamaoä’ pano di Tamonseng.
+- Lamaoä’ **bete’** di Kota.
+
+**Pikung hamlet:**
+
+- Lamaoä’ pano di Kota.
+- Lamaoä’ dai’ di Pahihuang.
+- Lamaoä’ sau di Sohongang.
+- Lamaoä’ **tama** di Bulung.
+- Lamaoä’ **pano** di Kahangang.
+- Lamaoä’ **dai’** di Panampo. 
+
+**Sohongang hamlet:**
+
+- Lamaoä’ bete’ di Bulung.
+- Lamaoä’ tama di Kahangang.
+- Lamaoä’ tama di Kota.
+- Lamaoä’ dai’ di Pahihuang.
+
+**Tamonseng hamlet:**
+
+- Lamaoä’ pano di Pahihuang.
+- Lamaoä’ pano di Panampo.
+- Lamaoä’ **sau** di Kahangang. 
+- Lamaoä’ **sau** di Palempang. 
+
+
+## Problem 2 Solution:
+
+**(a) Hieroglyphic Matching:**
+
+1. runtiyas ‘deer’ ∼ **D. 5,  N. 5Ts** 
+2. patis ‘foot’  ∼ **B. +, V. ´ys**
+3. harnisas ‘fortress’ ∼ **J. H!,  X. H´%**
+4. iziyanta ‘they made’ ∼  **F. A50´,  T. A50t**
+5. turpis ‘bread’ ∼ **G. å, P. å0T**
+6. tarhunzas ‘thunder’ ∼ **H. „0s,  Z. A°s** 
+7. hawis ‘sheep’ ∼ **C. HWs,  K. qHWs**
+8. sanawas ‘good’ ∼  **I. sNWs,  W. vås**
+9. nimuwizas ‘son’ ∼ **L. v,  M. f4Wis**
+10. zitis ‘man’ ∼ **S. y2is,  tyis** (from part b) 
+11. piyanti ‘they give’ ∼ **Q. ÚWs,  U. T** 
+12. hantawatis ‘king’ ∼ **A. HtWTs,  O. !fss**
+13. istaris ‘hand’ ∼ **E. Ts,  R. °**
+
+**(b) Additional Word Identification:**
+
+1. **tyis** represents **zitis ‘man’** 
+2. **f4_** represents **nimuwizas ‘son’**
+
+**(c)  Luwian Symbol Functions:**
+
+1. **´:**  Indicates a plural form (e.g., hands, feet)
+2. **%:** Represents a fortified place or structure, likely a phonetic component related to "harnisas"
+3. **W:**  A phonetic component representing the sound "w"
+4. **t:**  A phonetic component representing the sound "t"
+5. **s:** A common grammatical marker, potentially for plurals or possessive forms
+6. **T:** Likely represents a deity or a concept related to divinity
+7. **5:**  Appears to be a logogram or ideogram representing a horned animal, possibly a deer.
+
+## Problem 3 Solution:
+
+**(a) English Translations:**
+
+11. magasi argi ajomirra.  -> **The thief will hit us.**
+12. ay kanarriːg baːbki alletirsi. -> **I repaired the camels for the father.**
+13. hanu tirtiːg elirsu. -> **The donkey saw the owners.** 
+14. tirti argi kamgi deːccirsa.  -> **The owners gave us the camels.**
+15. ay darbadki bijaːndi. -> **I will give the chicken.**
+
+**(b) Kunuz Nubian Translations:**
+
+16. The neighbours are giving the necklace to the owner. -> **jaːnticciːr tirtiːg beyyeːcciːg adeːnda.**
+17. The young man bought the dog for us. -> **jahali walgi kamiːg beyyeːccirsu.**
+18. We will steal him. -> **anigi kadeːnna.** 
+19. The owners struck the thieves. -> **tirtiːr magasiːg bijomirra.** 
+20. The dogs found the chickens for the coward. -> **waliːg sarkaːygi darbadki eldeːnsu.** 
+
+## Problem 4 Solution:
+
+**(a) Iatmül Word Correspondences:**
+
+| Iatmül            | Translation                  |
+|-------------------|------------------------------|
+| 1. guna vaala     |  j. mirror                    |
+| 2. ka’ik          |  c. canoe                     |
+| 3. ka’ikgu        |  i. I got                     |
+| 4. klawun         |  d. book                      |
+| 5. laavu          |  g. picture, shadow           |
+| 6. laavuga vi’    |  k. I saw                     |
+| 7. laavuga        |  n. to read                   |
+| 8. ni’bu          |  m. spear                     |
+| 9. ni’buna vaala  |  f. rifle                     |
+| 10. nyaka’ik      |  b. cow                       |
+| 11. vi            |  e. carbonated beverage, alcohol  |
+| 12. vi’wun        |  l. watch (timepiece)         |
+| 13. walini’bana bâk |  o. ground, land              |
+| 14. walini’bana gu |  a. banana                    |
+| 15. walini’bana vi |  h. car                       |
+
+**(b) English Translation & Synonym:**
+
+1. vaala: **thing**
+2. gu: **fruit**
+3. vi': **to see**
+
+The word **vi’** (to see) has a more recent synonym: **laavuga vi’** (I saw). This likely emerged with the introduction of the concept of reading ("laavuga").  Seeing a picture or shadow might have been the closest existing concept to "reading" in Iatmül, leading to the compound verb formation.
+
+**(c) Iatmül Translations:**
+
+1. pig:  **(No direct translation provided, likely a new word needed)**
+2. banana leaves: **walini’bana laavu** (literally: banana shadow/picture)
+3. sun: **(No direct translation provided, likely a new word needed)**
+4. white people:  **guna vaala** (mirror)
+
+
+## Problem 5 Solution:
+
+**(a) English Translations:**
+
+1. utnhantxi -> **Is it my house?**
+2. yapp”psa -> **in the field too**
+3. yapup”psa -> **in your field too** 
+
+**(b) Jaqaru Translations:**
+
+4. our_{1+2} cliff ->  **qaqat”st”a**
+5. in your corner ->  **chushp”ayna**
+6. in your corner too -> **chushp”aynapsa** 
+7. from your corner too ->  **chushp”ayt”apsa**
+8. is it from the cave? -> **aq”t”antxi**
+9. is it the house? ->  **utntxi** 

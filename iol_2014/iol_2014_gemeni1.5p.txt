@@ -1,0 +1,183 @@
+## Computational Linguistics Solutions
+
+Here are solutions to the problems provided, utilizing techniques and approaches from computational linguistics:
+
+**Problem 1: Benabena Verb Morphology**
+
+**(a) English Translations:**
+
+1. **nonifibe:** You(pl) are piercing us. 
+2. **halu'ibe:** You both will strike us.
+3. **lifilatagihe:** Because you both will pierce him.
+4. **nokufune:** We are piercing him. 
+5. **nolahanagihe:** Because we are striking you(pl).
+
+**(b) Benabena Translations:**
+
+1. You both are striking him: **hola'ibe**
+2. We will pierce you(sg): **lenifune**
+3. Because we are striking you(pl): **nolahatanagihe**
+4. Because you(pl) will pierce him: **lifilanagihe**
+
+**Explanation:**
+
+We can analyze the Benabena verb forms by breaking them down into morphemes (meaningful units). For example:
+
+* **no-ho-be:** I - strike - him (present tense)
+* **ka-halu-ne:** We - strike - you(sg) (future tense)
+
+By comparing the provided examples, we can identify patterns for subject prefixes (no-, ka-, le-, etc.), verb stems (ho 'strike', fil 'pierce', etc.), object suffixes (-be 'him', -ne 'you(sg)', etc.), tense markers (-be present, -ne future, -la future), and other grammatical elements like the causal marker '-nagihe'.
+
+**Problem 2: Kiowa Noun Morphology**
+
+| Singular        | Dual            | Plural            | Translation         |
+|-----------------|-----------------|-------------------|---------------------|
+| adↄ             | a               | a                 | tree                |
+| matʰↄnsjan      | matʰↄnsjan      | matʰↄnsjadↄ       | little girl         |
+| k’ↄ             | k’ↄ             | k’ↄgↄ             | knife               |
+| tʰot’olagↄ      | tʰot’ola        | tʰot’olagↄ        | orange              |
+| aufi            | aufigↄ          | **aufigↄ**         | fish                |
+| pʰjaboadↄ       | pʰjaboa         | **pʰjaboagↄ**        | street lamp         |
+| matʰↄn          | matʰↄdↄ         | **matʰↄdↄ**        | girl                |
+| k’ↄnbohodↄ      | k’ↄnbohon       | **k’ↄnbohogↄ**      | hat                 |
+| t’ↄ             | t’ↄgↄ           | **t’ↄgↄ**          | spoon               |
+| e               | **egↄ**          | alↄsↄhjegↄ        | plum                |
+| **tse**        | tsegun          | tsegudↄ           | dog                 |
+| alↄguk’ogↄ      | alↄguk’o        | **alↄguk’ogↄ**     | lemon               |
+| **k’apʰtʰↄn**    | k’apʰtʰↄ        | k’apʰtʰↄgↄ        | old man             |
+| kʰↄdↄ           | kʰↄ             | **kʰↄdↄ**          | blanket             |
+| k’ↄdↄ           | **k’ↄdↄ**        | k’ↄdↄ             | tomato              |
+| **alↄ**          | alↄ             | **alↄ**            | apple               |
+| **pʰↄ**          | pʰↄ             | **pʰↄ**            | buffalo             |
+| **sad**          | **sad**           | sadↄ              | child               |
+| ↄlsun           | **ↄlsun**        | **ↄlsun**           | comb                |
+| **pits**        | pitso           | **pitsogↄ**        | fork                |
+| **tʰↄpʰpa**      | tʰↄpʰpaa        | **tʰↄpʰpaagↄ**     | chair               |
+
+**Explanation:**
+
+By analyzing the provided Kiowa noun forms, we can observe patterns in the formation of singular, dual, and plural forms. 
+
+* Some nouns remain unchanged in their singular and dual forms (e.g., k'ↄ). 
+* Many nouns add a suffix "-gↄ" to form the plural (e.g., k’ↄgↄ).
+* A few nouns use reduplication (repeating a part of the word) in their dual or plural forms.
+* Some vowel and consonant changes occur alongside the suffixation.
+
+**Problem 3: Tangut Kinship**
+
+**(a) Family Tree:**
+
+```
+                 Unknown Male     Unknown Female
+                         |            |
+                 ---------------------------------
+                 |                               |
+            Ldiu²śe1                            Ngon²ngwe1 
+                 |                               |
+          -----------------                 -----------------
+          |               |                 |               |
+      Œan1nia1       Syn1mei1            Ke.i1¹ey²       Mbe²phon1
+          |               |                 |               |
+      -------           -------           -------           -------
+      |     |           |     |           |     |           |     |
+  Nie²tse.1 Sei1na1   Wa²nie1 Lhie²nyn² Sie1tsie1     Unknown  Unknown 
+                                                                |      |
+                                                            Unknown  Unknown 
+```
+
+**(b)  Missing word:**
+
+The missing word in the last sentence is **lio²** (father).
+
+**Explanation:**
+
+This problem requires deciphering kinship terms in the Tangut language. We can deduce the relationships by analyzing the repeated names and the grammatical structure of the sentences. 
+
+* The word **'yn1** likely indicates possession (e.g., "X's Y"). 
+* Terms like **kâ.j1**, **lio²**, **ndo.n1**, **¹we.j1**, **wia1**, **'iə1**, **mu1**, **ma1**, **la²**, **ny1**, and **wiej²** seem to denote specific family relationships.
+
+By systematically analyzing the sentences, we can gradually reconstruct the family tree and identify the missing kinship term. For instance:
+
+* Sentence 2 tells us Lhie²nyn² is the son (lio²) of Ngwi1mbyn².
+* Sentences 3 and 4 indicate Sei1na1 and Œan1nia1 are children (ndo.n1) of Ldiu²śe1.
+
+**Problem 4: Engenni Dialogues**
+
+**(a) English Translations:**
+
+8. **edèì ânò nwa. sese ozyi à?**
+   Did this man deceive the thief?
+   **amemùrè wei ga ò. nwa. sese ozyi.**
+   The girl said that he[this man] did not deceive the thief.
+
+9.  **amemùré le. lemu wúesè a.modhyòmù â. nò à?**
+   Did this deceived girl kill the youth?
+   **amemùré le. lemù wei ga òki wúesè a.modhyòmù â. nò.** 
+   This deceived girl said that she[this deceived girl] did not kill the youth.
+
+10. **ozyi ânò wei ga a.mó gbunono edèì.**
+
+* **This thief said that the child healed the man.**
+* **This thief said that he[the thief] healed the man.**
+
+The ambiguity arises because the pronoun "a.mó" could refer to either the child or the thief, depending on the context.
+
+**(b) Engenni Translations:**
+
+11. **Okàá nu. amù â. nò kí.nonò a.modhyòmù kofilomù à?**
+   **a.mò wei ga ó. kí.nonò a.modhyòmù kofilomù.**
+
+12. **A. vùràmù nu. amù â. nò zyí edèì à?**
+   **A. vùràmù nu. amù â. nò wei ga ò. zyí edèì.**
+
+**(c) Base Forms:**
+
+* **Thief:** **ozyì** - The form "ozyi" appears consistently in different grammatical contexts.
+* **Girl:** **amemùrè** - While forms like "a.mó" and "a.modhyòmù" relate to youth, "amemùrè" seems to specifically denote a girl.
+
+**Problem 5: Northwest Gbaya Semantics**
+
+**(a) Correspondences:**
+
+| Northwest Gbaya           | Translation           |
+|---------------------------|-----------------------|
+| Páá                       |  eyes/face            |
+| Páá náng nú kò            | eye socket             |
+| Páá sèè                   | eyebrow                |
+| búmá ýık                  | to envy                |
+| búmá zù ýık               | to be dying            |
+| dáng gòk                  |  good field           |
+| d́ı fò                     | foot                   |
+| d́ı sèè                    | tip of the tongue      |
+| kò ýık                    |  poisonous snake      |
+| kò zòk                    |  field edge           |
+| náng ẃı                   |  nostril              |
+| nú fò                     |  liver                |
+| nú lébé                   |  happiness            |
+| sèè ẃı                    |  eyelash              |
+| ýık                       | to put                 |
+| ýık ẃı                    |  above, on            |
+| zù                        |  at the surface       |
+
+**(b) English Translations:**
+
+* **búmá zù:** to be dying at the surface (potentially metaphorical)
+* **kò:** field edge
+* **lébé gòk:** displeasure (literally: bad field)
+* **lébé ẃı:** displeasure (literally: bad on/above) 
+
+**(c) Northwest Gbaya Translations:**
+
+* at the center: **(No direct translation provided, potentially requires more context)**
+* head: **(No direct translation provided, potentially requires more context)**
+* displeasure: **lébé** (can be combined with other words for specificity)
+* nose: **(No direct translation provided, potentially requires more context)**
+
+**Explanation:**
+
+This problem focuses on lexical semantics, requiring us to map Northwest Gbaya words to their English counterparts. We can utilize clues from the provided word combinations to understand the meanings of individual words. For example:
+
+* "Páá" appears in several combinations related to the face, suggesting it might mean "eyes/face."
+* The combination of "búmá" with "ýık" (to envy) and "zù" (at the surface) provides clues about its meaning related to a negative state like dying.
+
+By analyzing these combinations and considering the context, we can gradually decipher the meanings and translate the given phrases.

@@ -1,0 +1,150 @@
+## Problem 1 (Nahuatl & Arammba)
+
+**(a) Numerals and Equations:**
+
+1. 20 * 20 = 400
+2. 40 * 2 = 80
+3. 3 * 15 + 6 * 20 = 165
+4. 200 + 2 = 3 
+5. 12 * 2 = 244 
+6. 200 * 2 = 400
+7. x + x = x * 2
+8. x + y = z
+9. 2 * a + 4 * y = 2 * 4
+10. a * a * b = 4 * a * b
+11. x * 4 = y
+12. x + 2 * b = a * b
+13. 3 * 4 * 400 * 1 =  x
+14. 1 * 40 * 22 = 2 * y
+15. 1 = y * z * 4 * y
+16. 14 = w * y * x * 2
+
+**(b) Nahuatl Numbers:**
+
+* 42: **om-mahtlactli-on-ome** (2 + 20 * 2)
+* 494: **chicuacen-pöhualli-on-caxtölli-on-mahtlactli-on-nähui** (9 * 40 + 10 + 20 + 4) 
+
+**(c) Arammba Numbers:**
+
+* 43: **tambaroy asàr ngámbi** (40 + 3)
+* 569: **nimbo fete yenówe tàxwo ngámbi asàr** (5 * 100 + 60 + 9)
+
+## Problem 2 (Beslenei Kabardian)
+
+**(a) Translations:**
+
+1. **ʒeq̇én**: to bite
+2. **medéf**: (he/she) is able to sew
+3. **medáfe**: (he/she) was able to sew
+4. **səfə́n**: to be able to burn
+5. **megʷəš’ə́ʔe**: (they) are speaking
+6. **mebə́b**: (he/she) is flying
+
+**(b) Translations:**
+
+1. **c̣ent𝑥ʷéfme**: if (they) were able to slide
+2. **šxáfexeq̇əm**: (they) aren’t able to eat
+3. **bəbə́ft**: (he/she) was able to fly
+4. **šxet**: (he/she) was eating
+5. **ṭəgʷərəgʷə́peme**: if (they) are really trembling
+
+**(c) Beslenei:**
+
+1. (they) are sewing: **medéfxe**
+2. (they) are pretending to fly: **mebəbə́fxe**
+3. (he/she) really was burning: **sésape**
+4. (he/she) isn’t able to eat: **šxáfq̇əm** 
+5. if (they) are speaking: **gʷəš’əʔéme**
+6. (they) are biting: **ʒeq̇éxe**
+
+
+## Problem 3 (Soundex)
+
+**(a) Soundex Code Generation:**
+
+1. **Retain the first letter** of the surname.
+2. **Remove the following letters**: 'h', 'w', and vowels ('a', 'e', 'i', 'o', 'u').
+3. **Assign numbers to remaining consonants** based on this table:
+    * 1: b, f, p, v
+    * 2: c, g, j, k, q, s, x, z
+    * 3: d, t
+    * 4: l
+    * 5: m, n
+    * 6: r
+4. **Replace consecutive duplicate numbers** with a single instance.
+5. **Remove any remaining vowels**.
+6. **Truncate or pad with zeros** to obtain a four-character code (one letter followed by three numbers).
+
+**(b) Matching & Restoring:**
+
+| Surnames            | Soundex Codes     |
+|---------------------|-------------------|
+| Allaway             | A410             |
+| Anderson            | A536              |
+| Ashcombe            | A261              |
+| Buckingham          | B252              |
+| Chapman             | C555              |
+| Colquhoun           | C425              |
+| Evans               | E152              |
+| Fairwright          | F623              |
+| Kingscott           | K523              |
+| Lewis               | L220              |
+| Littlejohns         | L325              |
+| Stanmore            | S356              |
+| Stubbs              | S312              |
+| Tocher              | T260              |
+| Tonks               | T522              |
+| Whytehead           | W333              |
+
+**(c) Soundex Codes:**
+
+* Ferguson: F622
+* Fitzgerald: F324
+* Hamnett: H530
+* Keefe: K100
+* Maxwell: M264
+* Razey: R200
+* Shaw: S000
+* Upfield: U143
+
+## Problem 4 (Wambaya)
+
+**(a) Translations:**
+
+18. The girls will strike you (sg.).
+19. He left you (sg.).
+20.  He has no stick. 
+21. You (sg.) danced with the girl.
+22. He struck me. 
+23. He ran (away) with the spear. 
+
+**(b) Wambaya:**
+
+24. Yagujba gininga.
+25. Ngunybulugi gu.
+26. Juwani gu bungmanya gijilulungunya. 
+27. Ngirra gu janjingunya. 
+28. Alanga ga nginya.
+
+## Problem 5 (Somali Poetry)
+
+**(a) Structure of Masafo:**
+
+A masafo half-line consists of:
+
+1. **Seven syllables.**
+2. **Two or three words**, never one or more than three.
+3. **The penultimate syllable** always bears the main stress of the line. 
+
+**(b) Genuine vs. Rearranged:**
+
+36. **war ismaaciil daarood** - **GENUINE**
+37. **dir miyaad wadaagtaan** - **REARRANGED** 
+38. **labadaad ka duudiye** - **GENUINE**
+39. **ka jannadaad daahiye** - **GENUINE**
+40. **adiga iyo deriskaa** - **REARRANGED** 
+41. **digaxaarka mariyoo** - **REARRANGED** 
+42. **ciid iyo doolo diraac** - **REARRANGED** 
+43. **nooma keeneen darka** - **GENUINE**
+44. **kala deyaayaa miyaan** - **REARRANGED**
+45. **wuxuun kaa danqaabaan** - **GENUINE** 

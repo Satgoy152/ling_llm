@@ -1,122 +1,58 @@
+Here are my solutions for the problems:
+
 Problem 1:
 
-(a) Translations:
+(a) Translations into English:
 1. nonifibe - you both are piercing me
 2. halu'ibe - you both will strike us
-3. lifilatagihe - because you(pl) will pierce me
-4. nokufune - we are piercing him
-5. nolahanagihe - because you(pl) are striking me
+3. lifilatagihe - because we are piercing you(pl)
+4. nokufune - you(sg) are piercing him
+5. nolahanagihe - because you(pl) will strike me
 
-(b) Translations to Benabena:
-1. nohobe'ibe - you both are striking him
-2. lenifilu'ibe - we both will pierce you(sg)
-3. nonahatagihe - because we both are striking you(sg)
-4. lahalube - I will strike you(pl)
+(b) Translations into Benabena:
+1. nolifi'ibe - you both are piercing us
+2. lenifilu'ibe - we both will pierce you(pl)
+3. nonahatagihe - because you(sg) are striking me
+4. lenahalube - I will strike you(pl)
 
 Problem 2:
 
 Filled in cells:
-
 | Singular        | Dual            | Plural            | Translation         |
 |-----------------|-----------------|-------------------|---------------------|
 | adↄ             | a               | a                 | tree                |
 | matʰↄnsjan      | matʰↄnsjan      | matʰↄnsjadↄ       | little girl         |
 | k'ↄ             | k'ↄ             | k'ↄgↄ             | knife               |
 | tʰot'olagↄ      | tʰot'ola        | tʰot'olagↄ        | orange              |
-| aufi            | aufigↄ          | aufi              | fish                |
+| aufi            | aufigↄ          | aufigↄ            | fish                |
 | pʰjaboadↄ       | pʰjaboa         | pʰjaboadↄ         | street lamp         |
-| matʰↄn          | matʰↄdↄ         | matʰↄn            | girl                |
+| matʰↄn          | matʰↄdↄ         | matʰↄdↄ           | girl                |
 | k'ↄnbohodↄ      | k'ↄnbohon       | k'ↄnbohodↄ        | hat                 |
-| t'ↄ             | t'ↄgↄ           | t'ↄ               | spoon               |
+| t'ↄ             | t'ↄgↄ           | t'ↄgↄ             | spoon               |
 | e               | egↄ             | alↄsↄhjegↄ        | plum                |
-| tsegudↄ         | tsegun          | tsegudↄ           | dog                 |
+| tsegu           | tsegun          | tsegudↄ           | dog                 |
 | alↄguk'ogↄ      | alↄguk'o        | alↄguk'ogↄ        | lemon               |
 | k'apʰtʰↄ        | k'apʰtʰↄ        | k'apʰtʰↄgↄ        | old man             |
 | kʰↄdↄ           | kʰↄ             | kʰↄdↄ             | blanket             |
 | k'ↄdↄ           | k'ↄ             | k'ↄdↄ             | tomato              |
-| alↄ             | alↄ             | alↄ               | apple               |
+| al              | alↄ             | alↄ               | apple               |
 | pʰↄ             | pʰↄ             | pʰↄ               | buffalo             |
-| sadↄ            | sadↄ            | sadↄ              | child               |
-| ↄlsun           | ↄlsungↄ         | ↄlsun             | comb                |
-| pitso           | pitso           | pitso             | fork                |
-| tʰↄpʰpaa        | tʰↄpʰpaa        | tʰↄpʰpaa          | chair               |
+| ?               | ?               | sadↄ              | child               |
+| ↄlsun           | ↄlsungↄ         | ↄlsungↄ           | comb                |
+| pitso           | pitso           | pitsogↄ           | fork                |
+| tʰↄpʰpaa        | tʰↄpʰpaa        | tʰↄpʰpaagↄ        | chair               |
 
 Problem 3:
 
-(a) Reconstructed family tree:
+(a) The family tree:
 
-                Ldiu²±e1
-             /         \
-        Nie²tse.1     Œan1nia1
-         /   \         /   \
-    Syn1mei1 Wa²nie1 Sei1na1 Sie1tsie1
-      |       |        |       |
-   Lhie²nyn² Ke.i1¹ey² Ngon²ngwe1 Mbe²phon1
-
-(b) The missing information in the last sentence is:
-
-Nie²tse.1 Sie1tsie1 'yn1 kâ.j1 ngu².
-
-Problem 4:
-
-(a)
-8. edèì ânò nwa. sese ozyi à?
-   Will this man frighten the thief?
-   amemùrè wei ga ò. nwa. sese ozyi.
-   The evil girl said that she[the evil girl] would not frighten the thief.
-
-9. amemùré le. lemu wúesè a.modhyòmù â. nò à?
-   Did the evil girl not kill this youth?
-   amemùré le. lemù wei ga òki wúesè a.modhyòmù â. nò.
-   The evil girl said that she[the evil girl] did not kill this youth.
-
-10. ozyi ânò wei ga a.mó gbunono edèì.
-   The thief said that he[the thief] would heal the old man.
-
-(b)
-11. okàá nu. amù âno ki.nonò a.modhyòmù ko�lomù à?
-    Okàá nu. amù âno wei ga ó. ki.nono a.modhyòmù ko�lomù.
-
-12. a. vùràmù le. lemù nwa. sese edèì à?
-    A. vùràmù le. lemù wei ga ó. nwa. sese edèì.
-
-(c) The base forms of "thief" and "girl" in Engenni would be:
-
-"ozyi" for "thief"
-"amemùré" for "girl"
-
-This is based on the fact that the terms are used in their bare form in various sentences, indicating they are the base/citation forms of the words.
-
-Problem 5:
-
-(a) Matched Gbaya words and English translations:
-
-Páá - eyes/face
-Páá náng nú kò - above, on
-Páá sèè - eyebrow 
-búmá ýık - eyelash
-búmá zù ýık - eye socket
-dáng gòk - field edge
-d́ı fò - foot
-d́ı sèè - tip of the tongue
-kò ýık - to envy
-kò zòk - good field
-náng ẃı - liver
-nú fò - nostril
-nú lébé - at the surface
-sèè ẃı - to be dying
-ýık - poisonous snake
-ýık ẃı - to put
-zù - happiness
-
-(b) Translations:
-búmá zù - eye socket
-kò - good field
-lébé gòk - at the surface
-lébé ẃı - to put
-
-(c) Translations to Gbaya:
-at the center - nú lébé
-head - Páá
-displeasure - kò zòk
-nose - nú fò
+   Ldiu²śe1 - Wa²nie1 - Sei1na1  
+   |          |        |
+   |          |        |
+Nie²tse.1   Œan1nia1  Sie1tsie1
+   |          |        |
+   |          |        |
+ Lhie²nyn² - Syn1mei1 - Ngon²ngwe1
+   |          |        |
+   |          |        |
+   |          |        |

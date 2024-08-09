@@ -1,0 +1,158 @@
+## Problem 1: Guazacapán Xinka
+
+**(a)**
+
+| Form 1       | Form 2        | Translation           |
+|--------------|---------------|-----------------------|
+| 15. netkay'  | **ɨnnetk'a**     | push                  |
+| 16. kɨrɨy'   | **ɨŋkɨr'ɨ**     | pull                  |
+| 17. p'uhruy' | **ɨmp'uhr'u**    | make holes            |
+| 18. her'oy   | **ɨnher'o**     | smooth out            |
+
+**Explanation:** 
+
+Form 2 verbs are consistently formed by adding an **ɨn** prefix (or **ɨm** before a labial consonant) and changing the final **y'** of Form 1 to **a**. 
+
+**(b)**
+
+| Form         | Translation              |
+|--------------|--------------------------|
+| 39. her'oŋ   | I smoothed it out        |
+| 40. ɨniʂpaʔ  | I am leaving             |
+| 41. aplaʔ    | it opened                |
+| 42. ʂur'uʔ   | it chose (it)            |
+| 43. piiriʔ   | I saw (it)               |
+| 44. ʂawʂanʔ  | I plant (it)             |
+| 45. k'aniʔ    | it was trapped           |
+| 46. p'ɨhnan'  | I leap                   |
+| 47. ahɨk'aʔ | it is being sewn, woven  |
+| 48. ipaliʔ   | I was bathed             |
+
+**Explanation:**
+
+* We can identify patterns in verb endings related to subject and tense/aspect. 
+* For example, **-ŋ** often indicates first person singular present tense ("I...").
+* **-ʔ** often appears in third person singular forms ("it...") and in past tense forms ("...was"). 
+* By comparing known forms, we can fill in the missing ones.
+
+
+## Problem 2: Apurinã
+
+**(a)**
+
+17. uwa xinhikaru sytu  - **The woman remembered my eye.**
+18. txipary nhinhikary - **I remembered your banana.**
+19. kyky aikute pysykary ywamukary - **The man brought his eye to me.**
+
+**(b)**  uwa umynary kanawa ximakymukary 
+
+This sentence is incorrect because the possessor of 'canoe' (kanawa) should be marked with a possessive prefix agreeing with the subject of the verb 'bring' (umynary). 
+
+**Corrected Sentence:** uwa umynary **ysy**kanawa ximakymukary
+**English Translation:** He brought the woman's canoe to the fish.
+
+**(c)**
+
+21. You_{sg} found the house.
+     * **Naikute paapukary.**
+     * **Paapukary naikute.** 
+
+22. I brought your_{sg} canoe to the girl.
+     * **Nuta mupukary pisykaru hãtakurumukary.** 
+
+23. He brought your_{sg} water to the me.
+     * **Uwa umynary pĩpurããte nutamukary.** 
+
+24. The man drank the girl’s blood.
+     * **Kyky ãtary hãtakuru sytumukary.** 
+
+25. I remembered the eye.
+     * **Nuta inhikary ywa.** 
+
+26. You_{sg} ate my banana.
+     * **Pita apĩtxi nhitxiparyte.**
+
+**Explanation:** 
+
+Apurinã uses a system of prefixes and suffixes to indicate grammatical relations. 
+* **Object prefixes** on verbs agree with the person and number of the object. 
+* **Possessive prefixes** on nouns agree with the possessor. 
+* Word order is somewhat flexible, allowing for variations in emphasis.
+
+
+## Problem 3: Coastal Marind
+
+**(a)**
+
+18. e-ɣuyanah - **Oh, you_{pl} shuddered!**
+19. ba-ihwin - **You_{pl} really cried.**
+20. nambum-kisaɣah - **Aw, I tickled you_{pl} in vain.** 
+21. bat-ɣadawn - **Aw, we left him behind.**
+22. ubamum-kolewn - **Oh, you_{sg} laughed at us in vain.** 
+
+**(b)** 
+
+23. He floated to the surface. - **a-tamab**
+24. Aw, you_{sg} returned. - **ubat-dahetok**
+25. Oh, I silenced him! - **nambam-huɣanab**
+26. He really chased us away. - **um-otab**
+27. You_{pl} really spat on us in vain. - **ebe-kesenawn**
+
+**Explanation:** 
+
+* Coastal Marind verbs are complex, with prefixes and suffixes indicating subject, object, and other grammatical information. 
+* **Reduplication** (repeating a part of the verb) often indicates emphasis or intensity ("really"). 
+* **-n/-wn** suffixes often indicate that the action was done "in vain". 
+* By analyzing the provided examples and paying attention to these patterns, we can translate the given sentences.
+
+
+## Problem 4: Plains Cree
+
+**(a)**
+
+22. ē-wāpamikoyēk - **as they see you_{sg}**
+23. ninakinikonān  - **I stop them**
+24. kikakwēcimāwāw - **you_{pl} ask me**
+25. kiwīcihitināwāw - **they help you_{sg}**
+
+**(b)**
+
+26. if we ask them - **kakwēcimāhkanān**
+27. they challenge you_{pl} - **kimawineskomikowāw**
+28. they help me - **niwīcihāwāk**
+29. you_{sg} see them - **kiwāpamāwān**
+30. I stop you_{pl} - **kinakininawāw** 
+
+**Explanation:** 
+
+Plains Cree verbs are highly inflected, with prefixes and suffixes marking subject, object, and other grammatical features.
+
+* **"Direct" vs. "Inverse" System:**  Plains Cree uses a direct/inverse system to mark the relative animacy of the subject and object.  The choice of verb form depends on whether the subject is more animate than the object (direct) or less animate than the object (inverse). 
+
+* **Prefixes and Suffixes:** By analyzing the patterns in the provided examples, we can deduce the functions of various prefixes and suffixes and apply them to translate the given sentences.
+
+
+## Problem 5: Supyire
+
+**(a)**
+
+* kampwɔhii shuunni na kɛ  - **1007**  (1000 (kampwɔhii) + 7 (shuunni) )
+* ŋkuu na baataanre - **120** (100 (ŋkuu) + 20 (baataanre))
+
+**(b)** 
+
+* 15 - **taanre na niŋkin** (10 (taanre) + 5 (niŋkin))
+* 109 - **ŋkuu na kaŋkuro** (100 (ŋkuu) + 9 (kaŋkuro))
+* 152 - **ŋkuu na taanre na niŋkin na baani** (100 (ŋkuu) + 10 (taanre) + 2 (baani))
+* 403 - **kampwoo shicyɛɛre na beeshuunni** (400 (kampwoo shicyɛɛre) + 3 (beeshuunni))
+* 1534 - **kampwɔhii sicyɛɛre na ŋkwuu taanre na beeshuunni na baashuunni** (1000 (kampwɔhii sicyɛɛre) + 500 (ŋkwuu taanre na beeshuunni) + 30 (beeshuunni na taanre) + 4 (baashuunni))
+
+**Explanation:** 
+
+Supyire has a base-5 numeral system with elements of a base-20 system. 
+
+* **Basic Numbers:** The system uses basic number words for 1-5, 10, 20, and 1000.
+* **Combining Numbers:** Larger numbers are formed by combining these basic units, often using "na" as a conjunction. 
+* **Multiplicative Construction:**  Notice the use of multiplication for some numbers (e.g., 400 is "kampwoo shicyɛɛre," literally "four hundreds").
+
+By understanding these patterns, we can express the given numbers in Supyire. 

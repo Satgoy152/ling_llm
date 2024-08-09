@@ -1,0 +1,114 @@
+## Problem 1: Dyirbal
+
+**(a)** The animal is the **lizard**. The linguist probably found it strange that the lizard in sentence 15 was described as "**tired**" (biNgun), which might have seemed an unusual characteristic for a lizard. However, if lizards are associated with "old women" in Dyirbal mythology, this description might make more sense, as old age is often associated with tiredness.
+
+**(b) Translations:**
+17. balan ñalNga baNgul NumaNgu guniymuNagu bambunman. 
+    - **The young boy is being made tired by the man that is always bending.** 
+18. bala diban bilmbalmuNa baNgun biñéiriñéu guniñu. 
+    - **The big stone is being searched for by the tired lizard.**
+19. bayi bargan baNgul yaóaNgu gubimbuluNunéanaymuNagu banéan. 
+    - **The quiet girl is following the doctor that is always being blamed.**
+
+**(c) Translations:**
+20. The little wallaby is looking at the dragonfly.
+    - **bala yila guniñu baNgul duNangu buóan.** (This sentence was already provided correctly)
+21. The aunt that is always being followed is bending the feather.
+    - **balan mugunanéa guliNgu NaéilmuNagu baNgul bargandu dimban.** 
+22. The sleeping possum is ignoring the loud noise.
+    - **bayi yaóa  munduNgu NaéilmuNagu baNgul muNgan.**
+23. The caterpillar is searching for the man that is always carrying stones.
+    - **bayi bayimbam  guniñu baNgul yaóaNgu dibanbilmbalNaymuNagu.** 
+
+## Problem 2: Umbu-Ungu
+
+**(a) Numerals:**
+- tokapu polangipu: **50**
+- tokapu talu rureponga telu: **48**
+- tokapu yepoko malapunga talu: **59**
+- tokapu yepoko polangipunga telu: **77**
+
+**(b) Umbu-Ungu:**
+- 13: **alapunga telu**
+- 66: **tokapu talu malapu telu**
+- 72: **tokapu talu alapunga yepoko**
+- 76: **tokapu talu polangipunga talu**
+- 95: **tokapu yepoko rureponga talu**
+
+## Problem 3: Basque
+
+**(a) Correspondences:** 
+(All correspondences are correct as provided)
+
+**(b) Translations:**
+- you(sg) touched me: **ukitu nauzu**
+- they approached me: **hurbildu zaizkit**
+
+**(c) Translations:**
+- lagundu dut: **I helped him**
+- hurbildu gatzaizkizu: **we approached you(pl)**
+
+**(d) Other possible translation:**
+- Sentence: "**I forgot them**"
+- Other possible translation: **ahaztu zaizkit**
+
+## Problem 4: Teop
+
+**(a) Translations:**
+13. Eam paa ani a overe. 
+    - **You (pl.) ate the coconut.**
+14. Ean paa tasu a oraoraa bona kae. 
+    - **You (sg.) struck the sorcerer with the bag.**
+15. Eove paa tara ameam. 
+    - **He saw you (pl.).**
+
+**(b) Translations:**
+16. We gave the food to you (sg.). 
+    - **Enam paa hee a taba’ani bona ean.**
+17. He called me a child. 
+    - **Eove paa dao anaa bona beiko.**
+18. I killed him with it (lit. with him). 
+    - **Enaa paa asun bona bona.**
+19. The sorcerer gave the fish to the boy. 
+    - **A oraoraa paa hee a iana bona visoasi.**
+
+**(c) Translations:**
+24. (Why was the sorcerer offended?) They called the sorcerer a woman.
+    - **Eori paa dao a oraoraa bona moon.**
+25. (Why is this axe wet?) The boy killed the fish with the axe.
+    - **A visoasi paa asun bona iana bona toraara.** 
+
+## Problem 5: Rotuman
+
+**(a) Correspondences:**
+
+| Rotuman | English         |
+|---------|-----------------|
+| ‘u‘u    | **arm/hand**        |
+| isu     | **eye**             |
+| kia     | **neck**            |
+| leva    | **heart**           |
+| mafa    | **hair**            |
+| susu    | **breast**          |
+| huga    | **stomach**      |
+
+**(b) Translations:**
+- tiro: **to cut** 
+- poga (noun): **hole**
+- huag lala: **patient** (opposite of huag ‘el‘ele)
+- ha. f puhra. ki: **to boil (of rocks/stones)**
+- maf pogi = maf pala: **to pierce the night (to stay up late)**
+
+**(c) Translations:**
+- round: **poag**
+- to cut copra: **niu ‘olo**
+- curly hair: **mafa piri**
+- sticky: **pulu**
+- to flash: **riamrima**
+- rubbish: **moafmofa**
+
+**(d) Possible translations:**
+- ‘word’: **huag ‘ele** (literally "near thought/meaning")
+- ‘to exhaust’: **ha. fha. huag** (literally "to be rocky in the stomach" - potentially metaphorical) 
+
+**Note:** These translations are speculative and based on the provided vocabulary. Further investigation and linguistic analysis would be needed to confirm their accuracy. 

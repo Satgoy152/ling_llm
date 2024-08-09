@@ -1,0 +1,222 @@
+## Problem 1: Ubykh
+
+**(a)**
+
+The other possible translation of "aŝʷəstʷan" is: **I give him to you (pl).**
+
+Ubykh, like many polysynthetic languages, can encode multiple arguments within a single verb complex. This often leads to ambiguity in the directionality of transfer when translating to languages like English, which rely on word order.
+
+**(b)**
+
+10. ašʼəntʷən — **he gives us to you (sg)**
+11. səŝʷtʷan — **you (sg) give me to him**
+12. šʼəwənatʷan — **they give us to you (sg)**
+
+**(c)**
+
+13. they give you (pl) to me — **wəsəŝʷənatʷan**
+14. you (pl) give him to me — **šʼəsawəntʷan**
+15. you (sg) give us to him — **šʼastʷən**
+16. we give you (sg) to them — **awəsənatʷən**
+17. he gives them to us — **šʼašʼənatʷan**
+
+**Explanation:**
+
+Ubykh verb morphology is complex. By analyzing the provided examples, we can break down the components:
+
+* **Subject:**  a- (I), sə- (you-sg), šʼ- (he), wə- (we), šʷ- (you-pl)
+* **Indirect Object:** -ə- (us), -aw- (you-sg), -a- (him), -ə- (them) 
+* **Direct Object:** -s- (me), -tʷ- (you-sg), -šʼ- (him), -n- (us), -šʷ- (you-pl)
+* **Verb Stem:** -tʷan (give)
+
+By understanding the position and function of these prefixes and suffixes, we can decipher and construct Ubykh verb forms.
+
+
+## Problem 2: Alabama
+
+**(a)**
+
+| Alabama      | English                               | Letter |
+|--------------|----------------------------------------|--------|
+| achánnàaka  | he peels the bark off                | X       |
+| achanni     | he peels a strip off                  | Y       |
+| ahamatli    | it is scattered, they are scattered | M       |
+| ahámmatka   | he scatters it, he scatters them     | R       |
+| apòotka     | it has a hole                         | W       |
+| apotòoli    | it has holes, they have holes         | J       |
+| apóttòoka   | he makes a hole                       | P       |
+| atanayli    | it leans against something           | G       |
+| atánnayka   | he leans them against something       | N       |
+| atanni      | he leans it against something        | 33.      |
+| bàalka      | he puts it next to something         | D       |
+| balàali     | it is next to something              | I       |
+| balli       | they are next to something            | S       |
+| incháffàaka | he tears it in several places        | 30.      |
+
+| Alabama      | English                               | Letter |
+|--------------|----------------------------------------|--------|
+| kawaɬɬi     | it is wrapped                         | K       |
+| ɬìilka     | he lays them down                     | B       |
+| ɬìipka     | he lays it down                      | V       |
+| ɬilaffi     | it is torn in two                     | 31.      |
+| ɬipli       | he breaks it in two                   | A       |
+| ɬíppìika    | he tears it in two                    | T       |
+| ɬobaffi     | it is turned upside down              | Q       |
+| ɬómbafka    | he turns it upside down               | 32.      |
+| ɬombi       | he turns them upside down             | E       |
+| ɬòomka     | it is turned upside down              | 29.      |
+| sibapli     | he has one                            | U       |
+| simbi       | they lie, are lying down              | L       |
+
+**(b)**
+
+27. bállàaka — **he puts them next to something**
+28. inchafàali — **they are torn in several places** 
+29. kawwi — **he wraps them** OR **it is wrapped** 
+
+**(c)**
+
+30. he tears it in several places — **incháffàaka**
+31. it is torn in two — **ɬilaffi**
+32. he turns it upside down — **ɬómbafka**
+33. he leans it against something — **atanni**
+
+**(d)**
+
+The word **ɬómbafka** (he turns it upside down) can also be translated as:
+
+* **He turns it over.**
+* **He flips it over.**
+
+This highlights the challenge of finding exact one-to-one correspondences between languages, as a single word can often encompass a range of related meanings.
+
+
+## Problem 3: Nǀuuki
+
+**(a)**
+
+17. na kacuuʔi ŋ ɡǀu xae ŋ ǃuu ǃʔai - **I ask if it is us whom you (pl) call.**
+18. na ǁu si sĩisen ŋ ɡǃari - **I will not work in Upington.**
+19. ǀeeki ke ǃaukea ŋ ŋǀŋ ǂhun - **The woman is afraid of my dog.**
+20. ŋ kee si ǃʔai a - **Is it you (sg) whom he will call?**
+21. cuu xae u ŋǀii - **Whom do you (pl) see?**
+22. cuu xae ts’aaʔa ŋ - **Who likes you (sg)?**
+
+**(b)**
+
+23. Our mother will not call your (sg) brother. - **na ɡǀi aŋki si ǃʔai ŋ ǁu ǁãu**
+24. It is you (sg) whom my dog is afraid of. - **ɡǀa xae ŋǀŋ ǂhun ǃaukea ŋ**
+25. Where will you (pl) sing? - **kiɟa xae u si ǂqheeke**
+26. I ask if it is our grandfather whom you (sg) think about. - **ŋǀŋ kacuuʔi ŋ ɡǀi xae ŋ ǃuu ǂʔii ŋǁa**
+27. Who will dance tomorrow? - **cuu xae si ǀqhõʕo ŋ ǃhaeke**
+28. Do you (pl) see us? - **u ŋǀii ɡǀu**
+
+**Explanation:**
+
+Nǀuuki grammar relies heavily on word order and particles to convey grammatical relationships.
+
+* **Word Order:** Subject-Verb-Object (SVO) is the basic word order.
+* **Question Words:**  cuu (who), kiɟa (where), kama (when)
+* **Particles:** xae (focus marker), ke (subject marker for nouns), a (question marker), si (future tense marker)
+
+By carefully analyzing the provided sentences and identifying the function of these elements, we can translate between English and Nǀuuki.
+
+
+## Problem 4: Arabana
+
+**(a)**
+
+| Family Member | Position |
+|---------------|---------|
+| A             | 8        |
+| B             | 6        |
+| C             | 4        |
+| D             | 7        |
+| E             | 2        |
+| F             | 1        |
+| G             | 5        |
+| H             | 11       |
+| I             | 10       |
+| J             | 9        |
+| K             | 13       |
+| L             | 15       |
+| M             | 14       |
+| N             | 16       |
+| O             | 12       |
+| P             | 18       |
+| R             | 20       |
+| S             | 24       |
+| T             | 22       |
+| U             | 23       |
+| V             | 19       |
+| W             | 21       |
+| X             | 17       |
+
+**(b)**
+
+* (i)  **nhupa**
+* (ii) **piyaka**
+* (iii) **kadnhini**
+* (iv) **kadnhini**
+* (v)  **thanti**
+* (vi) **wardu**
+* (vii) **kaku**
+* (viii) **amanyi**
+* (ix)  **amanyi**
+
+**Explanation:**
+
+This problem requires careful analysis of the kinship terms and their usage within the family tree context. By tracing relationships and comparing utterances, we can determine who is speaking to whom and fill in the missing kinship terms.
+
+Here's a breakdown of the Arabana kinship terms used:
+
+* **anthunha:**  This is a possessive marker indicating "my."
+* **wardu:**  son/daughter
+* **nhupa:** father
+* **nhuthi:** mother
+* **apityi:** older brother/sister
+* **lhuka:** younger brother/sister
+* **piyaka:** spouse (husband/wife)
+* **kupaka:** wife's brother / husband's sister
+* **kaku:** father's father / son's son
+* **kadnhini:** mother's father / daughter's child 
+* **amanyi:** mother's brother
+* **thanti:** child's spouse's parent
+
+
+## Problem 5: Proto-Chamic
+
+**(a)**
+
+If the Proto-Chamic word *bala had survived in Tsat, it would have become **phia¹¹**. 
+
+This is because Proto-Chamic *b consistently becomes **ph** in Tsat, and the vowel *a typically corresponds to **ia¹¹** in this position. 
+
+**(b)**
+
+| Proto-Chamic | Phan Rang Cham | Tsat     | Meaning          |
+|--------------|----------------|----------|------------------|
+| *kulit       | kaliʔ          | **kiʔ⁴²**   | skin             |
+| *hitam       | hatam          | **taːnʔ⁴²**  | black            |
+| *bubah       | papàh          | **pha⁵⁵**   | mouth            |
+| *ʔikat       | **ikat**        | **kaːʔ²⁴**  | to tie           |
+| *dəpa        | **tapɨ**       | **ka⁴²**    | fathom           |
+| *matay       | **matay**      | **taːi³³**  | to die           |
+| *dalam       | **taləm**      | **laːnʔ⁴²** | inside           |
+| *labuh       | **lapòh**      | **pha⁵⁵**   | to fall down     |
+| *bulaːn      | **pulàn**      | **phiaːn¹¹** | moon             |
+| SHADED       | pala           | **pɛ²⁴**   | to plant         |
+| SHADED       | tapùh          | **tu⁵⁵**    | to ransom        |
+| SHADED       | tatà           | **tha³³**   | chest            |
+
+**Explanation:**
+
+This problem involves applying sound change rules to reconstruct historical relationships between languages. By comparing the cognates (words with a common origin) in Phan Rang Cham and Tsat, we can deduce the regular sound correspondences between these languages and Proto-Chamic. 
+
+For example:
+
+* Proto-Chamic *k often corresponds to Phan Rang Cham k and Tsat **ʔ** before a vowel.
+* Proto-Chamic *l often corresponds to Phan Rang Cham l and Tsat **n** before a vowel.
+* Proto-Chamic *d often corresponds to Phan Rang Cham t and Tsat **∅** (deletion) before a vowel.
+
+By systematically applying these and other sound changes, we can fill in the missing forms. 

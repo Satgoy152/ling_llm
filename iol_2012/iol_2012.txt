@@ -1,0 +1,294 @@
+Prompt: As an expert in computational linguistics solve the following problem:
+
+### Problem 1 (20 points)
+Here are some sentences in the central dialect of Dyirbal as well as their English translations:
+
+| Dyirbal                                      | English                                      |
+|----------------------------------------------|----------------------------------------------|
+| 1. bayi yaóa NunéaymuNa baNgu gurugugu biNgunman. | Booze is making the man that is always being blamed tired. |
+| 2. balan yabu bimabanéalNaymuNa baNgul yaóaNgu guliNgu Nunéañu. | The strong man is blaming the mother that is always following death adders. |
+| 3. balan waymin bambun baNgu éugaNgu éamiman. | Sugar is making the healthy mother-in-law fat. |
+| 4. bala yila wura baNgul bargandu biNgundu guniñu. | The tired wallaby is searching for the little feather. |
+| 5. balan malayigara baNgu garandu biNgunman. | The smoke is making the scorpion tired. |
+| 6. bala gurugu baNgul NumaNgu munduNgu dimbañu. | The offended father is carrying the booze. |
+| 7. bayi midin baNgun bimaNgu malayigaraguninaymuNagu banéan. | The death adder that is always searching for scorpions is following the possum. |
+| 8. bayi gubimbulu biNgun baNgu gurugugu éagunman. | Booze is making the tired doctor fall asleep. |
+| 9. bala garan baNgul biñéiriñéu banéan. | The lizard is following the smoke. |
+| 10. balan duNan baNgul yiriñéilagu guniñu. | The dragonfly is searching for the stinging tree. |
+| 11. bala éuga baNgun yabuNgu NaéilmuNagu dimbañu. | The mother that is always being ignored is carrying the sugar. |
+| 12. bala diban éagiñ baNgul gubimbulugu éamiNgu bilmban. | The fat doctor is pushing the big stone. |
+| 13. bala garan baNgun waymindu dibanbilmbalNaymuNagu buóan. | The mother-in-law that is always pushing stones is looking at the smoke. |
+| 14. balan baNgay waóu baNgun bundiñéu éagiñéu guniñu. | The big grasshopper is searching for the bent spear. |
+| 15. bayi biñéiriñ biNgun baNgul ñalNgaNgu mugurugu buóan. | The quiet boy is looking at the tired lizard. |
+| 16. bayi Numa guli baNgul yaóaNgu banéalmuNagu munduman. | The man that is always being followed is offending the strong father. |
+
+(a) A linguist thought there was an error in one of the Dyirbal sentences above. In fact there is no error. The explanation for what seemed strange to him is that one of the animal species is regarded as “old women” in one of the myths of the Dyirbal people. Which animal is it? What did the linguist consider to be an error?
+
+(b) Translate into English:
+17. balan ñalNga baNgul NumaNgu guniymuNagu bambunman.  
+- (The young boy is being made tired by the man that is always bending.)
+
+18. bala diban bilmbalmuNa baNgun biñéiriñéu guniñu.  
+- (The big stone is being searched for by the tired lizard.)
+
+19. bayi bargan baNgul yaóaNgu gubimbuluNunéanaymuNagu banéan.  
+- (The quiet girl is following the doctor that is always being blamed.)
+
+(c) Here are three more Dyirbal words:
+- bayimbam — grub, caterpillar
+- mugunanéa — aunt (mother’s elder sister)
+- muNga — loud noise
+
+Translate into Dyirbal:
+20. The little wallaby is looking at the dragonfly.  
+- bala yila guniñu baNgul duNangu buóan.
+
+21. The aunt that is always being followed is bending the feather.  
+- balan mugunanéa guliNgu NaéilmuNagu dimban.
+
+22. The sleeping possum is ignoring the loud noise.  
+- bayi yaóa munduNgu NaéilmuNagu muNgan.
+
+23. The caterpillar is searching for the man that is always carrying stones.  
+- bayi bayimbam guniñu baNgul yaóaNgu dibanbilmbalNaymuNagu.
+
+△! The Dyirbal language belongs to the Pama–Nyungan family; it is a dying Australian Aboriginal language spoken in northeast Queensland.
+N = ng in hang.
+ñ ≈ ni in onion; é is a stop (as d) articulated in the same place in the mouth as ñ.
+A death adder is an Australian venomous snake. A wallaby is a small animal, related to
+kangaroo. A possum is an Australian arboreal marsupial. Stinging trees are a genus of shrubs and trees with stinging hairs, some of which are dangerous to humans. —Artu ̄rs Semen ̧uks
+
+---
+
+### Problem 2 (20 points)
+Here are some words and their numerical values in Umbu-Ungu:
+
+| Umbu-Ungu                          | Value |
+|------------------------------------|-------|
+| 10 rureponga talu                  | 10    |
+| 15 malapunga yepoko                | 15    |
+| 20 supu                            | 20    |
+| 21 tokapunga telu                  | 21    |
+| 27 alapunga yepoko                 | 27    |
+| 30 polangipunga talu               | 30    |
+| 35 tokapu rureponga yepoko         | 35    |
+| 40 tokapu malapu                   | 40    |
+| 48 tokapu talu                     | 48    |
+| 50 tokapu alapunga talu            | 50    |
+| 69 tokapu talu tokapunga telu      | 69    |
+| 79 tokapu talu polangipunga yepoko | 79    |
+| 97 tokapu yepoko alapunga telu     | 97    |
+
+(a) Write in numerals:
+- tokapu polangipu: 50
+- tokapu talu rureponga telu: 48
+- tokapu yepoko malapunga talu: 59
+- tokapu yepoko polangipunga telu: 77
+
+(b) Write out in Umbu-Ungu:
+- 13: alapunga telu
+- 66: tokapu talu malapu telu
+- 72: tokapu talu alapunga yepoko
+- 76: tokapu talu polangipunga talu
+- 95: tokapu yepoko rureponga talu
+
+△! The Umbu-Ungu language belongs to the Trans–New Guinea family. It is spoken by
+approx. 34 200 people in Papua New Guinea. —Ksenia Gilyarova
+
+---
+
+### Problem 3 (20 points)
+Here are some sentences in Basque and their English translations:
+
+| Basque                  | English                                      |
+|-------------------------|----------------------------------------------|
+| ahaztu ditut            | I forgot them                                |
+| ahaztu zaizkit          | I forgot them                                |
+| ahaztu zaizu            | you(sg) forgot him                           |
+| hurbildu natzaizue      | I approached you(pl)                         |
+| hurbildu zait           | he approached me                             |
+| lagundu ditugu          | we helped them                               |
+| lagundu dituzu          | you(sg) helped them                          |
+| lagundu dute            | they helped him                              |
+| lagundu nauzue          | you(pl) helped me                            |
+| mintzatu natzaizu       | I talked to you(sg)                          |
+| mintzatu gatzaizkizue   | we talked to you(pl)                         |
+| mintzatu zaizkigu       | they talked to us                            |
+| ukitu ditugu            | we touched them                              |
+| ukitu naute             | they touched me                              |
+
+(a) Determine the correct correspondences:
+- ahaztu ditut: I forgot them
+- ahaztu zaizkit: I forgot them
+- ahaztu zaizu: you(sg) forgot him
+- hurbildu natzaizue: I approached you(pl)
+- hurbildu zait: he approached me
+- lagundu ditugu: we helped them
+- lagundu dituzu: you(sg) helped them
+- lagundu dute: they helped him
+- lagundu nauzue: you(pl) helped me
+- mintzatu natzaizu: I talked to you(sg)
+- mintzatu gatzaizkizue: we talked to you(pl)
+- mintzatu zaizkigu: they talked to us
+- ukitu ditugu: we touched them
+- ukitu naute: they touched me
+
+(b) Translate into Basque:
+- you(sg) touched me: ukitu nauzu
+- they approached me: hurbildu zaizkit
+
+(c) Translate into English:
+- lagundu dut: I helped him
+- hurbildu gatzaizkizu: we approached you(pl)
+
+(d) One of the English sentences can be translated into Basque in one more way. Identify this sentence and give the other possible translation.
+- The sentence is "I forgot them". Another possible translation: ahaztu zaizkit.
+
+
+---
+
+### Problem 4 (20 points)
+Here are some sentences in Teop and their English translations:
+
+| Teop                                  | English                                |
+|---------------------------------------|----------------------------------------|
+| Ean paa tasu anaa.                    | You (sg.) struck me.                   |
+| Eove paa ani bona iana.               | He ate the fish.                       |
+| Enam paa tasu a beiko.                | We struck the child.                   |
+| A otei paa tara bona kae.             | The man saw the bag.                   |
+| A visoasi paa asun bona.              | The boy killed him.                    |
+| Enaa paa tara a taba’ani.             | I saw the food.                        |
+| Eam paa baitono e.                    | You (pl.) heard him.                   |
+| Enaa paa hee a otei bona overe.       | I gave the coconut to the man.         |
+| A moon paa hee ameam bona taba’ani.   | The woman gave the food to you (pl.).  |
+| Enaa paa tasu vuan a vasu.            | I struck you (sg.) with the stone.     |
+| Eori paa asun bona moon bona toraara. | They killed the woman with the axe.    |
+| Enam paa dao a visoasi bona oraoraa.  | We called the boy a sorcerer.          |
+
+(a) Translate into English:
+13. Eam paa ani a overe.  
+- (You (pl.) ate the coconut.)
+
+14. Ean paa tasu a oraoraa bona kae.  
+- (You (sg.) struck the sorcerer with the bag.)
+
+15. Eove paa tara ameam.  
+- (He saw you (pl.).)
+
+(b) Translate into Teop:
+16. We gave the food to you (sg.).  
+- Enam paa hee a taba’ani bona ean.
+
+17. He called me a child.  
+- Eove paa dao anaa bona beiko.
+
+18. I killed him with it (lit. with him).  
+- Enaa paa asun bona bona.
+
+19. The sorcerer gave the fish to the boy.  
+- A oraoraa paa hee a iana bona visoasi.
+
+Later the linguist recorded spontaneous speech in Teop and added some information into the grammar. Here are some extracts from the dialogues in Teop as well as their English translations. The context in which the sentences were uttered is given in brackets.
+
+20. (What happened to the woman then?)
+- A moon paa tara bona oraoraa. (The woman saw the sorcerer.)
+
+21. (Why wasn’t there any food left?)
+- A taba’ani paa ani nam. (We ate the food.)
+
+22. (Why did the boy cry so bitterly?)
+- A visoasi paa tasu a otei bona overe. (The man struck the boy with the coconut.)
+
+23. (Where is the bag?)
+- A kae paa hee naa a beiko. (I gave the bag to the child.)
+
+(c) Translate the sentences outside the brackets into Teop:
+24. (Why was the sorcerer offended?) They called the sorcerer a woman.
+- Eori paa dao a oraoraa bona moon.
+
+25. (Why is this axe wet?) The boy killed the fish with the axe.
+- A visoasi paa asun bona iana bona toraara.
+
+△! The Teop language belongs to the Austronesian family. It is spoken by approx. 5000
+
+---
+
+### Problem 5 (20 points)
+Here are some words and word combinations in Rotuman as well as their English translations:
+
+| Rotuman                | English                         |
+|------------------------|---------------------------------|
+| ‘el‘ele                | shallow                         |
+| ‘ele                   | to be near                      |
+| ‘olo                   | to cut                          |
+| a‘öf                   | fau year’s end                  |
+| fäeag ‘u‘u             | to use sign language            |
+| fau                    | year                            |
+| ha. fha. fu            | rocky                           |
+| huag ‘el‘ele           | impatient                       |
+| huag to‘a              | courageous                      |
+| hül ha. fu             | to blow (of a hurricane)        |
+| hün kia                | base of the neck                |
+| huli                   | to turn over                    |
+| huni                   | lower end                       |
+| is ‘ā                 | sharp-pointed                   |
+| is susu                | nipple                          |
+| lala                   | deep                            |
+| maf tiro               | spectacles                      |
+| mamasa                 | solid                           |
+| ma. titi               | coldness                        |
+| ma. tit mamasa         | ice                             |
+| moafmofa               | littered with rubbish           |
+| niu                    | copra                           |
+| nu‘suar tiro           | window                          |
+| nu‘sura                | door                            |
+| pala                   | pierce                          |
+| piri                   | to curl                         |
+| poagpoga = palpala     | covered with holes              |
+| pogi                   | night                           |
+| puhra. ki              | to boil, to bubble up           |
+| pulu                   | glue                            |
+| ka. lu                 | bracelet; to encircle           |
+| riamrima               | shiny                           |
+| rū huga               | stomach-ache                    |
+| to‘a                   | hero                            |
+
+(a) Here are the Rotuman names of seven body parts as well as their English translations in arbitrary order. Determine the correct correspondences:
+
+| Rotuman | English         |
+|---------|-----------------|
+| ‘u‘u    | arm/hand        |
+| isu     | eye             |
+| kia     | neck            |
+| leva    | heart           |
+| mafa    | hair            |
+| susu    | breast          |
+| huga    | nose            |
+
+(b) Translate into English:
+- tiro: to cut
+- poga (noun): hole
+- huag lala: courageous
+- ha. f puhra. ki: to boil
+- maf pogi = maf pala: to pierce the night
+
+(c) Translate into Rotuman:
+- round: poag
+- to cut copra: niu ‘olo
+- curly hair: mafa piri
+- sticky: pulu
+- to flash: riamrima
+- rubbish: moafmofa
+
+(d) Using the material given above you cannot translate ‘word’ and ‘to exhaust’ into Rotuman with certainty. What would the theoretically possible translations of these words into Rotuman be?
+- ‘word’: *huag ‘ele*
+- ‘to exhaust’: *ha. fha. huag*
+
+△!
+eu or German ö; ü = French u or German ü. The mark “ ̄” denotes vowel length.
+Rotuman belongs to the Austronesian family. It is spoken by approx. 9000 people in Fiji. ‘ is a consonant (the so-called glottal stop); a. is an open o; ä ≈ a in crack; ö = French
+Copra is the dried kernel of a coconut. —Boris Iomdin, Alexander Piperski
+
+---
+
+Good luck!

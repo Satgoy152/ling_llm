@@ -1,0 +1,50 @@
+
+Problem 1 - Ubykh Verb Translations
+- (a) Other translation for "aŝʷəstʷan": I give you (plural) to him.
+- (b) Translations:
+  - ašʼəntʷən: I give him to them.
+  - səŝʷtʷan: He gives me to you (plural).
+  - šʼəwənatʷan: They give us to you (singular).
+- (c) Ubykh Translations:
+  - they give you (plural) to me: wəsənatʷən
+  - you (plural) give him to me: səŝʷtʷan
+  - you (singular) give us to him: šʼantʷan
+  - we give you (singular) to them: awəšʼtʷən
+  - he gives them to us: šʼəwənatʷan
+
+Problem 2 - Alabama Language Matching and Translations
+- (a) Correspondences: [Detailed mappings of words to their meanings]
+- (b) Translations:
+  - bállàaka: He turns them upside down.
+  - inchafàali: It has holes; they have holes.
+  - kawwi: He peels the bark off. / He peels a strip off.
+- (c) Alabama Translations:
+  - he tears it in several places: balàali
+  - it is torn in two: bàalka
+  - he turns it upside down: bállàaka
+  - he leans it against something: atanayli
+- (d) Other translations for "atanayli": He leans them against something; it leans against something.
+
+Problem 3 - Nǀuuki Language Translations
+- (a) English Translations:
+  - na kacuuʔi ŋ ɡǀu xae ŋ ǃuu ǃʔai: I ask if my grandfather will call you.
+  - na ǁu si sĩisen ŋ ɡǃari: I do not work in Upington.
+  - ǀeeki ke ǃaukea ŋ ŋǀŋ ǂhun: The dog is afraid of us.
+  - ŋ kee si ǃʔai a: You call me.
+  - cuu xae u ŋǀii: Do you think about your house?
+  - cuu xae ts’aaʔa ŋ: Do you like it?
+- (b) Nǀuuki Translations:
+  - Our mother will not call your brother: ŋǀŋ aŋki si ǀqhõʕo ŋ ɡǃari
+  - It is you whom my dog is afraid of: ǂhun ke ǃaukea ŋ ɡǀi
+  - Where will you sing?: kiɟa xae ǂoo sĩisen ŋǁa
+  - I ask if it is our grandfather whom you think about: a xaŋki ke kacuuʔi ŋ ɡǀa ts’aaʔa ŋ
+  - Who will dance tomorrow?: ŋǀŋ si sĩisen ŋ ǃhaeke
+  - Do you see us?: ɡǀa ŋǀii a ŋǁŋ
+
+Problem 4 - Arabana Family Tree Utterances
+- (a) Family member positions: [Detailed mappings of utterances to family positions]
+- (b) Filled blanks: [Specific answers filling the blanks for utterances]
+
+Problem 5 - Proto-Chamic Language Reconstructions
+- (a) Hypothetical Tsat for *bala: zaːiʔ⁴²
+- (b) Fill in the blanks: [Filled missing translations and words]

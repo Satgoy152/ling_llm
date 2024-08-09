@@ -1,0 +1,106 @@
+Here is the solution to the computational linguistics problems:
+
+Problem 1:
+
+(a) 
+- mugaóumu (from a fishing net): no long vowels
+- waNalgu (for a boomerang): no long vowels
+
+(b)  
+- baman (man): no long vowels. Translation: person
+- buñabi (another woman): no long vowels. Translation: another woman
+- maéu:rmuéay (with another frog): u: is long. Translation: with another frog 
+- muéamni (of a mother): no long vowels. Translation: of a mother
+
+(c) Translations into Yidiny:
+- of a stranger: muyubarani
+- for a fishing net: mugaóumu:gu 
+- father: bimbi
+- from a frog: maéu:m
+- without a man: wagu:gimbal
+- of a pigeon: éudu:luni
+- tortoise: baéigal
+- without a boomerang: waNalgimbal
+
+Problem 2:
+
+(a) Correspondences:
+- -nime = wooden
+- joqo- = horse/box
+- saan- = deer feed
+- -cohoje = nose
+- johu- = bird
+- ile- = gunshot/Yakut knife 
+- -doŋoj = thunder
+- -møŋer = muzzle/case
+- aarii- = nose/rifle/herd
+- uo- = Yakut 
+- -dawur = knife/bird
+- -l = bag/nest
+
+(b) Translations into English:
+- aarii: nose 
+- aariidoŋoj: tip of nose
+- ciremedawur: wooden deer feed
+- ile: gunshot
+- johudewce: tip of bird
+- legul: Yakut knife
+- saal: deer feed
+- saannime: wooden deer feed
+- uo: Yakut person
+
+(c) Translations into Yukaghir:
+- iron bird: cuojohudawur
+- snoring: saancohojeewce  
+- tip of knife's blade: ilenlewce
+- sack for provisions: aariijohuljohul
+
+Problem 3:
+
+(a) Pronunciations:
+- xaaibi: [1Pa.ai.bi] 
+- xaapisi: [1Paa.pi.si]
+- xitiixisi: [1Pi.tii.Pi.si]
+
+(b) Translations into English: 
+- bigi: ground
+- kagahoaogii: papaya
+- kaibai: monkey
+- kapiigaiitoii: pencil 
+- poogaihiai toio: old banana
+- xabagi kapioxio: another toucan
+- xabagi xogiai: big toucan
+
+Problem 4:
+
+(a) Translations into English:
+12. andoandoke nogholi lagahiku. 
+- The Monkey buys my ants.
+
+13. a dhinihi dasumuli we murindo robhinehi.
+- The demons will return to the women's pupil.
+
+(b) Translations into Muna:
+14. The Ant will climb the pupil's stone.  
+- a lagahi dofoni kontuhi murino.
+
+15. The ants are going to the Demon.
+- lagahino dakumala we adhiadhini.  
+
+16. My women's monkeys will cut my bananas.
+- murindo robhineku dakoalea kaleiku.
+
+17. The monkey's mountains are far.
+- molono andoandoke dokodoho.
+
+Problem 5:
+
+The correspondences are:
+1 - lettuce
+2 - corn / cup 
+3 - igloo
+4 - bed
+5 - butterfly
+6 - cat / cow / spoon
+
+The activity patterns match exactly for corn/cup, and for cat/cow/spoon. More data would be needed to distinguish between those.

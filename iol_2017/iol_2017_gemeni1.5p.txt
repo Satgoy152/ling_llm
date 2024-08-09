@@ -1,0 +1,104 @@
+## Problem 1: Birom Numerals
+
+Unfortunately, without more information about Birom numerals and their system, it's impossible to provide a precise numerical translation. The problem assumes we already know the Birom numerical system, which isn't provided. 
+
+To solve this, we would need information like:
+
+* **Number Base:** Does Birom use a base-10 system like English, or a different base?
+* **Number Words:** What are the Birom words for "one," "two," "three," and so on? 
+* **Operations:** How are addition, multiplication, and exponentiation represented in Birom?
+
+**Example:**  If we knew that "tùŋūn" means "one," "tàt" means "two," and "nààs" means "three," we could start translating the equations. However, without that knowledge, any attempt at a solution would be pure speculation.
+
+
+## Problem 2: Abui Word Correspondences
+
+**(a) Matching Abui words with English translations:**
+
+| Abui                    | Translation                           |
+|-------------------------|---------------------------------------|
+| 1. abang                | **j. trigger**                         |
+| 2. atáng heya           | **i. your (sg.) horse’s neck**          |
+| 3. bataa hawata         | **f. your (pl.) mother’s hand**         |
+| 4. dekafi               | **m. his knife**                        |
+| 5. ebataa hatáng        | **b. your (sg.) branch**              |
+| 6. ekuda hawata         | **g. our pigs’ ears (the ear of the pig of each of us)** |
+| 7. falepak hawei        | **h. father’s pistol**                  |
+| 8. hatáng hamin         | **a. his fingertip**                    |
+| 9. helui                | **n. seashore**                       |
+| 10. maama hefalepak     | **o. upper part of a tree**           |
+| 11. napong              | **p. your (sg.) thumb**                 |
+| 12. rièng               | **d. one’s own rope**                   |
+| 13. ritama              | **c. my face**                          |
+| 14. riya hatáng         | **e. your (sg.) shoulder**            |
+| 15. tama habang         | **l. our noses (the nose of each of us)** |
+| 16. tamin               | **q. your (pl.) sea**                  |
+| 17. tefe hawei          | **k. your (pl.) eyes**                  |
+
+**(b) Translating Abui to English:**
+
+1. **amin:**  We cannot translate this word, as the provided vocabulary and examples don't offer enough information. We need more context or related examples.
+
+2. **deya hebataa:**  "your (sg.) mother's hand" (using the pattern from "bataa hawata").
+
+**(c) Translating English to Abui:**
+
+1. **pig:**  We need more information to form this word. Abui likely has a separate word for "pig," but it's not deducible from the given data.
+
+2. **your (pl.) knife:** deya hedekafi  (following the possessive pattern)
+
+3. **your (sg.) mother’s father:** mamaa hetama (assuming "mamaa" refers to a parent generally)
+
+4. **my father’s face:**  tama heritama (assuming "tama" is a general word for "father")
+
+5. **one’s own ear:**  rièng he...? (We need the word for "ear," which is not provided).
+
+6. **my sea:**  tamin  (using the existing example)
+
+
+## Problem 3: Kimbundu Translations
+
+**(a) Translating Kimbundu to English:**
+
+12.  **múlóʒí mwámónà ʒìtéténbwá:** The sorcerer saw the stars.
+13.  **ʒìtéténbwá ʒjálà mùdjúlù:**  The stars are in the sky. (Very similar to sentence 4)
+14.  **ŋgákínà:** I danced. 
+15.  **djálá djámónà màhónʒò mùlwándá:** The man saw the bananas in Luanda.
+
+**(b) Translating English to Kimbundu:**
+
+16.  **Did I sing?** ŋgáʃíkà? 
+17.  **The person met the sorcerer and the friend in the square.** Mutu wásáŋgá múlóʒí ni dikámbá múkìtándà.
+18.  **My man (husband) saw the cave.**  Djálá djámí djámónà dìkúŋgú.
+19.  **There are sorcerers in Luanda.**  Mùlwándà mwálà álóʒí. 
+
+
+## Problem 5: Madak Word Deconstruction
+
+**(a) Literal translation of "lavatbungmenemen":**
+
+* **lavat-:**  prefix indicating "the whole" or "all-encompassing"
+* **bung-:** likely related to "place" or "location" based on "levengkot" (places)
+* **menemen:**  root word meaning "village" or "community," as seen in "levenmenemen" (villages)
+
+Therefore, a literal translation of "lavatbungmenemen" is "the whole place of villages," which figuratively translates to "the whole world."
+
+**(b) Translating Madak to English:**
+
+1.  **laradi:** two men (following the "lu-" prefix for two)
+2.  **lavatkonuna:**  the whole tree (using the "lavat-" prefix)
+3.  **laxantoonan:** many spirits (using the "laxa-" prefix)
+4.  **levengkatli:** many places (using the "laxa-" prefix)
+5.  **loxot:**  fire (singular form of "laxao")
+6.  **lubungkavus:** a group of white men ("lubung-" for group, "kavus" for white men)
+7.  **luvaroos:** two vines 
+
+**(c) Translating English to Madak:**
+
+8.  **heart:**  lempeve (singular of "levempeve")
+9.  **gardens:** We need more information; we only have "loxontaamang" (part of a garden).
+10.  **many things:**  laxavanga  ("laxa-" prefix for many)
+11.  **grandchildren:**  larubuno (assuming "la-" prefix for plural)
+12.  **two parts of day (two moments):**  lualeng  ("lu-" prefix for two, "aleng" for parts of day)
+13.  **branches:**  We need more information; no direct translation is available.
+14.  **big branches:**  We need the word for "branch" first. 

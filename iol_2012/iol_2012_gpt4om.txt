@@ -1,0 +1,137 @@
+### Problem 1 (20 points)
+
+(a) The animal species regarded as “old women” in one of the myths of the Dyirbal people is the **death adder**. The linguist considered it an error due to the sentence that includes the death adder in a context that seems to imply a negative connotation, thereby misinterpreting its significance.
+
+(b) Translations into English:
+17. **The young boy is being made tired by the man that is always bending.** 
+18. **The big stone is being searched for by the tired lizard.** 
+19. **The quiet girl is following the doctor that is always being blamed.** 
+
+(c) Translations into Dyirbal:
+20. **The little wallaby is looking at the dragonfly.**  
+   - **bala yila guniñu baNgul duNangu buóan.**
+21. **The aunt that is always being followed is bending the feather.**  
+   - **balan mugunanéa guliNgu NaéilmuNagu dimban.**
+22. **The sleeping possum is ignoring the loud noise.**  
+   - **bayi yaóa munduNgu NaÉilmuNagu muNgan.**
+23. **The caterpillar is searching for the man that is always carrying stones.**  
+   - **bayi bayimbam guniñu baNgul yaóaNgu dibanbilmbalNaymuNagu.**
+
+---
+
+### Problem 2 (20 points)
+
+(a) Write in numerals:
+- **tokapu polangipu:** 50
+- **tokapu talu rureponga telu:** 48
+- **tokapu yepoko malapunga talu:** 59
+- **tokapu yepoko polangipunga telu:** 77
+
+(b) Write out in Umbu-Ungu:
+- **13:** alapunga telu
+- **66:** tokapu talu malapu telu
+- **72:** tokapu talu alapunga yepoko
+- **76:** tokapu talu polangipunga talu
+- **95:** tokapu yepoko rureponga talu
+
+---
+
+### Problem 3 (20 points)
+
+(a) Correct correspondences:
+- ahaztu ditut: I forgot them
+- ahaztu zaizkit: I forgot them
+- ahaztu zaizu: you(sg) forgot him
+- hurbildu natzaizue: I approached you(pl)
+- hurbildu zait: he approached me
+- lagundu ditugu: we helped them
+- lagundu dituzu: you(sg) helped them
+- lagundu dute: they helped him
+- lagundu nauzue: you(pl) helped me
+- mintzatu natzaizu: I talked to you(sg)
+- mintzatu gatzaizkizue: we talked to you(pl)
+- mintzatu zaizkigu: they talked to us
+- ukitu ditugu: we touched them
+- ukitu naute: they touched me
+
+(b) Translate into Basque:
+- **you(sg) touched me:** ukitu nauzu
+- **they approached me:** hurbildu zaizkit
+
+(c) Translate into English:
+- **lagundu dut:** I helped him
+- **hurbildu gatzaizkizu:** we approached you(pl)
+
+(d) The sentence is "I forgot them." Another possible translation: **ahaztu zaizkit.**
+
+---
+
+### Problem 4 (20 points)
+
+(a) Translate into English:
+13. **Eam paa ani a overe.**  
+- (You (pl.) ate the coconut.)
+
+14. **Ean paa tasu a oraoraa bona kae.**  
+- (You (sg.) struck the sorcerer with the bag.)
+
+15. **Eove paa tara ameam.**  
+- (He saw you (pl.).)
+
+(b) Translate into Teop:
+16. **We gave the food to you (sg.).**  
+- Enam paa hee a taba’ani bona ean.
+
+17. **He called me a child.**  
+- Eove paa dao anaa bona beiko.
+
+18. **I killed him with it (lit. with him).**  
+- Enaa paa asun bona bona.
+
+19. **The sorcerer gave the fish to the boy.**  
+- A oraoraa paa hee a iana bona visoasi.
+
+(c) Translate the sentences outside the brackets into Teop:
+24. (Why was the sorcerer offended?) **They called the sorcerer a woman.**  
+- Eori paa dao a oraoraa bona moon.
+
+25. (Why is this axe wet?) **The boy killed the fish with the axe.**  
+- A visoasi paa asun bona iana bona toraara.
+
+---
+
+### Problem 5 (20 points)
+
+(a) Correspondences:
+| Rotuman | English         |
+|---------|-----------------|
+| ‘u‘u    | arm/hand        |
+| isu     | eye             |
+| kia     | neck            |
+| leva    | heart           |
+| mafa    | hair            |
+| susu    | breast          |
+| huga    | nose            |
+
+(b) Translate into English:
+- **tiro:** to cut
+- **poga (noun):** hole
+- **huag lala:** courageous
+- **ha. f puhra. ki:** to boil
+- **maf pogi = maf pala:** to pierce the night
+
+(c) Translate into Rotuman:
+- **round:** poag
+- **to cut copra:** niu ‘olo
+- **curly hair:** mafa piri
+- **sticky:** pulu
+- **to flash:** riamrima
+- **rubbish:** moafmofa
+
+(d) Theoretically possible translations:
+- **‘word’:** *huag ‘ele*
+- **‘to exhaust’:** *ha. fha. huag* 
+
+---
+
+Good luck!

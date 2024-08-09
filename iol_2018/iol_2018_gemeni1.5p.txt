@@ -1,0 +1,162 @@
+## Problem 1 Solution
+
+| Creek                  | Translation            |
+|------------------------|------------------------|
+| [ífa]                 | dog                    |
+| [ifóci]               | puppy                  |
+| [nâːnáki]             | things                 |
+| [sâːsákwa]            | goose                  |
+| [aktópa]              | bridge                 |
+| [hoktáki]             | women                  |
+| [wanáyita]            | to tie                 |
+| [awána:yita]          | to tie to              |
+| [isiskitóci]          | little drinking vessel |
+| [aːtamihóma]          | bonnet (car hood)      |
+| [honantâːki]          | men                    |
+| [ilitohtaɬíta]        | to cross legs          | 
+
+## Problem 2 Solution
+
+**(a) Translate into English:**
+
+1. nɤ ʒip ku ne  - **Did you_{sg} sleep?** 
+2. ati kəmə nirum lapkʰi tʰi ne - **Did he see us?**
+3. tarum kəmə nuʔrum cʰam ran ne - **Did they know you_{pl}?** 
+4. nirum kəmə tarum lan ki ne - **Do we beat them?**
+5. nirum kəmə nɤ cʰam tiʔ ne -  **Did we know you_{sg}?**
+6. nirum ka tiʔ ne - **Do we go?** 
+
+**(b) Translate into Hakhun:**
+
+7. Did I beat you_{sg}? - **ŋabə nɤ lan tʰu ne**
+8. Did they see me? -  **tarum kəmə ŋa lapkʰi tʰi ne** 
+9. Does he know you_{sg}? - **ati kəmə nɤ cʰam ki ne**
+10. Do you_{pl} sleep? - **nuʔrum ʒip ku ne**
+
+
+## Problem 3 Solution
+
+**(a) Fill in the gaps.**
+
+| 1st person sg   | 2nd person sg   | Translation          |
+|-----------------|-----------------|----------------------|
+| îmam            | îme             | husband              |
+| mbîho           | **peîho**         | to go                |
+| yónom           | yéno            | to walk              |
+| mbôro           | peôro           | pants                |
+| ndûti           | tiûti           | head                 |
+| âyom            | yâyo            | brother of a woman   |
+| **pîyo**         | pîyo            | animal               |
+| yênom           | **yéno**          | wife                 |
+| mbûyu           | piûyu           | knee                 |
+| njûpa           | xiûpa           | manioc               |
+| **yêno**         | yêno            | mother               |
+| nêmem           | nîni            | tongue               |
+| mbâho           | peâho           | mouth                |
+| ndâki           | teâki           | arm                  |
+| vô’um           | veô’u           | hand                 |
+| ngásaxo         | **késaxo**       | to feel cold         |
+| njérere         | **xerére**       | side                 |
+| mônzi           | meôhi           | toy                  |
+| ndôko           | **teôko**         | nape                 |
+| ímbovo          | ípevo           | clothes              |
+| enjóvi          | yexóvi          | elder sibling        |
+| noínjoa         | **xoínjoa**       | to see it            |
+| vanénjo         | **vanénjo**       | to buy               |
+| mbepékena       | pipíkina        | drum                 |
+| ongóvo          | yokóvo          | stomach, soul        |
+| rembéno         | ripíno          | shirt                |
+| nje’éxa         | xi’íxa          | son/daughter         |
+| ivándako        | ivétako         | to sit               |
+| mbirítauna      | piríteuna       | knife                |
+| mómindi         | **yómindi**       | to be tired         |
+| njovó’i         | xevó’i          | hat                  |
+| ngónokoa        | kénokoa         | to need it           |
+| ínzikaxovoku    | **ínzikaxovoku** | school              |
+| **yôxu**         | yôxu            | grandfather          |
+| íningone        | ínikene         | friend               |
+| vandékena       | vetékena        | canoe                |
+| óvongu          | yóvoku          | house                |
+| **nîwo**         | nîwo            | nephew               |
+| ánzarana        | **áxarana**       | hoe                 |
+| nzapátuna       | hepátuna        | shoe                 |
+
+**(b) Some Terena words are borrowed from Portuguese…**
+
+1. **In what way are these words different from native Terena words?**
+
+These words are different from native Terena words because they don't follow the regular pattern of first-person and second-person singular forms. In native words, the second person form usually replaces the initial "n" sound with a "x" sound. However, in these borrowed words,  the second person form replaces the initial "l" sound with a "le" sound.
+
+2. **Translate into Terêna: my tin can, my cloak.**
+
+* My tin can: **látaña**
+* My cloak: **kápaña** 
+
+
+## Problem 4 Solution
+
+**(a)**
+
+The word X is "**atuh**", which means "**and**". 
+
+The linguist thought it was missing in these examples:
+
+* **Example 2:** nybat biabys juhurubys (6 eggs) - It should be "nybat **atuh** biabys juhurubys".
+* **Example 8:** wiwis biabys bøbys (14 betel nuts) - It should be "wiwis **atuh** biabys bøbys".
+* **Example 11:** anowip biabys juhurubys (26 eggs) - It should be "anowip **atuh** biabys juhurubys".
+
+**How it is implied by the context:**
+
+The word "atuh" is implied because the numbers 6, 14, and 26 are all formed by adding a set of 10 to the base numbers (6, 4, and 16 respectively).  The use of "atuh" isn't mandatory when expressing these compound numbers, as the context makes it clear that addition is being used.
+
+**(b) Translate into English:**
+
+12. biabys atub bøbys - **7 betel nuts**
+13. atub juhurub - **4 eggs**
+14. nybat atuh araruh - **5 sugar canes**
+15. biagas atugas biagas baigas - **12 sheets of sago bark**
+16. wiwis baigas - **13 sheets of sago bark**
+
+**(c) Translate into Mountain Arapesh:**
+
+17. 4 betel nuts - **atub bøbys** 
+18. 11 eggs - **biogu atuh juhurub**
+19. 20 eggs - **araman juhurubys**
+20. 25 sheets of sago bark - **araman atugas atug baigas** 
+
+
+## Problem 5 Solution
+
+**(a) Family Tree:**
+
+```
+                         Ofori (Grandfather)
+                           |
+                    -------------------------
+                    |                       |
+                Dubaku                  Kunto (Woman 1)
+                 (Man 2)                   |
+                  |                      Kofi (Man 5) 
+                  |                       |
+            ------------------       ---------
+            |                |       |       |
+          Yaw (Man 6)    Ama (Woman 6) Esi  Kobina
+           |                                  |
+           |                              Efua (Woman 7)
+        -----------
+        |         |
+    Thema    Enu (Man 1)
+              |
+        ---------------
+        |             |
+     Nsia (Woman 4)  Awotwi (Woman 3) 
+                         |
+                         |
+                      Man 7 
+```
+
+**(b) Fill in the gaps:**
+
+1. Yɛfrɛ me Yaw. Yɛfrɛ me ɛnanom **Dubaku ne Kunto**. Yɛfrɛ me **nua** Nsia ne **yere** Ama. Yɛfrɛ me nuanom Thema ne **Enu**. Yɛfrɛ me **wɔfa** Awotwi. Yɛfrɛ me **nana** Ofori. Yɛfrɛ me **wɔfase** Esi ne **Kobina**. Yɛfrɛ me **nanabarima** Berko.
+
+2. Yɛfrɛ me **Enu**. Yɛfrɛ me banom Kofi ne **Esi**. Yɛfrɛ me **yere nuanom** Yaw ne **Ama**. Yɛfrɛ me **mma** Kunto ne **Nsia**. 
