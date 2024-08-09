@@ -1,0 +1,100 @@
+## Problem 1 (Menominee)
+
+**(a) Translations:**
+
+- **kekēskahæq:**  we_{1+2} bite it through (This directly matches example 12)
+- **nepāhkenan:** I open it by tool (by raising a lid or opening a door) (Similar to example 11, but with 1st person singular prefix "ne-") 
+- **wǣpāhpew:** he begins to open up (Combination of example 17 "wǣpohnæw - he begins walking" and the root of example 19 "pāhkeqtaw - he opens up")
+
+**(b) Translations:**
+
+- I begin to eat it: **newǣp̄ıtam** (Combining "ne-" (I) + "wǣp" (begin) + "̄ıtam" (eat), assuming "-ıtam" is a plausible form based on "kep̄ıtahtæq")
+- we_{1+2} lay it flat by hand: **ke...tæq**  (We need more information about the verb root for "lay it flat". The prefix "ke-" indicates 1st person plural inclusive, and "-tæq" is a common suffix.)
+- he digs a hole:  **wǣpānæw** (Assuming "digging a hole" is a similar action to "begin to dig" as in example 8.)
+- he walks out: **kātohnæw** (Taking the root "kātohnæ" from example 6 and adding the 3rd person singular suffix "-w") 
+
+**Note:** These translations are based on limited data and some guesswork. More information about Menominee verb morphology would be needed for completely accurate translations.
+
+## Problem 2 (Faroese)
+
+**(a) Phonetic Transcriptions:**
+
+| Word  | Phonetic Transcription | Translation            |
+|-------|------------------------|------------------------|
+| bøga  | [bøːa]               | hen bird               |
+| knoðar | [knøːar]              | (he) kneads            |
+| kvøða | [kvøːa]               | (they) sing            |
+| løgur | [løːvur]              | liquid                 |
+| plága | [pláːa]              | nuisance, affliction   |
+| skaði | [skáːi]              | damage, loss           |
+| toygur | [tɔɪvur]             | swallow, gulp, draught |
+| trúgi  | [trʉ́ːwi]              | may (he) endanger      |
+
+**(b) Rules:**
+
+1. **Vowel length:** In Faroese, a single vowel followed by a single consonant is usually long (e.g., "bøga" - [bøːa]). 
+2. **Diphthongs:** The combination "oy" is pronounced as a diphthong [ɔɪ] (e.g., "toygur" - [tɔɪvur]).
+3. **Consonant clusters:** The cluster "ð" before a consonant is often silent (e.g., "knoðar" - [knøːar]).
+4. **Vowel quality:**  The vowels and their phonetic transcriptions are consistent with the provided examples, paying attention to distinctions like [ø] vs. [ɔ]. 
+
+
+## Problem 3 (Vai)
+
+**(a) Translations:**
+
+- mùsúĚ á gbòmùĚ: **the woman’s fish**
+- léN kúndúĚ á nỳımı̀̀ıĚ: **the child's short snake** 
+- gbòmù-lÈndÈ kúndúĚ: **the small boat's eye**
+
+**(b) Correction and Translation:**
+
+- Error: "kándÒ-lÈndÉ lÒÒĚ"
+- Correction: "kándÒ lÒÒĚ" (The possessive marker "lÈndÉ" is unnecessary because "kándÒ" (sky) is not possessed by another noun in this phrase)
+- Translation: **the small sky**
+
+**(c) Translations:**
+
+- the eagle’s snake: **kÒánjàĚ á nỳımı̀̀ıĚ**
+- the small child’s eye: **léN kúndúĚ já**
+- the tall man’s sister: **kà́ıĚ jǎNĚ á mùı̀** (Assuming "mùı̀" means sister) 
+- the small baby-snake: **kÒánjà-lèNĚ  kúndúĚ**
+
+
+## Problem 4 (Nahuatl)
+
+**(a) Correspondences:**
+
+| Nahuatl           | Translation                    |
+|-------------------|--------------------------------|
+| acalhuah          | canoe owner                    |
+| achilli           | chili water                   |
+| atl               | water                          |
+| callah            | house                          |
+| calhuah           | master of house                |
+| chilatl           | chili water                    |
+| chilli            | chili                          |
+| colli             | grandfather/ancestor           |
+| coltzintli        | revered grandfather/ancestor   |
+| conehuah          | master of child                |
+| conehuahcapil     | possessor of stones            |
+| conetl            | child                          |
+| oquichconetl      | boy                            |
+| oquichhuah        | man/husband                    |
+| oquichtotoltzintli| revered turkey-cock            |
+| tehuah            | turkey egg                     |
+| tetlah            | wife                           |
+| totoltetl         | turkey                         |
+
+**(b) Translations:**
+
+- house: **callah**
+- stone: **tetl** (deduced from "conehuahcapil" - possessor of stones)
+- possessor of water: **atlhuah** (combining "atl" - water, and "huah" - possessor/owner)
+- revered man/husband: **oquichhuahtotoltzintli** (combining "oquichhuah" - man/husband, and "totoltzintli" - revered)
+
+**(c) Translations:**
+
+- cacahuatl: **cacao water** (assuming "cacahuatl" follows the same pattern as "chilatl")
+- cacahuatetl: **cacao stone** (combining "cacahua" - cacao, and "tetl" - stone)
+- cacahuaatl: **cacao water** (likely a variant spelling of "cacahuatl")
+- cacahuahuah: **cacao owner** (combining "cacahua" - cacao, and "huah" - possessor/owner) 

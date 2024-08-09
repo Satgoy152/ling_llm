@@ -1,0 +1,63 @@
+Problem 1:
+
+(a) Translations:
+
+- kekēskahæq - we_{1+2} bite it through
+- nepāhkenan - I open it up
+- wǣpāhpew - he begins to open up
+
+(b) Translations into Menominee:
+
+- I begin to eat it - nekewǣpænæm
+- we_{1+2} lay it flat by hand - ketōhpahæq
+- he digs a hole - wǣpāhpew
+- he walks out - kekǣtohnæw
+
+Explanations:
+- kekēskahæq: From the given verb forms, "kekēskahtæq" means "we_{1+2} bite it through", so the singular form "kekēskahæq" would mean "we_{1+2} bite it through".
+- nepāhkenan: From the given forms, "pāhkeqtaw" means "he opens up", so the singular form "nepāhkenan" would mean "I open it up".
+- wǣpāhpew: From the given forms, "wǣpohnæw" means "he begins walking", so the form "wǣpāhpew" would mean "he begins to open up".
+- nekewǣpænæm: Formed by combining the prefix "ne-" (I) with the given verb "kewǣpeqtaq" (we_{1+2} begin).
+- ketōhpahæq: Formed by combining the prefix "ke-" (we_{1+2}) with the given verb "tōhpam" (lay flat by hand).
+- kekǣtohnæw: From the given verb "kekǣtohnæq" (we_{1+2} walk out).
+
+Problem 2:
+
+(a) Filling in the gaps:
+
+| Word  | Phonetic Transcription | Translation            |
+|-------|------------------------|------------------------|
+| bøga  | [bø:ja]                | hen bird               |
+| knoðar | [knOvar]               | (he) kneads            |
+| kvøða | [kvø:va]               | (they) sing            |
+| løgur | [lø:jur]               | liquid                 |
+| plága | [plEuva]               | nuisance, affliction   |
+| skaði | [skEavi]               | damage, loss           |
+| toygur | [tOijur]              | swallow, gulp, draught |
+| trúgi | [trHu:ji]              | may (he) endanger      |
+
+(b) Explanation of the rules:
+
+1. Vowel length is marked with the ":" diacritic.
+2. The vowel sounds [E] (as in "bet"), [O] (as in "hot"), [ø] (as in "German schön"), and [0] (as in "German Köln") are used.
+3. The consonant sounds [j] (as in "yes") and [w] (as in "win") are represented.
+4. The consonant cluster [kn] is transcribed as [knO].
+5. The vowel sound [H] (as in "German süß") is used for the word "trúgi".
+
+Problem 3:
+
+(a) Translations:
+
+- mùsúĚ á gbòmùĚ - the woman's fish
+- léN kúndúĚ á nỳımı̀̀ıĚ - the eagle's short snake's eye
+- gbòmù-lÈndÈ kúndúĚ - the boat's short snake's eye
+
+(b) Correction and translation:
+
+The correct phrase is "kándÒ jǎNĚ" (the high sky), not "kándÒ-lÈndÉ lÒÒĚ".
+
+(c) Translations into Vai:
+
+- the eagle's snake - kÒánjà-nỳımı̀̀ı
+- the small child's eye - kÒánjà-lèN kúndúĚ
+- the tall man's sister - kà́ı jǎNĚ

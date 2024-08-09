@@ -1,0 +1,122 @@
+### Problem 1 (20 points)
+
+#### (a) Translate into English:
+
+1. **kekēskahæq** — we_{1+2} bite it (or we_{1+2} gnaw it)
+2. **nepāhkenan** — I lay it flat (by hand)
+3. **wǣpāhpew** — he begins to eat (or he starts eating)
+
+#### (b) Translate into Menominee:
+
+1. **I begin to eat it** — kewǣpeqtaq mīhchī
+2. **we_{1+2} lay it flat by hand** — ketāwaham mīhchī
+3. **he digs a hole** — tawǣsam
+4. **he walks out** — kekǣtohnæq
+
+---
+
+### Problem 2 (20 points)
+
+#### (a) Fill in the gaps.
+
+| Word  | Phonetic Transcription | Translation            |
+|-------|------------------------|------------------------|
+| bøga  | [bø:ga]                | hen bird               |
+| deyði | [dEiji]                | (I) kill               |
+| eyður | [Eijur]                | wealth                 |
+| glaða | [glEava]               | whirlwind              |
+| gleða | [gle:a]                | (they) make glad       |
+| gløður | [glø:vur]              | embers                 |
+| hugi  | [hu:wi]                | mind                   |
+| knoðar | [knO:ðar]              | (he) kneads            |
+| koyla | [kOila]                | cleft                  |
+| kvøða | [kva:ða]               | (they) sing            |
+| lega  | [le:va]                | bed                    |
+| logi  | [lo:ji]                | flame                  |
+| løgur | [lø:gur]               | liquid                 |
+| móða  | [mOuwa]                | froth or scum in pot with meat or fish |
+| mugu  | [mu:wu]                | (they) must            |
+| plága | [pla:ga]               | nuisance, affliction   |
+| ráði  | [rOaji]                | (I) advise             |
+| rúma  | [r0uma]                | (they) contain         |
+| røða  | [rø:a]                | (they) speak           |
+| skaði | [ska:ði]               | damage, loss           |
+| skógur | [skOuwur]             | forest                 |
+| spreiða | [spraija]            | (they) spread          |
+| søga  | [sø:va]                | story                  |
+| tegi  | [te:ji]                | keep silent!           |
+| toygur | [tO:jgur]              | swallow, gulp, draught |
+| tregar | [tre:ar]              | (he) injures           |
+| trúgi  | [tru:gi]               | may (he) endanger      |
+| vágur | [vOavur]              | gulf                   |
+| vegur | [ve:vur]              | (he) raises            |
+| viður | [vi:jur]               | wood, timber           |
+| viga  | [vi:ja]               | (they) weigh           |
+| øga   | [ø:a]                | (they) frighten        |
+
+#### (b) Describe the rules you used.
+
+1. **Phonetic consistency**: The phonetic transcription follows consistent rules for vowel sounds and stress patterns, matching the regular orthography.
+2. **Consonant representation**: Voiced and voiceless consonants are represented accurately in the transcription, ensuring clarity in pronunciation.
+
+---
+
+### Problem 3 (20 points)
+
+#### (a) Translate into English:
+
+1. **mùsúĚ á gbòmùĚ** — the fish’s woman
+2. **léN kúndúĚ á nỳımı̀̀ıĚ** — the short child’s eye
+3. **gbòmù-lÈndÈ kúndúĚ** — the snake’s child eye
+
+#### (b) Error correction:
+
+The phrase **kándÒ-lÈndÉ lÒÒĚ** should be corrected to **kándÒ-lÈndÉĚ lÒÒĚ** (the "E" should be long). 
+
+Translation: **the sky’s child**
+
+#### (c) Translate into Vai:
+
+1. **the eagle’s snake** — kÒánjà-lÈndÉĚ
+2. **the small child’s eye** — conetl-lÈndÉĚ
+3. **the tall man’s sister** — mùsúĚ lÒÒĚ
+4. **the small baby-snake** — kÒánjàĚ kúndúĚ
+
+---
+
+### Problem 4 (20 points)
+
+#### (a) Determine the correct correspondences.
+
+1. acalhuah — canoe owner
+2. achilli — water pepper
+3. atl — water
+4. callah — house
+5. calhuah — master of house
+6. chilatl — chili water
+7. chilli — chili
+8. colli — grandfather/ancestor
+9. coltzintli — revered grandfather/ancestor
+10. conehuah — master of child
+11. conehuahcapil — possessor of stones
+12. conetl — child
+13. oquichconetl — boy
+14. oquichhuah — man/husband
+15. oquichtotoltzintli — revered turkey-cock
+16. tehuah — turkey egg
+17. tetlah — wife
+18. totoltetl — turkey
+
+#### (b) Translate into Nahuatl:
+
+1. **house** — callah
+2. **stone** — capil
+3. **possessor of water** — calhuahcapil
+4. **revered man/husband** — oquichhuah
+
+#### (c) Translate into English:
+
+1. **cacahuatl** — cacao
+2. **cacahuatetl** — cacao tree
+3. **cacahuaatl** — possessor of cacao
+4. **cacahuahuah** — master of cacao

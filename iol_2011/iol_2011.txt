@@ -1,0 +1,175 @@
+Prompt: As an expert in computational linguistics solve the following problem:
+
+### Problem 1 (20 points)
+
+Given are verb forms of the Menominee language as well as their English translations:
+
+1. kewǣpeqtaq — we_{1+2} begin
+2. kawāham — he fells it by tool
+3. nep̄ıtohnæm — I walk here (to this place)
+4. kēskenam — he breaks it through by hand
+5. pahkǣsam — he cuts it off
+6. kekǣtohnæq — we_{1+2} walk out
+7. p̄ıtenam — he passes it here
+8. kewǣpānæhkæq — we_{1+2} begin to dig
+9. tawǣsam — he cuts a hole in it
+10. nekǣtahan — I pry it out by tool
+11. pāhkaham — he opens it by tool (by raising a lid or opening a door)
+12. kekēskahtæq — we_{1+2} bite it through
+13. wackōhnæw — he walks roundabout, by a detour
+14. newāckesan — I cut around it
+15. ketǣnam — he takes it out by hand
+16. ketāwahtæq — we_{1+2} bite, gnaw a hole in it
+17. wǣpohnæw — he begins walking
+18. nekāweqtam — I lie down
+19. pāhkeqtaw — he opens up
+20. kep̄ıtahtæq — we_{1+2} come eating it; we_{1+2} bring it in our mouths
+21. nekāwāhpem — I fall over laughing
+
+(a) Translate into English:
+
+- kekēskahæq
+- nepāhkenan
+- wǣpāhpew
+
+If in some cases you believe that more than one translation is possible, give them all.
+
+(b) Translate into Menominee:
+
+- I begin to eat it
+- we_{1+2} lay it flat by hand
+- he digs a hole
+- he walks out
+
+△! The Menominee Indians live in Wisconsin, USA. They number 5 000–10 000 people, but the epony- mous language of the Algonquian family is only spoken by a few dozen of the oldest among them, although effort has been put lately into expanding its teaching and use.
+“we_{1+2}” = ‘we and you’. æ ≈ a in crack, c = ch in church, q is a consonant (the so-called glottal stop). The mark “ ̄” denotes vowel length. —Ivan Derzhanski
+---
+
+### Problem 2 (20 points)
+
+The following are words of the Faroese language written in the regular orthography and in phonetic transcription as well as their English translations:
+
+| Word  | Phonetic Transcription | Translation            |
+|-------|------------------------|------------------------|
+| bøga  | ?                      | hen bird               |
+| deyði | [dEiji]                | (I) kill               |
+| eyður | [Eijur]                | wealth                 |
+| glaða | [glEava]               | whirlwind              |
+| gleða | [gle:a]                | (they) make glad       |
+| gløður | [glø:vur]              | embers                 |
+| hugi  | [hu:wi]                | mind                   |
+| knoðar | ?                      | (he) kneads            |
+| koyla | [kOila]                | cleft                  |
+| kvøða |  ?                     | (they) sing            |
+| lega  | [le:va]                | bed                    |
+| logi  | [lo:ji]                | flame                  |
+| løgur |  ?                     | liquid                 |
+| móða  | [mOuwa]                | froth or scum in pot with meat or fish |
+| mugu  | [mu:wu]                | (they) must            |
+| plága |  ?                     | nuisance, affliction   |
+| ráði  | [rOaji]                | (I) advise             |
+| rúma  | [r0uma]                | (they) contain         |
+| røða  | [rø:a]                | (they) speak           |
+| skaði |  ?                     | damage, loss           |
+| skógur | [skOuwur]             | forest                 |
+| spreiða | [spraija]            | (they) spread          |
+| søga  | [sø:va]                | story                  |
+| tegi  | [te:ji]                | keep silent!           |
+| toygur | ?                     | swallow, gulp, draught |
+| tregar | [tre:ar]              | (he) injures           |
+| trúgi  | ?                      | may (he) endanger      |
+| vágur | [vOavur]              | gulf                   |
+| vegur | [ve:vur]              | (he) raises            |
+| viður | [vi:jur]              | wood, timber           |
+| viga  | [vi:ja]               | (they) weigh           |
+| øga   | [ø:a]                | (they) frighten        |
+
+(a) Fill in the gaps.
+
+(b) Describe the rules you used.
+
+△! Faroese belongs to the Northern subgroup of the Germanic languages. It is spoken by approx. 48 000 people in the Faroe Islands and elsewhere.
+In the transcription [j] = y in yum, [w] = w in win; [E], [O], [ø], [0] are vowels. The mark “:” denotes vowel length. —Alexander Piperski
+---
+
+### Problem 3 (20 points)
+
+Given are phrases in the Vai language as well as their English translations:
+
+1. kà́ıĚ á lÈndÉĚ — the man’s vessel
+2. kÒánjà-lèNĚ fǎ — the baby-eagle’s father
+3. gbòmùĚ á nỳımı̀̀ıĚ — the fish’s snake
+4. kà́ıĚ kàfà — the man’s shoulder
+5. nỳımı̀̀ı jǎNĚ á gbòmù-lÈndÈĚ — the long snake’s boat
+6. mùsú jǎNĚ lÒÒ-kà̀ı — the tall woman’s brother
+7. nỳımı̀̀ı kúndúĚ já — the short snake’s eye
+8. kÒánjà lÒÒĚ kÈnj̀ı — the small eagle’s claw
+9. kándÒ jǎNĚ — the high sky
+
+(a) Translate into English:
+
+- mùsúĚ á gbòmùĚ
+- léN kúndúĚ á nỳımı̀̀ıĚ
+- gbòmù-lÈndÈ kúndúĚ
+
+(b) There is an error in the Vai phrase kándÒ-lÈndÉ lÒÒĚ. Correct it and translate the phrase into English.
+
+(c) Translate into Vai:
+
+- the eagle’s snake
+- the small child’s eye
+- the tall man’s sister
+- the small baby-snake
+
+△! Vai belongs to the Central group of the Mande language family. It is spoken by approx. 105 000 people in Liberia and Sierra Leone.
+ny and N are consonants; E and O are vowels. The marks “ ́”, “`” and “ˇ” denote tones.
+—Olga Kuznetsova
+---
+
+### Problem 4 (20 points)
+
+Given are words in Nahuatl as well as their English translations in arbitrary order:
+
+| Nahuatl           | Translation                    |
+|-------------------|--------------------------------|
+| acalhuah          | canoe owner                    |
+| achilli           | water pepper                   |
+| atl               | water                          |
+| callah            | house                          |
+| calhuah           | master of house                |
+| chilatl           | chili water                    |
+| chilli            | chili                          |
+| colli             | grandfather/ancestor           |
+| coltzintli        | revered grandfather/ancestor   |
+| conehuah          | master of child                |
+| conehuahcapil     | possessor of stones            |
+| conetl            | child                          |
+| oquichconetl      | boy                            |
+| oquichhuah        | man/husband                    |
+| oquichtotoltzintli| revered turkey-cock            |
+| tehuah            | turkey egg                     |
+| tetlah            | wife                           |
+| totoltetl         | turkey                         |
+
+(a) Determine the correct correspondences.
+
+(b) Translate into Nahuatl:
+
+- house
+- stone
+- possessor of water
+- revered man/husband
+
+(c) Translate into English:
+
+- cacahuatl
+- cacahuatetl
+- cacahuaatl
+- cacahuahuah
+
+
+
+△! Classical Nahuatl was the language of the Aztec Empire in Mexico.
+c = qu = k, ch = ch in church, hu = w in win, tl and tz are consonants.
+Water pepper (Polygonum hydropiper) is a wild plant. Chili water is a Aztec drink containing chili
+pepper. —Liudmila Fedorova

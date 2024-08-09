@@ -1,0 +1,163 @@
+### Problem 1
+
+#### (a) Translate into English:
+
+1. **kekēskahæq**  
+   - "we_{1+2} bite it through"  
+   Based on the pattern observed, "kekēskahtæq" is translated as "we_{1+2} bite it through". The form "kekēskahæq" is likely a variant or error, but the core meaning seems to revolve around the action of biting through something by a group including the speaker and the listener.
+
+2. **nepāhkenan**  
+   - "I open it by tool (by raising a lid or opening a door)"  
+   The verb form "pāhkaham" translates to "he opens it by tool", and "pāhkeqtaw" translates to "he opens up". The prefix "ne-" indicates the first person singular "I", so "nepāhkenan" should mean "I open it by tool".
+
+3. **wǣpāhpew**  
+   - "he begins walking"  
+   The verb form "wǣpohnæw" translates to "he begins walking". The form "wǣpāhpew" appears to follow a similar pattern, indicating the action of beginning to walk.
+
+#### (b) Translate into Menominee:
+
+1. **I begin to eat it**  
+   - "newǣpem"  
+   Using the pattern from "wǣpohnæw" (he begins walking) and "kewǣpeqtaq" (we_{1+2} begin), "newǣpem" would indicate "I begin to eat it".
+
+2. **we_{1+2} lay it flat by hand**  
+   - "kewǣkenam"  
+   Based on the pattern of verbs describing actions by hand, such as "kēskenam" (he breaks it through by hand), "kewǣkenam" would be consistent for "we_{1+2} lay it flat by hand".
+
+3. **he digs a hole**  
+   - "tawǣham"  
+   Based on "tawǣsam" (he cuts a hole in it) and the action of digging, "tawǣham" would be a reasonable construction.
+
+4. **he walks out**  
+   - "kekǣtohnæw"  
+   Following the pattern from "kekǣtohnæq" (we_{1+2} walk out), "kekǣtohnæw" would mean "he walks out".
+
+### Problem 2
+
+#### (a) Fill in the gaps:
+
+1. **bøga**  
+   - Phonetic Transcription: [bø:ja]  
+   The word "bøga" corresponds to "hen bird", and based on the spelling and sounds in Faroese, it likely uses the vowel [ø:] and ends with the glide [j].
+
+2. **knoðar**  
+   - Phonetic Transcription: [knOa:ar]  
+   The word "knoðar" corresponds to "(he) kneads", and the transcription must reflect the vowel [Oa:] and ending [ar].
+
+3. **kvøða**  
+   - Phonetic Transcription: [kvø:va]  
+   The word "kvøða" corresponds to "(they) sing", using the vowel [ø:] and ending with [va].
+
+4. **løgur**  
+   - Phonetic Transcription: [lø:jur]  
+   The word "løgur" corresponds to "liquid", with vowel [ø:] and ending [jur].
+
+5. **plága**  
+   - Phonetic Transcription: [plOa:ja]  
+   The word "plága" corresponds to "nuisance, affliction", using [Oa:] and ending with [ja].
+
+6. **skaði**  
+   - Phonetic Transcription: [ska:ji]  
+   The word "skaði" corresponds to "damage, loss", using [a:] and ending [ji].
+
+7. **toygur**  
+   - Phonetic Transcription: [tOijur]  
+   The word "toygur" corresponds to "swallow, gulp, draught", and the transcription must reflect the vowel [Oi] and ending [jur].
+
+8. **trúgi**  
+   - Phonetic Transcription: [tru:ji]  
+   The word "trúgi" corresponds to "may (he) endanger", using [u:] and ending [ji].
+
+#### (b) Describe the rules you used:
+
+1. **Vowel Length and Quality**: Long vowels in Faroese are transcribed with a colon (e.g., [ø:], [Oa:], [a:], etc.). The orthography provides clues to vowel quality and length.
+
+2. **Consonant Transcription**: Consonants such as "g" are often transcribed with [j] when they appear in certain environments. The ending consonants often reflect the orthographic representation.
+
+3. **Glides and Transitions**: The presence of glides like [j] and [w] is inferred from the combination of vowels and consonants in the orthographic form.
+
+### Problem 3
+
+#### (a) Translate into English:
+
+1. **mùsúĚ á gbòmùĚ**  
+   - "the woman’s fish"  
+   The possessive construction indicates "the woman’s" followed by "fish".
+
+2. **léN kúndúĚ á nỳımı̀̀ıĚ**  
+   - "the child’s snake"  
+   The possessive construction indicates "the child’s" followed by "snake".
+
+3. **gbòmù-lÈndÈ kúndúĚ**  
+   - "the boat’s eye"  
+   The compound form indicates "the boat’s" followed by "eye".
+
+#### (b) There is an error in the Vai phrase kándÒ-lÈndÉ lÒÒĚ. Correct it and translate the phrase into English.
+
+- **Corrected Phrase**: kándÒ-lÈndÉ lÒÒĚ → kándÒ jǎNĚ lÒÒĚ  
+- **Translation**: "the sky’s boat"
+
+#### (c) Translate into Vai:
+
+1. **the eagle’s snake**  
+   - "kÒánjà nỳımı̀̀ıĚ"
+
+2. **the small child’s eye**  
+   - "léN lÒÒĚ já"
+
+3. **the tall man’s sister**  
+   - "kà́ıĚ jǎNĚ mùsú"
+
+4. **the small baby-snake**  
+   - "nỳımı̀̀ı lÒÒĚ kÈnj̀ı"
+
+### Problem 4
+
+#### (a) Determine the correct correspondences:
+
+1. **acalhuah**: canoe owner
+2. **achilli**: water pepper
+3. **atl**: water
+4. **callah**: house
+5. **calhuah**: master of house
+6. **chilatl**: chili water
+7. **chilli**: chili
+8. **colli**: grandfather/ancestor
+9. **coltzintli**: revered grandfather/ancestor
+10. **conehuah**: master of child
+11. **conehuahcapil**: possessor of stones
+12. **conetl**: child
+13. **oquichconetl**: boy
+14. **oquichhuah**: man/husband
+15. **oquichtotoltzintli**: revered turkey-cock
+16. **tehuah**: turkey egg
+17. **tetlah**: wife
+18. **totoltetl**: turkey
+
+#### (b) Translate into Nahuatl:
+
+1. **house**  
+   - "callah"
+
+2. **stone**  
+   - "capil"
+
+3. **possessor of water**  
+   - "atlhuah"
+
+4. **revered man/husband**  
+   - "oquichhuahcapil"
+
+#### (c) Translate into English:
+
+1. **cacahuatl**  
+   - "chili water"
+
+2. **cacahuatetl**  
+   - "chili"
+
+3. **cacahuaatl**  
+   - "water pepper"
+
+4. **cacahuahuah**  
+   - "master of chili"
