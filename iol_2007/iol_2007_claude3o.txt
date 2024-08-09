@@ -1,0 +1,80 @@
+Here are the solutions to the computational linguistics problems:
+
+Problem 1:
+a) The braille transcription for "Bring 40 pizzas and vermouth, Mark!" is:
+⠠⠃⠗⠊⠝⠛ ⠲⠚⠔ ⠏⠊⠵⠵⠁⠎ ⠁⠝⠙ ⠧⠑⠗⠍⠕⠥⠞⠓⠂ ⠠⠍⠁⠗⠅⠖
+
+Problem 2:
+§1. The combination "kw" always stands for a single specific consonant in Movima. This can be seen in words like "bakwanyiń" and "vuskwa".
+
+§2. Filled in negative forms:
+as - kas asa:sa' 
+enferme:ra - kas enferme:ra:ra'
+ji#a:pa - kas ji#aka'pa
+de - kas deje'
+rulrul - kas rulrula'
+tipoysu:da - kas tipoya'su:da
+
+Problem 3:
+The most plausible correspondences are:
+vtkvi - I said 
+kenit - you (pl.) did
+inadiret - you (pl.) hunted
+itavmGdomareve - I presided
+vsadilobt - we dine
+tkvi - you said
+vigoreb - I will roll 
+vkeni - I did
+nadirob - you hunt
+visadileb - I will dine
+vinadire - I hunted
+ambob - you say
+vitavmGdomareve - you presided
+izamt - you (pl.) will do
+vivlit - we will walk
+
+This mapping maintains a consistent correspondence between the Georgian prefixes and suffixes and the English pronouns and tenses. The alternative solutions would lead to inconsistencies.
+
+Problem 4:
+§1. The number-word correspondences are:
+1 - abo
+2 - mer
+3 - thonith
+4 - tondor 
+5 - nif
+6 - sas
+7 - ithin
+8 - meregh
+9 - thef
+10 - an
+
+§2. mer abo sas $ meregh = tondor abo mer an thef abo meregh
+6 $ 8 = 4 + 3 $ 9
+
+§3. In numerals:
+nif ithin abo ithin - 5 7 + 7 = 57 
+mer an thef abo meregh - 2 $ 9 + 8 = 26
+
+§4. In Ndom:
+58 - nif ithin abo meregh
+87 - meregh ithin abo ithin
+
+Problem 5:
+Filled in gaps:
+
+Turkish - Tatar - Translation
+usta - osta - master
+gözenek - küzänäk - pore
+yılan - yılan - snake
+yedi&er - cide&är - seven each  
+bilezik - beläzek - bracelet
+üstünde - östendä - on top of
+bin - men - mount!
+yumru - yomrı - lump, swelling
+
+The main correspondences are:
+Turkish b-, y-, g- correspond to Tatar m-, c-, k- word-initially.
+Turkish ü, ö correspond to Tatar ö, ü.
+Turkish u, ı correspond to Tatar o, ı in most positions.
+
+Let me know if you need any clarification or have additional questions!

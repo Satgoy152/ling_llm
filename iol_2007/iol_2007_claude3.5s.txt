@@ -1,0 +1,90 @@
+I'll be happy to help you solve these computational linguistics problems. Let's go through them one by one.
+
+### Problem 1: Braille
+
+For this problem, we need to analyze the given Braille patterns and deduce the rules for translating English to Braille. Then we can apply these rules to the given sentence.
+
+Key observations:
+1. Each Braille character consists of 6 dots (2 columns, 3 rows).
+2. Capital letters are preceded by a special character (⠠).
+3. Numbers are preceded by a special character (⠼).
+4. Punctuation marks have their own Braille representations.
+
+Now, let's translate "Bring 40 pizzas and vermouth, Mark!" to Braille:
+
+⠠⠃⠗⠊⠝⠛ ⠼⠙⠚ ⠏⠊⠵⠵⠁⠎ ⠁⠝⠙ ⠧⠑⠗⠍⠕⠥⠞⠓⠂ ⠠⠍⠁⠗⠅⠖
+
+### Problem 2: Movima Language
+
+§1. The combination "n"" stands for a single specific consonant in Movima.
+
+§2. Filling in the gaps:
+
+| Base Form              | Negative Form          |
+|------------------------|------------------------|
+| as                     | kas asa:sa'            |
+| enferme:ra             | kas enferme:ra:ra'     |
+| ji#a:pa                | kas jika'#a:pa         |
+| de                     | kas deka:ka'           |
+| rulrul                 | kas rula'rul           |
+| tipoysu:da             | kas tipoka'ysu:da      |
+
+### Problem 3: Georgian Verb Forms
+
+After analyzing the patterns, here are the correct correspondences:
+
+1. vtkvi - I said
+2. kenit - you (pl.) did
+3. inadiret - you (pl.) hunted
+4. itavmGdomareve - you presided
+5. vsadilobt - we dine
+6. tkvi - you said
+7. vigoreb - I will roll
+8. vkeni - I did
+9. nadirob - you hunt
+10. visadileb - I will dine
+11. vinadire - I hunted
+12. ambob - you say
+13. vitavmGdomareve - I presided
+14. izamt - you (pl.) will do
+15. vivlit - we will walk
+
+### Problem 4: Ndom Language Squares
+
+§1. Determining which is which:
+1 = nif
+2 = mer
+3 = thonith
+4 = nif abo nif
+5 = nif thef
+6 = nif abo mer
+7 = nif thef abo mer
+8 = nif abo thonith
+9 = nif thef abo nif
+10 = mer abo sas
+
+§2. mer abo sas × meregh = tondor abo mer an thef abo meregh
+In numerals: 10 × 4 = 40
+
+§3. In numerals:
+nif ithin abo ithin = 11
+mer an thef abo meregh = 14
+
+§4. In Ndom:
+58 = nif thef abo nif abo ithin
+87 = nif thef abo nif abo mer thef abo nif
+
+### Problem 5: Turkish and Tatar
+
+Filling in the gaps:
+
+| Turkish            | Tatar           | Translation       |
+|--------------------|-----------------|-------------------|
+| usta               | osta            | master            |
+| gözenek            | küzänäk         | pore              |
+| yılan              | yılan           | snake             |
+| yedi&er            | cide&är         | seven each        |
+| bilezik            | beläzek         | bracelet          |
+| üstünde            | östendä         | on top of         |
+| bin                | men             | mount!            |
+| yumru              | yomrı           | lump, swelling    

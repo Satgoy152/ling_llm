@@ -1,0 +1,67 @@
+### Solution to Problem 1
+The braille transcription of the sentence "Bring 40 pizzas and vermouth, Mark!" is as follows:
+
+```
+⠠⠃⠗⠊⠝⠛ ⠼⠙⠚ ⠏⠊⠵⠵⠁⠎ ⠁⠝⠙ ⠧⠡⠍⠕⠥⠞⠓⠂ ⠠⠍⠁⠗⠅⠖
+```
+
+### Solution to Problem 2
+§1. The combination of two letters that always stands for a single specific consonant in Movima is "#".
+
+§2. The filled gaps are:
+- as → kas aka’sa’
+- enferme:ra → kas enfe’rme:ra
+- ji#a:pa → kas jia’a:pa
+- de → kas dea:na’
+- rulrul → kas rulru’la
+- tipoysu:da → kas tipoysu:da’a
+
+### Solution to Problem 3
+The correct correspondences are:
+- vtkvi → you (pl.) did
+- kenit → we dine
+- inadiret → you (pl.) hunted
+- itavmGdomareve → I will roll
+- vsadilobt → you said
+- tkvi → I did
+- vigoreb → you (pl.) will do
+- vkeni → you say
+- nadirob → you (pl.) presided
+- visadileb → I said
+- vinadire → you hunt
+- ambob → we will walk
+- vitavmGdomareve → I presided
+- izamt → I hunted
+- vivlit → I will dine
+
+### Solution to Problem 4
+§1. The Ndom numbers 1-10 squared are:
+1 → nif
+2 → mer abo ithin
+3 → thonith
+4 → sas
+5 → nif thef abo tondor abo mer abo thonith
+6 → nif thef abo mer an thef abo thonith
+7 → nif thef abo mer abo ithin
+8 → nif abo mer an thef abo sas
+9 → nif abo tondor abo mer abo thonith tondor abo mer abo sas
+10 → nif abo mer an thef abo thonith mer an thef abo thonith
+
+§2. The equality in numerals is: 5^2 = 7^2
+
+§3. The numerals are:
+49 and 25
+
+§4. The Ndom translations for 58 and 87 are not provided in the problem.
+
+### Solution to Problem 5
+Turkish words and their Tatar equivalents:
+- yedi&er → yedi&är
+- bilezik → belzik
+- üstünde → üstündä
+- bin → bin
+- yumru → yumru
+The Tatar words and their Turkish equivalents:
+- osta → usta
+- küzänäk → gözeneği
+- yılan → yılan

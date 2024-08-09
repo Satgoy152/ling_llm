@@ -1,0 +1,77 @@
+# Problem 1
+
+(a) Here is the braille representation of the sentence "Bring 40 pizzas and vermouth, Mark!":
+
+```
+⠠⠃⠗⠊⠝⠛ ⠲⠚⠔ ⠏⠊⠵⠵⠁⠎ ⠁⠝⠙ ⠧⠑⠗⠍⠕⠥⠹⠂ ⠠⠍⠁⠗⠅⠖
+```
+
+# Problem 2
+
+§1. The combination of two letters that always stands for a single specific consonant in Movima is "ch", which represents the sound /ʧ/.
+
+§2. Here are the missing forms filled in:
+
+| Base Form              | Translation             | Negative Form      |
+|------------------------|-------------------------|---------------------|
+| as                     | to sit                  | kas a:na'          |
+| enferme:ra             | nurse                   | kas enferme:rana'  |
+| ji#a:pa                | to grate manioc         | kas ji#a'pa        |
+| de                     | to lie                  | kas deka'          |
+| rulrul                 | jaguar                  | kas rulrula'       |
+| tipoysu:da             | dressed in tipoy        | kas tipoya'su:da   |
+| wurula                 | to roar                 | kas wurula:la'     |
+| dewaja                 | to see                  | kas dewaja'na      |
+| deka'wajna             | to see traces of somebody| kas deka'wajna    |
+
+# Problem 3
+
+The correct correspondences are:
+
+- vtkvi = I said
+- kenit = you (pl.) did
+- inadiret = you hunt
+- itavmGdomareve = you presided
+- vsadilobt = I will roll
+- tkvi = you said
+- vigoreb = I did
+- vkeni = I did
+- nadirob = I hunted
+- visadileb = I will dine
+- vinadire = I hunted
+- ambob = I will say
+- vitavmGdomareve = I presided
+- izamt = you (pl.) will do
+- vivlit = we will walk
+
+This is the most plausible solution, as it matches the English translations with the Georgian verb forms in a consistent way.
+
+# Problem 4
+
+§1. Determining the correspondences:
+
+nif = 1
+abo = square of
+mer = 2 
+an = 3
+thef = 4
+sas = 5
+tondor = 6
+thonith = 7
+ithin = 8
+nif abo mer an thef abo sas = 1^2, 2^2, 3^2, 4^2, 5^2
+nif thef abo tondor abo mer abo thonith mer an thef abo thonith = 1^2, 4^2, 6^2, 2^2, 7^2, 2 * 3, 4^2, 7^2
+nif = 1
+mer abo ithin = 2^2, 8^2
+thonith = 7
+sas = 5
+nif thef abo mer abo ithin = 1^2, 4^2, 2^2, 8^2
+nif abo tondor abo mer abo thonith tondor abo mer abo sas = 1^2, 6^2, 2^2, 7^2, 6^2, 2^2, 5^2
+
+§2. mer abo sas $ meregh = tondor abo mer an thef abo meregh
+2^2 $ 25 = 6^2 * 2^2 * 4^2 * 25
+
+§3. nif ithin abo ithin = 1^2 * 8^2
+mer an thef abo meregh = 2^2 * 3^2 * 4^2 * 25
+
+§4. 58 = mer abo sas = 2^2 
