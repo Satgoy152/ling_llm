@@ -1,0 +1,116 @@
+### Problem 1
+
+#### (a) Transcription of Words
+
+12. gsnqo’qon: [g@s@nqōxon] (foolishness)  
+13. tg’poq: [tg@b@q] (spring water)  
+14. gmu’jmin: [gm@ūjcın] (raspberry)  
+15. emtoqwatg: [@mt@qw@tk] (to worship)  
+16. te’plj: [tēpljc] (goat)  
+
+#### (b) Writing in Listuguj Orthography
+
+17. [@tp@dēs@n]: tped’sn (south)  
+18. [@mtesk@m]: amt’k’m (snake)  
+19. [alapt@k]: alapt’k (to look around)  
+20. [g@lamen]: glamn (so, therefore)  
+
+---
+
+### Problem 2
+
+#### (a) Rules of Dróttkvætt
+
+1. **Alliteration**: The first line of each distich contains two words that begin with the same sound, and the first word of the second line must also begin with this sound.
+2. **Vowel Alliteration**: All vowels alliterate with each other and with the sound [j].
+3. **Syllable Count**: Each line has a specific number of syllables (usually eight).
+4. **Rhythm**: The meter is characterized by a specific rhythmic pattern, typically involving stressed and unstressed syllables.
+
+#### (b) Filling in the Stanza
+
+1. [a] (þreifsk reiddra øxa)  
+2. [b] knǫ́ttu spjǫ́r [c] (hlaut)  
+3. [d] bitu seggi  
+4. [e] þjóðkonungs ferðar,  
+5. þás ([f] hǫlða)  
+6. [g] (rýmr) [h] (sigr) [i] (glymja)  
+7. (hǫ́r vas [j] of [k] )  
+8. [l] (flugbeiddra [m] ).
+
+The gaps filled are based on alliteration and contextual sense from the provided words.
+
+---
+
+### Problem 3
+
+#### (a) Determining the Correspondences
+
+1. **drai-hmitrötr**: sanctuary  
+2. **gaa-hmitrötr**: church  
+3. **i-drai**: bone  
+4. **i-jun**: bunch of bananas  
+5. **i-wahnawa**: coast  
+6. **jun**: calendar  
+7. **ngöne-gejë**: Sunday  
+8. **ngöne-uma**: awl  
+9. **nyine-thin**: skeleton  
+10. **uma-hmitrötr**: wall
+
+#### (b) Meaning of Words
+
+- **wahnawa**: coast  
+- **drai**: bone (possibly related to 'sacred' in context)  
+- **wöli**: fork  
+- **pulut**: pencil  
+
+#### (c) Translations
+
+- **i-bii**: you are a bee.
+- **tusi-hmitrötr**: book sanctuary.
+
+---
+
+### Problem 4
+
+#### (a) Translation into English
+
+1. caky2sm2tih: for the vine  
+2. k2m2Nšeh: as if with the shadow  
+3. P2s mok: my kettle  
+4. mis nd2ctaPm: with your chair  
+5. pahsunbit: just like the squash  
+6. perolkotoyašehtaPm: only like the town  
+
+#### (b) Translation into Copainalá Zoque
+
+1. for the chair: pokskuyotoyataPm  
+2. with my kettle: P2s peroltih  
+3. just like a mountain: pahsunšehtaPmdih  
+4. posts: P2s Ngom  
+5. above the shadows: kumguky2sm2tih  
+6. your town: mis kumguky2sm2  
+
+---
+
+### Problem 5
+
+#### (a) Translation into English
+
+1. Amaruup angatkuit takujanga: Your wolf saw the shaman.  
+2. Nanuit inuuhukturmik aanniqsijuq: The polar bear hurt the boy.  
+3. Angunahuktiit aarqijuq: The hunters speared the doctor.  
+4. Ilinniaqtitsiji qukiqtait: The teacher hurt your dog.  
+5. Qaijutit: You shot.  
+6. Angunahuktimik aarqisijutit: The hunters cured the doctor.  
+
+#### (b) Translation into Inuktitut
+
+1. The shaman hurt you: Angatkuq aanniqtuq.  
+2. The teacher saw the boy: Ilinniaqhituq inuuhuktuup.  
+3. Your wolf fell: Amaruup angatkuq.  
+4. You shot a dog: Qingmivit qukiqsijuq.  
+5. Your dog hurt a teacher: Qingmiup ilinniaqtitsijiit aanniqtanga.  
+
+---
+
+Good luck with your studies!

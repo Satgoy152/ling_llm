@@ -1,3 +1,5 @@
+Prompt: As an expert in computational linguistics solve the following problem:
+
 ### Problem 1 (20 points)
 The following are words of the Micmac language written in the so-called Listuguj orthography, their phonetic transcriptions, and English translations:
 
@@ -30,6 +32,8 @@ The following are words of the Micmac language written in the so-called Listuguj
 19. [alapt@k]: alapt’k (to look around)
 20. [g@lamen]: glamn (so, therefore)
 
+NB: Micmac is an Algonquian language. It is spoken by approx. 8000 people in Canada.
+In the transcription [@] ≈ o in abbot, [c] = ch in church, [j] = j in judge, [x] = ch in Scottish loch, [G] is the same sound but voiced; [w] shows that the preceding consonant is pronounced with rounded lips. The mark  ̄ denotes vowel length. —Bozhidar Bozhanov
 ---
 
 ### Problem 2 (20 points)
@@ -61,24 +65,37 @@ The following are four excerpts from Old Norse poems composed around 900 C.E. Al
 5. þás á rausn fyr ræsi
 6. (réð egglituðr) seggir . . .
 
+One of the main principles of dróttkvætt is alliteration. The first line of each distich (pair of lines) contains two words 
+beginning with the same sound, and the first word of the second line begins with this sound, too: e. g., rausnarsamr, rimmu and ríðviggs (III:3–4). 
+All vowels are considered to alliterate with one another and with j: e. g., ók, ísarnleiki and Jarðar (I:1–2). But this is not the only rule.
+The texts given above have been handed down in more than one manuscript. Sometimes different words are found in corresponding parts of the text, 
+and the scholars have to decide which of the variants is original. Different considerations may motivate the conclusion. Sometimes the rules of versification
+help to recognize some of the variants as false. For example, in line I:2 we find not only dunði, but also dulði and djarfi. dulði can be rejected
+because of the structure of the verse, but both dunði and djarfi fit into the line, and one needs other reasons to choose between these words. In line
+III:1 Gripnis and Grímnis occur in the manuscripts, but Grímnis doesn’t fulfill the requirements of the verse.
+
 (a) Describe the rules which are observed in a distich of dróttkvætt.
 
 (b) Given is a stanza in which 13 words are omitted:
 
 **V**
-1. a (þreifsk reiddra øxa
-2. b ; knǫ́ttu spjǫ́r c )
-3. d bitu seggi
-4. e þjóðkonungs ferðar,
-5. þás ( f hǫlða)
-6. g h i
-7. (hǫ́r vas j of k )
-8. l (flugbeiddra m ).
+1. [a] (þreifsk reiddra øxa
+2. [b] ; knǫ́ttu spjǫ́r [c] )
+3. [d] bitu seggi
+4. [e] þjóðkonungs ferðar,
+5. þás ( [f] hǫlða)
+6. [g] [h] [i]
+7. (hǫ́r vas [j] of [k] )
+8. [l] (flugbeiddra [m] ).
 
 The following list contains (in alphabetical order) all 13 omitted words and two words which do not belong in stanza V:
 - andskoti, Gauta, glymja, hlaut, hugfyldra, hœgra, ríks, rymr, sigr, smíði, svartskyggð, sverð, svírum, sǫngr, vigra
 
 Fill in the gaps in stanza V.
+
+NB: Old Norse is a North Germanic language which was in use approximately between 700 and 1100 C.E.
+æ ≈ English a in cat, œ = French eu or German ö (these letters stand for long vowels). ø is readasashortœ;y=FrenchuorGermanü,o ̨ 
+isanopeno. auandeiarepronouncedasa single syllable. ð and þ = English th in this and thin respectively. x = k+s. The mark  ́ denotes vowel length. All samples of poetry in the problem are given in a normalized orthography and conform to the rules of the genre. —Alexander Piperski
 
 ---
 
@@ -97,6 +114,18 @@ The following are words and compounds in two languages of New Caledonia – Dreh
 - nyine-thin
 - uma-hmitrötr
 
+**English**
+- sanctuary
+- bunch of bananas
+- calendar
+- bone
+- church
+- coast
+- awl
+- Sunday
+- skeleton
+- wall
+
 **Cemuhî**
 - a-pulut
 - ba-bwén
@@ -109,16 +138,6 @@ The following are words and compounds in two languages of New Caledonia – Dreh
 - wöta
 
 **English**
-- sanctuary
-- bunch of bananas
-- calendar
-- bone
-- church
-- coast
-- awl
-- Sunday
-- skeleton
-- wall
 - bed
 - animal
 - fork
@@ -131,21 +150,25 @@ The following are words and compounds in two languages of New Caledonia – Dreh
 
 And here are several words translated from Drehu into Cemuhî:
 
-**Drehu**
-- gaa
-- ngöne-gejë
-- nyine thin
-
-**Cemuhî**
-- a
-- ba-jié
-- bé wöli
+| **Drehu**       | **Cemuhî**   |
+|-----------------|--------------|
+| gaa             | a            |
+| ngöne-gejë      | ba-jié       |
+| nyine           | bé           |
+| thin            | wöli         |
 
 (a) Determine the correct correspondences.
 
 (b) What do you think the words wahnawa and drai mean in Drehu, and wöli and pulut in Cemuhî?
 
 (c) In Drehu tusi is ‘book’ and bii is ‘bee’. Translate from Drehu: i-bii, tusi-hmitrötr.
+
+NB: Drehu is spoken by over 10 000 people on Lifu Island to the east of New Caledonia. Cemuhî is spoken by approx.
+2000 people on the east coast of New Caledonia. Both languages belong to the Austronesian family.
+In Drehu ë ≈ a in aspen, ö = French eu or German ö, hm and hn are specific unvoiced consonants; dr and tr ≈ d and t
+in word and art, uttered with the tip of the tongue turned back; j and th = English th in this and thin respectively; 
+ng = ng in hang; ny ≈ ni in onion.
+A sanctuary is the principal, most sacred part of a church. —Ksenia Gilyarova
 
 ---
 
@@ -193,6 +216,11 @@ The following are words in Copainalá Zoque and their English translations:
 5. above the shadows
 6. your town
 
+NB: The Copainalá Zoque language is of the Mixe-Zoque linguistic family. It is spoken by approx. 10 000 people in the
+province Chiapas in southern Mexico.
+2 ≈ u in but; c ≈ ts in hats (pronounced as a single consonant), nc ≈ nds in hands, ˇs = sh, N = ng in hang, y = y in 
+yay!; P is a specific consonant (the so-called glottal stop).
+—Ivan Derzhanski
 ---
 
 ### Problem 5 (20 points)
@@ -230,6 +258,9 @@ The following are sentences in Inuktitut and their English translations:
 4. You shot a dog.
 5. Your dog hurt a teacher.
 
+NB: Inuktitut (Canadian Inuit) belongs to the Eskimo-Aleut family of languages. It is spoken by approx. 35 000 people in the northern part of Canada.
+The letter r denotes a ‘Parisian’ r (pronounced far back in the mouth), and q stands for a k-like sound made in the same place.
+A shaman is a priest, sorcerer and healer in some cultures. —Bozhidar Bozhanov
 ---
 
 Good luck!

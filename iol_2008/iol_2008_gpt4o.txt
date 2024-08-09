@@ -1,0 +1,116 @@
+Let's delve into each problem one by one.
+
+### Problem 1: Micmac Language
+
+#### Part (a): Transcribe the following words
+
+12. gsnqo’qon: [g@s@nqōxon] (foolishness)  
+13. tg’poq: [tg@b@q] (spring water)  
+14. gmu’jmin: [gm@ūjcın] (raspberry)  
+15. emtoqwatg: [@mt@qw@tk] (to worship)  
+16. te’plj: [tēpljc] (goat)  
+
+#### Part (b): Write in the Listuguj orthography
+
+17. [@tp@dēs@n]: tped’sn (south)  
+18. [@mtesk@m]: amt’k’m (snake)  
+19. [alapt@k]: alapt’k (to look around)  
+20. [g@lamen]: glamn (so, therefore)  
+
+### Problem 2: Old Norse Poetry
+
+#### Part (a): Describe the rules of a dróttkvætt distich
+
+The dróttkvætt meter is a form of Old Norse poetry characterized by:
+- Each distich (pair of lines) having six syllables per line.
+- Lines contain internal alliteration, where the first line of each pair has two alliterating staves, and the second line begins with a word that alliterates with them.
+- All vowels alliterate with each other.
+- Each line contains a specific pattern of consonants and vowel length.
+
+#### Part (b): Fill in the gaps in stanza V
+
+**V**
+1. [a] (þreifsk reiddra øxa
+2. [b] ; knǫ́ttu spjǫ́r [c] )
+3. [d] bitu seggi
+4. [e] þjóðkonungs ferðar,
+5. þás ( [f] hǫlða)
+6. [g] [h] [i]
+7. (hǫ́r vas [j] of [k] )
+8. [l] (flugbeiddra [m] ).
+
+Filled stanza V:
+1. sverð (þreifsk reiddra øxa
+2. rymr ; knǫ́ttu spjǫ́r andskoti)
+3. svartskyggð bitu seggi
+4. sigr þjóðkonungs ferðar,
+5. þás ríks hǫlða
+6. glymja Gauta svírum
+7. (hǫ́r vas hugfyldra of hlaut)
+8. smíði (flugbeiddra sǫngr).
+
+### Problem 3: Drehu and Cemuhî Languages
+
+#### Part (a): Determine the correct correspondences
+
+Based on the given translations:
+- i-drai = skeleton
+- i-jun = Sunday
+- i-wahnawa = wall
+- drai-hmitrötr = bone
+- gaa-hmitrötr = awl
+- ngöne-uma = coast
+- uma-hmitrötr = church
+
+#### Part (b): Identify meanings
+
+- wahnawa (Drehu) = wall
+- drai (Drehu) = skeleton or bone
+- wöli (Cemuhî) = fork
+- pulut (Cemuhî) = pencil
+
+#### Part (c): Translate from Drehu
+
+- i-bii = bee  
+- tusi-hmitrötr = book (likely "book" since hmitrötr is used for tools or objects)
+
+### Problem 4: Copainalá Zoque Language
+
+#### Part (a): Translate into English
+
+1. caky2sm2tih = above the vine
+2. k2m2Nšeh = like a shadow
+3. P2s mok = my corn
+4. mis nd2ctaPm = with your tooth
+5. pahsunbit = as if with a squash
+6. perolkotoyašehtaPm = just like a kettle
+
+#### Part (b): Translate into Copainalá Zoque
+
+1. for the chair = pokskukyotoya
+2. with my kettle = P2s peroltih
+3. just like a mountain = k2m2ktaPmšehtaPm
+4. posts = P2s Ngom
+5. above the shadows = kumg2sm2 k2m2NdaPm
+6. your town = mis kumguky
+
+### Problem 5: Inuktitut Language
+
+#### Part (a): Translate into English
+
+1. Amaruup angatkuit takujanga = The shaman saw the wolf.
+2. Nanuit inuuhukturmik aanniqsijuq = The polar bear hurt the boy.
+3. Angunahuktiit aarqijuq = The hunters cured.
+4. Ilinniaqtitsiji qukiqtait = The teacher shot them.
+5. Qaijutit = You came.
+6. Angunahuktimik aarqisijutit = You cured a hunter.
+
+#### Part (b): Translate into Inuktitut
+
+1. The shaman hurt you = Angatkuq aanniqtutit.
+2. The teacher saw the boy = Ilinniaqtitsijiup inuuhuktut takujaanga.
+3. Your wolf fell = Amaruvit ukiakhaqtanga.
+4. You shot a dog = Qingmimik qukiqsijutit.
+5. Your dog hurt a teacher = Qingmivit ilinniaqtitsijimik aanniqsijanga.
+
+These solutions comprehensively address each subproblem, adhering to the linguistic nuances of each language.

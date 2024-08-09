@@ -1,0 +1,121 @@
+## Solutions to Computational Linguistics Problems
+
+### Problem 1: Micmac
+
+**(a) Transcriptions:**
+
+12. gsnqo’qon:  **[g@s@nqōxon]** (foolishness)
+13. tg’poq: **[tg@b@q]** (spring water)
+14. gmu’jmin: **[gm@ūjcın]** (raspberry)
+15. emtoqwatg: **[@mt@qw@tk]** (to worship)
+16. te’plj: **[tēpljc]** (goat)
+
+**(b) Listuguj orthography:**
+
+17. [@tp@dēs@n]:  **tped’sn** (south)
+18. [@mtesk@m]: **amt’k’m** (snake)
+19. [alapt@k]: **alapt’k** (to look around)
+20. [g@lamen]: **glamn** (so, therefore)
+
+### Problem 2: Old Norse Dróttkvætt
+
+**(a) Rules of Dróttkvætt:**
+
+A distich in Dróttkvætt observes these alliteration rules:
+
+* **Line 1:** Two words within the line must alliterate.
+* **Line 2:** The first word of the second line must alliterate with the alliterating sounds of the first line.
+* **Vowel Alliteration:** All vowels (a, e, i, o, u, y, æ, ø, ö) and the consonant 'j' are considered to alliterate with each other.
+
+**(b) Filling the Gaps in Stanza V:**
+
+1. **Svartskyggð** (þreifsk reiddra øxa
+2. **hlaut** ; knǫttu spjǫ́r **hœgra**)
+3. **Rymr** bitu seggi
+4. **Smiði** þjóðkonungs ferðar,
+5. þás ( **sigr** hǫlða)
+6. **Gauta** **ríks** **sverð** 
+7. (hǫ́r vas **sǫngr** of **glymja**)
+8. **Vigra** (flugbeiddra **hugfyldra**).
+
+**Explanation:**
+
+We choose these words based on alliteration rules and context:
+
+* Line 1: "Svartskyggð" alliterates with "þreifsk" (both begin with 's').
+* Line 2: "hlaut" alliterates with the 'h' in "Svartskyggð", and "hœgra" alliterates with "hlaut" (both begin with 'h').
+* Line 3: "Rymr" alliterates with "reiddra" from line 1 (both begin with 'r').
+* Line 4: "Smiði" alliterates with "seggi" (both begin with 's'). 
+* Line 5: "Sigr" alliterates with "Smiði" (both begin with 's').
+* Line 6: "Gauta," "ríks," and "sverð" alliterate with each other (all begin with vowels).
+* Line 7: "sǫngr" alliterates with "sverð," and "glymja" alliterates with "Gauta."
+* Line 8: "Vigra" alliterates with the 'v' sound in "vas" and "hugfyldra" alliterates with "hǫlða."
+
+### Problem 3: Drehu and Cemuhî
+
+**(a) Correspondences:**
+
+| **Drehu**      | **English**        | **Cemuhî**   |
+|-----------------|-------------------|--------------|
+| drai-hmitrötr | calendar         | bé-ôdu       |
+| gaa-hmitrötr  | bunch of bananas | a-pulut      |
+| i-drai        | Sunday            | i-drai       |
+| i-jun         | bone              | ba-bwén      |
+| i-wahnawa     | church            | bé-wöli-wöta |
+| jun           | awl               | tii          |
+| ngöne-gejë     | fork              | ba-jié       |
+| ngöne-uma      | wall              | bé-tii       |
+| nyine-thin     | pencil            | bé-wöli      |
+| uma-hmitrötr  | sanctuary         |  -           |
+
+**(b) Word Meanings:**
+
+* **wahnawa (Drehu):** Likely means "house" or "building" as it combines with "i-" to form "church" (a type of building).
+* **drai (Drehu):** Probably means "day" or "sun," considering "i-drai" translates to "Sunday."
+* **wöli (Cemuhî):**  Likely means "wood" or "stick," as "bé-wöli" translates to "pencil" and "bé-wöli-wöta" translates to "church" (potentially a building made of wood).
+* **pulut (Cemuhî):**  Possibly means "fruit" or "cluster," as "a-pulut" translates to "bunch of bananas."
+
+**(c) Translations from Drehu:**
+
+* **i-bii:** bee (Following the pattern of "i-drai" for Sunday and "i-jun" for bone)
+* **tusi-hmitrötr:** library (Assuming "hmitrötr" implies a collection or place related to the root word) 
+
+### Problem 4: Copainalá Zoque
+
+**(a) Translations into English:**
+
+1.  caky2sm2tih:  **right above the vine**
+2.  k2m2Nšeh:  **like a shadow**
+3.  P2s mok:  **my corn**
+4.  mis nd2ctaPm:  **your teeth**
+5.  pahsunbit:  **with a squash**
+6.  perolkotoyašehtaPm:  **just like for a kettle**
+
+**(b) Translations into Copainalá Zoque:**
+
+1.  for the chair:  **pokskuykotoya**
+2.  with my kettle:  **mis nperol** 
+3.  just like a mountain:  **koc2ktašehtaPm**
+4.  posts:  **Ngom**
+5.  above the shadows:  **k2m2NdaPm2sm2**
+6.  your town:  **mi kumguk**
+
+### Problem 5: Inuktitut
+
+**(a) Translations into English:**
+
+1. Amaruup angatkuit takujanga. - **The wolf saw your shaman.**
+2. Nanuit inuuhukturmik aanniqsijuq. - **The polar bear hurt the boy.**
+3. Angunahuktiit aarqijuq. - **Your hunter recovered/was cured.** 
+4. Ilinniaqtitsiji qukiqtait. - **You shot your teacher.**
+5. Qaijutit. - **You came.**
+6. Angunahuktimik aarqisijutit. - **You cured the hunter.**
+
+**(b) Translations into Inuktitut:**
+
+1. The shaman hurt you. - **Angatkuq aanniqtuq.**
+2. The teacher saw the boy. - **Ilinniaqtitsiji inuuhuktuq takujauq.**
+3. Your wolf fell. - **Amaruukit ukiakhaqtuq.** 
+4. You shot a dog. - **Qingmik qukiqtauq.**
+5. Your dog hurt a teacher. - **Qingmiq ilinniaqtitsijimik aanniqpait.** 
+
