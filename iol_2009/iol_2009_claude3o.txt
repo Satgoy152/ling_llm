@@ -1,0 +1,89 @@
+Here are the solutions to the problems:
+
+Problem 1:
+
+(a) Translations into English:
+1. a ksie a tgiang - 1 coconut 
+2. o ngaitegaap a korlotge - 13 breadfruits
+3. o ngausmia a ktiëk - 7 coconuts
+4. o vuo a lo ktiëk hori orom a tgiang - 11 betel nuts
+
+(b) Translations into Sulka:
+1. 2 yams - a lo tu a lomin  
+2. 14 yams - o sngu a ktiëk hori orom a korlolo
+3. 15 breadfruits - o moulang a korlotge  
+4. 20 betel nuts - o vuo a mhelom
+
+The key observations are:
+- Numbers 1-3 use special words. 4-9 are formed by adding numbers together.
+- 10 is a lo X, 20 is X a mhelom 
+- Hori orom means "plus"
+- The order is number - object - number
+
+Problem 3:
+
+Based on the birthdate patterns, the matching of names to birthdates is:
+
+Boys:
+- Nwe si6þu - 06/14/2009  
+- so mo cO - 06/16/2009
+- yE au6 nai6 - 07/09/2009
+
+Girls: 
+- daliya - 06/24/2009
+- e ti6 - 07/13/2009  
+- phyuphyu wi6 - 07/18/2009
+
+The key observations are:
+- Boys tend to be born on odd days, girls on even days
+- The name endings correlate with the birth month (e.g. au6 in July)
+
+Problem 4:
+
+(a) It's not possible to determine stress placement for those stems because:
+- They don't have any long vowels or diphthongs which are always stressed
+- They have multiple short vowels and no data to determine which one is stressed
+
+(b) Stress marked stems:
+
+- mr.dh-rá-
+- phe-ná-  
+- stú-ti-
+- tán-ti-
+- bhā́r-a-
+- dū́-ta- 
+- sváp-na-
+- bhū́-mi-
+- ghár-ma-
+- ábh-ra-
+- ghán-a-  
+- ghr.s.-ví-
+
+The key observations are:
+- Long vowels and diphthongs are always stressed if present
+- Otherwise the first vowel is stressed
+
+Problem 5:
+
+(a) English translations:
+1. you make the woman love the carpenter / you make the carpenter love the woman 
+2. he/she/it makes me shout
+3. you beat him/her/it  
+4. I sing the song for the healer
+5. I want the atole
+6. he/she/it makes you leave something 
+
+(b) Nahuatl translations:
+1. nēchchīhualtia in ātōlli
+2. tiktēkāhuilia in oktli  
+3. mitzkochitia in tīzītl
+4. niklakēhua  
+5. nihuetzi
+
+The key observations are:
+- Subject and object pronouns are prefixes
+- "Something" is incorporated into the verb
+- Causative is formed by suffixes -tia and -ltia
+- Applicative (for someone) is formed by suffix -lia
+
+Let me know if you need any clarification or have additional questions!

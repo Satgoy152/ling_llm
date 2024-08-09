@@ -1,0 +1,122 @@
+Sure, let's solve the computational linguistics problems step by step.
+
+### Problem 1
+
+#### (a) Translate into English:
+
+1. **a ksie a tgiang**: 
+   - "1 coconut" 
+   - "a tgiang" is used for singular items, and "a ksie" corresponds to "coconut".
+
+2. **o ngaitegaap a korlotge**: 
+   - "18 coconuts" 
+   - "o ngaitegaap" is "18" and "a korlotge" corresponds to "coconuts".
+
+3. **o ngausmia a ktiëk**: 
+   - "15 yams"
+   - "o ngausmia" is "15", and "a ktiëk" corresponds to "yams".
+
+4. **o vuo a lo ktiëk hori orom a tgiang**: 
+   - "19 betel nuts"
+   - "o vuo a lo ktiëk hori orom" is "19", and "a tgiang" is used for singular items, but since the structure follows the pattern seen in the translations, it refers to the plural form of "betel nuts".
+
+#### (b) Translate into Sulka:
+
+1. **2 yams**:
+   - "a lo tu a lomin" 
+   - "a lo" corresponds to "2", "tu" for "yam", and "a lomin" indicates plural.
+
+2. **14 yams**:
+   - "o ngausmia a tu a lomin" 
+   - "o ngausmia" is "14", "a tu" for "yam", and "a lomin" indicates plural.
+
+3. **15 breadfruits**:
+   - "o ngausmia a moulang hori orom a tgiang"
+   - "o ngausmia" is "15", and "a moulang" means "breadfruit", with "hori orom a tgiang" indicating the plural form.
+
+4. **20 betel nuts**:
+   - "o sngu a vhoi a mhelom"
+   - "o sngu" is "20", "a vhoi" is "betel nut", and "a mhelom" is used in the context for plural.
+
+### Problem 3
+
+Based on the given data and the pattern of names and birth dates, we can map out the new children as follows:
+
+**Boys:**
+
+- **Nwe si6þu**: Born on 06/14/2009
+- **so mo cO**: Born on 06/16/2009
+- **yE au6 nai6**: Born on 07/09/2009
+
+**Girls:**
+
+- **daliya**: Born on 06/24/2009
+- **e ti6**: Born on 07/13/2009
+- **phyuphyu wi6**: Born on 07/18/2009
+
+This is based on matching the given pattern of male and female names with their corresponding birth dates.
+
+### Problem 4
+
+#### (a) Explain why it is not possible to use these data to determine the placement of the stress of the following stems:
+
+The stems listed (bhāg-a-, pad-a-, pat-i-, us-ri-) lack additional morphological or phonetic context in the provided data to ascertain their stress patterns. The stress in these stems could potentially follow a different rule or pattern not covered by the examples given.
+
+#### (b) Indicate the stress of the word stems given below:
+
+1. **mr.dh-ra-**: mŕ.dh-ra- (foe)
+2. **phe-na-**: phé-na- (foam)
+3. **stu-ti-**: stú-ti- (praise)
+4. **tan-ti-**: tánti- (cord)
+5. **bhār-a-**: bhā́r-a- (burden)
+6. **dū-ta-**: dú-ta- (messenger)
+7. **svap-na-**: sváp-na- (sleep)
+8. **bhū-mi-**: bhū́-mi- (earth, soil)
+9. **ghar-ma-**: ghár-ma- (heat)
+10. **abh-ra-**: ábh-ra- (cloud)
+11. **ghan-a-**: ghán-a- (killing)
+12. **ghr.s.-vi-**: ghr.s.́-vi- (exuberant)
+
+These stress patterns are inferred based on the stress patterns observed in the provided examples.
+
+### Problem 5
+
+#### (a) Translate into English in all possible ways:
+
+1. **tiktlazohtlaltia in zihuātl in kuauhx̄ınki**:
+   - The woman makes the carpenter love.
+   - The carpenter makes the woman love.
+
+2. **nēchtzāhtz̄ıtia**:
+   - You make me shout.
+
+3. **tikhūıteki**:
+   - You cut something.
+
+4. **nikēhuilia in kikatl in t̄ız̄ıtl**:
+   - I make the song sing the healer.
+
+5. **nikneki in ātōlli**:
+   - I want the atole.
+
+6. **mitztlakāhualtia**:
+   - He/She/They make(s) you leave.
+
+#### (b) Translate into Nahuatl:
+
+1. **he makes me prepare the atole**:
+   - Nitēkāhualtia in ātōlli.
+
+2. **you prepare the wine for somebody**:
+   - Titēkāhualtiaya in oktli.
+
+3. **the healer makes you sleep**:
+   - Tēkhūılti in t̄ızıtl.
+
+4. **I sing something**:
+   - Nikhūıka.
+
+5. **I fall**:
+   - Nīhūıtz.
+
+These translations are based on the patterns observed in the provided translations.

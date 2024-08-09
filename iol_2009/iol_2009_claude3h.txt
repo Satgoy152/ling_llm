@@ -1,0 +1,89 @@
+Here is my attempt at solving the problems:
+
+### Problem 1
+
+(a) Translate into English:
+
+1. a ksie a tgiang - 1 coconut
+2. o ngaitegaap a korlotge - 6 breadfruits
+3. o ngausmia a ktiëk - 10 coconuts
+4. o vuo a lo ktiëk hori orom a tgiang - 19 betel nuts
+
+(b) Translate into Sulka:
+
+1. 2 yams - a lo tu a lomin
+2. 14 yams - o sngu a korlolo hori orom a ktiëk
+3. 15 breadfruits - a lo ngaitegaap hori orom a korlotge
+4. 20 betel nuts - o vuo a mhelom
+
+### Problem 3
+
+Here is when each child was born:
+
+**Boys**
+- Nwe si6þu - 06/14/2009
+- so mo cO - 06/16/2009 
+- yE au6 nai6 - 06/24/2009
+
+**Girls**
+- daliya - 07/09/2009
+- e ti6 - 07/13/2009
+- phyuphyu wi6 - 07/18/2009
+
+### Problem 4
+
+(a) It is not possible to determine the placement of the stress for the following stems because they do not contain the stressed vowel marked with the acute accent (´) that is present in the other data:
+- bhāg-a- 'share'
+- pad-a- 'step' 
+- pat-i- 'lord'
+- us-ri- 'morning light'
+
+(b) Stress placement for the additional word stems:
+
+- mr.dh-rá-: foe
+- phé-na-: foam
+- stú-ti-: praise
+- tán-ti-: cord
+- bhár-a-: burden
+- dū́-ta-: messenger
+- svá-pna-: sleep
+- bhū́-mi-: earth, soil
+- ghár-ma-: heat
+- ábh-ra-: cloud
+- ghán-a-: killing
+- ghr.s.-ví-: exuberant
+
+### Problem 5
+
+(a) Translations:
+
+1. tiktlazohtlaltia in zihuātl in kuauhx̄ınki
+   - You make the woman love the carpenter.
+   - You make the carpenter love the woman.
+
+2. nēchtzāhtz̄ıtia
+   - He makes me shout.
+   - He shouts for me.
+
+3. tikhūıteki
+   - You beat somebody.
+   - You beat for somebody.
+
+4. nikēhuilia in kikatl in t̄ız̄ıtl
+   - I make the healer sing the song.
+   - I sing the song for the healer.
+
+5. nikneki in ātōlli
+   - I want the atole.
+
+6. mitztlakāhualtia
+   - He makes you leave something.
+   - He leaves something for you.
+
+(b) Translations into Nahuatl:
+
+1. he makes me prepare the atole - nitech̄ıhualtia in ātōlli
+2. you prepare the wine for somebody - tikōnāchīhua in oktli
+3. the healer makes you sleep - mitztech̄ıhualtia in kochi in t̄ız̄ıtl 
+4. I sing something - nikēhua se kikatl
+5. I fall - nihuetzi

@@ -1,0 +1,139 @@
+### Problem 1
+
+#### Part (a): Translate into English
+
+1. **a ksie a tgiang**  
+   Translation: **1 coconut**
+
+2. **o ngaitegaap a korlotge**  
+   Translation: **3 breadfruits**
+
+3. **o ngausmia a ktiëk**  
+   Translation: **3 yams**
+
+4. **o vuo a lo ktiëk hori orom a tgiang**  
+   Translation: **7 coconuts**
+
+#### Part (b): Translate into Sulka
+
+1. **2 yams**  
+   Translation: **a lo sngu a lomin**
+
+2. **14 yams**  
+   Translation: **o sngu a lo ktiëk hori orom a korlotge**
+
+3. **15 breadfruits**  
+   Translation: **o ngaitegaap a korlotge hori orom a korlotge**
+
+4. **20 betel nuts**  
+   Translation: **o vuo a mhelom**
+
+---
+
+### Problem 3
+
+#### Who was born when?
+
+**Boys:**
+- kau6 myaP: 06/01/2009
+- zeiya cO: 06/09/2009
+- pyesou6 au6: 06/18/2009
+- ne li6: 06/20/2009
+- lwi6 koko: 06/24/2009 (new child: Nwe si6þu)
+- phou6 nai6 thu6: 06/25/2009
+- myo khi6 wi6: 07/02/2009
+- ti6 mau6 laP: 07/04/2009
+- khai6 mi6 thu6: 07/06/2009
+- wi6 cO au6: 07/08/2009
+- thEP au6: 07/11/2009
+- sha6 thu6: 07/21/2009
+
+**Girls:**
+- pa6 we: 06/04/2009
+- thou6 u6: 06/06/2009
+- khi6 le nwE: 06/08/2009
+- wi6 i mu6: 06/10/2009
+- mimi khai6: 06/18/2009
+- su myaP so: 06/30/2009
+- susu wi6: 07/07/2009
+- yadana u: 07/08/2009
+- ti6 za mO: 07/11/2009
+- yi6yi6 myi6: 07/15/2009
+- keþi thu6: 07/20/2009
+- shu ma6 cO: 07/21/2009
+
+**New Children:**
+- Nwe si6þu: 06/14/2009 (boy)
+- so mo cO: 06/16/2009 (boy)
+- yE au6 nai6: 06/16/2009 (boy)
+- daliya: 06/14/2009 (girl)
+- e ti6: 06/16/2009 (girl)
+- phyuphyu wi6: 06/16/2009 (girl)
+
+---
+
+### Problem 4
+
+#### Part (a): Explain why it is not possible to determine the placement of the stress
+
+The stems provided in the table do not include sufficient information regarding the specific phonetic environment or morphology of the words bhāg-a-, pad-a-, pat-i-, and us-ri-. These stems may exhibit variable stress patterns based on their usage in sentences, their inflected forms, and the presence of prefixes or suffixes. Moreover, without a larger corpus of related words or their inflected forms, it is impossible to ascertain consistent stress patterns.
+
+#### Part (b): Indicate the stress of the word stems
+
+- **mr.dh-ra-**: foe → **mŕ.dh-ra-**
+- **phe-na-**: foam → **phé-na-**
+- **stu-ti-**: praise → **stú-ti-**
+- **tan-ti-**: cord → **tań-ti-**
+- **bhār-a-**: burden → **bhár-a-**
+- **dū-ta-**: messenger → **dú-ta-**
+- **svap-na-**: sleep → **svá-pna-**
+- **bhū-mi-**: earth, soil → **bhú-mi-**
+- **ghar-ma-**: heat → **ghár-ma-**
+- **abh-ra-**: cloud → **abh-rá-**
+- **ghan-a-**: killing → **ghán-a-**
+- **ghr.s.-vi-**: exuberant → **ghŕ.s.-vi-**
+
+---
+
+### Problem 5
+
+#### Part (a): Translate into English in all possible ways
+
+1. **tiktlazohtlaltia in zihuātl in kuauhx̄ınki**  
+   Translation: "He makes the woman prepare the love for the carpenter." / "The carpenter makes the woman prepare the love."
+
+2. **nēchtzāhtz̄ıtia**  
+   Translation: "He makes me sleep." / "I make him sleep."
+
+3. **tikhūıteki**  
+   Translation: "You prepare something." / "You make something."
+
+4. **nikēhuilia in kikatl in t̄ız̄ıtl**  
+   Translation: "I make the song for the healer." / "I prepare the song for the healer."
+
+5. **nikneki in ātōlli**  
+   Translation: "I drink the atole." / "I make him drink the atole."
+
+6. **mitztlakāhualtia**  
+   Translation: "He makes somebody leave the shout." / "He prepares the shout for somebody."
+
+#### Part (b): Translate into Nahuatl
+
+1. **he makes me prepare the atole**  
+   Translation: **nikhūıtlakāhuilia in ātōlli**
+
+2. **you prepare the wine for somebody**  
+   Translation: **tikhūītekiahualtia in oktli in somebody**
+
+3. **the healer makes you sleep**  
+   Translation: **kikahūıteki tiktlahūia in t̄ız̄ıtl**
+
+4. **I sing something**  
+   Translation: **nikhūītkia**
+
+5. **I fall**  
+   Translation: **nikhūītlahualia** 
+
+--- 
+
+This completes the translations and explanations for the given problems.

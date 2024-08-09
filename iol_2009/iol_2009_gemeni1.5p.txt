@@ -1,0 +1,111 @@
+## Computational Linguistics Problem Set Solutions
+
+Here are my attempts to solve the given computational linguistics problems:
+
+**Problem 1: Sulka Language**
+
+**(a) Translate into English:**
+
+1. **a ksie a tgiang:** 1 coconut 
+2. **o ngaitegaap a korlotge:** 3 breadfruits
+3. **o ngausmia a ktiëk:** 6 coconuts
+4. **o vuo a lo ktiëk hori orom a tgiang:** 7 betel nuts and 1 yam 
+
+**(b) Translate into Sulka:**
+
+1. **2 yams:** a lo tu a lomin
+2. **14 yams:** o sngu a ktiëk hori orom a lo tu a lomin 
+3. **15 breadfruits:** o ngaitegaap a korlotge hori orom a korlotge
+4. **20 betel nuts:** a lo vhoi a mhelom 
+
+**Explanation:**
+
+By analyzing the given phrases, we can identify the following patterns:
+
+* **Numbers:**  "a" seems to be used for singular nouns, "a lo" for two, "o vuo" for three, "o sngu" for four, "o sngu a ktiëk" for six and ten.  "hori orom" appears to function like "and" or "plus", allowing for combinations like six plus two.  There's also "korlotge" for three (when used with breadfruit and coconuts), "korlolo" for four and sixteen, "mhelom" for twenty, and "ngausmia" and "ngaitegaap" used for multiples of ten coconuts and breadfruits respectively.
+* **Nouns:** "vhoi" - betel nut, "tu" - yam, "ksie" - coconut, "moulang hori orom a tgiang" - breadfruit
+* **Counters:** "tgiang" seems to mark singular items, while "lomin" is used for plural objects when counting in twos.
+
+**Problem 3: Burmese Birthdays**
+
+Based on the provided information and using the knowledge that Burmese names are often chosen based on the day of the week a child is born, we can make the following deductions:
+
+* **Saturday:**  The only boys in the original list born on a Saturday are kau6 myaP and zeiya cO. Therefore, yE au6 nai6 must have been born on a Saturday, leaving 06/14/2009 and 06/24/2009 as possibilities.
+* **Tuesday:** The only girl in the original list born on a Tuesday is wi6 i mu6. Since the names of Tuesday-born girls usually start with "wi6", phyuphyu wi6 was likely born on 06/16/2009.
+* **Thursday:** We can observe that the names of Thursday-born boys usually end in "thu6". Therefore, Nwe si6þu was most likely born on a Thursday, leaving 07/09/2009 and 07/18/2009 as possibilities. 
+
+Without further cultural information about Burmese naming conventions, it is difficult to pinpoint the exact birth dates for the remaining children. 
+
+**Problem 4: Old Indic Stress**
+
+**(a) Why stress placement cannot be determined:**
+
+The provided data doesn't offer a clear rule for determining stress in the given stems because:
+
+* **bhāg-a-, pad-a-, pat-i-, us-ri-**  don't follow any consistent pattern observed in the data. 
+* The data primarily focuses on stress placement within roots and suffixes, while the relationship between stress and specific vowel combinations or syllable structures isn't directly addressed. 
+
+**(b) Stress placement in given stems:**
+
+Using the provided data and assuming some level of consistency, we can speculate:
+
+* **mr.dh-rá-:** foe (Stress likely falls on the suffix, following the pattern of "vadh-á-")
+* **phe-ná-:** foam (No direct evidence, but possibly on the suffix)
+* **stu-tí-:** praise (Following the pattern of "sik-tí-")
+* **tan-tí-:** cord (Similar to "stu-tí-")
+* **bhā-ra-:** burden (Stress likely on the root due to the long vowel)
+* **dū-ta-:** messenger (Likely on the root due to the long vowel, similar to "dhū-má-")
+* **svap-ná-:** sleep (No direct evidence, but possibly on the suffix)
+* **bhū-mi-:** earth, soil (Similar to "dū-ta-")
+* **ghar-má-:** heat (Following "dar-má-")
+* **abh-rá-:** cloud (No clear pattern, but potentially on the suffix)
+* **gha-ná-:** killing (Potentially similar to "nag-ná-")
+* **ghr.s.-ví-:** exuberant (Possibly following the "pus.-t.í-" pattern)
+
+**Note:** These are educated guesses based on limited data. More information about Old Indic stress rules is needed for accurate placement.
+
+**Problem 5: Nahuatl Translation**
+
+**(a) Translate into English:**
+
+1. **tiktlazohtlaltia in zihuātl in kuauhx̄ınki:**  
+    * You make the woman love the carpenter.
+    * You make the carpenter love the woman. 
+
+2. **nēchtzāhtz̄ıtia:** 
+    * I make somebody shout.
+    * I shout for somebody.
+
+3. **tikhūıteki:** 
+    * You beat him.
+    * You beat somebody for him.
+    * You beat him for somebody.
+
+4. **nikēhuilia in kikatl in t̄ız̄ıtl:**
+    * I sing the song for the healer.
+
+5. **nikneki in ātōlli:**
+    * I want the atole.
+
+6. **mitztlakāhualtia:** 
+    * He makes you prepare something. 
+    * He prepares something for you.
+
+**(b) Translate into Nahuatl:**
+
+1. **He makes me prepare the atole:**  nēchtlach̄ıhuilia in ātōlli
+2. **You prepare the wine for somebody:**  tiktēch̄ıhuilia in oktli 
+3. **The healer makes you sleep:** mitzkōchitia in t̄ız̄ıtl
+4. **I sing something:**  nikēhua
+5. **I fall:**  niwētza 
+
+
+**Explanation:**
+
+By analyzing the provided sentences, we can identify:
+
+* **Verbs often incorporate both subject and object:**  e.g., "nimitztlazohtla" (I-you-love).
+* **Word order is relatively flexible:** allowing for variations in emphasis and nuance.
+* **Prefixes and suffixes play a crucial role:** indicating subject, object, and other grammatical relations. 
+
+This analysis helps decipher the complex morphology and syntax of Nahuatl, facilitating translation.

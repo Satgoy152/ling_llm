@@ -1,0 +1,80 @@
+I'll be happy to help you solve these computational linguistics problems. Let's go through them one by one:
+
+### Problem 1: Sulka Language
+
+(a) Translating to English:
+
+1. a ksie a tgiang = 1 coconut
+2. o ngaitegaap a korlotge = 3 breadfruits
+3. o ngausmia a ktiëk = 5 coconuts (ktiëk seems to mean 5)
+4. o vuo a lo ktiëk hori orom a tgiang = 11 betel nuts
+
+(b) Translating to Sulka:
+
+1. 2 yams = o sngu a lomin
+2. 14 yams = o sngu a lo ktiëk hori orom a korlolo
+3. 15 breadfruits = o ngaitegaap a lo ktiëk hori orom a moulang
+4. 20 betel nuts = o vuo a mhelom
+
+### Problem 3: Burmese Children's Birthdates
+
+Based on the pattern of names and dates, we can deduce:
+
+- Nwe si6þu (boy): 06/14/2009
+- daliya (girl): 06/16/2009
+- so mo cO (boy): 06/24/2009
+- e ti6 (girl): 07/09/2009
+- phyuphyu wi6 (girl): 07/13/2009
+- yE au6 nai6 (boy): 07/18/2009
+
+### Problem 4: Old Indic Word Stems
+
+(a) It's not possible to determine the stress for bhāg-a-, pad-a-, pat-i-, and us-ri- because we don't have enough information about how stress is placed on long vowels (ā) or on single-syllable roots.
+
+(b) Indicating stress:
+
+- mr.́dh-ra-
+- phe-ná-
+- stu-tí-
+- tan-tí-
+- bhār-á-
+- dū-tá-
+- svap-ná-
+- bhū-mí-
+- ghar-má-
+- abh-rá-
+- gha-ná-
+- ghr.s.-ví-
+
+### Problem 5: Nahuatl Language
+
+(a) Translating to English:
+
+1. tiktlazohtlaltia in zihuātl in kuauhx̄ınki
+   - You make the woman love the carpenter
+   - You make the carpenter love the woman
+
+2. nēchtzāhtz̄ıtia
+   - He makes me shout
+
+3. tikhūıteki
+   - You beat him/her/it
+
+4. nikēhuilia in kikatl in t̄ız̄ıtl
+   - I sing the song for the healer
+
+5. nikneki in ātōlli
+   - I want the atole
+
+6. mitztlakāhualtia
+   - He makes you leave something
+
+(b) Translating to Nahuatl:
+
+1. He makes me prepare the atole = nēchtlach̄ıhualtia in ātōlli
+2. You prepare the wine for somebody = tiktētlach̄ıhuilia in oktli
+3. The healer makes you sleep = mitzkoch̄ıtia in t̄ız̄ıtl
+4. I sing something = nitlakēhua
+5. I fall = nihuetzi
+
+These translations are based on the patterns observed in the given examples and the rules of the Nahuatl language as presented in the problem.
