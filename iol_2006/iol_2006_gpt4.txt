@@ -1,0 +1,129 @@
+### Solution to Problem 1
+
+Assignment 1.
+
+1. You came, and the Indian called the bears.
+2. The person killed you and called me.
+3. The person killed you and you called me.
+4. You were killed.
+
+Assignment 2. 
+
+The sentences in Lakhota can be translated in multiple ways in English due to the flexible word order in Lakhota. However, without more examples or information on how word order affects meaning, it's impossible to provide all possible translations.
+
+Assignment 3.
+
+1. Lakhota ki hokšila ki wičhakte čha matho ki hi
+2. Yahi čha lakhota ki wakte
+3. Mačho tuwa?
+4. Wičhaša ki hipi čha tuwa kte
+
+### Solution to Problem 2
+
+Assignment 1.
+
+The plural of Catalan nouns that end in -ç is formed by adding -os. For those ending in -s, no change is needed. For those ending in -x, the plural is formed by adding -os.
+
+Assignment 2.
+
+The marks ` and ´ indicate the stress in certain Catalan words when it falls on the final syllable if the word ends with a vowel, -s, or -n. 
+
+Assignment 3.
+
+In the absence of ` or ´, the stress falls on the penultimate syllable.
+
+### Solution to Problem 3
+
+Assignment 1.
+
+The correct correspondences are:
+
+| Khmer Round Script | English               | Roman Transcription |
+|--------------------|-----------------------|---------------------|
+| A¨Y                | passion               | ŋiъk                |
+| i¨F                | be able               | ka:m                |
+| i Ä̈               | suck (a breast)       | noьm                |
+| F Ä̈               | wait                  | ŋoьm                |
+| W¨Y                | delta                 | cam                 |
+| W¨Ä                | hold in one’s teeth   | peьŋ                |
+| T¨Ä                | lead, guide           | aŋ                  |
+| i Ä̈E              | roast on a spit       | caŋ                 |
+| E Ä̈               | inarticulately        | am                  |
+| W ̈ÄE              | bar the way           | piъm                |
+| E  ̈A              | turn around           | poьm                |
+| Y  ̈T              | have                  | miъn                |
+| F Ä̈E              | trim, rough-hew       | a:c                 |
+
+Assignment 2.
+
+The Roman script translations are:
+
+1. A¨Ä: caŋ
+2. A¨A: cam
+3. E Ä̈E: am
+4. F¨Y: miъn
+5. T¨Y: a:c
+6. Y  ̈Ä: poьm
+
+### Solution to Problem 4
+
+Assignment 1.
+
+1. Your son's money.
+2. Your stool's leg.
+3. Your leg of the stool.
+
+Assignment 2.
+
+1. B’ataŋi: wo:i
+2. Mo:ŋi: mokta
+3. Bi b’ataŋi: mo:i
+
+Assignment 3.
+
+1. My udder - Possible if the speaker is a cow.
+2. Your son's leg - Possible.
+3. Your tail - Possible if the speaker is an animal.
+
+Assignment 4.
+
+1. My head - implies the whole head.
+2. My head - implies a part of the head or a certain aspect of the head.
+
+### Solution to Problem 5
+
+11. (a) The woman bought beer for Mwangi - The error is in the verb form. Correct sentences: 
+- Mdala aguli Mwangi ugimbi.
+- Mwangi avaguli mdala ugimbi.
+- Mwangi aguli mdala ugimbi.
+- Mdala vamguli Mwangi ugimbi.
+
+(b) The woman bought Mwangi beer - The error is in the order of objects. Correct sentences: 
+- Mdala aguli ugimbi Mwangi.
+- Mwangi avaguli mdala ugimbi.
+- Mwangi aguli mdala ugimbi.
+- Mdala vamguli Mwangi ugimbi.
+
+(c) The woman bought beer for Mwangi - The error is in the verb form. Correct sentences: 
+- Mdala aguli Mwangi ugimbi.
+- Mwangi avaguli mdala ugimbi.
+- Mwangi aguli mdala ugimbi.
+- Mdala vamguli Mwangi ugimbi.
+
+12. (a) Kamau bought a goat for the grandmothers - The error is in the verb form. Correct sentences: 
+- Kamau aguli vabuya mene.
+- Vabuya avaguli Kamau mene.
+- Vabuya vaguli Kamau mene.
+- Kamau vaguli vabuya mene.
+
+(b) Kamau bought the grandmothers a goat - The error is in the order of objects. Correct sentences: 
+- Kamau aguli mene vabuya.
+- Vabuya avaguli Kamau mene.
+- Vabuya vaguli Kamau mene.
+- Kamau vaguli vabuya mene.
+
+(c) Kamau bought a goat for the grandmothers - The error is in the verb form. Correct sentences: 
+- Kamau aguli vabuya mene.
+- Vabuya avaguli Kamau mene.
+- Vabuya vaguli Kamau mene.
+- Kamau vaguli vabuya mene.

@@ -1,0 +1,205 @@
+### Problem 1
+
+#### Assignment 1: Translate into English
+
+1. **wahi čha lakhota ki matho ki wičhačhopi**  
+   - "I came and the Indian called the bears."
+
+2. **wičhaša ki nikte ną mačho**  
+   - "The person killed you and called me."
+
+3. **wičhaša ki nikte čha mačho**  
+   - "The person killed you and then called me."
+
+4. **nikte**  
+   - "You killed."
+
+#### Assignment 2: Translate into English in all possible ways
+
+For the sentences provided, there are no additional translations needed beyond Assignment 1.
+
+#### Assignment 3: Translate into Lakhota
+
+1. **The Indians killed the boy, and the bear came.**  
+   - "Lakhota ki hokšila ki wičhakte čha matho ki hipi."
+
+2. **You came and killed the Indian.**  
+   - "Yahi čha lakhota ki nikte."
+
+3. **Whom did I call?**  
+   - "Tuwa wačho he?"
+
+4. **The people came, and someone killed them.**  
+   - "Wićhaša ki hipi čha tuwa wičhakte."
+
+### Problem 2
+
+#### Assignment 1: Fill the gaps and explain your solution
+
+- **el bastaix** → **els bastaixos**  
+  (Carrier: follows the rule of adding -os to nouns ending in x.)
+
+- **el troleibús** → **els troleibús**  
+  (Trolleybus: ends in the same form as the singular because it ends in 's'.)
+
+- **el iris** → **els iris**  
+  (Rainbow: remains the same in plural form as it ends in 's'.)
+
+- **el llaç** → **els llaços**  
+  (Loop: follows the rule of adding -os to form the plural of nouns ending in ç.)
+
+- **el ònix** → **els ònixs**  
+  (Onyx: follows the rule of adding -s to nouns ending in x.)
+
+- **la pelvis** → **les pelvis**  
+  (Pelvis: remains the same in plural form as it ends in 's'.)
+
+- **el pis** → **els pisos**  
+  (Flat, lodgings: follows the rule of adding -os to form the plural of nouns ending in s.)
+
+- **el [   ]** → **els sequaços**  
+  (Male follower: follows the rule of adding -os to form the plural of nouns ending in ç.)
+
+- **la [   ]** → **les sequaçs**  
+  (Female follower: follows the rule of adding -s to form the plural of nouns ending in ç.)
+
+- **la xeix** → **les xeixos**  
+  (The letter x: follows the rule of adding -os to nouns ending in x.)
+
+#### Assignment 2: Explain when the marks ` and ´ are used in Catalan
+
+In Catalan, the ` (grave accent) and ´ (acute accent) marks indicate the stressed syllable in a word, and they can also denote vowel quality. Generally:
+- ` is used on the vowels a, e, and o to indicate an open vowel sound.
+- ´ is used on the vowels e and i to indicate a closed vowel sound.
+
+#### Assignment 3: Determine which syllable is stressed in words without accent marks
+
+In Catalan, if a word has no accent marks, the stress typically falls on the penultimate syllable if the word ends in a vowel, an -s, or an -n. If the word ends in any other consonant, the stress falls on the last syllable.
+
+### Problem 3
+
+#### Assignment 1: Determine the correct correspondences
+
+- **A¨Y** → **passion** → **poьm**
+- **i¨F** → **be able** → **a:c**
+- **i Ä̈** → **suck (a breast)** → **noьm**
+- **F Ä̈** → **wait** → **ŋoьm**
+- **W¨Y** → **delta** → **cam**
+- **W¨Ä** → **hold in one’s teeth** → **peьŋ**
+- **T¨Ä** → **lead, guide** → **aŋ**
+- **i Ä̈E** → **roast on a spit** → **caŋ**
+- **E Ä̈** → **inarticulately** → **am**
+- **W ̈ÄE** → **bar the way** → **piъm**
+- **E  ̈A** → **turn around** → **ŋiъk**
+- **Y  ̈T** → **have** → **ka:m**
+- **F Ä̈E** → **trim, rough-hew** → **miъn**
+
+#### Assignment 2: Write in the Roman script
+
+1. **A¨Ä**: spoke (in a wheel) → **poьŋ**
+2. **A¨A**: crow → **poьk**
+3. **E Ä̈E**: bright red → **ŋaŋ**
+4. **F¨Y**: Cham → **a:m**
+5. **T¨Y**: name → **ka:m**
+6. **Y  ̈Ä**: robust → **peьk**
+
+### Problem 4
+
+#### Assignment 1: Translate into English
+
+1. **su b’ataŋiu zä:ŋini**  
+   - "Your boy's money."
+
+2. **si teŋku bugdiŋi:**  
+   - "Thy leg of the stool."
+
+3. **si teŋkuŋi: bugdini**  
+   - "Thy stool's leg."
+
+#### Assignment 2: Translate into Udihe
+
+1. **The boy’s thigh**  
+   - "b’ataŋi: wo:i"
+
+2. **Our boar**  
+   - "biŋi: nakta"
+
+3. **My daughter’s tree**  
+   - "bi azigaŋi: mo:ŋi:"
+
+#### Assignment 3: Assess possibility in Udihe
+
+1. **bi xabai**  
+   - Possible: "my udder"
+
+2. **su b’ataŋiu bugdiŋini**  
+   - Possible: "your boy's leg"
+
+3. **si igi**  
+   - Possible: "thy tail"
+
+#### Assignment 4: Translate and explain
+
+1. **bi tekpui**  
+   - "My head skin." (Refers to the skin as a part of the head.)
+
+2. **bi tekpuŋi:**  
+   - "My head’s skin." (Refers to possession by the head.)
+
+### Problem 5
+
+#### Assignment
+
+11. (a) Mdala guli ugimbi Mwangi.  
+    - Translation: "The woman bought beer Mwangi."
+    - Error: The recipient (Mwangi) is missing the preposition for "for."
+    - Corrections:
+      - Mdala aguli Mwangi ugimbi.
+      - Mdala aguli ugimbi kwa Mwangi.
+      - Mdala aguli ugimbi kwa Mwangi.
+      - Mdala aguli Mwangi ugimbi kwa.
+
+11. (b) Mdala mguli Mwangi ugimbi.  
+    - Translation: "The woman bought Mwangi beer."
+    - Error: Incorrect order, "bought for" is not marked.
+    - Corrections:
+      - Mdala amguli ugimbi kwa Mwangi.
+      - Mdala amguli Mwangi ugimbi.
+      - Mdala amguli ugimbi kwa Mwangi.
+      - Mdala amguli Mwangi ugimbi kwa.
+
+11. (c) Mdala aguli ugimbi Mwangi.  
+    - Translation: "The woman bought beer Mwangi."
+    - Error: The recipient (Mwangi) is missing the preposition for "for."
+    - Corrections:
+      - Mdala amguli ugimbi kwa Mwangi.
+      - Mdala amguli Mwangi ugimbi.
+      - Mdala amguli ugimbi kwa Mwangi.
+      - Mdala amguli Mwangi ugimbi kwa.
+
+12. (a) Kamau vamguli vabuya mene.  
+    - Translation: "Kamau bought grandmothers goats."
+    - Error: Missing "for" after "bought."
+    - Corrections:
+      - Kamau amaguli vabuya mene.
+      - Kamau amaguli mene kwa vabuya.
+      - Kamau amaguli vabuya mene kwa.
+      - Kamau amaguli mene vabuya.
+
+12. (b) Kamau guli mene vabuya.  
+    - Translation: "Kamau bought goats grandmothers."
+    - Error: Improper noun order, missing "for."
+    - Corrections:
+      - Kamau amaguli mene kwa vabuya.
+      - Kamau amaguli vabuya mene.
+      - Kamau amaguli mene kwa vabuya.
+      - Kamau amaguli vabuya mene kwa.
+
+12. (c) Kamau vaguli vabuya mene.  
+    - Translation: "Kamau bought grandmothers goats."
+    - Error: Missing "for" after "bought."
+    - Corrections:
+      - Kamau amaguli vabuya mene.
+      - Kamau amaguli mene kwa vabuya.
+      - Kamau amaguli vabuya mene kwa.
+      - Kamau amaguli mene vabuya.

@@ -1,0 +1,194 @@
+## Computational Linguistics Problem Set Solutions
+
+### Problem 1 (Lakhota)
+
+**Assignment 1. Translate into English:**
+
+1. **wahi čha lakhota ki matho ki wičhačhopi:** You came and the Indian called the bears. 
+2. **wičhaša ki nikte ną mačho:** The person killed you and called me.
+3. **wičhaša ki nikte čha mačho:** The person killed you and called me.
+4. **nikte:** He killed you. 
+
+**Assignment 2. Translate into English in all possible ways:**
+
+This assignment requires the context of the specific phrase to be translated. Please provide the phrase for a complete analysis.
+
+**Assignment 3. Translate into Lakhota:**
+
+1. **The Indians killed the boy, and the bear came.**  Lakhota ki hokšila ki nikte čha matho ki hipi. 
+2. **You came and killed the Indian.** Yahi čha lakhota ki nikte.
+3. **Whom did I call?** Tuwa mačha he?
+4. **The people came, and someone killed them.** Wičhaša ki hipi čha tuwa ki wičhakte.
+
+
+### Problem 2 (Catalan)
+
+**Assignment 1. Fill the gaps. Explain your solution.**
+
+| Singular          | Plural              | Translation      |
+|-------------------|---------------------|------------------|
+| el apèndix        | els apèndixs        | appendix         |
+| el bastaix        | **els bastaixos**     | carrier          |
+| el troleibús      | **els troleibusos**    | trolleybus       |
+| el cactus         | els cactus          | cactus           |
+| la càries         | les càries          | caries           |
+| **el clos**         | el clos             | meadow           |
+| el contumaç       | els contumaços      | rebel            |
+| la faç            | les façs            | face             |
+| el flux           | els fluxos          | stream           |
+| el gimnàs         | els gimnasos        | gym              |
+| la hèlix          | les hèlixs          | screw            |
+| el índex          | els índexs          | index            |
+| el iris           | **els iris**         | rainbow          |
+| el llaç           | **els llaços**        | loop             |
+| el ònix           | **els ònixos**        | onyx             |
+| el pàncrees       | els pàncrees        | pancreas         |
+| el pedaç          | els pedaços         | patch            |
+| la pelvis         | **les pelvis**        | pelvis           |
+| el permís         | els permisos        | permission       |
+| el pis            | **els pisos**          | flat, lodgings   |
+| el **sequaç**       | els sequaços        | (male) follower  |
+| la **sequaç**      | les sequaçs         | (female) follower|
+| el sufix          | els sufixos         | suffix           |
+| **el tastaolletes** | els tastaolletes    | frivolous person |
+| el teix           | els teixos          | yew              |
+| la trencadís      | les trencadís       | piece of crockery|
+| el vas            | els vasos           | vase             |
+| la xeix           | **les xeixos**        | (the letter) x   |
+
+**Explanation:**
+
+* **Nouns ending in -s, -x, -ç:**  The plural is formed by adding -os.
+* **Nouns ending in a vowel + -s:** The plural is formed by adding -os.
+* **Nouns ending in a consonant + -s:** The plural is formed by simply adding -s.
+
+**Assignment 2. The marks ` and ´ indicate the stress in certain Catalan words. Find out when they are used.**
+
+* **` (grave accent):** Used when the stress falls on the penultimate syllable and the word ends in a vowel, -s, or -n. 
+* **´ (acute accent):** Used when the stress falls on the last syllable or on the penultimate syllable and the word ends in a consonant other than -s or -n.
+
+**Assignment 3. Which syllable is stressed in those words where there is no ` or ´ mark?**
+
+In words without accent marks, the stress falls on the **penultimate syllable**. This is the default stress pattern in Catalan.
+
+
+### Problem 3 (Khmer)
+
+**Assignment 1. Determine the correct correspondences.**
+
+| Khmer Round Script | English               | Roman Transcription |
+|--------------------|-----------------------|----------------------|
+| A¨Y                | passion               | piъm               |
+| i¨F                | be able               | aŋ                  |
+| i Ä̈               | suck (a breast)       | noьm               |
+| F Ä̈               | wait                  | ŋoьm               |
+| W¨Y                | delta                 | ka:m               |
+| W¨Ä                | hold in one’s teeth   | peьŋ               |
+| T¨Ä                | lead, guide           | miъn               |
+| i Ä̈E              | roast on a spit       | ŋiъk               |
+| E Ä̈               | inarticulately        | am                  |
+| W ̈ÄE              | bar the way           | caŋ                |
+| E  ̈A              | turn around           | cam                |
+| Y  ̈T              | have                  | a:c                |
+| F Ä̈E              | trim, rough-hew       | poьm               |
+
+**Assignment 2. Write in the Roman script:**
+
+1. A¨Ä: spoke (in a wheel) - **piъŋ** 
+2. A¨A: crow - **piъa**
+3. E Ä̈E: bright red - **aŋiъk**
+4. F¨Y: Cham - **co:m**
+5. T¨Y: name - **miъa**
+6. Y  ̈Ä: robust - **a:ŋ**
+
+
+### Problem 4 (Udihe)
+
+**Assignment 1. Translate into English:**
+
+1. su b’ataŋiu zä:ŋini: Your son's money. 
+2. si teŋku bugdiŋi:: Your stool's leg.
+3. si teŋkuŋi: bugdini: Your stool's leg. 
+
+**Assignment 2. Translate into Udihe:**
+
+1. The boy’s thigh:  b’ata wo:ŋiu
+2. Our boar:  tu: nakta
+3. My daughter’s tree: bi aziga mo:ŋi:
+
+**Assignment 3. Do you think the following phrases are possible in Udihe?**
+
+1. bi xabai: **Not possible.**  Body parts require possessive suffixes.
+2. su b’ataŋiu bugdiŋini: **Possible.**  Means "your son's leg".
+3. si igi: **Not possible.** Body parts require possessive suffixes.
+
+**Assignment 4. Translate the following phrases into English and explain how their meanings differ:**
+
+1. bi tekpui: my skin  (refers to skin detached from the body)
+2. bi tekpuŋi:: my head's skin (refers to skin still attached to the head)
+
+The difference lies in the use of the possessive suffix -ŋi:.  It indicates that the skin is still part of the head.
+
+### Problem 5 (Ngoni)
+
+**Assignment. Each of the Ngoni sentences (11a-c) and (12a-c) contains an error. Translate these sentences into English, explain what the error is in each case, and then correct it, giving for each example four correct sentences in Ngoni that describe the same situation.**
+
+**11. (a) Mdala guli ugimbi Mwangi.**
+
+* **Translation:** The woman bought Mwangi beer.
+* **Error:** The verb "guli" agrees with "mdala" (singular), but the object "ugimbi" requires a plural verb form. 
+* **Four correct sentences:**
+    * Mdala aguli Mwangi ugimbi. 
+    * Mdala amgulira Mwangi ugimbi.
+    * Mdala wamgulira Mwangi ugimbi. 
+    * Mdala amgulire Mwangi ugimbi. 
+
+**11. (b) Mdala mguli Mwangi ugimbi.**
+
+* **Translation:** The woman she-bought Mwangi beer.
+* **Error:** Redundant subject marker "m" before the verb. 
+* **Four correct sentences:**
+    * Mdala guli Mwangi ugimbi. 
+    * Mdala aguli Mwangi ugimbi.
+    * Mdala amgulira Mwangi ugimbi.
+    * Mdala wamgulira Mwangi ugimbi.
+
+**11. (c) Mdala aguli ugimbi Mwangi.**
+
+* **Translation:** The woman he-bought beer Mwangi.
+* **Error:** Incorrect subject marker "a" before the verb. It should agree with "mdala" (female).
+* **Four correct sentences:**
+    * Mdala guli Mwangi ugimbi. 
+    * Mdala aguli Mwangi ugimbi. 
+    * Mdala amgulira Mwangi ugimbi. 
+    * Mdala wamgulira Mwangi ugimbi. 
+
+**12. (a) Kamau vamguli vabuya mene.**
+
+* **Translation:** Kamau they-bought the grandmothers a goat.
+* **Error:** Incorrect subject marker "va" before the verb. It should agree with "Kamau" (singular).
+* **Four correct sentences:**
+    * Kamau avaguli vabuya mene. 
+    * Kamau avagulira vabuya mene.
+    * Kamau wabagulira vabuya mene. 
+    * Kamau awagulire vabuya mene.
+
+**12. (b) Kamau guli mene vabuya.**
+
+* **Translation:** Kamau bought a goat the grandmothers. 
+* **Error:**  The verb "guli" agrees with "Kamau" (singular), but the object "vabuya" requires a plural verb form.
+* **Four correct sentences:**
+    * Kamau avaguli vabuya mene. 
+    * Kamau avagulira vabuya mene.
+    * Kamau wabagulira vabuya mene. 
+    * Kamau awagulire vabuya mene.
+
+**12. (c) Kamau vaguli vabuya mene.**
+
+* **Translation:**  Kamau they-bought the grandmothers a goat.
+* **Error:** Incorrect subject marker "va" before the verb. It should agree with "Kamau" (singular).
+* **Four correct sentences:**
+    * Kamau avaguli vabuya mene. 
+    * Kamau avagulira vabuya mene.
+    * Kamau wabagulira vabuya mene. 
+    * Kamau awagulire vabuya mene. 

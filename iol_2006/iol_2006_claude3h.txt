@@ -1,0 +1,90 @@
+### Problem 1
+
+Assignment 1. Translate into English:
+
+1. wahi čha lakhota ki matho ki wičhačhopi
+   - "I came, and the Indians called the bears."
+
+2. wičhaša ki nikte ną mačho
+   - "The person killed (someone) and called me."
+
+3. wičhaša ki nikte čha mačho
+   - "The person killed (someone) and then called me."
+
+4. nikte
+   - "He/she/it killed (someone)."
+
+Assignment 2. Translate into English in all possible ways:
+
+There are no sentences in this assignment, so there is nothing to translate.
+
+Assignment 3. Translate into Lakhota:
+
+1. The Indians killed the boy, and the bear came.
+   - lakhota ki hokšila ki wičhakte ną matho ki hi
+
+2. You came and killed the Indian.
+   - yahi čha lakhota ki nikte
+
+3. Whom did I call?
+   - tuwa mačho he
+
+4. The people came, and someone killed them.
+   - wičhaša ki hipi ną tuwa wičhakte
+
+### Problem 2
+
+Assignment 1. Fill the gaps. Explain your solution.
+
+| Singular | Plural | Translation |
+|----------|--------|-------------|
+| el bastaix | els bastaixes | carrier |
+| el troleibús | els troleibuses | trolleybus |
+| el iris | els irises | rainbow |
+| el llaç | els llaços | loop |
+| el ònix | els ònixs | onyx |
+| el pis | els pisos | flat, lodgings |
+| el sequaç | els sequaços | (male) follower |
+| la sequaç | les sequaçs | (female) follower |
+| la xeix | les xeixs | (the letter) x |
+
+Explanation:
+- The plural is formed by adding -s to the singular form, except when the singular ends in -s, -x, or -ç.
+- For words ending in -s, -x, or -ç, the plural is formed by adding -os or -es.
+- The forms with missing information were filled in based on this pattern.
+
+Assignment 2. The marks ` and ´ indicate the stress in certain Catalan words. Find out when they are used.
+
+The marks ` and ´ are used to indicate the stressed syllable in Catalan words. They are used when the stress does not follow the regular stress patterns in the language, which is typically on the last syllable of the word.
+
+Assignment 3. Which syllable is stressed in those words where there is no ` or ´ mark?
+
+In Catalan words where there is no accent mark (` or ´), the stress typically falls on the last syllable of the word.
+
+### Problem 3
+
+Assignment 1. Determine the correct correspondences.
+
+| Khmer Round Script | English | Roman Transcription |
+|-------------------|----------|----------------------|
+| A¨Y | passion | poьm |
+| i¨F | be able | a:c |
+| i Ä̈ | suck (a breast) | noьm |
+| F Ä̈ | wait | ŋoьm |
+| W¨Y | delta | cam |
+| W¨Ä | hold in one's teeth | peьŋ |
+| T¨Ä | lead, guide | aŋ |
+| i Ä̈E | roast on a spit | caŋ |
+| E Ä̈ | inarticulately | am |
+| W ̈ÄE | bar the way | piъm |
+| E  ̈A | turn around | ŋiъk |
+| Y  ̈T | have | ka:m |
+| F Ä̈E | trim, rough-hew | miъn |
+
+Assignment 2. Write in the Roman script:
+
+1. A¨Ä: spoke (in a wheel) - poьm
+2. A¨A: crow - ca
+3. E Ä̈E: bright red - amэ
+4. F¨Y: Cham - cjam
+5. T¨Y

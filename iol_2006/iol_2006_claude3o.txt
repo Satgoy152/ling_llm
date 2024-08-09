@@ -1,0 +1,113 @@
+Here are the solutions to the computational linguistics problems:
+
+Problem 1:
+Assignment 1 translations:
+1. I came and the Indians called the bears.  
+2. The person killed you and called me.
+3. The person killed you, and he/she called me.
+4. He/she/you/they killed you.
+
+Assignment 2 translations:
+There are two possible translations:
+- The person killed you. 
+- You killed the person.
+
+Assignment 3 translations: 
+1. lakhota ki hokšila ki ktépi ną matho ki hi
+2. yahi ną lakhota ki yakte
+3. tuwa wačho he 
+4. wičhaša ki hipi ną tuwa wičhakte
+
+Key points:
+- Lakhota has SOV (Subject-Object-Verb) word order
+- ki is a definite article 
+- ną and čha mean "and"
+- Personal pronouns: ma- "me", ni- "you", wičha- "them"
+
+Problem 2:
+
+Assignment 1:
+To form the plural:
+- Nouns ending in s remain unchanged (cactus, iris, pàncrees)  
+- Nouns ending in x add -os (flux, índex, sufix)
+- Nouns ending in ç change ç to c and add -os (contumaç, llaç) or -s (faç)
+- Nouns ending in ix change ix to ixos (apèndix) or ixs (hèlix) 
+- Others add -os (gimnàs, permís) or -s (vas)
+
+Missing forms:
+- els bastaixos
+- els troleibús
+- el clos
+- els iris
+- els llaços 
+- les pelvis
+- els pisos
+- el sequaç
+- la sequaç
+- les xeixs  
+
+Assignment 2:
+The acute accent (´) marks stress on the last syllable. The grave accent (`) marks stress on a non-final syllable.
+
+Assignment 3:  
+When there is no accent mark, stress falls on:
+- The penultimate (2nd to last) syllable if the word ends in a vowel, s or en 
+- The final syllable otherwise
+
+Problem 3:
+
+Assignment 1:
+The correct correspondences are:
+A¨Y passion poьm  
+i¨F be able a:c
+i¨Ä suck (a breast) noьm
+F¨Ä wait ŋoьm
+W¨Y delta cam
+W¨Ä hold in one's teeth caŋ  
+T¨Ä lead, guide peьŋ
+i¨ÄE roast on a spit aŋ
+E¨Ä inarticulately am
+W¨ÄE bar the way piъm
+E¨A turn around ŋiъk
+Y¨T have miъn
+F¨ÄE trim, rough-hew ka:m
+
+Assignment 2:
+1. poьŋ
+2. ka:k
+3. aŋ
+4. cam
+5. peьm
+6. miъt
+
+Problem 4: 
+
+Assignment 1 translations:
+1. the money of your son
+2. the leg of thy stool 
+3. the leg of thy stool
+
+Assignment 2 translations:
+1. b'ata wo:ni
+2. bu nakta
+3. bi azigaŋi: mo:ni 
+
+Assignment 3:
+1. Not possible (possessive needs to be marked on xaba)
+2. Not possible (double possessive marking on bugdi)
+3. Possible
+
+Assignment 4 translations:
+1. my head skin
+2. the skin of my head
+The second shows possession more explicitly with the genitive case marker -ŋi:.
+
+Problem 5:
+
+Errors and corrections for 11:
+(a) "The woman bought Mwangi beer." 
+- Error: Recipient (Mwangi) should come before the direct object (beer).
+- Corrections:  
+Mdala amguli Mwangi ugimbi.
+Mdala amguli ugimbi Mwangi.
+Mdala guli Mwangi ugimbi

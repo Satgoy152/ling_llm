@@ -1,0 +1,93 @@
+I'll be happy to help you with these computational linguistics problems. Let's go through them one by one:
+
+### Problem 1: Lakhota Language
+
+Let's analyze the patterns in the given sentences to understand the structure of Lakhota:
+
+1. Word order seems to be SOV (Subject-Object-Verb).
+2. "ki" appears to be a definite article ("the").
+3. "wičha-" prefix seems to indicate plural object.
+4. "ma-" prefix for "me" as object, "ni-" for "you" as object.
+5. "w-" prefix might indicate "I" as subject.
+6. "-pi" suffix seems to indicate plural subject.
+7. "čha" appears to mean "and" for connecting clauses.
+8. "ną" also means "and" but for connecting phrases within a clause.
+
+Now, let's tackle the assignments:
+
+Assignment 1. Translate into English:
+
+1. wahi čha lakhota ki matho ki wičhačhopi
+   "I came, and the Indians called the bears."
+
+2. wičhaša ki nikte ną mačho
+   "The person killed you and called me."
+
+3. wičhaša ki nikte čha mačho
+   "The person killed you, and (someone) called me."
+
+4. nikte
+   "(Someone) killed you."
+
+Assignment 2. Translate into English in all possible ways:
+
+You haven't provided a sentence to translate for this assignment.
+
+Assignment 3. Translate into Lakhota:
+
+1. The Indians killed the boy, and the bear came.
+   "lakhota ki hokšila ki ktepi čha matho ki hi"
+
+2. You came and killed the Indian.
+   "yahi ną lakhota ki yakte"
+
+3. Whom did I call?
+   "tuwa wačho he"
+
+4. The people came, and someone killed them.
+   "wičhaša ki hipi čha tuwa wičhakte"
+
+### Problem 2: Catalan Nouns
+
+Assignment 1. Fill the gaps:
+
+1. el bastaix -> els bastaixos
+2. el troleibús -> els troleibusos
+3. el clos -> els closos
+4. el iris -> els iris
+5. el llaç -> els llaços
+6. el ònix -> els ònixs
+7. la pelvis -> les pelvis
+8. el pis -> els pisos
+9. el sequaç -> els sequaços
+10. la sequaç -> les sequaçs
+11. el tastaolletes -> els tastaolletes
+12. la xeix -> les xeixs
+
+Explanation:
+- Nouns ending in -s, -x, -ç generally add -os in plural (e.g., permís -> permisos)
+- Some exceptions keep the same form in plural (e.g., cactus, càries)
+- Nouns ending in -ix or -x can add -os or -s (e.g., flux -> fluxos, but apèndix -> apèndixs)
+
+Assignment 2. The marks ` and ´ are used to indicate stress on:
+- The last syllable if it ends in a consonant other than -s (plural), -n, or -en (verb endings)
+- The second-to-last syllable in other cases
+
+Assignment 3. In words without ` or ´, the stress is on:
+- The second-to-last syllable if the word ends in a vowel, -s, -n, or -en
+- The last syllable if the word ends in any other consonant
+
+### Problem 3: Khmer Round Script
+
+Assignment 1. Determine the correct correspondences:
+
+A¨Y - ka:m (passion)
+i¨F - a:c (be able)
+i Ä̈ - noьm (suck)
+F Ä̈ - ŋoьm (wait)
+W¨Y - cam (hold in one's teeth)
+W¨Ä - peьŋ (delta)
+T¨Ä - aŋ (lead, guide)
+i Ä̈E - caŋ (roast on a spit)
+E Ä̈ - am (inarticulately)
+W 
