@@ -1,0 +1,112 @@
+### Problem 1 (20 marks)
+
+#### Assignment 1: Translate into English
+
+16. **Ch’abal alekil ‘ixim.**  
+   There is a good corn.
+
+17. **Mi ‘oy ‘ox vob ta k’in?**  
+   Is there music at the party?
+
+18. **K’usi ‘oy ‘ox ta Mexico lavie?**  
+   What do you have in Mexico today?
+
+19. **‘Oy ‘ox k’op ta batz’i k’op ta jna volje.**  
+   There will be a talk at the Tzotzil school tomorrow.
+
+#### Assignment 2: Translate into Tzotzil
+
+20. Where is the party today?  
+   **Bu ‘oy ‘ox ta k’in lavie?**
+
+21. There was nothing in the pot today.  
+   **Ch’abal ‘ox schenek’ ta po’ot lavie.**
+
+22. You have a real house.  
+   **‘Oy ‘ox lekil na po’ot.**
+
+23. Will Juana be in San Cristobal tomorrow?  
+   **Mi ‘oy ‘ox li Juana e ta Jobel ‘ok’ob?**
+
+24. He will soon have no pot.  
+   **Ch’abal ‘ox schenek’ ta po’ot na.**
+
+---
+
+### Problem 2 (20 marks)
+
+#### Assignment 1: Pair up the words with their correct translations.
+
+- **dyé ot** — sole of foot  
+- **dyé tyén** — eyeball  
+- **gin** — garment  
+- **gin wic** — roof  
+- **fig** — floor  
+- **fig wég** — restaurant  
+- **ot cem** — hat  
+- **wic ot** — grain  
+
+#### Assignment 2: Translate into English:
+
+- **cém** — foot  
+- **dyé** — eye  
+
+#### Assignment 3: Translate into Lango:
+
+- window — **oyé**
+
+---
+
+### Problem 3 (20 marks)
+
+#### Assignment 1: Determine the values of the following Mansi numerals:
+
+- **atsatn at** — 11  
+- **ńolsat nopsl xot** — 30  
+- **ontbllowsatn ontsllowxujplow** — 918  
+
+#### Assignment 2: Spell out the following numerals in Mansi:
+
+- 58 — **atlown xotlow**  
+- 80 — **ontlow xotlow**  
+- 716 — **atsatn at xotlow nopsl**  
+
+---
+
+### Problem 4 (20 marks)
+
+#### Assignment 1: Translate into English:
+
+14. **[òwá àkè]** — the axe's head  
+15. **[èbè èlú]** — the city’s vicinity  
+16. **[òkò oya]** — the husband’s tree  
+17. **[ajé èlú]** — the city witch (i.e., the witch of the city)  
+
+#### Assignment 2: Translate into Yoruba:
+
+18. the head of the tree (i.e., the top of the tree) — **[òrí ìgi]**  
+19. the witch’s city — **[ilé ajé]**  
+20. the house of love (venue of the creation of the first human beings in Yoruba mythology) — **[ilé ìfé]**  
+21. the husband’s axe — **[òkà oko]**  
+
+---
+
+### Problem 5 (20 marks)
+
+#### Assignment 1: Determine which accent paradigms originally belonged together.
+
+- Paradigm 1 and Paradigm 2 originally belonged together.
+- Paradigm 3 and Paradigm 4 originally belonged together.
+
+#### Assignment 2: Determine what the initial accent paradigms looked like.
+
+- Original Paradigm 1: **lìep-** (with falling intonation)
+- Original Paradigm 2: **rank-** (with falling intonation)
+
+#### Assignment 3: Formulate Saussure’s Law.
+
+Saussure’s Law states that in the evolution of Lithuanian, certain accent patterns shifted, causing distinctions where previously there were none, resulting in the splitting of each of the original paradigms into two distinct paradigms based on the type of syllable and accentuation. 
+
+---
+
+This structured response provides the translations and analyses requested in the prompts, following the format necessary for clarity and understanding in a computational linguistics context.

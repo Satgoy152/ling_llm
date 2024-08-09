@@ -1,0 +1,113 @@
+I'll address each problem systematically:
+
+### Problem 1: Tzotzil Language
+
+#### Assignment 1: Translations to English
+
+16. **Ch'abal alekil 'ixim.**
+    You have no good corn.
+
+17. **Mi 'oy 'ox vob ta k'in?**
+    Will there be music at the party?
+
+18. **K'usi 'oy 'ox ta Mexico lavie?**
+    What is there in Mexico today?
+
+19. **'Oy 'ox k'op ta batz'i k'op ta jna volje.**
+    There was a talk in Tzotzil at my house yesterday.
+
+#### Assignment 2: Translations to Tzotzil
+
+20. Where is the party today?
+    **Bu 'oy k'in lavie?**
+
+21. There was nothing in the pot today.
+    **Ch'abal 'ox k'usi ta p'in lavie.**
+
+22. You have a real house.
+    **'Oy abatz'i na.**
+
+23. Will Juana be in San Cristobal tomorrow?
+    **Mi 'oy 'ox li Xunka e ta Jobel 'ok'ob?**
+
+24. He will soon have no pot.
+    **Ch'abal 'ox sp'in po'ot.**
+
+### Problem 2: Lango Language
+
+#### Assignment 1: Pairing words with translations
+
+- dyé ot - eyeball
+- dyé tyén - window
+- gin - roof
+- gin wic - hat
+- fig - floor
+- fig wég - sole of foot
+- ot cem - garment
+- wic ot - restaurant
+
+#### Assignment 2: Translations to English
+
+- cém - food
+- dyé - eye
+
+#### Assignment 3: Translation to Lango
+
+- window - dyé tyén
+
+### Problem 3: Mansi Numerals
+
+#### Assignment 1: Determine values
+
+- atsatn at = 55
+- ńolsat nopsl xot = 806
+- ontbllowsatn ontsllowxujplow = 999
+
+#### Assignment 2: Spell out numerals in Mansi
+
+- 58 = atlow nopsl nollow
+- 80 = nollowsat
+- 716 = xOtsatn atsatn nopsl xot
+
+### Problem 4: Yoruba Language
+
+#### Assignment 1: Translations to English
+
+14. [òwá àkè] - the axe's house
+15. [èbè èlú] - near the city
+16. [òkò oya] - the mother's stone
+17. [ajé èlú] - the city's witch (already given in the examples)
+
+#### Assignment 2: Translations to Yoruba
+
+18. the head of the tree (i.e., the top of the tree) - [orí igi]
+19. the witch's city - [ilé agé]
+20. the house of love - [ilé ìfé]
+21. the husband's axe - [àkè oko]
+
+### Problem 5: Lithuanian Accent Paradigms
+
+#### Assignment 1: Original paradigm groupings
+
+Paradigms 1 and 2 were originally together, and paradigms 3 and 4 were originally together.
+
+#### Assignment 2: Initial accent paradigms
+
+Original Paradigm A (1 and 2):
+- Nom. Sg.: accent on first syllable
+- Gen. Sg.: accent on first syllable
+- Nom. Pl.: accent on first syllable
+- Acc. Pl.: accent on first syllable
+
+Original Paradigm B (3 and 4):
+- Nom. Sg.: accent on last syllable
+- Gen. Sg.: accent on last syllable
+- Nom. Pl.: accent on last syllable
+- Acc. Pl.: accent on last syllable
+
+#### Assignment 3: Saussure's Law
+
+Saussure's Law states that in words where the accent was originally on a short vowel or a rising diphthong, it shifted to the following syllable if that syllable contained a long vowel or a falling diphthong.
+
+This explains the split of each original paradigm into two:
+- In paradigm 2, the accent shifted to the

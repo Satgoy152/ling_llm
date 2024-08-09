@@ -1,0 +1,83 @@
+This is an excellent set of challenging problems in computational linguistics! Let me go through and solve each problem step-by-step.
+
+Problem 1 (Tzotzil)
+
+Assignment 1 translations:
+16. You have no good corn.  
+17. Will there be music at the party? / Was there music at the party?
+18. What is there in Mexico today? 
+19. There was talk in Tzotzil at my house yesterday.
+
+Assignment 2 translations:  
+20. Bu 'oy k'in lavie?
+21. Ch'abal 'ox ta p'in lavie.
+22. 'Oy abatz'i na. 
+23. Mi 'oy 'ox Xunka ta Jobel 'ok'ob?
+24. Ch'abal 'ox sp'in po'ot.
+
+Problem 2 (Lango)
+
+Assignment 1 pairs:
+- dyé ot - eyeball 
+- dyé tyén - hat
+- gin - restaurant
+- gin wic - roof
+- fig - grain
+- fig wég - garment 
+- ot cem - sole of foot
+- wic ot - floor
+
+Assignment 2 translations:
+- cém - foot
+- dyé - eye 
+
+Assignment 3 translation:  
+- window - wic tyén
+
+Problem 3 (Mansi)
+
+Assignment 1 values:
+- atsatn at - 65  
+- ńolsat nopsl xot - 77
+- ontbllowsatn ontsllowxujplow - 985
+
+Assignment 2 numerals:
+- 58 - atlow nopsl xollow
+- 80 - ńollowsat  
+- 716 - xotsatn xujplow nopsl xot
+
+Problem 4 (Yoruba)
+
+Assignment 1 translations:
+14. the axe's dog (i.e., the dog guarding the axe)
+15. the vicinity of the city (i.e., near the city)  
+16. the husband of river Oya (i.e., Sango, a Yoruba god)
+17. the city's witch (i.e., the city witch)
+
+Assignment 2 translations:
+18. orí igi  
+19. ìlú ajé
+20. ilé ìfé  
+21. àkè oko
+
+Problem 5 (Lithuanian) 
+
+Assignment 1: Paradigms 1 and 3 originally belonged together, as did Paradigms 2 and 4.
+
+Assignment 2: The initial paradigms looked like:
+Paradigm 1/3 (example: liepà)
+Nom. Sg. lìepà  
+Gen. Sg. lìepòs
+Nom. Pl. lìepòs
+Acc. Pl. lìepàs
+
+Paradigm 2/4 (example: rankà)  
+Nom. Sg. rankà
+Gen. Sg. rankòs
+Nom. Pl. rankòs 
+Acc. Pl. rankàs
+
+Assignment 3: Saussure's Law can be formulated as follows:
+If a noun belonging to Paradigm 1/3 has a syllable of the second type (rising intonation) in the root, the accent shifts to the ending in forms other than the Nom. Sg. and Acc. Pl., yielding Paradigm 3.
+
+This was a challenging but fun set of problems that tested knowledge of morphology, syntax, semantics and historical linguistics across several diverse language families. Let me know if you would like me to explain or elaborate on any part of the solutions!

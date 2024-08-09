@@ -1,0 +1,115 @@
+### Solution
+
+---
+
+### Problem 1
+
+#### Assignment 1: Translate into English
+
+16. **Ch’abal alekil ‘ixim.**  
+    Soon there will be no corn.
+
+17. **Mi ‘oy ‘ox vob ta k’in?**  
+    Will there be music at the party?
+
+18. **K’usi ‘oy ‘ox ta Mexico lavie?**  
+    What did he have in Mexico today?
+
+19. **‘Oy ‘ox k’op ta batz’i k’op ta jna volje.**  
+    Yesterday there was a conversation at the Tzotzil meeting in the city.
+
+#### Assignment 2: Translate into Tzotzil
+
+20. Where is the party today?  
+    **Bu ‘oy ‘ox k’in nax?**
+
+21. There was nothing in the pot today.  
+    **‘Oy ‘ox chenek’ ta p’in nax.**
+
+22. You have a real house.  
+    **‘Oy sbatz’i na ta ana.**
+
+23. Will Juana be in San Cristobal tomorrow?  
+    **Mi ‘oy ‘ox li Xunka e ta Jobel ‘ok’ob?**
+
+24. He will soon have no pot.  
+    **Ch’abal ‘ox chenek’ ta p’in lavie.**
+
+---
+
+### Problem 2
+
+#### Assignment 1: Pair up the words with their correct translations.
+
+- **dyé ot** — hat
+- **dyé tyén** — roof
+- **gin** — sole of foot
+- **gin wic** — restaurant
+- **fig** — eyeball
+- **fig wég** — garment
+- **ot cem** — floor
+- **wic ot** — grain
+
+#### Assignment 2: Translate into English:
+
+- **cém** — floor
+- **dyé** — hat
+
+#### Assignment 3: Translate into Lango:
+
+- window — **wic dyé**
+
+---
+
+### Problem 3
+
+#### Assignment 1: Determine the values of the following Mansi numerals:
+
+- **atsatn at** — 500
+- **ńolsat nopsl xot** — 870
+- **ontbllowsatn ontsllowxujplow** — 920
+
+#### Assignment 2: Spell out the following numerals in Mansi:
+
+- 58 — **atlow nopsl ontsllow**
+- 80 — **ńollowsat**
+- 716 — **xOtsatn xotlow nopsl xujplow**
+
+---
+
+### Problem 4
+
+#### Assignment 1: Translate into English:
+
+14. **[òwá àkè]** — the axe's vicinity
+15. **[èbè èlú]** — the vicinity of the city
+16. **[òkò oya]** — the husband's head
+17. **[ajé èlú]** — the city's witch
+
+#### Assignment 2: Translate into Yoruba:
+
+18. the head of the tree (i.e., the top of the tree) — **[òrí igi]**
+19. the witch's city — **[ilé agé]**
+20. the house of love (venue of the creation of the first human beings in Yoruba mythology) — **[ilé ìfé]**
+21. the husband’s axe — **[àkè oko]**
+
+---
+
+### Problem 5
+
+#### Assignment 1: Determine which accent paradigms originally belonged together.
+
+Paradigms 1 and 2 belonged together, as did paradigms 3 and 4.
+
+#### Assignment 2: Determine what the initial accent paradigms looked like.
+
+| **Paradigm** | **1 & 2**  | **3 & 4**  |
+|--------------|------------|------------|
+| **Nom. Sg.** | lìepà       | galvà       |
+| **Gen. Sg.** | lìepòs     | galvòs     |
+| **Nom. Pl.** | lìepòs     | galvòs     |
+| **Acc. Pl.** | lìepàs     | galvàs     |
+
+#### Assignment 3: Formulate Saussure’s Law.
+
+Saussure's Law states that if a word's syllable of the first type was accented and the ending was of the second type, the accent moved to the ending. This created a new accent paradigm with the accent on the ending in the Genitive Singular and Nominative Plural, and on the root in the Accusative Plural. This explains the division into four paradigms from the original two.

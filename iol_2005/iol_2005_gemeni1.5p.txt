@@ -1,0 +1,105 @@
+## Solutions to Computational Linguistics Problems
+
+### Problem 1: Tzotzil
+
+**Assignment 1: Translate into English**
+
+16. **Ch’abal alekil ‘ixim.** - There is no good corn. 
+17. **Mi ‘oy ‘ox vob ta k’in?** - Will there be music at the party? / Is there music at the party?
+18. **K’usi ‘oy ‘ox ta Mexico lavie?** - What was in Mexico today? / What did you have in Mexico today? (The sentence could refer to an object or an experience)
+19. **‘Oy ‘ox k’op ta batz’i k’op ta jna volje.** - There was a talk at the Tzotzil school yesterday.
+
+**Assignment 2: Translate into Tzotzil**
+
+20. Where is the party today?  - **Bu ‘oy ‘ox k’in lavie?**
+21. There was nothing in the pot today. - **Ch’abal ‘ox k’usi ta p’in lavie.**
+22. You have a real house. - **‘Oy ‘ox sbatz’i a na.**
+23. Will Juana be in San Cristobal tomorrow?  - **Bu ‘oy ‘ox li Xunka ta Jobel ‘ok’ob?**
+24. He will soon have no pot. - **Ch’abal ‘ox chenek’ ta p’in lavie.** (This translation uses "today" to convey "soon." A closer translation might require additional context or a Tzotzil expression for "soon" that wasn't provided.)
+
+### Problem 2: Lango
+
+**Assignment 1: Pair up the words with their correct translations.**
+
+- **dyé ot** - eyeball
+- **dyé tyén** - hat
+- **gin** - roof
+- **gin wic** - garment
+- **fig** - floor
+- **fig wég** - restaurant
+- **ot cem** - sole of foot
+- **wic ot** - grain
+
+**Assignment 2: Translate into English:**
+
+- **cém:** ground
+- **dyé:**  eye
+
+**Assignment 3: Translate into Lango:**
+
+- window -  This translation requires more context or information about how Lango expresses specific objects. A literal translation of "eye of the house" might be inaccurate or nonsensical.
+
+### Problem 3: Mansi
+
+**Assignment 1: Determine the values of the following Mansi numerals:**
+
+- **atsatn at** - (5 x 100) + (5 x 5) = 525
+- **ńolsat nopsl xot** - (8 x 100) + (4 x 10) + (5) = 845
+- **ontbllowsatn ontsllowxujplow** - (9 x 1000) + (9 x 100) + (8 x 10) + (15) = 9995 
+
+**Assignment 2: Spell out the following numerals in Mansi:**
+
+- 58 - **atlow nopsl nollow**
+- 80 - **ńolsat**
+- 716 - **ńolsatn xotlow nopsl atxujplow** 
+
+
+### Problem 4: Yoruba
+
+**Assignment 1: Translate into English:**
+
+14. **[òwá àkè]:** the handle of the axe 
+15. **[èbè èlú]:** the vicinity of the city (i.e. near the city)
+16. **[òkò oya]:** the husband of the trader (female)
+17. **[ajé èlú]:** the city witch (This is a repetition of phrase number 8)
+
+**Assignment 2: Translate into Yoruba:**
+
+18. the head of the tree (i.e., the top of the tree)  - **[orí igi]**
+19. the witch’s city - **[ìlú ajé]** 
+20. the house of love (venue of the creation of the first human beings in Yoruba mythology) - **[ilé ìfé]** (This is the same as phrase 11, but context implies a specific mythological location)
+21. the husband’s axe - **[àkè oko]** 
+
+
+### Problem 5: Lithuanian
+
+**Assignment 1: Determine which accent paradigms originally belonged together.**
+
+The accent paradigms that originally belonged together are:
+
+* **Paradigm 1 and 3:**  Both show a pattern of the accent moving one syllable back from the Nominative Singular to the other forms.
+* **Paradigm 2 and 4:** Both maintain the accent on the same syllable across all forms.
+
+**Assignment 2: Determine what the initial accent paradigms looked like.**
+
+Based on Saussure's Law (which will be formulated in the next assignment), we can reconstruct the original paradigms as follows:
+
+**Original Paradigm 1 & 3**
+
+| **Case**        | **Singular** | **Plural** |
+|-----------------|-------------|------------|
+| **Nominative** |  *lièpa*     |  *lièpos*    |
+| **Genitive**   |  *liepòs*    |  *liepòs*    |
+| **Accusative** |  *liepàs*    |  *liepàs*    |
+
+**Original Paradigm 2 & 4**
+
+| **Case**        | **Singular** | **Plural** |
+|-----------------|-------------|------------|
+| **Nominative** | *rankà*      |  *rankàs*    |
+| **Genitive**   | *rankòs*     |  *rankàs*    |
+| **Accusative** |  *rankàs*    |  *rankàs*    |
+
+**Assignment 3: Formulate Saussure’s Law.**
+
+Saussure's Law states that in Lithuanian, the accent shifted one syllable back from its original position in all forms **except** the Nominative Singular, **if** the original accent fell on the penultimate syllable and this syllable was of the "falling intonation" type. 

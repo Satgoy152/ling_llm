@@ -1,0 +1,133 @@
+To solve the problems related to the languages Tzotzil, Lango, Mansi, Yoruba, and Lithuanian, I will apply linguistic analysis techniques to identify patterns, word structures, and translations. Let's address each problem one by one.
+
+### Problem 1: Tzotzil Language
+
+#### Assignment 1: Translate into English
+
+16. **Ch’abal alekil ‘ixim.**  
+   - There is no good corn.
+
+17. **Mi ‘oy ‘ox vob ta k’in?**  
+   - Is there music at the party?
+
+18. **K’usi ‘oy ‘ox ta Mexico lavie?**  
+   - What did he have in Mexico today?
+
+19. **‘Oy ‘ox k’op ta batz’i k’op ta jna volje.**  
+   - There was a talk at the Tzotzil school yesterday.
+
+#### Assignment 2: Translate into Tzotzil
+
+20. Where is the party today?  
+   - **Bu ‘oy k’in nax?**
+
+21. There was nothing in the pot today.  
+   - **Ch’abal ‘ixim ta jp’in nax.**
+
+22. You have a real house.  
+   - **‘Oy sbatz’i na.**
+
+23. Will Juana be in San Cristobal tomorrow?  
+   - **Mi ‘oy Juana ta Jobel ‘ok’ob?**
+
+24. He will soon have no pot.  
+   - **Ch’abal ‘ox ta jp’in po’ot.**
+
+### Problem 2: Lango Language
+
+#### Assignment 1: Pair up the words with their correct translations.
+
+- **dyé ot** - hat
+- **dyé tyén** - eyeball
+- **gin** - garment
+- **gin wic** - restaurant
+- **fig** - grain
+- **fig wég** - floor
+- **ot cem** - roof
+- **wic ot** - sole of foot
+
+#### Assignment 2: Translate into English
+
+- **cém**  
+  - window
+
+- **dyé**  
+  - hat
+
+#### Assignment 3: Translate into Lango
+
+- window  
+  - **cém**
+
+### Problem 3: Mansi Language
+
+#### Assignment 1: Determine the values of the following Mansi numerals
+
+1. **atsatn at**  
+   - 100
+
+2. **ńolsat nopsl xot**  
+   - 37
+
+3. **ontbllowsatn ontsllowxujplow**  
+   - 918
+
+#### Assignment 2: Spell out the following numerals in Mansi
+
+1. 58  
+   - **xOtsatn xotlow atlow**
+
+2. 80  
+   - **ńiollow**
+
+3. 716  
+   - **ontbllowsatn xOtsatn ontsllow**
+
+### Problem 4: Yoruba Language
+
+#### Assignment 1: Translate into English
+
+14. **[òwá àkè]**  
+    - the axe's owner
+
+15. **[èbè èlú]**  
+    - the vicinity of the city
+
+16. **[òkò oya]**  
+    - the husband's wife's (i.e., the husband's woman)
+
+17. **[ajé èlú]**  
+    - the city's witch
+
+#### Assignment 2: Translate into Yoruba
+
+18. the head of the tree  
+    - **[òrí igi]**
+
+19. the witch’s city  
+    - **[èlú ajé]**
+
+20. the house of love  
+    - **[ilé ìfé]**
+
+21. the husband’s axe  
+    - **[àkè oko]**
+
+### Problem 5: Lithuanian Accent Paradigms
+
+#### Assignment 1: Determine which accent paradigms originally belonged together
+
+- Paradigms 1 and 3 likely belonged together initially.
+- Paradigms 2 and 4 likely belonged together initially.
+
+#### Assignment 2: Determine what the initial accent paradigms looked like
+
+Initially:
+- Paradigm for 1 and 3: Root syllable was consistently accented.
+- Paradigm for 2 and 4: Ending syllable was accented.
+
+#### Assignment 3: Formulate Saussure’s Law
+
+Saussure’s Law: In Lithuanian, the accent shifts from the root syllable to the ending syllable if the original accent was on the root and the syllabic structure or stress rules of the language allow for such a shift, resulting in the splitting of paradigms.
+
+Each problem has been analyzed using linguistic methodology, combining pattern recognition, syntax, and morphology to derive translations and understand language rules.
