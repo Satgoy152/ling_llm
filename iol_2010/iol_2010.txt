@@ -1,0 +1,145 @@
+Prompt: As an expert in computational linguistics solve the following problem:
+
+### Problem 1 (20 points)
+Given are verbs of the Budukh language in three forms:
+
+| Form 1: prohibitive mood  | Form 2: future tense | Form 3: future tense, | Translation        |
+| class I (masculine)       | class II (feminine)  | class III (neuter)    |                    |
+|---------------------------|----------------------|-----------------------|--------------------|
+| amarxar                   | arxara             | arxara            | sleep              |
+| čömorh̨uc.u                | čörh̨uc.ura         | SHADED            | exchange           |
+| čimeo1i                   | SHADED             | čiro1ira          | carry, lead        |
+| h̨ümoč. onxu               | h̨üč. onxuna        | h̨ürč. onxuna      | overtake           |
+| SHADED                    | orsura             |  osura            | put                |
+| womolt.u                  | wolt.ula          | SHADED            | tie                |
+| ?                         | h̨arkira           | SHADED            | set on (animals)   |
+| ?                         | jölküla           | jölküla           | make to roll       |
+| ?                         | qalq̇ala           | SHADED            | lie, recline       |
+| ?                         | quroo1ura         | quroo1ura         | bring to a halt    |
+| ?                         | sonk.ona          | sonk.ona          | be startled        |
+| amolq̇ol                   | ?                 | alq̇ola            | sit down           |
+| emensi                    | ?                 | SHADED            | extinguish         |
+| h̨ömörč.ü                  | ?                 | SHADED            | push               |
+| čumaraq̇ar                 | SHADED            | ?                 | overtake           |
+| h̨amolo1u                  | SHADED            | ?                 | swallow            |
+| ïmankan                   | SHADED            | ?                 | remain             |
+| jemeč. i                  | SHADED            | ?                 | cross, go across   |
+
+Fill in the vacant cells (you don’t have to fill in the shaded ones).
+
+! The Budukh language belongs to the Nakh-Daghestanian language family. It is spo- ken by approx. 5 000 people in Azerbaijan.
+ö and ü = French eu and u (German ö and ü); ï ≈ u in but. č,č.,o1,h ̨,j,k.,q ̇,š,.t,w,x areconsonants.
+—Ivan Derzhanski
+
+---
+
+### Problem 2 (20 points)
+Given are Drehu numerals in alphabetical order and their values in ascending order:
+
+| Drehu                            | Value |
+|----------------------------------|-------|
+| caatr nge caako                  | 26    |
+| caatr nge caangömen              | 31    |
+| caatr nge caaqaihano             | 36    |
+| ekaatr nge ekengömen             | 42    |
+| köniatr nge köniko               | 50    |
+| köniatr nge könipi               | 52    |
+| köniatr nge köniqaihano          | 73    |
+| lueatr nge lue                   | 75    |
+| lueatr nge luako                 | 78    |
+| lueatr nge luepi                 | 89    |
+
+(a) Determine the correct correspondences.
+
+(b) Write in numerals:
+
+- köniatr nge eke + caatr nge luepi = ekaatr nge ekako  
+- luengömen + luako = ekeqaihano
+
+(c) Write out in Drehu:
+
+- 21  
+- 48  
+- 83
+
+△! The Drehu language belongs to the Austronesian language family. It is spoken by approx. 10000 people on Lifu Island to the east of New Caledonia. c = ch in church; ng = ng in hang; ö = French eu or German ö; q is a voiceless w (as wh in Scottish or Southern American which); tr ≈ English t in art, uttered with the tip of the tongue turned back.
+—Ksenia Gilyarova
+
+---
+
+### Problem 4 (20 points)
+One of the major achievements in genetics was the decipherment of the genetic code—the creation of an mRNA–polypeptide dictionary. Polypeptides (proteins) are building blocks of all living organisms. Polypeptide molecules are chains that consist of amino acids (denoted as Arg, Leu, Phe etc.), and it is the sequence of amino acids in the polypeptide that determines its properties. When cells synthesize polypeptides, they follow instructions written in molecules of messenger ribonucleic acid (mRNA), chains that consist of four nucleotides (denoted as U, C, A, G).
+
+If a cell uses as a template the following mRNA sequence:
+
+AUGUCGAGAAGUCACACCCCACCUUCCGAAUCUAGCCUCAAGAAUCUAGCUCGUGGCCGGAUCUAUACACGAUGAAUGAGGUGGUGUCUUGUGUGCGAGUUAUUCUAAAUGAACCGCUAGAUGGGUCAUGCGCCGGACGUAGGAUUGUUUCAGGCACCCACUAUUCUGUACGUCCAAAUAGAUAAAGUUGCCUCA,
+
+the following polypeptides will be synthesized:
+
+- Met-Ser-Arg-Ser-His-Thr-Pro-Pro-Ser-Glu-Ser-Ser-Leu-Lys-Asn-Leu-Ala-Arg-Gly-Arg-Ile-Tyr-Thr-Arg
+- Met-Arg-Trp-Cys-Leu-Val-Cys-Glu-Leu-Phe
+- Met-Asn-Arg
+- Met-Gly-His-Ala-Pro-Asp-Val-Gly-Leu-Phe-Gln-Ala-Pro-Thr-Ile-Leu-Tyr-Val-Gln-Ile-Asp-Lys-Val-Ala-Ser
+
+(a) A cell uses the following mRNA sequence:
+AUGUUAACGUUCUAAAUGUGGGGGGGACACCAG
+
+What polypeptide(s) will it synthesize?
+
+(b) A cell synthesized the following polypeptide:
+Met-Lys-Cys-Ile
+
+What mRNA sequence(s) could it have used?
+
+(c) The nucleotide pairs are sometimes called roots and classified into two groups: strong roots and weak roots. Examples of strong roots are CU, GU, AC, GG. Examples of weak roots are AU, UA, UG, AA. Classify all the other roots.
+
+
+The data presented here are slightly simplified.
+—Alexander Berdichevsky
+
+---
+
+### Problem 5 (20 points)
+Given are words of two dialects of the Romansh language and their English translations. Some cells have been left blank:
+
+| Sursilvan     | Engadine     | English              |
+|---------------|--------------|----------------------|
+| tut           | tuot         | all                  |
+| ura           | ura          | time                 |
+| ?             | uolm         | elm                  |
+| stumi         | ?            | stomach              |
+| dunna         | duonna       | woman                |
+| num           | nom          | name                 |
+| nums          | noms         | names                |
+| ?             | cuort        | short                |
+| mund          | ?            | world                |
+| insumma       | insomma      | finally              |
+| numer         | nomer        | number               |
+| fuorcla       | ?            | mountain pass        |
+| ?             | plomba       | tooth filling        |
+| ?             | muossar      | to show              |
+| buglia        | buoglia      | mash, pulp           |
+| discuors      | discuors     | conversation         |
+| puolpa        | puolpa       | dried meat           |
+| angul         | angul        | angle                |
+| fuorma        | fuorma       | form                 |
+| flur          | flur         | flower               |
+| culant        | ?            | generous             |
+
+(a) Fill in the gaps.
+
+(b) What is ‘labour’ in Sursilvan, lavur or lavuor? And in Engadine?
+
+(c) In Engadine ‘flowers’ is fluors and ‘parents’ is genituors. You may think that it is the same in Sursilvan, but in fact the words there are flurs and geniturs. How can this be explained?
+
+(d) Translate into both dialects:
+- ‘elms’
+- ‘angles’
+
+△! Romansh belongs to the Rhaeto-Romance subgroup of Romance. It is one of the four national languages of Switzerland, along with German, French and Italian. It is spoken by
+approx. 35 000 people in the canton of Graubünden.
+—Boris Iomdin
+
+---
+
+Good luck!

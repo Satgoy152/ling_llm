@@ -1,0 +1,74 @@
+Here are my solutions to the problems:
+
+Problem 1:
+
+| Form 1: prohibitive mood  | Form 2: future tense | Form 3: future tense, | Translation        |
+|---------------------------|----------------------|-----------------------|--------------------|
+| amarxar                   | arxara             | arxara            | sleep              |
+| čömorh̨uc.u                | čörh̨uc.ura         | čörh̨uc.ura        | exchange           |
+| čimeo1i                   | čiro1ira          | čiro1ira          | carry, lead        |
+| h̨ümoč. onxu               | h̨üč. onxuna        | h̨ürč. onxuna      | overtake           |
+| omolsu                    | orsura             |  osura            | put                |
+| womolt.u                  | wolt.ula          | wolt.ula          | tie                |
+| h̨omorki                   | h̨arkira           | h̨arkira           | set on (animals)   |
+| jemölkü                   | jölküla           | jölküla           | make to roll       |
+| qomalq̇al                  | qalq̇ala           | qalq̇ala           | lie, recline       |
+| qemuroo1u                 | quroo1ura         | quroo1ura         | bring to a halt    |
+| somonk.on                 | sonk.ona          | sonk.ona          | be startled        |
+| amolq̇ol                   | alq̇ola            | alq̇ola            | sit down           |
+| emensi                    | ensila            | ensila            | extinguish         |
+| h̨ömörč.ü                  | h̨örč.üla          | h̨örč.üla          | push               |
+| čumaraq̇ar                 | čaraq̇ara          | čuraq̇ara          | overtake           |
+| h̨amolo1u                  | h̨alo1ula          | h̨alo1ula          | swallow            |
+| ïmankan                   | ïnkana            | ïnkana            | remain             |
+| jemeč. i                  | ječ.ila           | jirč.ila          | cross, go across   |
+
+The key patterns are:
+- Prohibitive mood ends in -ar, -u, or -i
+- Future class I ends in -ara, -ura, or -una 
+- Future classes II and III are the same, ending in -a or -ula
+- The stem shows predictable consonant and vowel alternations between the prohibitive and future forms
+
+Problem 2:
+
+(a) Correspondences:
+- caa = 20
+- eke/eke = 40 
+- köni = 60
+- lue = 80
+- tr = +3
+- ngömen = +5
+- ko = +8
+- pi = +9
+- qaihano = +13
+
+(b) 
+- köniatr nge eke (63) + caatr nge luepi (29) = ekaatr nge ekako (92)
+- luengömen (85) + luako (88) = ekeqaihano (173)
+
+(c)
+- 21 = caatr nge ca 
+- 48 = ekaatr nge ekengömen
+- 83 = lueatr nge caako
+
+Problem 4:
+
+(a) Met-Leu-Thr-Ser-Lys-Cys-Gly-Gly-Asp-Thr
+
+(b) Multiple possibilities, e.g.:
+AUGAAAUGCAUU
+AUGAAAUGCAUA
+AUGAAGUGUAUA
+etc.
+
+(c) 
+- Strong roots: CC, CG, GC
+- Weak roots: UU, UC, CA, AG
+
+Problem 5:
+
+(a) Filled in gaps:
+- uolm => ulm
+- stumi => stomi 
+- cuort => curt
+- mund =>

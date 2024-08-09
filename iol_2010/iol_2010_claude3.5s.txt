@@ -1,0 +1,79 @@
+I'll solve these problems one by one:
+
+### Problem 1: Budukh Language
+
+Let's analyze the patterns to fill in the vacant cells:
+
+1. h̨arkira (Form 2) -> amorkir (Form 1)
+   Pattern: Remove 'r' from end, add 'amo' to beginning
+
+2. jölküla (Form 2) -> womölkü (Form 1)
+   Pattern: Remove 'la' from end, add 'wo' to beginning
+
+3. qalq̇ala (Form 2) -> womalq̇al (Form 1)
+   Pattern: Remove 'a' from end, add 'wom' to beginning
+
+4. quroo1ura (Form 2) -> amoroo1u (Form 1)
+   Pattern: Remove 'ra' from end, add 'amo' to beginning
+
+5. sonk.ona (Form 2) -> womonk.on (Form 1)
+   Pattern: Remove 'a' from end, add 'wom' to beginning
+
+6. alq̇ola (Form 3) -> olq̇ola (Form 2)
+   Pattern: Change initial 'a' to 'o'
+
+7. ensia (Form 3) -> onsia (Form 2)
+   Pattern: Change initial 'e' to 'o'
+
+8. orč.üra (Form 3) -> örč.üra (Form 2)
+   Pattern: Change initial 'o' to 'ö'
+
+### Problem 2: Drehu Numerals
+
+(a) Correspondences:
+caatr nge caako = 26
+caatr nge caangömen = 31
+caatr nge caaqaihano = 36
+ekaatr nge ekengömen = 42
+köniatr nge köniko = 50
+köniatr nge könipi = 52
+köniatr nge köniqaihano = 73
+lueatr nge lue = 75
+lueatr nge luako = 78
+lueatr nge luepi = 89
+
+(b) 
+köniatr nge eke (53) + caatr nge luepi (29) = ekaatr nge ekako (82)
+luengömen (35) + luako (8) = ekeqaihano (43)
+
+(c)
+21 = caatr nge caa
+48 = ekaatr nge ekepi
+83 = lueatr nge lueko
+
+### Problem 4: Genetic Code
+
+(a) The polypeptide synthesized would be:
+Met-Leu-Thr-Phe
+
+(b) The mRNA sequence could be:
+AUGAAGUGCAUU
+
+(c) Classification of roots:
+Strong roots: CG, CC, GC
+Weak roots: CA, UC, AG, GA, CU, UU
+
+### Problem 5: Romansh Dialects
+
+(a) Filling the gaps:
+Sursilvan: ulm, cuort, fuorcla, plumba, mussar
+Engadine: stomi, muond, cuolant
+
+(b) In Sursilvan: lavur
+    In Engadine: lavuor
+
+(c) This can be explained by a sound change rule where 'uo' in Engadine corresponds to 'u' in Sursilvan in certain contexts.
+
+(d) Translation:
+'elms' - Sursilvan: ulms, Engadine: uolms
+'angles' - Sursilvan: anguls, Engadine: anguls

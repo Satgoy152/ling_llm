@@ -1,0 +1,140 @@
+Certainly! Let's tackle each problem step by step.
+
+### Problem 1
+
+To solve this problem, we need to identify patterns in the Budukh language verbs provided and fill in the missing forms. The verbs are given in three forms: prohibitive mood (class I), future tense (class II), and future tense (class III). We need to look for regularities or patterns in how these forms are constructed.
+
+1. **Prohibitive mood (class I) patterns**:
+    - Forms often start with "a" or "e" and end in "ar" or "al" (e.g., amarxar, amolq̇ol).
+
+2. **Future tense (class II and III) patterns**:
+    - Class II often ends in "ura" or "ira" (e.g., arxara, orsura).
+    - Class III often mirrors class II, sometimes with slight changes (e.g., arxara, osura).
+
+Based on these observations, we can hypothesize the missing forms:
+
+- "set on (animals)" in prohibitive mood: **ah̨arkar** (following the pattern amarxar)
+- "make to roll" in prohibitive mood: **ajölkar** (following the pattern amarxar)
+- "lie, recline" in prohibitive mood: **aqalq̇ar** (following the pattern amarxar)
+- "bring to a halt" in prohibitive mood: **aquroo1ar** (following the pattern amarxar)
+- "be startled" in prohibitive mood: **asonk.ar** (following the pattern amarxar)
+- "sit down" in future tense (class II): **alq̇ola**
+- "extinguish" in future tense (class II): **emensira** (following the pattern of verbs ending in "si")
+- "push" in future tense (class II): **h̨ömörč.ura** (similar to "h̨ümoč. onxu")
+- "overtake" in future tense (class III): **čumaraq̇ara** (following patterns in class II)
+- "swallow" in future tense (class III): **h̨amolo1ura** (following patterns in class II)
+- "remain" in future tense (class III): **ïmankara** (following patterns in class II)
+- "cross, go across" in future tense (class III): **jemeč.ira** (following patterns in class II)
+
+### Problem 2
+
+**(a) Determine the correct correspondences:**
+
+Looking at the numerals and their values, we can deduce:
+
+- "caatr nge caako" = 26
+- "caatr nge caangömen" = 31
+- "caatr nge caaqaihano" = 36
+- "ekaatr nge ekengömen" = 42
+- "köniatr nge köniko" = 50
+- "köniatr nge könipi" = 52
+- "köniatr nge köniqaihano" = 73
+- "lueatr nge lue" = 75
+- "lueatr nge luako" = 78
+- "lueatr nge luepi" = 89
+
+From this, we can deduce:
+- "caatr" likely represents 20, "ekaatr" represents 40, "köniatr" represents 50, "lueatr" represents 70.
+- "caako" represents 6, "caangömen" represents 11, "caaqaihano" represents 16.
+- "ekengömen" represents 2, "köniko" represents 0, "könipi" represents 2, "köniqaihano" represents 23.
+- "lue" represents 5, "luako" represents 8, "luepi" represents 19.
+
+**(b) Write in numerals:**
+
+- "köniatr nge eke + caatr nge luepi" = 50 + 19 = 69
+- "luengömen + luako" = 11 + 8 = 19
+
+Corresponding Drehu:
+- "ekaatr nge ekako" = 69
+- "ekeqaihano" = 19
+
+**(c) Write out in Drehu:**
+
+- 21 = "caatr nge ekengömen"
+- 48 = "ekaatr nge luako"
+- 83 = "lueatr nge köniko"
+
+### Problem 4
+
+**(a) mRNA sequence: AUGUUAACGUUCUAAAUGUGGGGGGGACACCAG**
+
+Identify the start codon (AUG) and translate the sequence:
+
+1. AUG = Met
+2. UUA = Leu
+3. ACG = Thr
+4. UUC = Phe
+5. UAA = Stop
+
+Thus, the polypeptide synthesized is Met-Leu-Thr-Phe.
+
+**(b) Polypeptide: Met-Lys-Cys-Ile**
+
+Possible mRNA sequences:
+
+1. Met = AUG
+2. Lys = AAA or AAG
+3. Cys = UGU or UGC
+4. Ile = AUU, AUC, or AUA
+
+Possible sequences include:
+- AUGAAAUGUAUU
+- AUGAAAUGUAUC
+- AUGAAAUGUAUA
+- AUGAAGUGUUUU
+- AUGAAGUGUUUC
+- AUGAAGUGUUUA
+
+**(c) Classify the remaining roots:**
+
+Strong roots (contain at least one G or C):
+- CC, CG, GC, GG
+
+Weak roots (do not contain G or C):
+- AA, AU, UA, UU
+
+### Problem 5
+
+**(a) Fill in the gaps:**
+
+Based on patterns and cognates:
+
+- Sursilvan "elm": **ulma**
+- Engadine "stomach": **stom**
+- Sursilvan "short": **curt**
+- Engadine "world": **mun**
+- Sursilvan "tooth filling": **plomba**
+- Sursilvan "to show": **mussar**
+- Engadine "mountain pass": **fuorcla**
+- Sursilvan "generous": **culant**
+
+**(b) 'Labour' in Sursilvan and Engadine:**
+
+- Sursilvan: **lavur**
+- Engadine: **lavur**
+
+**(c) Explanation for 'flowers' and 'parents':**
+
+The difference in plural forms (fluors vs. flurs; genituors vs. geniturs) can be due to dialectal variation in pluralization patterns. Sursilvan tends to simplify the vowel structure compared to Engadine, which retains more complex vowel sequences.
+
+**(d) Translate into both dialects:**
+
+- 'elms': 
+  - Sursilvan: **ulmas**
+  - Engadine: **uolms**
+
+- 'angles':
+  - Sursilvan: **anguls**
+  - Engadine: **anguls**
+
+These solutions utilize linguistic pattern recognition and logical deduction based on the provided data.

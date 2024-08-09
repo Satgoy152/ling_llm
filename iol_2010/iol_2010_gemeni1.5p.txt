@@ -1,0 +1,147 @@
+## Solution to Computational Linguistics Problems
+
+Here are the solutions to the provided problems:
+
+**Problem 1: Budukh Verbs**
+
+| Form 1: prohibitive mood  | Form 2: future tense | Form 3: future tense, | Translation        |
+| class I (masculine)       | class II (feminine)  | class III (neuter)    |                    |
+|---------------------------|----------------------|-----------------------|--------------------|
+| amarxar                   | arxara             | arxara            | sleep              |
+| čömorh̨uc.u                | čörh̨uc.ura         | **čörh̨uc.ura**    | exchange           |
+| čimeo1i                   | **čimeo1ira**       | čiro1ira          | carry, lead        |
+| h̨ümoč. onxu               | h̨üč. onxuna        | h̨ürč. onxuna      | overtake           |
+| **orsu**                  | orsura             |  osura            | put                |
+| womolt.u                  | wolt.ula          | **wolt.ula**        | tie                |
+| **h̨arku**                | h̨arkira           | **h̨arkira**        | set on (animals)   |
+| **jölkülu**               | jölküla           | jölküla           | make to roll       |
+| **qalq̇alu**              | qalq̇ala           | **qalq̇ala**        | lie, recline       |
+| **quroo1u**               | quroo1ura         | quroo1ura         | bring to a halt    |
+| **sonk.onu**              | sonk.ona          | sonk.ona          | be startled        |
+| amolq̇ol                   | **alq̇ola**         | alq̇ola            | sit down           |
+| emensi                    | **emensira**       | **emensira**        | extinguish         |
+| h̨ömörč.ü                  | **h̨ömörč.üra**     | **h̨ömörč.üra**     | push               |
+| čumaraq̇ar                 | **čumaraq̇ara**      | **čumaraq̇ara**      | overtake           |
+| h̨amolo1u                  | **h̨amolo1ura**      | **h̨amolo1ura**      | swallow            |
+| ïmankan                   | **ïmankana**        | **ïmankana**        | remain             |
+| jemeč. i                  | **jemeč.ira**       | **jemeč.ira**       | cross, go across   |
+
+**Explanation:** 
+
+We observe a pattern in the verb endings for each class:
+
+* **Class I (masculine):** Verbs in the prohibitive mood often end in a consonant or "u".
+* **Class II (feminine):** Verbs in the future tense often end in "a".
+* **Class III (neuter):** Verbs in the future tense often end in "a" and resemble the feminine form.
+
+Using this pattern, we can fill the missing entries. 
+
+**Problem 2: Drehu Numerals**
+
+**(a) Correspondences:**
+
+| Drehu Fragment  | Value |
+|------------------|-------|
+| caako           | 6     |
+| caangömen       | 1     |
+| caaqaihano      | 6     |
+| ekaatr          | 40    |
+| ekako           | 2     |
+| ekengömen       | 2     |
+| eke             | 2     |
+| ekeqaihano     | 9     |
+| köniatr         | 50    |
+| köniko          | 0     |
+| könipi          | 2     |
+| köniqaihano     | 3     |
+| lue             | 5     |
+| lueatr          | 70    |
+| luako           | 8     |
+| luengömen       | 1     |
+| luepi           | 9     |
+| nge             | +     |
+
+**(b) Numerals:**
+
+* köniatr nge eke + caatr nge luepi = ekaatr nge ekako  
+  * 50 + 2 + 20 + 9 = 40 + 2 
+  * **81 = 42**
+* luengömen + luako = ekeqaihano
+  * 1 + 8 = 9
+  * **9 = 9**
+
+**(c) Drehu:**
+
+* 21: **caatr nge caangömen** 
+* 48: **ekaatr nge luako**
+* 83: **lueatr nge köniqaihano**
+
+**Problem 4: Genetic Code**
+
+**(a) Polypeptide Synthesis:**
+
+The mRNA sequence AUGUUAACGUUCUAAAUGUGGGGGGGACACCAG will be translated into the following polypeptides:
+
+* **Met-Leu-Asn-Val-Leu-Asn-Val-Gly-Gly-Asp-Thr-Arg** 
+
+**(b) mRNA Sequence:**
+
+The polypeptide Met-Lys-Cys-Ile could be synthesized from the following mRNA sequences (considering the redundancy of the genetic code):
+
+* **AUGAAGUGCUAU**
+* **AUGAAGUGC AUU**
+* **AUGAAGUGCAUA**
+* **AUGAAGUGC AUG**
+
+**(c) Root Classification:**
+
+The remaining nucleotide pairs can be classified as follows:
+
+* **Strong roots:** CG
+* **Weak roots:** CA, UC, AG 
+
+**Problem 5: Romansh Dialects**
+
+**(a) Filled Gaps:**
+
+| Sursilvan     | Engadine     | English              |
+|---------------|--------------|----------------------|
+| tut           | tuot         | all                  |
+| ura           | ura          | time                 |
+| **uolm**       | uolm         | elm                  |
+| stumi         | **stum**      | stomach              |
+| dunna         | duonna       | woman                |
+| num           | nom          | name                 |
+| nums          | noms         | names                |
+| **cuort**      | cuort        | short                |
+| mund          | **mond**      | world                |
+| insumma       | insomma      | finally              |
+| numer         | nomer        | number               |
+| fuorcla       | **fuorcla**  | mountain pass        |
+| **plomba**     | plomba       | tooth filling        |
+| **muossar**    | muossar      | to show              |
+| buglia        | buoglia      | mash, pulp           |
+| discuors      | discuors     | conversation         |
+| puolpa        | puolpa       | dried meat           |
+| angul         | angul        | angle                |
+| fuorma        | fuorma       | form                 |
+| flur          | flur         | flower               |
+| culant        | **culant**    | generous             |
+
+**(b) ‘Labour’ in Romansh:**
+
+* Sursilvan: **lavur**
+* Engadine: **lavur**
+
+**(c) Plural Formation:**
+
+The difference in plural formation for 'flowers' and 'parents' in Sursilvan (flurs, geniturs) compared to Engadine (fluors, genituors) showcases a dialectal variation.  While both dialects use -s for pluralization, Engadine sometimes retains an -o- before the -s, potentially reflecting a more conservative form.
+
+**(d) Translations:**
+
+* 'elms': 
+    * Sursilvan: **uolms**
+    * Engadine: **uolms**
+* 'angles': 
+    * Sursilvan: **anguls**
+    * Engadine: **anguls** 

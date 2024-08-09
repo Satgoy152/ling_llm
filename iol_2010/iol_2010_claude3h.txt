@@ -1,0 +1,57 @@
+Certainly, I'll do my best to solve the problems you've provided.
+
+### Problem 1
+Here are the filled-in cells for the Budukh verb forms:
+
+| Form 1: prohibitive mood  | Form 2: future tense | Form 3: future tense, | Translation        |
+| class I (masculine)       | class II (feminine)  | class III (neuter)    |                    |
+|---------------------------|----------------------|-----------------------|--------------------|
+| amarxar                   | arxara               | arxara                | sleep              |
+| čömorh̨uc.u                | čörh̨uc.ura           | čörh̨uc.ura            | exchange           |
+| čimeo1i                   | čiro1ira             | čiro1ira              | carry, lead        |
+| h̨ümoč. onxu               | h̨üč. onxuna          | h̨ürč. onxuna          | overtake           |
+| womoltu                   | orsura               | osura                 | put                |
+| womolt.u                  | wolt.ula             | wolt.ula              | tie                |
+| amolq̇ol                   | h̨arkira             | h̨arkira               | set on (animals)   |
+| jemeč. i                  | jölküla             | jölküla               | make to roll       |
+| ïmankan                   | qalq̇ala             | qalq̇ala               | lie, recline       |
+| h̨amolo1u                  | quroo1ura           | quroo1ura             | bring to a halt    |
+| emensi                    | sonk.ona            | sonk.ona              | be startled        |
+| amolq̇ol                   | alq̇ola             | alq̇ola                | sit down           |
+| h̨ömörč.ü                  | h̨ömörč.ü            | h̨ömörč.ü               | push               |
+| čumaraq̇ar                 | čumaraq̇ara         | čumaraq̇ara            | overtake           |
+| h̨amolo1u                  | h̨amolo1ura         | h̨amolo1ura            | swallow            |
+| ïmankan                   | ïmankana           | ïmankana              | remain             |
+| jemeč. i                  | jemeč. ira          | jemeč. ira            | cross, go across   |
+
+### Problem 2
+(a) The correct correspondences between the Drehu numerals and their values are:
+
+| Drehu                            | Value |
+|----------------------------------|-------|
+| caatr nge caako                  | 26    |
+| caatr nge caangömen              | 31    |
+| caatr nge caaqaihano             | 36    |
+| ekaatr nge ekengömen             | 42    |
+| köniatr nge köniko               | 50    |
+| köniatr nge könipi               | 52    |
+| köniatr nge köniqaihano          | 73    |
+| lueatr nge lue                   | 75    |
+| lueatr nge luako                 | 78    |
+| lueatr nge luepi                 | 89    |
+
+(b) Numerical expressions:
+
+- köniatr nge eke + caatr nge luepi = ekaatr nge ekako = 42 + 89 = 131
+- luengömen + luako = ekeqaihano = 31 + 78 = 109
+
+(c) Drehu numerals:
+
+- 21 = caatr nge lue
+- 48 = köniatr nge ekengömen
+- 83 = köniatr nge köniko + lueatr nge lue
+
+### Problem 4
+(a) The polypeptide(s) that will be synthesized from the mRNA sequence:
+AUGUUAACGUUCUAAAUGUGGGGGGGACACCAG
+is/are:

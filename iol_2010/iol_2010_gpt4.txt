@@ -1,0 +1,90 @@
+### Solution 1:
+
+The Budukh language seems to follow a pattern where the first and last syllables are modified depending on the class of the verb. 
+
+From the given data, we can make several observations:
+
+- For class I masculine form, the first syllable often contains a 'm' and the last syllable often ends with 'r' or 'u'.
+- For class II feminine form, the first syllable often contains an 'r' and the last syllable often ends with 'ra'.
+- For class III neuter form, the first syllable often contains an 'r' or 's' and the last syllable often ends with 'ra'.
+
+Using these patterns, we can fill in the missing forms:
+
+| Form 1: prohibitive mood  | Form 2: future tense | Form 3: future tense, |
+|---------------------------|----------------------|-----------------------|
+| h̨amarkir                   | h̨arkira             | h̨arkira            |
+| jömolkül                  | jölküla         | jölküla           |
+| qamalq̇al                  | qalq̇ala           | qalq̇ala            |
+| qumuroo1u                  | quroo1ura         | quroo1ura         |
+| somonk.on                  | sonk.ona          | sonk.ona          |
+| amolq̇ol                   | arq̇ola             | alq̇ola            |
+| emensi                    | ersira             | SHADED            |
+| h̨ömörč.ü                  | h̨ürč.ura            | SHADED            |
+| čumaraq̇ar                 | čaraq̇ara            | SHADED            |
+| h̨amolo1u                  | h̨aro1ura            | SHADED            |
+| ïmankan                   | ïrkanra             | SHADED            |
+| jemeč. i                  | jerč.ira            | SHADED            |
+
+### Solution 2:
+
+Based on the given values, we can derive the numerals for each corresponding number:
+
+| Drehu                    | Value |
+|--------------------------|-------|
+| caako                    | 1     |
+| caatr                    | 5     |
+| caangömen                | 6     |
+| caaqaihano               | 7     |
+| ekaatr                   | 8     |
+| ekengömen                | 9     |
+| köniatr                  | 10    |
+| köniko                   | 11    |
+| könipi                   | 12    |
+| köniqaihano              | 23    |
+| lueatr                   | 25    |
+| lue                      | 26    |
+| luako                    | 27    |
+| luepi                    | 31    |
+
+(a) 
+
+- köniatr nge eke + caatr nge luepi = 10 + 8 + 5 + 31 = 54
+- luengömen + luako = 26 + 27 = 53
+
+(b) 
+
+- 21 = caatr nge caako nge caako
+- 48 = ekaatr nge ekako nge ekako
+- 83 = köniatr nge könipi nge köniqaihano
+
+### Solution 4:
+
+(a) The mRNA sequence AUGUUAACGUUCUAAAUGUGGGGGGGACACCAG will synthesize Met-Leu-Thr-Phe-Met-Trp-Gly-Gly-Thr-Pro.
+
+(b) The polypeptide Met-Lys-Cys-Ile could be synthesized from the mRNA sequences AUGAAAUGUUAU and AUGAAGUGAUAU.
+
+(c) The remaining roots can be classified as follows:
+
+- Strong roots: UC, AG, CG, CC, GG
+- Weak roots: AU, UA, UG, AA, GA, GU, UU
+
+### Solution 5:
+
+(a) Based on the given words and their translations, we can attempt to fill in the gaps:
+
+| Sursilvan     | Engadine     | English              |
+|---------------|--------------|----------------------|
+| um            | uolm         | elm                  |
+| stumi         | stomac       | stomach              |
+| curt          | cuort        | short                |
+| mund          | mond         | world                |
+| fuorcla       | fuorcla      | mountain pass        |
+| plomba        | plomba       | tooth filling        |
+| muossar       | muossar      | to show              |
+| culant        | culand       | generous             |
+
+(b) 'Labour' in Sursilvan would likely be 'lavur'. In Engadine, it would likely be 'lavuor'.
+
+(c) The difference in the words for 'flowers' and 'parents' between the two dialects could be due to different linguistic influences or regional variations in pronunciation.
+
+(d) 'Elms' would likely translate to 'umns' in Sursilvan and 'uolms' in Engadine. 'Angles' would likely translate to 'anguls' in Sursilvan and 'anguls' in Engadine.

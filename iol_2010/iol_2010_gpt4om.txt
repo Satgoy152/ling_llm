@@ -1,0 +1,153 @@
+### Problem 1 Solutions
+
+#### (a) Fill in the vacant cells
+
+To fill in the blanks, we need to identify patterns in the verb forms and their classes. 
+
+1. For the prohibitive mood:
+   - The verbs "amarxar," "h̨ümoč. onxu," "womolt.u," "amolq̇ol," and "emensi" do not have corresponding future tense forms provided. For "amarxar," it seems to follow the masculine class pattern, so this is used as the base.
+
+2. For the future tense forms:
+   - The verbs "čömorh̨uc.u" and "čimeo1i" appear to have a pattern. The future tense form in class II for "čömorh̨uc.u" has "čörh̨uc.ura," suggesting a transformation. Using similar transformations, we can propose:
+     - For "čimeo1i," the form might be "čimeo1ira."
+   - For "h̨ümoč. onxu," the future tense for class III is "h̨ürč. onxuna."
+   - The future tense for "put" should match the pattern as well, which leads to "orsura" in class II and "osura" in class III.
+
+3. The missing prohibitive forms can be inferred from the future tense forms.
+   - "set on (animals)" likely corresponds to the prohibitive "h̨arkira."
+   - "make to roll" can be "jölk." (class II) or "jölkü" (class III).
+   - "lie, recline" can be "qalq̇i" (class I).
+   - The form for "bring to a halt" appears to be consistent across classes.
+   - "be startled" might follow the class II pattern.
+  
+Assumptions made based on patterns lead us to:
+
+| Form 1: prohibitive mood  | Form 2: future tense | Form 3: future tense | Translation        |
+|---------------------------|----------------------|-----------------------|--------------------|
+| amarxar                   | arxara               | arxara                | sleep              |
+| čömorh̨uc.u               | čörh̨uc.ura          | čörh̨uc.ura           | exchange           |
+| čimeo1i                   | čimeo1ira            | čiro1ira              | carry, lead        |
+| h̨ümoč. onxu              | h̨üč. onxuna         | h̨ürč. onxuna         | overtake           |
+| h̨arkira                  | orsura               | osura                 | put                |
+| womolt.u                  | wolt.ula            | wolt.ula              | tie                |
+| h̨arkira                  | h̨arkira             | h̨arkira              | set on (animals)   |
+| jölk.                     | jölküla             | jölküla              | make to roll       |
+| qalq̇i                    | qalq̇ala             | qalq̇ala              | lie, recline       |
+| quroo1ura                 | quroo1ura           | quroo1ura             | bring to a halt    |
+| sonk.ona                  | sonk.ona            | sonk.ona              | be startled        |
+| amolq̇ol                  | amolq̇ol            | alq̇ola               | sit down           |
+| emensi                    | emensi                | emensi                | extinguish         |
+| h̨ömörč.ü                 | h̨ömörč.ü            | h̨ömörč.ü            | push               |
+| čumaraq̇ar                | čumaraq̇ar          | čumaraq̇ar           | overtake           |
+| h̨amolo1u                 | h̨amolo1u           | h̨amolo1u             | swallow            |
+| ïmankan                   | ïmankan             | ïmankan              | remain             |
+| jemeč. i                  | jemeč. i            | jemeč. i              | cross, go across   |
+
+#### Problem 2 Solutions
+
+#### (a) Determine the correct correspondences:
+
+Using the values given, we can match the words:
+
+- 26: caatr nge caako
+- 31: caatr nge caangömen
+- 36: caatr nge caaqaihano
+- 42: ekaatr nge ekengömen
+- 50: köniatr nge köniko
+- 52: köniatr nge könipi
+- 73: köniatr nge köniqaihano
+- 75: lueatr nge lue
+- 78: lueatr nge luako
+- 89: lueatr nge luepi
+
+#### (b) Write in numerals:
+
+1. köniatr nge eke + caatr nge luepi = ekaatr nge ekako
+   - 52 (köniatr nge eke) + 89 (caatr nge luepi) = 42 (ekaatr nge ekako)
+
+2. luengömen + luako = ekeqaihano
+   - 31 (luengömen) + 78 (luako) = 36 (ekeqaihano)
+
+#### (c) Write out in Drehu:
+
+1. 21 = caatr nge caagömen
+2. 48 = ekaatr nge ekengömen
+3. 83 = lueatr nge luako + köniatr nge köniko
+
+### Problem 4 Solutions
+
+#### (a) What polypeptide(s) will it synthesize?
+
+Using the provided mRNA sequence:
+- AUGUUAACGUUCUAAAUGUGGGGGGGACACCAG
+
+This will produce:
+- Met-Leu-Thr-Leu-Lys-Met-Val-Gly-Gly-Gly-Thr-Thr
+
+#### (b) What mRNA sequence(s) could it have used?
+
+For the polypeptide:
+- Met-Lys-Cys-Ile
+
+Possible mRNA sequences:
+- AUG-AAA-UGC-AU
+
+#### (c) Classify all the other roots.
+
+- Strong roots: CU, GU, AC, GG
+- Weak roots: AU, UA, UG, AA
+
+Other roots:
+- CA, CG, GC, UA, AG, GU, CG, AU, AC, CU (as weak)
+- AA, GA (as weak)
+
+### Problem 5 Solutions
+
+#### (a) Fill in the gaps.
+
+| Sursilvan     | Engadine     | English              |
+|---------------|--------------|----------------------|
+| tut           | tuot         | all                  |
+| ura           | ura          | time                 |
+| ulma          | uolm         | elm                  |
+| stumi         | stoma        | stomach              |
+| dunna         | duonna       | woman                |
+| num           | nom          | name                 |
+| nums          | noms         | names                |
+| curte         | cuort        | short                |
+| mund          | mund         | world                |
+| insumma       | insomma      | finally              |
+| numer         | nomer        | number               |
+| fuorcla       | fuorcla      | mountain pass        |
+| plomba        | plomba       | tooth filling        |
+| muossar       | muossar      | to show              |
+| buglia        | buoglia      | mash, pulp           |
+| discuors      | discuors     | conversation         |
+| puolpa        | puolpa       | dried meat           |
+| angul         | angul        | angle                |
+| fuorma        | fuorma       | form                 |
+| flur          | flur         | flower               |
+| culant        | culanta      | generous             |
+
+#### (b) What is ‘labour’ in Sursilvan, lavur or lavuor? And in Engadine?
+
+- Sursilvan: lavur
+- Engadine: lavur
+
+#### (c) Explanation for different words:
+
+The variations in morphology (e.g. plural forms) can be attributed to historical linguistic changes and dialectal evolution within the Romansh language, leading to differences in suffixes and roots used in each dialect.
+
+#### (d) Translate into both dialects:
+
+- ‘elms’:
+  - Sursilvan: ulmas
+  - Engadine: uolms
+
+- ‘angles’:
+  - Sursilvan: anguls
+  - Engadine: anguls
+
+---
+
+This concludes the solutions for the presented problems.

@@ -1,0 +1,29 @@
+---
+
+### Problem 3 (20 points)
+Blissymbolics is a universal system of symbols devised by Charles K. Bliss (1897–1985), an Australian of Austrian origin, who thought it should be understandable to all people, regardless of their native tongue.
+
+Given are words written in Blissymbolics and their English translations in arbitrary order:
+
+- waist
+- active
+- ill, sick
+- lips
+- activity
+- to blow
+- western
+- merry
+- to weep
+- saliva
+- to breathe
+
+(a) Determine the correct correspondences.
+
+(b) Indicate what the following symbols mean, knowing that two of them have the same meaning:
+
+(c) Write in Blissymbolics:
+- air
+- body (torso)
+- to rise
+- east
+- sad
