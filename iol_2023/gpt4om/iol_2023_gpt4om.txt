@@ -1,0 +1,144 @@
+Sure, let’s work through each problem systematically.
+
+Problem 1
+
+(a) Fill in the gaps in rows 15–18.
+
+To find the missing forms, we can analyze the given verbs in Form 1 and Form 2. It seems that the verbs in Form 1 are often modified by a common pattern to derive Form 2.
+
+	1.	netkay’ → ɨnɛtk’ay (push)
+	2.	kɨrɨy’ → ɨŋk’ir’a (pull)
+	3.	p’uhruy’ → ɨmp’uhra’i (make holes)
+	4.	her’oy → ɨndher’o (smooth out)
+
+Thus, the completed table for rows 15–18 is as follows:
+
+Form 1	Form 2	Translation
+15. netkay’	ɨnɛtk’ay	push
+16. kɨrɨy’	ɨŋk’ir’a	pull
+17. p’uhruy’	ɨmp’uhra’i	make holes
+18. her’oy	ɨndher’o	smooth out
+
+(b) Fill in the gaps in rows 39–48.
+
+	1.	her’oŋ → ɨnher’o (I smoothed out)
+	2.	ɨniʂpaʔ → ɨniʂp’a (I leave)
+	3.	aplaʔ → ɨnapl’a (it is being opened)
+	4.	ɨŋkaʔ → ɨŋkaʔ (it chose it)
+	5.	ɨmbir’a → ɨmbir’a (I saw it)
+	6.	ɨnapal’a → ɨnapal’a (I plant it)
+	7.	ɨŋk’an’a → ɨŋk’an’a (it was trapped)
+	8.	ɨnhɨk’a → ɨnhɨk’a (I leaped)
+	9.	ɨnipal’a → ɨnipal’a (I was bathed)
+
+Thus, the completed table for rows 39–48 is:
+
+Form	Translation
+39. her’oŋ	I smoothed out
+40. ɨniʂpaʔ	I leave
+41. aplaʔ	It is being opened
+42. ɨŋkaʔ	It chose (it)
+43. ɨmbir’a	I saw (it)
+44. ɨnapal’a	I plant (it)
+45. ɨŋk’an’a	It was trapped
+46. ɨnhɨk’a	I leaped
+47. ɨnipal’a	I was bathed
+
+Problem 2
+
+(a) Translate into English:
+
+	17.	uwa xinhikaru sytu → “I gave the girl my canoe.”
+	18.	txipary nhinhikary → “He drank my blood.”
+	19.	kyky aikute pysykary ywamukary → “The man brought the girl’s eye to me.”
+
+(b) This sentence is grammatically incorrect. The correct form would be:
+
+20. uwa umynary kanawa ximakymukary
+Explanation: The verb structure is incorrect. The verb “kanawa” is not correctly linked to the subject “I” and the verb “ximakymukary” needs to reflect the object in a more coherent manner. The correct sentence could be:
+“I brought your canoe to the girl.”
+Translation: “I brought your canoe to the girl.”
+
+(c) Translate into Apurinã in two ways:
+
+	21.	“You_{sg} found the house.” →
+
+	•	nuta ukyhita na nyi
+	•	nyihita na ɨka
+
+	22.	“I brought your_{sg} canoe to the girl.” →
+
+	•	nuta sykaru uamukary
+	•	nuta xinhikaru uamukary
+
+	23.	“He brought your_{sg} water to me.” →
+
+	•	nuta xinhikaru uamukary
+	•	nuta nykanawate uwanakary
+
+	24.	“The man drank the girl’s blood.” →
+
+	•	kyky herẽkatxi uãtary
+	•	kyky uãtary herẽkatxi
+
+	25.	“I remembered the eye.” →
+
+	•	nuta pyshisya na
+	•	nuta uahynyhita
+
+	26.	“You_{sg} ate my banana.” →
+
+	•	nuta hãtakuru xira na
+	•	nuta xira na hãtakuru
+
+Problem 3
+
+(a) Translate into English:
+
+	18.	e-ɣuyanah → “I shuddered.”
+	19.	ba-ihwin → “You_{pl} cried.”
+	20.	nambum-kisaɣah → “We really floated to the surface.”
+	21.	bat-ɣadawn → “You_{sg} left behind.”
+	22.	ubamum-kolewn → “I silenced you_{sg}.”
+
+(b) Translate into Coastal Marind:
+
+	23.	“He floated to the surface.” → a-ɣuyakum
+	24.	“Aw, you_{sg} returned.” → ob-dahetok
+	25.	“Oh, I silenced him!” → naka-huɣanab
+	26.	“He really chased us away.” → a-nambe-otab
+	27.	“You_{pl} really spat on us in vain.” → e-keseh
+
+Problem 4
+
+(a) Translate into English:
+
+	22.	ē-wāpamikoyēk → “if you_{sg} see him”
+	23.	ninakinikonān → “we stop them”
+	24.	kikakwēcimāwāw → “they help you_{pl}”
+	25.	kiwīcihitināwāw → “if you_{sg} help them”
+
+(b) Translate into Plains Cree:
+
+	26.	“if we ask them” → ē-nikakwēcimān
+	27.	“they challenge you_{pl}” → nimawinēskomik
+	28.	“they help me” → kiwīcihikowāw
+	29.	“you_{sg} see them” → kiwāpaminā
+	30.	“I stop you_{pl}” → ninakināwak
+
+Problem 5
+
+(a) Write in digits:
+
+	•	kampwɔhii shuunni na kɛ → 15
+	•	ŋkuu na baataanre → 109
+
+(b) Write out in the Supyire language:
+
+	•	15 → baashuunni
+	•	109 → beɲjaaga na baataanre
+	•	152 → beɲjaaga na kɛ na beɲjaaga
+	•	403 → baashuunni na kɛ na kaŋkuro
+	•	1534 → kampwoo na ŋkwuu shuunni na kɛ na baaricyɛɛre
+
+This approach gives a comprehensive answer to each problem set, translating and filling in the necessary gaps with a focus on grammatical structures and vocabulary. If you need any more help or clarifications, feel free to ask!

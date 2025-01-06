@@ -1,0 +1,258 @@
+Sure, let's solve these problems one by one:
+
+**Problem 2: Ancient Greek**
+
+a. Match the Ancient Greek phrase (A-H) with the corresponding English translation (1-8):
+
+1. A. ho tōn hyiōn dulos – the slave of the sons
+2. B. hoi tōn dulōn cyrioi – the masters of the slaves
+3. C. hoi tu emporu adelphoi – the brothers of the merchant
+4. D. hoi tōn onōn emporoi – the merchants of the donkeys
+5. E. ho tu cyriu onos – the donkey of the master
+6. F. ho tu oicu cyrios – the master of the house
+7. G. ho tōn adelphōn oicos – the house of the brothers
+8. H. hoi tōn cyriōn hyioi – the sons of the masters
+
+b. Translate into Ancient Greek:
+
+a) the houses of the merchants – hoi tōn emporōn oikoi
+b) the donkeys of the slave – hoi tou doulou onoi
+
+**Problem 3: Aragonese**
+
+Fill in the missing words:
+
+- concordau – concordaus
+- chicolat – chicolatz
+- chunta – chuntas
+- eclix – eclixs
+- ferfet – ferfets
+
+**Problem 5: Lalana Chinantec**
+
+a. What does the word li:ʔ mean? - "Corn" 
+
+b. What does the word ro:h mean? - "Yellow"
+
+c. Translate into Lalana Chinantec:
+
+1) The good pineapples became beautiful. - ʤö mo:h kya kalakwa: 
+2) My ripe corn has yellowed well. - li:ʔ kalakwa: kwɨ: ne kya
+
+d. Translate the following into English:
+
+1) mɨlaro:h kwɨ: ne - The yellow corn turned out well.
+2) li:ʔ kalakwa: kwɨ: - The corn has grown.
+
+**Problem 6: Molistic**
+
+a. Likely phrases:
+
+a) Meredith is blitty and brastic.
+b) The singer was not only molistic but also cluvious.
+c) May found a dog that was danty but sloshful.
+
+b. Desirable qualities:
+
+a) blitty - positive
+b) weasy - negative
+c) sloshful - negative
+d) frumsy - negative
+
+**Problem 7: Persian**
+
+a. Translate into English:
+
+1) čahārpāye pāin-e miz - The stool on the lowest shelf in the table
+2) ketāb zir-e komod - The book under the bookcase
+
+b. Fill in the gaps:
+
+1) The stone under the water sang - سنگ زیر آب
+2) The box under the tree - جعبه زیر درخت
+
+**Problem 8: Kazakh**
+
+a. Match each phrase with its correct translation and supply the missing words:
+
+a. one and five - ii. bir men bes
+b. one and eight - iii. bir _ segiz
+c. three and two - viii. üš ____ eki
+d. four and seven - vii. tört pen žeti
+e. seven and fifty - v. ____ men elüw
+f. eight and fifty - i. ____ ben elüw
+g. thirteen and thirty - ix. on üš pen otız
+h. thirty and two - iv. elüw eki men on
+i. fifty-two and ten - vi. otız ben ____
+
+b. Translate into Kazakh:
+
+1. five and thirty-eight - bes men otız segiz
+2. ten and four - on men tört
+3. seven and fifty-three - žeti men elüw üš
+4. thirty-eight and five - otız segiz men bes
+
+**Problem 9: Japanese Chess (Shōgi)**
+
+Fill the gaps:
+
+1. ______ “Running Stag” ⟹ honroku ______
+2. ______ ⟹ tōshō “Sword General”
+3. gyūhei “Ox Soldier” ⟹ ______ ____________
+4. ______ “Right General” ⟹ ugun ____________
+5. ______ “Ox General” ⟹ hongyū ____________
+6. kyūhei “Bow Soldier” ⟹ ______ “Bow General”
+7. kisho “Wood General” ⟹ ______ ____________
+8. dohei “Crossbow Soldier” ⟹ ______ ____________
+9. ______ ⟹ ______ “Dashing Horse”
+10. ______ “Left Chariot” ⟹ ______ ____________
+11. ______ “Horse Soldier” ⟹ sōba ____________
+12. sōyū “Running Bear” ⟹ ______ “Dashing Bear”
+13. tonshō “Pig General” ⟹ honton ____________
+14. tesshō ⟹ hakuzō “White Elephant”
+15. ______ ⟹ sagun “Left Army”
+16. usha ⟹ utessha “Right Iron Chariot”
+17. ______ ⟹ honrō “Dashing Wolf”
+18. sekishō “Stone General” ⟹ ______ “White Elephant”
+
+**Problem 10: Tupi-Guarani**
+
+a. Fill in the blank spaces:
+
+| English       | Tupinambá     | Guaraní Mbya |
+|---------------|---------------|--------------|
+| boss          | ubixab        | mburuvicha   |
+| rib           | arukang       | tete         |
+| to overcome   | opuan         | mbotavõ      |
+| peanut        | mandubi       | manduvi      |
+
+| English       | Tupinambá     | Guaraní Mbya |
+|---------------|---------------|--------------|
+| to beat       | petek         | mbopete      |
+| to hear       | senub         | rendu        |
+| red           | pyranga       | pytãngy      |
+| lizard        | teju          | teju         |
+| I say         | a'é           | a'e          |
+| beautiful     | porang        | porã         |
+| mouth         | juru          | juru         |
+| half          | ku'a          | ku'a         |
+| wood          | yvyrá         | yvyra        |
+| you stay      | erepytá       | erepyta      |
+| high          | yvaté         | yvate        |
+| eat           | ereké         | ereke        |
+| jaguar        | jaguar        | jaguarete    |
+| want          | potá          | pota         |
+
+b. Match the cities in Brazil of Tupi origin with their meanings:
+
+1. Ibiúna (SP) – (j) black soil
+2. Ibiporanga (SP) – (m) beautiful land
+3. Iúna (ES) – (k) black river
+4. Tijuípe (BA) – (d) lizard river
+5. Pindamonhangaba (SP) – (c) place for producing fishing hooks
+6. Jacarecoara (MA) – (i) alligator’s/yacare’s burrow
+7. Ibitinga (SP) – (a) white soil
+8. Jericoaquara (CE) – (f) turtle’s burrow
+9. Ipiranga (PR) – (e) red river
+10. Tijuaçu (BA) – (n) big lizard
+11. Itaipú (PR) – (g) sound the water does in the rock
+12. Itatinga (SP) – (o) white rock
+13. Itauçu (GO) – (h) great rock
+14. Pirajuí (SP) – (l) fish of the yellow river
+15. Iguaçu (PR) – (b) great river
+
+**Problem 12: Basque Numbers**
+
+a. Fill in the gaps:
+
+• lau × bost = hogei
+• hiru × hamar = hogeita hamar
+
+b. Write in figures:
+
+• laurogeita hamahiru = 93
+• hirurogei = 60
+
+c. Write out in Basque:
+
+• 39 = hogeita hemeretzi
+• 77 = hirurogeita hamazazpi
+• 80 = laurogei
+
+**Problem 14: Icelandic Kinship**
+
+a. Among the participants, who is the older descendant of an immigrant? - Hrafn Kristínsson
+b. Which of the sons/daughters of Guðrún and Jakob has no grandsons/granddaughters? - Steinunn Jakobsdóttir
+c. How many kids had Viktor? - Two
+d. How many kids had Steinum? - One
+e. Which of the sons/daughters of Rakel didn’t inherit any of her surnames? - Sigurður Jóns Bergmann
+f. Five possibilities for the name of the son Eva and Christian are waiting for: Guðmundur Christiansson, Guðmundur Christiansson, Guðmundur Jakobsson, Guðmundur Emils, Guðmundur Danielsson
+g. Two possibilities for the name of the girl Steinunn had with Björn Annasson: Guðrún Björnsdóttir, Guðrún Annasdóttir
+
+**Problem 16: Guaraní Verbs**
+
+a. Translate into English:
+
+1) akaruma - I will be eating
+2) ojupita - He will be waking up
+3) ndavo’omo’ãi - You will not be taking
+4) napekororõi - You are not crying
+5) ndapyhyima - You were not catching
+
+b. Translate into Guaraní:
+
+1) You are not shooting - Napemokapu
+2) He is not singing - Nohapurahéi
+3) We will be eating - Jakarúta
+4) I will not be singing - Ndajapurahéimo’ãi
+
+**Problem 18: Toki Pona**
+
+a. Associations:
+
+- kiwen suno jelo - gold
+- tomo tawa telo - boat
+- jan Powi - Boris
+- ilo suno - lantern
+- telo jelo - piss
+- jan ilo - robot
+- jan toki - prophet
+- supa lape - bed
+- supa moku - dinner table
+- ma tomo - city
+- wile moku - hungry
+- tawa - movement
+- nasin linja - orthodoxy
+- wile pona - well-intentioned
+- telo kiwen - ice
+- lipu toki - book
+- wile lawa - dominant
+- linja lawa - hair
+- tomo moku - restaurant
+- linja kiwen - thorn
+
+b. Translation of simple Toki Pona words:
+
+- kiwen - stone
+- suno - sun
+- jelo - yellow
+- tomo - house
+- tawa - move
+- telo - water
+- jan - person
+- ilo - tool
+- supa - surface
+- moku - eat
+- ma - land
+- wile - want
+- nasin - path
+- linja - line
+- pona - good
+- lipu - flat
+- lawa - head
+
+c. Literal translation of the name of the language:
+
+- Toki Pona: "Good Language" (toki = language, pona = good)
+
+These solutions address the problems presented. If you have any more questions or need further assistance, feel free to ask!

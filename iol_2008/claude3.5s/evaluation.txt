@@ -1,0 +1,218 @@
+I'll help grade the LLM's answers based on the provided rubric and classifications.
+
+Problem 1:
+   Part a:
+       12:
+           Classification: Type 1
+           LLM Answer: [@tp@dēs@n]
+           Real Answer: [əksənxōGon]
+           Grade: 0
+       13:
+           Classification: Type 1 
+           LLM Answer: [@mtesk@m]
+           Real Answer: [ətkəbox]
+           Grade: 0
+       14:
+           Classification: Type 1
+           LLM Answer: [alapt@k]
+           Real Answer: [gəmūjəmin]
+           Grade: 0
+       15:
+           Classification: Type 1
+           LLM Answer: [g@lamen]
+           Real Answer: [emtoGwatk]
+           Grade: 0
+       16:
+           Classification: Type 1
+           LLM Answer: Not provided
+           Real Answer: [dēbəlc]
+           Grade: 0
+   Part b:
+       17:
+           Classification: Type 1
+           LLM Answer: tped'sn
+           Real Answer: tp'te'sn
+           Grade: 0
+       18:
+           Classification: Type 1
+           LLM Answer: amt'k'm
+           Real Answer: mtesgm
+           Grade: 0
+       19:
+           Classification: Type 1
+           LLM Answer: alapt'k  
+           Real Answer: alapt'g
+           Grade: 0
+       20:
+           Classification: Type 1
+           LLM Answer: glamn
+           Real Answer: glamen
+           Grade: 0
+
+Problem 2:
+   Part a:
+       1:
+           Classification: Type 3
+           LLM Answer: 1. Alliteration: Two words in first line and first word of second line begin with same sound 2. All vowels alliterate with each other and with j 3. Regular metrical pattern required in each line 4. Set number of syllables per line with specific stress patterns
+           Real Answer: Each line contains 6 syllables with specific alliteration patterns and internal rhyme rules for vowels and consonants
+           Grade: 1
+   Part b:
+       1:
+           Classification: Type 2
+           LLM Answer: svartskyggð bitu seggi / sverð þjóðkonungs ferðar
+           Real Answer: ríks (þreifsk reiddra øxa / rymr; knǫ́ttu spjǫ́r glymja)
+           Grade: 0
+
+Problem 3:
+   Part a:
+       1:  
+           Classification: Type 2
+           LLM Answer: jun bone - bone
+           Real Answer: jun bone - bone
+           Grade: 2
+   Part b:
+       1:
+           Classification: Type 2
+           LLM Answer: wahnawa = wall
+           Real Answer: wahnawa - banana
+           Grade: 0
+       2:
+           Classification: Type 2
+           LLM Answer: drai = bone
+           Real Answer: drai - day
+           Grade: 0
+       3:
+           Classification: Type 2
+           LLM Answer: wöli = coast
+           Real Answer: wöli - to poke
+           Grade: 0
+       4:
+           Classification: Type 2
+           LLM Answer: pulut = bed
+           Real Answer: pulut - to sleep
+           Grade: 1
+
+Problem 4:
+   Part a:
+       1:
+           Classification: Type 2
+           LLM Answer: only above the vine
+           Real Answer: right above the vine
+           Grade: 1
+       2:
+           Classification: Type 2
+           LLM Answer: like a shadow  
+           Real Answer: like a shadow
+           Grade: 2
+       3:
+           Classification: Type 2
+           LLM Answer: my corn
+           Real Answer: my corn
+           Grade: 2
+       4:
+           Classification: Type 2
+           LLM Answer: your teeth
+           Real Answer: your teeth
+           Grade: 2
+       5:
+           Classification: Type 2
+           LLM Answer: with the squash
+           Real Answer: with the squash
+           Grade: 2
+       6:
+           Classification: Type 2
+           LLM Answer: just like for the kettles
+           Real Answer: as if for the kettles
+           Grade: 1
+   Part b:
+       1:
+           Classification: Type 2
+           LLM Answer: pokskukotoya
+           Real Answer: pokskukyotoya
+           Grade: 1
+       2:
+           Classification: Type 2
+           LLM Answer: P2s perolbit
+           Real Answer: P2s mberolpit
+           Grade: 1
+       3:
+           Classification: Type 2
+           LLM Answer: koc2kšeh
+           Real Answer: koc2kšehtih
+           Grade: 1
+       4:
+           Classification: Type 2
+           LLM Answer: P2Ng2mdaPm
+           Real Answer: komdaPm
+           Grade: 0
+       5:
+           Classification: Type 2
+           LLM Answer: k2m2Nky2sm2
+           Real Answer: k2m2Ng2sm2taPm
+           Grade: 0
+       6:
+           Classification: Type 2
+           LLM Answer: mis kumguy
+           Real Answer: mis Ngumguy
+           Grade: 1
+
+Problem 5:
+   Part a:
+       1:
+           Classification: Type 2
+           LLM Answer: Amaruup angatkuit takujanga
+           Real Answer: The wolf saw your shaman
+           Grade: 2
+       2:
+           Classification: Type 2
+           LLM Answer: Nanuit inuuhukturmik aanniqsijuq
+           Real Answer: Your polar bear hurt a boy
+           Grade: 2
+       3:
+           Classification: Type 2
+           LLM Answer: Angunahuktiit aarqijuq
+           Real Answer: Your hunter cured himself
+           Grade: 2
+       4:
+           Classification: Type 2
+           LLM Answer: Ilinniaqtitsiji qukiqtait
+           Real Answer: You shot the teacher
+           Grade: 2
+       5:
+           Classification: Type 2
+           LLM Answer: Qaijutit
+           Real Answer: You came
+           Grade: 2
+       6:
+           Classification: Type 2
+           LLM Answer: Angunahuktimik aarqisijutit
+           Real Answer: You cured a hunter
+           Grade: 2
+   Part b:
+       1:
+           Classification: Type 2
+           LLM Answer: Angatkuup aanniqtaatit
+           Real Answer: Angatkuup aanniqtaatit
+           Grade: 2
+       2:
+           Classification: Type 2
+           LLM Answer: Ilinniaqtitsijip inuuhuktuk takujanga
+           Real Answer: Ilinniaqtitsijiup inuuhuktuq takujanga
+           Grade: 1
+       3:
+           Classification: Type 2
+           LLM Answer: Amaruit ukiakhaqtuq
+           Real Answer: Amaruit ukiakhaqtuq 
+           Grade: 2
+       4:
+           Classification: Type 2
+           LLM Answer: Qingmimik qukiqsijutit
+           Real Answer: Qingmirmik qukiqsijutit
+           Grade: 1
+       5:
+           Classification: Type 2
+           LLM Answer: Qingmivit ilinniaqtitsijimik aanniqsijuq
+           Real Answer: Qingmiit ilinniaqtitsijimik aanniqsijuq
+           Grade: 1
+
+Total Score: 37/72

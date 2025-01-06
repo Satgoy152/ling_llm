@@ -1,0 +1,55 @@
+Based on the questions and answers provided, I will classify and count the question types according to the given rubric.
+
+Problem 1:
+    Part a:
+        1-24:
+            Classification: Type 1
+    Part b:
+        1-2:
+            Classification: Type 2
+    Part c:
+        1-2:
+            Classification: Type 2
+
+Problem 2:
+    Part a:
+        1-6:
+            Classification: Type 2
+    Part b:
+        1-5:
+            Classification: Type 2
+    Part c:
+        1-6:
+            Classification: Type 2
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 3
+    Part b:
+        1-16:
+            Classification: Type 1
+    Part c:
+        1-8:
+            Classification: Type 1
+
+Problem 4:
+    Part a:
+        18-23:
+            Classification: Type 2
+    Part b:
+        24-28:
+            Classification: Type 2
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 3
+    Part b:
+        1-10:
+            Classification: Type 1
+
+Total Questions: 92
+    Type 1: 58
+    Type 2: 32
+    Type 3: 2

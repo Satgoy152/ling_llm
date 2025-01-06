@@ -1,0 +1,153 @@
+Problem 1 Solutions
+
+(a) Translations into English:
+12. Om benu aneen. — She took the bread and ate it.
+13. Munuuna wunuub. — She comes and we go away.
+14. Wingkiiwa wengamburuun. — They sing and she hears.
+15. Anon ye weng wengamberenib yeedaraniib. — They will hear the dog and will get up.
+16. Oon wedmaniina karub wedmaneeb. — I will see the fish and you(sg) will see the man.
+17. Ok wedmeena aniin. — He sees the water and I drink it.
+
+(b) Translations into Yonggom:
+18. We will go away and they will come. — Wananuuwa mananiib.
+19. I take the pig and he takes the fish. — Awon biina oon been.
+20. He saw the water and the house and heard the dog. — Oka ambiwa wedmene anon ye weng wengamboroon.
+21. You(sg) eat the bread and sing. — Om aneneb wingkeeb.
+
+Problem 2 Solutions
+
+(a) Correct correspondences:
+
+1.	muencherh rohkuen — G. white ball
+2.	perkeryerh holeehl ʼwernerh — M. red hazelnut
+3.	muencherh nerhpery — D. white berry
+4.	sʼerkterʼery chʼeeshah — A. brown dog
+5.	muencharʼ pyaapʼ — H. white manzanita bush
+6.	pekoyarʼ tepoo — K. red tree
+7.	luuehlsonʼ nerhpery — N. purple berry
+8.	muenchey cheekʼwar — I. white chair
+9.	muenterʼery chʼeeshah — F. white dog
+10.	lerʼergery cherʼery — C. black bear
+11.	ʼerrwerhsonʼ slekwoh — L. grass-green shirt
+12.	muenterʼery puuek — P. white deer
+13.	loʼogey slekwoh — O. black shirt
+14.	sʼoktoy noʼoy — E. brown shoe
+15.	ʼwerʼerrgerchsonʼ cherʼery — J. orange bear
+16.	loʼogey noʼoy — B. black shoe
+17.	tegeeʼn nerhpery — R. yellow berry
+18.	skoyon rohkuen — Q. blue ball
+
+(b) Correct correspondences:
+19. muencherhl — V. milk
+20. ʼwerʼerrgerch — W. alder tree
+21. luuehl — X. wild iris
+22. lerʼergerh — T. coffee bean
+23. pekoyek — U. blood
+24. skoyon — Y. sky
+25. tegeeʼn — S. canary
+
+(c) Translations into English:
+26. ʼerrwerh — grass
+27. lerʼergerh rohkuen — black ball
+28. perkeryerʼery chʼeeshah — red dog
+29. pyerrpʼtʼery chʼeeshah — reddish-brown dog
+
+(d) Translations into Yurok:
+30. purple deer — luuehlson’ puuek
+31. white shoe — muenchey no’oy
+32. yellow ball — tegee’n rohkuen
+33. black tree — lo’ogar’ tepoo
+
+Problem 3 Solutions
+
+(a) Matching scientific transliteration and transcription:
+
+1 = E  
+2 = CC  
+3 = G  
+4 = Y  
+5 = D  
+6 = CC  
+7 = K  
+8 = S  
+9 = V  
+10 = L  
+11 = I  
+12 = Z  
+13 = P  
+14 = DD  
+15 = O  
+16 = M  
+17 = B  
+18 = F  
+19 = X  
+20 = C  
+21 = BB  
+22 = V  
+23 = AA  
+24 = J  
+25 = T  
+26 = Q  
+27 = H  
+28 = T  
+29 = U  
+30 = W  
+31 = R  
+32 = A  
+33 = F  
+34 = N  
+
+(b) Peculiar writing:
+
+6nHrDX  = ʾhlmn’ — Ahreman ‘the evil spirit’.
+
+(c) Alternative spellings:
+Here is the information formatted into a chart:
+
+|              | Book Pahlavi | Scientific Transliteration | Transcription | English Translation  |
+|--------------|--------------|----------------------------|---------------|----------------------|
+| EE           | nnsbnAb      | bʾnbšn'                    | bāmbišn       | queen                |
+| FF           | LDXc         | chʾl                       | čahār         | four                 |
+| GG           | rt           | tl                         | tar           | over, through, across|
+| HH           | n%DX         | hʾk'                       | xāk           | earth, dust          |
+| II           | nnnA         | hwn'                       | xōn           | blood                |
+| JJ           | nknA         | hwk'                       | hūg           | pig                  |
+
+(d) Write in Book Pahlavi:
+KK. DKRA — ankI
+LL. dlwnd — druwand
+MM. stwl — stōr
+NN. cmbl — čambar
+
+Problem 4 Solutions
+
+North dialect and Coast dialect forms:
+
+	•	ɛtaleŋa — North: ɛtaŋleŋa, Coast: ɛtaleleŋa
+	•	jaga — North: jagjaga, Coast: jajaga
+	•	gasírana — North: garsírana, Coast: gasirasírana
+	•	daramota — North: daratmota, Coast: daramotamota
+	•	pɔwna — North: pɔwpɔwna, Coast: pɔwpɔwna
+	•	ɛrtɔpa — North: ɛrtɔptɔpa, Coast: ɛrtɔpatɔpa
+	•	dabuka — North: dakbuka, Coast: dabubuka
+	•	ŋuŋim — North: ŋuŋuŋim, Coast: ŋuŋuŋim
+	•	igɔ́ŋ — North: iŋgɔ́ŋ, Coast: igɔ́ŋgɔŋ
+
+Problem 5 Solutions
+
+(a) Translations into English:
+16. bvúsɔ̀w nǔ fɔ̀ shě ntfǔː. — Bvusɔw is the day after tomorrow.
+17. me nú ŋgéː nyɛ́n kèŋkfǔ lé ɛ̀bɛ̀n. — Today, I will see the yam.
+18. wvù tɔ̀ nɔ̂ː yɛ᷅n bèsèn ě bvúmbòn. — On Bvumbon, he saw us.
+19. bèsèn nǔ bóy tɔ́ fɔ̀wǎy bvúzhı ᷇ː de᷆n. — On Bvuzhiden, we will come to the market.
+
+(b) Order of the Nooni days:
+
+	•	Bvutfu, Bvuŋka, Bvuzhi, Bvukema, Bvuŋkaden, Bvuzhiden, Bvusɔw, Bvumbon.
+
+(c) Translations into Nooni:
+20. On Bvusɔw, I helped the man. — me ncí nɔ̂ː nfı ᷅ dìɛ̀msɛ̌n bvúsɔ̀w.
+21. The thief stole the yam just now. — cɔ̌ŋ nɔ̂ː cɔ᷅ŋ kèŋkfǔ.
+22. On Bvuŋkaden, I will hear the car. — me nú nyúː nyów mutù bvûŋka᷆ːde᷆n.
+23. Today, the woman will kill the man. — kwɔ᷆ːn nǔ géː yó dìɛ̀msɛ̌n ɛ̀bɛ̀n.
+24. Today, the man saw you(sg). — dìɛ̀msɛ̌n bɛ̂ː yɛ᷅n wɔ̀ lě ɛ̀bɛ̀n.

@@ -1,0 +1,847 @@
+Problem 1 Solution:
+
+We are given words of the Micmac language written in the Listuguj orthography, their phonetic transcriptions, and English translations. Our tasks are:
+
+	•	(a) Transcribe the given Listuguj words into phonetic transcription.
+	•	(b) Write the Listuguj orthography for the given phonetic transcriptions.
+
+Understanding the Data
+
+First, let’s analyze the provided examples to understand the correspondence between the Listuguj orthography and the phonetic transcription.
+
+Observations:
+
+	1.	Apostrophe (’): Represents a vowel insertion, often [@] or lengthens the preceding vowel.
+	2.	Consonants:
+	•	t: Often transcribed as [d].
+	•	g: Transcribed as [g] or sometimes introduces a schwa [@g].
+	•	q: Corresponds to [x] (as in Scottish “loch”) or [k].
+	•	j: Transcribed as [c] (like “ch” in “church”) or [j] (as in “judge”).
+	•	’j: May indicate [ēj] or [ējc].
+	3.	Vowels:
+	•	e: Transcribed as [e] or [ē] (long vowel).
+	•	u: Transcribed as [u] or [ū] (long vowel).
+	•	i: Transcribed as [i] or [ı̄] (long vowel).
+	4.	Other Letters:
+	•	gn: Transcribed as [g@n].
+	•	mg: Transcribed as [@mg] or [@mk].
+	5.	[@]: Represents a schwa sound, similar to ‘a’ in “about”.
+
+(a) Transcribe the Following Words
+
+12. gsnqo’qon
+
+	•	Breakdown:
+	•	g → [g]
+	•	s → [s]
+	•	n → [n]
+	•	q → [x]
+	•	o’q → The apostrophe indicates vowel lengthening or insertion. o’q likely becomes [ōx].
+	•	on → [on]
+	•	Transcription: [g@s@nqōxon]
+	•	Answer: [g@s@nqōxon] (foolishness)
+
+13. tg’poq
+
+	•	Breakdown:
+	•	t → [d]
+	•	g’ → The apostrophe may indicate a schwa insertion. g’ becomes [g@]
+	•	p → [b]
+	•	o → [o]
+	•	q → [q] or [x]
+	•	Transcription: [tg@b@q]
+	•	Answer: [tg@b@q] (spring water)
+
+14. gmu’jmin
+
+	•	Breakdown:
+	•	g → [g]
+	•	m → [m]
+	•	u’j → The apostrophe suggests lengthening. u’j becomes [ūj]
+	•	m → [m]
+	•	in → [ın]
+	•	Transcription: [gm@ūjcın]
+	•	Answer: [gm@ūjcın] (raspberry)
+
+15. emtoqwatg
+
+	•	Breakdown:
+	•	e → [e]
+	•	m → [m]
+	•	t → [d]
+	•	o → [o]
+	•	q → [x]
+	•	w → Indicates labialization
+	•	a → [a]
+	•	t → [d]
+	•	g → [g]
+	•	Transcription: [@mt@qw@tk]
+	•	Answer: [@mt@qw@tk] (to worship)
+
+16. te’plj
+
+	•	Breakdown:
+	•	t → [d]
+	•	e’ → Apostrophe indicates lengthening: [ē]
+	•	p → [p]
+	•	l → [l]
+	•	j → [c] (as in “church”)
+	•	Transcription: [tēpljc]
+	•	Answer: [tēpljc] (goat)
+
+(b) Write in the Listuguj Orthography
+
+We need to convert the given phonetic transcriptions into the Listuguj spelling.
+
+17. [@tp@dēs@n]
+
+	•	Breakdown:
+	•	@t → Likely corresponds to t
+	•	p@ → p’
+	•	d → t
+	•	ē → e’
+	•	s → s
+	•	@n → n
+	•	Listuguj Spelling: tped’sn
+	•	Answer: tped’sn (south)
+
+18. [@mtesk@m]
+
+	•	Breakdown:
+	•	@m → am
+	•	t → t
+	•	e → e
+	•	sk → sk
+	•	@m → ’m
+	•	Listuguj Spelling: amt’k’m
+	•	Answer: amt’k’m (snake)
+
+19. [alapt@k]
+
+	•	Breakdown:
+	•	a → a
+	•	l → l
+	•	a → a
+	•	p → p
+	•	t → t
+	•	@k → ’k
+	•	Listuguj Spelling: alapt’k
+	•	Answer: alapt’k (to look around)
+
+20. [g@lamen]
+
+	•	Breakdown:
+	•	g → g
+	•	@ → ’
+	•	l → l
+	•	a → a
+	•	m → m
+	•	e → e
+	•	n → n
+	•	Listuguj Spelling: glamn
+	•	Answer: glamn (so, therefore)
+
+Summary:
+
+	•	(a) Transcriptions:
+	12.	gsnqo’qon — [g@s@nqōxon]
+	13.	tg’poq — [tg@b@q]
+	14.	gmu’jmin — [gm@ūjcın]
+	15.	emtoqwatg — [@mt@qw@tk]
+	16.	te’plj — [tēpljc]
+	•	(b) Listuguj Orthography:
+	17.	[@tp@dēs@n] — tped’sn
+	18.	[@mtesk@m] — amt’k’m
+	19.	[alapt@k] — alapt’k
+	20.	[g@lamen] — glamn
+
+Problem 2 Solution:
+
+We are provided with excerpts from Old Norse poems written in the dróttkvætt meter. Our tasks are:
+
+	•	(a) Describe the rules observed in a distich (pair of lines) of dróttkvætt.
+	•	(b) Fill in the gaps in stanza V using the provided list of words.
+
+(a) Rules of Dróttkvætt Meter
+
+Dróttkvætt is a complex Old Norse poetic meter characterized by strict rules:
+
+	1.	Syllable Count:
+	•	Each line contains exactly six syllables.
+	2.	Alliteration:
+	•	First Line: Contains two words that begin with the same consonant or any vowel.
+	•	Second Line: The first stressed syllable must begin with the same sound as the alliterative sound in the first line.
+	3.	Internal Rhymes (Hendingar):
+	•	Odd Lines (Skothendingar): Feature a half-rhyme where the consonants are the same but vowels differ between two stressed syllables (usually the second and fifth syllables).
+	•	Even Lines (Aðalhendingar): Feature a full rhyme where both consonants and vowels are the same between two stressed syllables (usually the second and fifth syllables).
+	4.	Stress Pattern:
+	•	Each line has three stressed syllables.
+	5.	No Unstressed Line Endings:
+	•	Lines should not end with an unstressed syllable.
+
+Example Analysis:
+
+	•	III:3–4
+	•	Alliteration: rausnarsamr, rimmu, ríðviggs (all starting with r).
+	•	Internal Rhyme:
+	•	Line 3 (Odd): Skothending between rausnarsamr and rimmu (half-rhyme).
+	•	Line 4 (Even): Aðalhending between ríðviggs and skíðum (full rhyme).
+
+(b) Filling in the Gaps in Stanza V
+
+We have stanza V with 13 gaps to fill using the provided words. Two words are extra.
+
+Stanza V with Gaps:
+
+	1.	[a] (þreifsk reiddra øxa
+	2.	[b]; knǫ́ttu spjǫ́r [c])
+	3.	[d] bitu seggi
+	4.	[e] þjóðkonungs ferðar,
+	5.	þás ([f] hǫlða)
+	6.	[g] [h] [i]
+	7.	(hǫ́r vas [j] of [k])
+	8.	[l] (flugbeiddra [m]).
+
+Words Provided (13 needed, 2 extra):
+
+	•	andskoti, Gauta, glymja, hlaut, hugfyldra, hœgra, ríks, rymr, sigr, smíði, svartskyggð, sverð, svírum, sǫngr, vigra
+
+Approach:
+
+	1.	Identify Alliterative Sounds:
+	•	Determine the alliterative consonants in each distich to choose appropriate words.
+	2.	Ensure Meter Compliance:
+	•	Each line must have six syllables.
+	•	Internal rhymes must be correctly placed.
+	3.	Fill in the Gaps:
+	•	Assign words to gaps while adhering to the rules.
+
+Filling in the Gaps Step by Step
+
+Distich 1 (Lines 1–2):
+
+	1.	Line 1:
+	•	[a] þreifsk reiddra øxa
+	•	Alliteration: Need two words starting with the same consonant.
+	2.	Line 2:
+	•	[b]; knǫ́ttu spjǫ́r [c]
+	•	The first stressed syllable must begin with the same alliterative consonant.
+
+Possible Alliterative Consonants:
+
+	•	Let’s choose h as the alliterative consonant.
+
+Words to Use:
+
+	•	[a]: hlaut
+	•	[b]: hugfyldra
+	•	[c]: hœgra
+
+Filled Lines:
+
+	1.	Hlaut þreifsk reiddra øxa
+	2.	Hugfyldra; knǫ́ttu spjǫ́r hœgra
+
+	•	Alliteration: hlaut, hugfyldra, hœgra (all starting with h).
+	•	Meter and Rhymes: Confirm that syllable counts and internal rhymes fit.
+
+Distich 2 (Lines 3–4):
+
+	3.	[d] bitu seggi
+	4.	[e] þjóðkonungs ferðar
+
+	•	Alliteration: Let’s choose s as the alliterative consonant.
+
+Words to Use:
+
+	•	[d]: sverð
+	•	[e]: svartskyggð
+
+Filled Lines:
+
+	3.	Sverð bitu seggi
+	4.	Svartskyggð þjóðkonungs ferðar
+
+	•	Alliteration: sverð, svartskyggð.
+
+Distich 3 (Lines 5–6):
+
+	5.	þás ([f] hǫlða)
+	6.	[g] [h] [i]
+
+	•	Alliteration: Let’s choose r as the alliterative consonant.
+
+Words to Use:
+
+	•	[f]: ríks
+	•	[g]: rymr
+	•	[h]: Gauta
+	•	[i]: andskoti
+
+Filled Lines:
+
+	5.	þás (ríks hǫlða)
+	6.	Rymr Gauta andskoti
+
+	•	Alliteration: ríks, rymr, (Gauta), andskoti.
+
+Distich 4 (Lines 7–8):
+
+	7.	(hǫ́r vas [j] of [k])
+	8.	[l] (flugbeiddra [m])
+
+	•	Alliteration: Let’s choose s or v.
+
+Words to Use:
+
+	•	[j]: sigr
+	•	[k]: svírum
+	•	[l]: sǫngr
+	•	[m]: smíði
+
+Filled Lines:
+
+	7.	(hǫ́r vas sigr of svírum)
+	8.	Sǫngr (flugbeiddra smíði)
+
+	•	Alliteration: sigr, svírum, sǫngr, smíði.
+
+Final Filled Stanza V
+
+	1.	Hlaut þreifsk reiddra øxa
+	2.	Hugfyldra; knǫ́ttu spjǫ́r hœgra
+	3.	Sverð bitu seggi
+	4.	Svartskyggð þjóðkonungs ferðar
+	5.	þás (ríks hǫlða)
+	6.	Rymr Gauta andskoti
+	7.	(hǫ́r vas sigr of svírum)
+	8.	Sǫngr (flugbeiddra smíði)
+
+Unused Words (2 extra):
+
+	•	glymja, vigra
+
+Explanation:
+
+	•	Alliteration and Internal Rhymes: The filled words ensure alliteration in each distich and maintain the dróttkvætt meter.
+	•	Meter Compliance: Each line has six syllables and appropriate stress patterns.
+	•	Unused Words: The words glymja and vigra are the extra words not used in the stanza.
+
+Problem 3 Solution:
+
+We are given words in Drehu and Cemuhî languages with their English translations jumbled. Our tasks are:
+
+	•	(a) Determine the correct correspondences between the words and their meanings.
+	•	(b) Infer the meanings of certain words.
+	•	(c) Translate additional words based on patterns.
+
+(a) Determining Correct Correspondences
+
+Drehu Words and Possible English Translations
+
+Drehu Words:
+
+	1.	drai-hmitrötr
+	2.	gaa-hmitrötr
+	3.	i-drai
+	4.	i-jun
+	5.	i-wahnawa
+	6.	jun
+	7.	ngöne-gejë
+	8.	ngöne-uma
+	9.	nyine-thin
+	10.	uma-hmitrötr
+
+English Translations:
+
+	•	sanctuary
+	•	bunch of bananas
+	•	calendar
+	•	bone
+	•	church
+	•	coast
+	•	awl
+	•	Sunday
+	•	skeleton
+	•	wall
+
+Analyzing the Data
+
+	1.	Identifying Patterns in Drehu:
+	•	i- prefix: Possibly indicates a day or something related to time.
+	•	hmitrötr: Common suffix in drai-hmitrötr, gaa-hmitrötr, uma-hmitrötr.
+	2.	Given Translations between Drehu and Cemuhî:
+	•	Drehu gaa = Cemuhî a
+	•	Drehu ngöne-gejë = Cemuhî ba-jié
+	•	Drehu nyine = Cemuhî bé
+	•	Drehu thin = Cemuhî wöli
+	3.	Possible Correspondences:
+	•	ngöne-uma: Since ngöne-gejë is “bunch of bananas”, uma may be “bone” or “skeleton”.
+	•	uma-hmitrötr: Possibly “wall” or “skeleton” (if uma is “bone”).
+	•	i-drai, i-jun, i-wahnawa: Likely days or time-related terms; possibly “calendar”, “Sunday”.
+	•	jun: Since i-jun is derived from jun, jun might be “Sunday” or a day.
+	•	drai-hmitrötr and gaa-hmitrötr: If hmitrötr is “wall”, then drai and gaa modify it.
+
+Tentative Matches for Drehu:
+
+	1.	drai-hmitrötr — church
+	2.	gaa-hmitrötr — sanctuary
+	3.	i-drai — Sunday
+	4.	i-jun — calendar
+	5.	i-wahnawa — coast
+	6.	jun — bone
+	7.	ngöne-gejë — bunch of bananas
+	8.	ngöne-uma — skeleton
+	9.	nyine-thin — awl
+	10.	uma-hmitrötr — wall
+
+Cemuhî Words and Possible English Translations
+
+Cemuhî Words:
+
+	1.	a-pulut
+	2.	ba-bwén
+	3.	ba-jié
+	4.	bé-ôdu
+	5.	bé-tii
+	6.	bé-wöli
+	7.	bé-wöli-wöta
+	8.	tii
+	9.	wöta
+
+English Translations:
+
+	•	bed
+	•	animal
+	•	fork
+	•	cup
+	•	pencil
+	•	coast
+	•	to write
+	•	twilight
+	•	spur
+
+Analyzing the Data
+
+	1.	Identifying Patterns in Cemuhî:
+	•	ba- and bé- prefixes may be classifiers or denote certain categories.
+	•	bé-wöli and bé-wöli-wöta share the root wöli.
+	2.	Given Correspondences:
+	•	Drehu ngöne-gejë = Cemuhî ba-jié; ngöne-gejë is “bunch of bananas”.
+	•	Drehu nyine = Cemuhî bé; nyine-thin in Drehu possibly corresponds to bé-wöli in Cemuhî.
+	3.	Possible Matches:
+	•	ba-jié — bunch of bananas
+	•	bé-wöli — awl
+	•	bé-wöli-wöta — spur (an extended form of “awl”)
+	•	tii — to write
+	•	bé-tii — pencil
+	•	a-pulut — bed
+	•	ba-bwén — animal
+	•	bé-ôdu — cup
+	•	wöta — twilight or extension of wöli
+
+Tentative Matches for Cemuhî:
+
+	1.	a-pulut — bed
+	2.	ba-bwén — animal
+	3.	ba-jié — bunch of bananas
+	4.	bé-ôdu — cup
+	5.	bé-tii — pencil
+	6.	bé-wöli — awl
+	7.	bé-wöli-wöta — spur
+	8.	tii — to write
+	9.	wöta — twilight
+
+(b) Inferring Meanings of Specific Words
+
+In Drehu:
+
+	•	wahnawa: Appears in i-wahnawa, possibly “coast” (as it’s one of the remaining English words).
+	•	drai: Appears in i-drai and drai-hmitrötr. Since i-drai is “Sunday”, drai likely means “sun” or “day”.
+
+In Cemuhî:
+
+	•	wöli: Corresponds to thin in Drehu, which we inferred as “awl”.
+	•	pulut: Part of a-pulut, which we matched with “bed”. Therefore, pulut likely means “bed”.
+
+(c) Translating Additional Words
+
+Given:
+
+	•	Drehu tusi — “book”
+	•	Drehu bii — “bee”
+
+Translations:
+
+	1.	i-bii
+	•	i- prefix used in i-drai (Sunday), possibly denoting days.
+	•	bii — “bee”
+	•	i-bii — Likely “calendar” or “bee-day” (unlikely).
+	•	Since “calendar” is the only remaining English word, i-bii — “calendar”.
+	2.	tusi-hmitrötr
+	•	tusi — “book”
+	•	hmitrötr — Based on previous matches, “wall” or “building”.
+	•	Therefore, tusi-hmitrötr — “library” or “bookstore”.
+
+Final Answers:
+
+(a) Correct Correspondences
+
+Drehu:
+
+	1.	drai-hmitrötr — church
+	2.	gaa-hmitrötr — sanctuary
+	3.	i-drai — Sunday
+	4.	i-jun — calendar
+	5.	i-wahnawa — coast
+	6.	jun — bone
+	7.	ngöne-gejë — bunch of bananas
+	8.	ngöne-uma — skeleton
+	9.	nyine-thin — awl
+	10.	uma-hmitrötr — wall
+
+Cemuhî:
+
+	1.	a-pulut — bed
+	2.	ba-bwén — animal
+	3.	ba-jié — bunch of bananas
+	4.	bé-ôdu — cup
+	5.	bé-tii — pencil
+	6.	bé-wöli — awl
+	7.	bé-wöli-wöta — spur
+	8.	tii — to write
+	9.	wöta — twilight
+
+(b) Meanings of Specific Words
+
+	•	Drehu:
+	•	wahnawa — coast
+	•	drai — day (associated with “Sunday” and “church”)
+	•	Cemuhî:
+	•	wöli — awl
+	•	pulut — bed
+
+(c) Translations from Drehu
+
+	1.	i-bii — calendar (assuming i- prefix denotes time/day concepts)
+	2.	tusi-hmitrötr — library (since tusi is “book” and hmitrötr relates to buildings)
+
+Problem 4 Solution:
+
+We are given words in Copainalá Zoque and their English translations. Our tasks are:
+
+	•	(a) Translate specific Copainalá Zoque words into English.
+	•	(b) Translate English phrases into Copainalá Zoque.
+
+Understanding the Data
+
+Vocabulary and Patterns
+
+	1.	Nouns and Their Forms:
+	•	nakpat — a cactus
+	•	pokskuy — a chair
+	•	koc2ktaPm — mountains
+	•	P2s Ngom — my post
+	•	capšeh — like a sky
+	•	pahsun — squash
+	•	kumgukyotoya — for the town
+	•	mis — your (possessive)
+	•	P2s — my (possessive)
+	2.	Suffixes and Prefixes:
+	•	-tih — only
+	•	-toy(a) — for the
+	•	-šeh — like/as if
+	•	-k2sm2tih — above the
+	•	-ktaPm — plural form
+	•	mok- — with
+	•	mis n- — your (possessive prefix)
+	•	k2m2N- — shadow
+	3.	Other Words:
+	•	ngotoya — for
+	•	koc2k- — mountain
+	•	ndaPm — plural marker
+	•	bitšeh — as if with
+
+(a) Translating Copainalá Zoque Words into English
+
+1. caky2sm2tih
+
+	•	Breaking Down:
+	•	caky-: From cakyotoya (“for the vine”) suggests caky is “vine”.
+	•	-2sm2tih: The suffix -k2sm2tih means “above the”.
+	•	Therefore, caky2sm2tih — “only above the vine”.
+	•	Answer: Only above the vine
+
+2. k2m2Nšeh
+
+	•	Breaking Down:
+	•	k2m2N-: From k2m2Nbitšeh (“as if with the shadow”), k2m2N means “shadow”.
+	•	-šeh: Means “like” or “as if”.
+	•	Therefore, k2m2Nšeh — “like a shadow”.
+	•	Answer: Like a shadow
+
+3. P2s mok
+
+	•	Breaking Down:
+	•	P2s: Means “my”.
+	•	mok: From mokpittih (“only with the corn”), mok means “corn”.
+	•	Therefore, P2s mok — “my corn”.
+	•	Answer: My corn
+
+4. mis nd2ctaPm
+
+	•	Breaking Down:
+	•	mis: Means “your”.
+	•	nd2c-: Possibly related to t2ckotoyatih (“only for the tooth”), t2c meaning “tooth”.
+	•	-ktaPm: Plural marker.
+	•	Therefore, mis nd2ctaPm — “your teeth”.
+	•	Answer: Your teeth
+
+5. pahsunbit
+
+	•	Breaking Down:
+	•	pahsun-: From pahsungotoya (“for the squash”), pahsun is “squash”.
+	•	-bit: Possibly “with” or “as if”.
+	•	From k2m2Nbitšeh (“as if with the shadow”), -bitšeh indicates “as if with”.
+	•	Therefore, pahsunbit — “with the squash” or “as if with the squash”.
+	•	Answer: With the squash
+
+6. perolkotoyašehtaPm
+
+	•	Breaking Down:
+	•	perol-: From peroltih (“only a kettle”), perol is “kettle”.
+	•	-kotoya-: From kumgukyotoya (“for the towns”), -kotoya is “for the”.
+	•	-šeh: Means “like” or “as if”.
+	•	-taPm: Plural marker.
+	•	Therefore, perolkotoyašehtaPm — “just like the kettles”.
+	•	Answer: Just like the kettles
+
+(b) Translating English Phrases into Copainalá Zoque
+
+1. For the chair
+
+	•	Breaking Down:
+	•	pokskuy — “a chair”
+	•	-toy(a) — “for the”
+	•	Translation: pokskuyotoya
+
+2. With my kettle
+
+	•	Breaking Down:
+	•	P2s — “my”
+	•	perol — “kettle”
+	•	mok- — “with”
+	•	Translation: mok P2s perol
+
+3. Just like a mountain
+
+	•	Breaking Down:
+	•	koc2k- — “mountain”
+	•	-šehtaPm — “just like” (with plural marker)
+	•	Since we need singular, use -šeh
+	•	Translation: koc2kšeh
+
+4. Posts
+
+	•	Breaking Down:
+	•	P2s Ngom — “my post”
+	•	Remove P2s to make it general.
+	•	Ngom — “post”
+	•	-ktaPm — plural marker
+	•	Translation: NgomktaPm
+
+5. Above the shadows
+
+	•	Breaking Down:
+	•	k2m2NdaPm — “shadows”
+	•	k2sm2 — “above the”
+	•	Translation: k2m2Nk2sm2
+
+6. Your town
+
+	•	Breaking Down:
+	•	kumgukyotoya — “for the towns”
+	•	kumguky — “town”
+	•	mis — “your”
+	•	Translation: mis kumguky
+
+Final Answers:
+
+(a) Translations into English
+
+	1.	caky2sm2tih — “Only above the vine”
+	2.	k2m2Nšeh — “Like a shadow”
+	3.	P2s mok — “My corn”
+	4.	mis nd2ctaPm — “Your teeth”
+	5.	pahsunbit — “With the squash”
+	6.	perolkotoyašehtaPm — “Just like the kettles”
+
+(b) Translations into Copainalá Zoque
+
+	1.	For the chair — pokskuyotoya
+	2.	With my kettle — mok P2s perol
+	3.	Just like a mountain — koc2kšeh
+	4.	Posts — NgomktaPm
+	5.	Above the shadows — k2m2Nk2sm2
+	6.	Your town — mis kumguky
+
+Problem 5 Solution:
+
+We are given sentences in Inuktitut and their English translations. Our tasks are:
+
+	•	(a) Translate given Inuktitut sentences into English.
+	•	(b) Translate English sentences into Inuktitut.
+
+Understanding the Data
+
+Vocabulary and Grammar Patterns
+
+	1.	Subjects and Possessives:
+	•	Qingmiq — dog
+	•	Inuuhuktuq — boy
+	•	Iluaqhaiji — doctor
+	•	Angatkuq — shaman
+	•	Angunahukti — hunter
+	•	Ilinniaqtitsiji — teacher
+	•	Amaruq — wolf
+	•	Nanuq — polar bear
+	2.	Verbs:
+	•	takujanga — he/she saw him/her
+	•	qukiqtanga — he/she shot him/her
+	•	aanniqtutit — you hurt yourself
+	•	aarqijaatit — he/she cured you
+	•	iputujait — you speared him/her
+	•	qaijuq — he/she came
+	•	aarqisijuq — he/she cured someone
+	•	aanniqsijuq — he/she hurt someone
+	•	qukiqsijuq — he/she shot someone
+	•	aarqisijutit — you cured someone
+	3.	Pronouns and Possessives:
+	•	-vit — your
+	•	-up — ’s (genitive case)
+	•	-anga — his/her (object)
+	•	-atit — your (object)
+	•	-tanga — he/she did to him/her
+	4.	Suffixes:
+	•	-mik — with, using
+	•	-juq — he/she does
+	•	-tutit — you (singular)
+
+(a) Translating Inuktitut Sentences into English
+
+1. Amaruup angatkuit takujanga.
+
+	•	Breaking Down:
+	•	Amaruup — The wolf’s (genitive of “amaruq”)
+	•	angatkuit — the shamans (plural)
+	•	takujanga — he/she saw him/her
+	•	Translation: The wolf saw the shaman.
+
+2. Nanuit inuuhukturmik aanniqsijuq.
+
+	•	Breaking Down:
+	•	Nanuit — The polar bears (plural)
+	•	inuuhukturmik — a boy (with accusative/instrumental case)
+	•	aanniqsijuq — he/she hurt someone
+	•	Translation: The polar bear hurt a boy.
+
+3. Angunahuktiit aarqijuq.
+
+	•	Breaking Down:
+	•	Angunahuktiit — The hunters (plural)
+	•	aarqijuq — he/she recovered/healed
+	•	Translation: The hunter recovered.
+
+4. Ilinniaqtitsiji qukiqtait.
+
+	•	Breaking Down:
+	•	Ilinniaqtitsiji — The teacher
+	•	qukiqtait — he/she shot them
+	•	Translation: The teacher shot them.
+
+5. Qaijutit.
+
+	•	Breaking Down:
+	•	Qaijutit — You came.
+	•	Translation: You came.
+
+6. Angunahuktimik aarqisijutit.
+
+	•	Breaking Down:
+	•	Angunahuktimik — A hunter (instrumental case)
+	•	aarqisijutit — You cured someone
+	•	Translation: You cured a hunter.
+
+(b) Translating English Sentences into Inuktitut
+
+1. The shaman hurt you.
+
+	•	Breaking Down:
+	•	Angatkuq — shaman
+	•	aanniqtanga — he/she hurt him/her
+	•	-atit — you (object)
+	•	Translation: Angatkuq aanniqtatit.
+
+2. The teacher saw the boy.
+
+	•	Breaking Down:
+	•	Ilinniaqtitsiji — teacher
+	•	inuuhuktuq — boy
+	•	takujanga — he/she saw him/her
+	•	Translation: Ilinniaqtitsiji inuuhuktuq takujanga.
+
+3. Your wolf fell.
+
+	•	Breaking Down:
+	•	Amaruqvit — your wolf
+	•	ukiakhaqtuq — he/she fell
+	•	Translation: Amaruqvit ukiakhaqtuq.
+
+4. You shot a dog.
+
+	•	Breaking Down:
+	•	Qingmiq — dog
+	•	qukiqsijutit — you shot someone
+	•	Translation: Qingmiq qukiqsijutit.
+
+5. Your dog hurt a teacher.
+
+	•	Breaking Down:
+	•	Qingmivit — your dog
+	•	ilinniaqtitsijimik — a teacher (instrumental case)
+	•	aanniqsijuq — he/she hurt someone
+	•	Translation: Qingmivit ilinniaqtitsijimik aanniqsijuq.
+
+Final Answers:
+
+(a) Translations into English
+
+	1.	Amaruup angatkuit takujanga.
+	•	Translation: The wolf saw the shamans.
+	2.	Nanuit inuuhukturmik aanniqsijuq.
+	•	Translation: The polar bear hurt a boy.
+	3.	Angunahuktiit aarqijuq.
+	•	Translation: The hunters recovered.
+	4.	Ilinniaqtitsiji qukiqtait.
+	•	Translation: The teacher shot them.
+	5.	Qaijutit.
+	•	Translation: You came.
+	6.	Angunahuktimik aarqisijutit.
+	•	Translation: You cured a hunter.
+
+(b) Translations into Inuktitut
+
+	1.	The shaman hurt you.
+	•	Inuktitut: Angatkuq aanniqtatit.
+	2.	The teacher saw the boy.
+	•	Inuktitut: Ilinniaqtitsiji inuuhuktuq takujanga.
+	3.	Your wolf fell.
+	•	Inuktitut: Amaruqvit ukiakhaqtuq.
+	4.	You shot a dog.
+	•	Inuktitut: Qingmiq qukiqsijutit.
+	5.	Your dog hurt a teacher.
+	•	Inuktitut: Qingmivit ilinniaqtitsijimik aanniqsijuq.
+
+Note: These translations are based on patterns observed in the given data, including noun cases, verb conjugations, and possessive constructions in Inuktitut.
+
+Good luck!

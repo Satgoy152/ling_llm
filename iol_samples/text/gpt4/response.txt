@@ -1,0 +1,211 @@
+Solution:
+
+Problem 2:
+a. Matching Ancient Greek phrases with English translations:
+	A. ho tōn hyiōn dulos → 1. the slave of the sons
+	B. hoi tōn dulōn cyrioi → 2. the masters of the slaves
+	C. hoi tu emporu adelphoi → 3. the brothers of the merchant
+	D. hoi tōn onōn emporoi → 4. the merchants of the donkeys
+	E. ho tu cyriu onos → 5. the donkey of the master
+	F. ho tu oicu cyrios → 6. the master of the house
+	G. ho tōn adelphōn oicos → 7. the house of the brothers
+	H. hoi tōn cyriōn hyioi → 8. the sons of the masters
+
+b. Translations into Ancient Greek:
+a) the houses of the merchants → hoi tōn emporōn oikoi
+b) the donkeys of the slave → hoi tōn dulou onoi
+
+Problem 3:
+a. Missing words:
+    concordau → concordaus
+    chicolat → chicolatz
+    chunta → chuntaz
+    eclix → eclixz
+    ferfet → ferfetz
+
+Problem 5:
+a. The word li:ʔ means "my".
+b. The word ro:h means "ripe" or "ripened".
+c. Translations into Lalana Chinantec:
+	1) The good pineapples became beautiful → ʤö kalakwa: mo:h ne kya
+	2) My ripe corn has yellowed well → li:ʔ kalaro:h kwɨ: kwa: kya
+d. Translations into English:
+	1) mɨlaro:h kwɨ: ne → My ripe corn is good.
+	2) li:ʔ kalakwa: kwɨ: → My beautiful corn grew.
+
+Problem 6:
+a. Likely to hear:
+a) Meredith is blitty and brastic.
+b) The singer was not only molistic but also cluvious.
+
+b. Quality or qualities in a person:
+a) blitty
+b) weasy
+c) sloshful
+d) frumsy
+
+Problem 7:
+a. Translations into English:
+	1) čahārpāye pāin-e miz → The stool under the table
+	2) ketāb zir-e komod → The book under the cabinet
+
+b. Fill in the gaps:
+	1) The stone under the water sang → sang zir-e āb
+	2) The box under the tree → sandūk zir-e deraxt
+
+Problem 8:
+a. Phrases matched with translations and missing words:
+	a. one and five → bir men bes
+	b. one and eight → bir men segiz
+	c. three and two → üš men eki
+	d. four and seven → tört men žeti
+	e. seven and fifty → žeti men elüw
+	f. eight and fifty → segiz men elüw
+	g. thirteen and thirty → on üš pen otız
+	h. thirty and two → otız men eki
+	i. fifty-two and ten → elüw eki men on
+
+b. Translations into Kazakh:
+	1. five and thirty-eight → bes men segizmen
+	2. ten and four → on men tört
+	3. seven and fifty-three → žeti men üšmen
+	4. thirty-eight and five → otız segiz men bes
+
+Problem 9:
+a. Fill the gaps:
+	1. dashing stag → honroku dashing stag
+	2. sword soldier → tōshō Sword Soldier
+	3. gyūhei “Ox Soldier” → gyūhei Ox General
+	4. right general → ugun Right General
+	5. ox general → hongyū Ox General
+	6. kyūhei “Bow Soldier” → kyūhei Bow General
+	7. kisho “Wood General” → kisho Wood Soldier
+	8. dohei “Crossbow Soldier” → dohei Crossbow General
+	9. dashing horse → dashing horse Dashing Horse
+	10. left chariot → left chariot Left Chariot
+	11. horse soldier → sōba Horse Soldier
+	12. sōyū “Running Bear” → sōyū Dashing Bear
+	13. tonshō “Pig General” → honton Pig General
+	14. tesshō White Elephant → hakuzō White Elephant
+	15. left army → sagun Left Army
+	16. usha Right Iron Chariot → utessha Right Iron Chariot
+	17. dashing wolf → honrō Dashing Wolf
+	18. sekishō “Stone General” → sekishō White Elephant
+
+Problem 10:
+a. Fill in the blank spaces:
+| English       | Tupinambá     | Guaraní Mbya |
+|---------------|---------------|--------------|
+| boss          | ubixab        | oguata       |
+| rib           | arukang       | karai        |
+| to overcome   | opuan         | py'aguapy    |
+| peanut        | mandubi       | manduvi      |
+| to beat       | petek         | jopoi        |
+| to hear       | senub         | endu         |
+| red           | pyranga       | pyrague      |
+| lizard        | teju          | teju         |
+| I say         | a'é           | ahecha       |
+| beautiful     | porang        | yerovy       |
+| mouth         | yvyra         | juru         |
+| half          | ara           | ku'a         |
+| wood          | yba           | yvyrá        |
+| you stay      | erembo'e      | erepytá      |
+| high          | yvoty         | yvaté        |
+| to drink      | ete           | ereké        |
+| jaguar        | jaguar        | jaguarete    |
+| to see        | yba           | potá         |
+
+b. Match the cities in Brazil of Tupi origin with their meanings:
+	1.	Ibiúna (SP) → j. black soil
+	2.	Ibiporanga (SP) → m. beautiful land
+	3.	Iúna (ES) → k. black river
+	4.	Tijuípe (BA) → n. big lizard
+	5.	Pindamonhangaba (SP) → c. place for producing fishing hooks
+	6.	Jacarecoara (MA) → i. alligator’s/yacare’s burrow
+	7.	Ibitinga (SP) → a. white soil
+	8.	Jericoaquara (CE) → g. sound the water does in the rock
+	9.	Ipiranga (PR) → e. red river
+	10.	Tijuaçu (BA) → d. lizard river
+	11.	Itaipú (PR) → h. great rock
+	12.	Itatinga (SP) → o. white rock
+	13.	Itauçu (GO) → l. fish of the yellow river
+	14.	Pirajuí (SP) → f. turtle’s burrow
+	15.	Iguaçu (PR) → b. great river
+
+Problem 12:
+a. Fill in the gaps:
+•	lau × bost = hogeita lau
+•	zazpi × hamar = laurogeita hamar
+
+b. Write in figures:
+	•	(1) laurogeita hamahiru = 43
+	•	(2) hirurogei = 70
+
+c. Write out in Basque:
+	•	(1) 39 = hogeita bederatzi
+	•	(2) 77 = hirurogeita zazpi
+	•	(3) 80 = laurogei
+
+Problem 14:
+a. Among the participants, the older descendant of an immigrant is Rakel Ragnheiðardóttir Bergmann.
+b. The son/daughter of Guðrún and Jakob who has no grandsons/granddaughters is Jakob Đorarinsson.
+c. Viktor had two kids: Danielsson Jakobssonar and Viktoría Viktorsdóttir.
+d. Steinum had two kids: Daniel Guðrúnarson Jakobsson and Margret Steinunnardóttir Jakobsdóttir.
+e. The son/daughter of Rakel who didn’t inherit any of her surnames is Robert Bergmann Gunnarsson.
+f. Five possibilities for the son that Eva and Christian are waiting are Christian Emilsdóttir Kvaran, Christian Emilsdóttir Björk, Christian Emilsdóttir Guðmundsdóttir, Christian Emilsdóttir Kvaran Guðmundsdóttir, Christian Emilsdóttir Björk Guðmundsdóttir.
+g. Two possibilities for the name of the girl are Steinunn Björnsdóttir Annasson and Steinunn Björnsdóttir Annassonar.
+
+Problem 16:
+a. Translate into English:
+	(1) akaruma → I am eating
+	(2) ojupita → he is waking up
+	(3) ndavo’omo’ãi → I will not be drinking
+	(4) napekororõi → you are not crying
+	(5) ndapyhyima → I was not walking
+
+b. Translate into Guaraní:
+	(1) You are not shooting → naombokapu
+	(2) He is not singing → nojapurahei
+	(3) We will be eating → ndakarumo’ã
+	(4) I will not be singing → ajapurahei
+
+Problem 18:
+a. Right associations between the words and translations:
+kiwen suno → gold
+jelo → thorn
+tomo tawa telo → boat
+jan Powi → Boris
+ilo suno → lantern
+telo jelo → piss
+jan ilo → robot
+jan toki → book
+supa lape → bed
+supa moku → dinner table
+ma tomo → city
+wile moku → hungry
+tawa → movement
+nasin linja → orthodoxy
+wile pona → well-intentioned
+telo kiwen → ice
+lipu toki → book
+wile lawa → dominant
+linja lawa → hair
+tomo moku → restaurant
+linja kiwen → thorn
+
+b. Translation of all the simple Toki Pona words used in the compounded words and expressions of this problem:
+kiwen → hard thing
+suno → sun
+jelo → yellow
+tomo → indoor space
+tawa → move
+telo → water
+jan → person
+ilo → tool
+supa → horizontal surface
+ma → land
+wile → want
+nasin → way
+linja → long thing
+
+c. The name of the language, "Toki Pona", translates literally to "Good Language".

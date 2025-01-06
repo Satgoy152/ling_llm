@@ -1,0 +1,409 @@
+I understand. I'll grade the LLM's answers based on the provided rubric and classifications. Here's the grading:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: Lamaoä' pora di Palempang.
+            Real Answer: Lamaoä' dai' di Palempang
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: Lamaoä' pora di Palempang.
+            Real Answer: Lamaoä' dai' di Palempang
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: Lamaoä' pora di Bulung.
+            Real Answer: Lamaoä' bete' di Bulung
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: Lamaoä' pora di Sohongang.
+            Real Answer: Lamaoä' sau di Sohongang
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: Lamaoä' pora di Bulung.
+            Real Answer: Lamaoä' naung di Bulung
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: Lamaoä' pora di Kota.
+            Real Answer: Lamaoä' sau di Kota
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: Lamaoä' pora di Pahihuang.
+            Real Answer: Lamaoä' naung di Pahihuang
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: Lamaoä' pora di Kota.
+            Real Answer: Lamaoä' tama di Kota
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: Lamaoä' pora di Pikung.
+            Real Answer: Lamaoä' naung di Pikung
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: Lamaoä' pora di Kota.
+            Real Answer: Lamaoä' pano di Kota
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: Lamaoä' pora di Kahangang.
+            Real Answer: Lamaoä' bete' di Bulung
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: Lamaoä' pora di Panampo.
+            Real Answer: Lamaoä' tama di Kahangang
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: Lamaoä' pora di Kahangang.
+            Real Answer: Lamaoä' dai' di Panampo
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: Lamaoä' pora di Kahangang.
+            Real Answer: Lamaoä' bete' di Kahangang
+            Grade: 0
+        15:
+            Classification: Type 1
+            LLM Answer: Lamaoä' pora di Palempang.
+            Real Answer: Lamaoä' dai' di Palempang
+            Grade: 0
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: runtiyas ∼ HtWTs, „0s
+            Real Answer: runtiyas — deer
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: patis ∼ A50´, A50t
+            Real Answer: patis — foot
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: harnisas ∼ HWs, K
+            Real Answer: harnisas — fortress
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: iziyanta ∼ Ts, ÚWs
+            Real Answer: iziyanta — they made
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: turpis ∼ +, H´%
+            Real Answer: turpis — bread
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: tarhunzas ∼ å, å0T
+            Real Answer: tarhunzas — thunder
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: hawis ∼ C, Q
+            Real Answer: hawis — sheep
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: sanawas ∼ I, W
+            Real Answer: sanawas — good
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: nimuwizas ∼ sNWs, y2is
+            Real Answer: nimuwizas — son
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: zitis ∼ J, v
+            Real Answer: zitis — man
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: piyanti ∼ F, f4Wis
+            Real Answer: piyanti — they give
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: hantawatis ∼ H!, f_is
+            Real Answer: hantawatis — king
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: istaris ∼ E, L
+            Real Answer: istaris — hand
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: tyis = zitis (man)
+            Real Answer: tyis — thunder (tarhunzas)
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: f4_ = f4Wis (they give)
+            Real Answer: f4_ — son (nimuwizas)
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: ´ - denotes vowel length
+            Real Answer: ´ — ta
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: % - logogram (represents a whole word)
+            Real Answer: % — king (hantawatis)
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: W - syllabic sign (represents a CV syllable)
+            Real Answer: W — wa, wi
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: t - consonant sign (represents a single consonant)
+            Real Answer: t — ta
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: s - consonant sign (represents a single consonant)
+            Real Answer: s — s(a)
+            Grade: 1
+        6:
+            Classification: Type 2
+            LLM Answer: T - consonant sign (represents a single consonant)
+            Real Answer: T — ti, foot (patis)
+            Grade: 1
+        7:
+            Classification: Type 2
+            LLM Answer: 5 - numeric sign (represents a numerical value)
+            Real Answer: 5 — zi, man (zitis)
+            Grade: 0
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: magasi argi ajomirra - The thief will strike us.
+            Real Answer: magasi argi ajomirra. — The thieves are striking us.
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: ay kanarriːg baːbki alletirsi - I found the camels for the owner.
+            Real Answer: ay kanarriːg baːbki alletirsi. — I repaired the door for the neighbour.
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: hanu tirtiːg elirsu - The donkey found the dress.
+            Real Answer: hanu tirtiːg elirsu. — The donkey found the owners.
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: tirti argi kamgi deːccirsa - The owner gave the camels to us.
+            Real Answer: tirti argi kamgi deːccirsa. — The owners gave us the camel.
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: ay darbadki bijaːndi - I am buying the chickens.
+            Real Answer: ay darbadki bijaːndi. — I will buy the chicken.
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: kadeːcciːg argi beyyeːg adaːnta - The neighbours are giving the necklace to the owner.
+            Real Answer: kanarriːcci tirtki beyyeːg atirra. — The neighbours are giving the necklace to the owner.
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: jahali wali kanarriːg ajaːniti - The young man bought the dog for us.
+            Real Answer: jahal argi walgi jaːndeːccirsu. — The young man bought the dog for us.
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: ar ticcirsu - We will steal him.
+            Real Answer: ar mangi bimaːgru. — We will steal him.
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: kadarri magaski dabardki biticcirra - The owners struck the thieves.
+            Real Answer: tirti magasiːg jomirsa. — The owners struck the thieves.
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: wal darbadki sarkaːyi baːbiːg elirsu - The dogs found the chickens for the coward.
+            Real Answer: wali sarkaːygi darbadiːg eltirsa. — The dogs found the chickens for the coward.
+            Grade: 1
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: guna vaala - o (ground, land)
+            Real Answer: gu-na vaala — water-possessor canoe (canoe)
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: ka'ik - c (canoe)
+            Real Answer: ka'ik — picture/shadow
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: ka'ikgu - h (car)
+            Real Answer: ka'ik-gu — picture+water (mirror)
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: klawun - d (book)
+            Real Answer: kla-wun — to get-1st person sg (I got)
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: laavu - e (carbonated beverage, alcohol)
+            Real Answer: laavu — banana
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: laavuga vi' - k (I saw)
+            Real Answer: laavu-ga — banana+leaves (book)
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: laavuga - n (to read)
+            Real Answer: ni'bu — ground, land
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: ni'bu - g (picture, shadow)
+            Real Answer: ni'bu-na vaala — ground, land-possessor canoe (car)
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: ni'buna vaala - o (ground, land)
+            Real Answer: nya-ka'ik — sun+picture (watch)
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: nyaka'ik - j (mirror)
+            Real Answer: vi — spear
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: vi - i (I got)
+            Real Answer: vi'-wun — to see-1st person sg (I saw)
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: vi'wun - l (watch (timepiece))
+            Real Answer: walini'ba-na bâk — white people-possessor pig (cow)
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: walini'bana bâk - m (spear)
+            Real Answer: walini'ba-na gu — white people-possessor water (carbonated beverage, alcohol)
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: walini'bana gu - b (cow)
+            Real Answer: walini'ba-na vi — white people-possessor spear (rifle)
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: vaala - ground, land
+            Real Answer: vaala — canoe
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: gu - cow
+            Real Answer: gu — water
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: vi' - I got
+            Real Answer: vi' — to see
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: vavamba - pig
+            Real Answer: pig — bâk
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: laavuga - banana leaves
+            Real Answer: banana leaves ≡ book — laavuga (due to similarity of shape and material)
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: waam - sun
+            Real Answer: sun — nya
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: walini'bana bâk - white people
+            Real Answer: white people — walini'ba
+            Grade: 0
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: utnhantxi - is it my house?
+            Real Answer: utnhantxi — is it in my house?
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: yapp"psa - in our_{1+2} field too
+            Real Answer: yapp"psa — his field too
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: yapup"psa - in their field too
+            Real Answer: yapup"psa — through the field too
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: qaqat"a - our_{1+2} cliff
+            Real Answer: qaqsa — our cliff
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: chushp"a - in your corner
+            Real Answer: chushumna — in your corner
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: chushp"a - in your corner too
+            Real Answer: chushmanpsa — in your corner too
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: chushp"t"a - from your corner too
+            Real Answer: chushumt"psa — from your corner too
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: aq"nha - is it from the cave?
+            Real Answer: aq"it"txi — is it from the cave?
+            Grade: 1
+        6:
+            Classification: Type 2
+            LLM Answer: ishma - is it the house?
+            Real Answer: utatxi — is it the house?
+            Grade: 0
+
+Total Score: 22/108

@@ -1,0 +1,143 @@
+### Problem 1: Number Systems
+#### Answers:
+- **(a)**
+  1. `10 + 1` = `11`
+  2. `20 × 2` = `40`
+  3. `3 × 20 + (5 + 2)` = `67`
+  4. `10 + 4` = `14`
+  5. `4 × 20 + 1` = `81`
+  6. `5 + 2` = `7`
+  7. `10 + 3` = `13`
+  8. `1 × 20 + (15 + 4)` = `39`
+  9. `5 × 3` = `15`
+  10. `1 + 1 = 1 × 2` = `2`
+  11. `1 + 4` = `5`
+  12. `2 × 6` = `12`
+  13. `36 + 4 × 6` = `60`
+  14. `2 × 36` = `72`
+  15. `3 × 6` = `18`
+  16. `36 + 3 × 6` = `54`
+  17. `6 × 36` = `216`
+  18. `6 + 2 × 6` = `12`
+  19. `3 × 400 + 4 × 20 + (15 + 1)` = `1296`
+  20. `1 × 400 + 1 × 20 + (10 + 2)` = `432`
+  21. `1 × 400` = `400`
+  22. `216 + 5 × 36 + 4` = `400`
+  23. `1 × 8000` = `8000`
+  24. `7776 + 216 + 6 + 2` = `8000`
+
+- **(b)**
+  - `42` = `ömpöhualli-om-öme`
+  - `494` = `centzontli-on-näuh-pöhualli-om-mahtlactli-on-nähui`
+
+- **(c)**
+  - `43` = `fete nimbo ngámbi`
+  - `569` = `yànparo tarumba yenówe fete asàr tàxwo tambaroy`
+
+---
+
+### Problem 2: Verb Morphology
+#### Answers:
+- **(a)**
+  - `ʒeq̇én` — to bite
+  - `medéf` — (he/she) is able to sew
+  - `medáfe` — (he/she) is pretending to sew
+  - `səfə́n` — to be able to burn
+  - `megʷəš’ə́ʔe` — (he/she) is speaking
+  - `mebə́b` — (he/she) is flying
+
+- **(b)**
+  - `c̣entʷéfme` — if (he/she) is able to slide
+  - `šxáfexeq̇əm` — (they) aren’t pretending to eat
+  - `bəbə́ft` — (he/she) was able to fly
+  - `šxet` — (he/she) was eating
+  - `ṭəgʷərəgʷə́peme` — if (he/she) really is trembling
+
+- **(c)**
+  - `mádexe` — (they) are sewing
+  - `mebəbə́fexe` — (they) are pretending to fly
+  - `sə́pet` — (he/she) really was burning
+  - `šxéfq̇əm` — (he/she) isn’t able to eat
+  - `gʷəš’ə́ʔexeme` — if (they) are speaking
+  - `meʒáq̇exe` — (they) are biting
+
+---
+
+### Problem 3: Coding System
+#### Answers:
+- **(a) Rules:**
+  1. Leave the first letter in place.
+  2. Delete `h` and `w`.
+  3. Replace all consonant letters with digits:
+      - `bpv` (f): `1`
+      - `cgjkqs` (xz): `2`
+      - `dt`: `3`
+      - `l`: `4`
+      - `mn`: `5`
+      - `r`: `6`
+  4. Reduce any sequence of two or more identical digits to a single digit.
+  5. Delete all vowels (a, e, i, o, u, y).
+  6. Leave only the first three digits or add zeroes on the right to make the code one letter and three digits long.
+
+- **(b) Coded Names:**
+  - Allaway: `A400`
+  - Anderson: `A536`
+  - Ashcombe: `A251`
+  - Buckingham: `B252`
+  - Chapman: `C155`
+  - Colquhoun: `C425`
+  - Evans: `E152`
+  - Fairwright: `F623`
+  - Kingscott: `K523`
+  - Lewis: `L200`
+  - Littlejohns: `L342`
+  - Stanmore: `S356`
+  - Stubbs: `S312`
+  - Tocher: `T260`
+  - Tonks: `T520`
+  - Whytehead: `W330`
+
+- **(c) Additional Names:**
+  - Ferguson: `F622`
+  - Fitzgerald: `F326`
+  - Hamnett: `H530`
+  - Keefe: `K100`
+  - Maxwell: `M240`
+  - Razey: `R200`
+  - Shaw: `S000`
+  - Upfield: `U143`
+
+---
+
+### Problem 4: Syntax and Word Order
+#### Answers:
+- **(a)**
+  1. `Alayulujba nguyunyu bungmanyani.` — The old woman will find you (sg.).
+  2. `Yagu gininya.` — He left you (sg.).
+  3. `Janji darrangguwaji.` — The dog doesn’t have a stick.
+  4. `Ngirra nya alanga.` — You (sg.) stole the girl.
+  5. `Daguma nyinga.` — You (sg.) struck me.
+  6. `Dirragbi ga balamurrungunya.` — She jumped with the spear.
+
+- **(b)**
+  1. `Yagujba nyungu.` — You (sg.) will leave me.
+  2. `Gulugbi ga ngunybulugi.` — The doctor slept.
+  3. `Juwa gu bardba gijilulunguji.` — The man will run (away) with the money.
+  4. `Ngirrajba gunu janji.` — He will steal the dog.
+  5. `Ngajbi ngiyinya alangani.` — The girl saw you (sg.).
+
+---
+
+### Problem 5: Patterns and Structures
+#### Answers:
+- **(a)**
+  1. `war is—maa—ciil daa- rood` — ×
+  2. `dir mi- yaad wa- daag- taan` — √
+  3. `laba- daad ka duu- diye` — √
+  4. `ka jan- na-daad daa- hiye` — ×
+  5. `adi- ga i- yo deris- kaa` — √
+  6. `diga- xaar- ka mari- yoo` — √
+  7. `ciid i- yo doo- lo di- raac` — ×
+  8. `noo- ma kee- neen darka` — ×
+  9. `ka- la de- yaa- yaa mi- yaan` — ×
+  10. `wu- xuun kaa dan- qaa- baan` — √

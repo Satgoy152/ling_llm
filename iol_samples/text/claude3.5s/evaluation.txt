@@ -1,0 +1,244 @@
+evals:
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: ho tōn hyiōn dulos - the slave of the sons
+            Real Answer: ho tōn hyiōn dulos - the slave of the sons
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: hoi tōn dulōn cyrioi - the masters of the slaves
+            Real Answer: hoi tōn dulōn cyrioi - the masters of the slaves
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: hoi tu emporu adelphoi - the brothers of the merchant
+            Real Answer: hoi tu emporu adelphoi - the brothers of the merchant
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: hoi tōn onōn emporoi - the merchants of the donkeys
+            Real Answer: hoi tōn onōn emporoi - the merchants of the donkeys
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: ho tu cyriu onos - the donkey of the master
+            Real Answer: ho tu cyriu onos - the donkey of the master
+            Grade: 1
+        6:
+            Classification: Type 1
+            LLM Answer: ho tu oicu cyrios - the master of the house
+            Real Answer: ho tu oicu cyrios - the master of the house
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: ho tōn adelphōn oicos - the house of the brothers
+            Real Answer: ho tōn adelphōn oicos - the house of the brothers
+            Grade: 1
+        8:
+            Classification: Type 1
+            LLM Answer: hoi tōn cyriōn hyioi - the sons of the masters
+            Real Answer: hoi tōn cyriōn hyioi - the sons of the masters
+            Grade: 1
+    Part b:
+        a):
+            Classification: Type 2
+            LLM Answer: hoi tōn emporōn oicoi
+            Real Answer: hoi to:n emporo:n oicoi
+            Grade: 1
+        b):
+            Classification: Type 2
+            LLM Answer: hoi tu dulu onoi
+            Real Answer: hoi tu dulu onoi
+            Grade: 2
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: concordaus
+            Real Answer: concordaus
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: chicolats
+            Real Answer: chicolatz
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: chuntas
+            Real Answer: chuntas
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: eclixes
+            Real Answer: eclixes
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: ferfets
+            Real Answer: ferfetz
+            Grade: 0
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: li:ʔ means "beautiful"
+            Real Answer: li:ʔ means "beautiful"
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: ro:h means "yellow"
+            Real Answer: ro:h means "ripe"
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: li:ʔ kalakwa: mo:h kya
+            Real Answer: kalali:ʔ mo:h ʤö
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: li:ʔ kalaro:h kwɨ: ne kya
+            Real Answer: ʤö mɨlane mo:h ro:h kya
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: mɨlaro:h kwɨ: ne - The corn has yellowed well
+            Real Answer: mɨlaro:h kwɨ: ne = My yellow pineapples ripened well.
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: li:ʔ kalakwa: kwɨ: - The corn grew beautifully
+            Real Answer: li:ʔ kalakwa: kwɨ: = The beautiful corn grew.
+            Grade: 2
+
+Problem 6:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: The singer was not only molistic but also cluvious.
+            Real Answer: c) May found a dog that was danty but sloshful.
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: blitty
+            Real Answer: blitty = undesirable
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: sloshful
+            Real Answer: sloshful = undesirable
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: danty
+            Real Answer: frumsy = desirable
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: cluvious
+            Real Answer: weasy = undesirable
+            Grade: 0
+
+Problem 7:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: čahārpāye pāin-e miz - The stool under the table
+            Real Answer: čahārpāye pāin-e miz = The stool below the table.
+            Grade: 2
+        2:
+            Classification: Type 2
+            LLM Answer: ketāb zir-e komod - The book under the bookcase
+            Real Answer: ketāb zir-e komod = The book under the bookcase.
+            Grade: 2
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: sang zir-e āb
+            Real Answer: sang zir-e āb or sang pāin-e āb
+            Grade: 2
+        2:
+            Classification: Type 2
+            LLM Answer: jabe zir-e deraxt
+            Real Answer: ja’abe pāin-e deraxt or ja’abe zir-e deraxt
+            Grade: 2
+
+Problem 8:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: bir men bes
+            Real Answer: bir men bes
+            Grade: 2
+        2:
+            Classification: Type 2
+            LLM Answer: bir men segiz
+            Real Answer: bir men segiz
+            Grade: 2
+        3:
+            Classification: Type 2
+            LLM Answer: üš pen eki
+            Real Answer: üš pen eki
+            Grade: 2
+        4:
+            Classification: Type 2
+            LLM Answer: tört pen žeti
+            Real Answer: tört pen žeti
+            Grade: 2
+        5:
+            Classification: Type 2
+            LLM Answer: žeti men elüw
+            Real Answer: žeti men elüw
+            Grade: 2
+        6:
+            Classification: Type 2
+            LLM Answer: segiz ben elüw
+            Real Answer: segiz ben elüw
+            Grade: 2
+        7:
+            Classification: Type 2
+            LLM Answer: on üš pen otız
+            Real Answer: on üš pen otız
+            Grade: 2
+        8:
+            Classification: Type 2
+            LLM Answer: otız ben eki
+            Real Answer: otız ben eki
+            Grade: 2
+        9:
+            Classification: Type 2
+            LLM Answer: elüw eki men on
+            Real Answer: elüw eki men on
+            Grade: 2
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: bes pen otız segiz
+            Real Answer: bes pen otız segiz
+            Grade: 2
+        2:
+            Classification: Type 2
+            LLM Answer: on men tört
+            Real Answer: on men tört
+            Grade: 2
+        3:
+            Classification: Type 2
+            LLM Answer: žeti men elüw üš
+            Real Answer: žeti men elüw üš
+            Grade: 2
+        4:
+            Classification: Type 2
+            LLM Answer: otız segiz ben bes
+            Real Answer: otız segiz ben bes
+            Grade: 2
+
+
+
+Total Score: 48/168

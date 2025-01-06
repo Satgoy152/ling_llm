@@ -1,0 +1,33 @@
+Here is my solution to the Blissymbolics problem:
+(a) The correct correspondences between the Blissymbols and their English translations are:
+^ - active
+^^ - activity
+( - to blow
+^ - western
+:) - merry
+:'( - to weep
+∨ - saliva
+∨∨ - to breathe
+O - waist
+♥ - ill, sick
+👄 - lips
+(b) The meanings of the given Blissymbols are:
+∠ - east (opposite of west ^)
+~ - air (wiggly lines like wind/breath)
+⌂ - to rise (arrow pointing up)
+∧ - sad (upside down smile)
+⊙ - body/torso (circle shape like a torso)
+⊥ - body/torso (same as ⊙)
+(c) The Blissymbolics representations are:
+air - ~
+body (torso) - ⊙ or ⊥
+to rise - ⌂
+east - ∠
+sad - ∧
+The key insights are:
+
+Symbols can be combined to modify meaning (e.g. ^ active, ^^ activity)
+Symbols have visual resemblance to their meaning (e.g. ∨ saliva dripping, :'( weeping face)
+Opposites use inverted symbols (e.g. ^ west, ∠ east)
+
+Let me know if you need any clarification or have additional questions!

@@ -1,0 +1,104 @@
+Based on the instructions provided, here is the classification of questions for each problem:
+
+Problem 1:
+    Part a:
+        12:
+            Classification: Type 1
+        13:
+            Classification: Type 1
+        14:
+            Classification: Type 1
+        15:
+            Classification: Type 1
+        16:
+            Classification: Type 1
+    Part b:
+        17:
+            Classification: Type 1
+        18:
+            Classification: Type 1
+        19:
+            Classification: Type 1
+        20:
+            Classification: Type 1
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 3
+    Part b:
+        1:
+            Classification: Type 2
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 2
+    Part b:
+        1:
+            Classification: Type 2
+        2:
+            Classification: Type 2
+        3:
+            Classification: Type 2
+        4:
+            Classification: Type 2
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 2
+        2:
+            Classification: Type 2
+        3:
+            Classification: Type 2
+        4:
+            Classification: Type 2
+        5:
+            Classification: Type 2
+        6:
+            Classification: Type 2
+    Part b:
+        1:
+            Classification: Type 2
+        2:
+            Classification: Type 2
+        3:
+            Classification: Type 2
+        4:
+            Classification: Type 2
+        5:
+            Classification: Type 2
+        6:
+            Classification: Type 2
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 2
+        2:
+            Classification: Type 2
+        3:
+            Classification: Type 2
+        4:
+            Classification: Type 2
+        5:
+            Classification: Type 2
+        6:
+            Classification: Type 2
+    Part b:
+        1:
+            Classification: Type 2
+        2:
+            Classification: Type 2
+        3:
+            Classification: Type 2
+        4:
+            Classification: Type 2
+        5:
+            Classification: Type 2
+
+Total Questions: 36
+    Type 1: 9
+    Type 2: 29
+    Type 3: 1

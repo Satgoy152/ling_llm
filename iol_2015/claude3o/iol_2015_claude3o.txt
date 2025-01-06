@@ -1,0 +1,280 @@
+Here are the solutions to the computational linguistics problems:
+
+Problem 1:
+
+(a) Equalities in numerals:
+1. 11 × 10 = 110
+2. 20 × 2 = 40
+3. 37 + 14 = 41 
+4. 5 + 2 = 7
+5. 13 × 3 = 39
+6. 5 × 3 = 15
+7. 2 + 2 = 2 × 4 
+8. 2 + 6 = 8
+9. 4 3 + 7 3 = 4 7
+10. 5 × 5 3 = 7 5 3
+11. 9 × 7 = 63
+12. 9 + 4 3 = 5 3
+
+Numbers in numerals:
+13. 7344 = 2880
+14. 8122 = 4 63
+15. 8000 = 63 8 7 6
+16. 1 × 8000 = 1 63 9 4
+
+(b) In Nahuatl: 
+42 = öm-pöhualli-om-öme
+494 = näuh-tzontli-on-näuh-pöhualli-on-mahtlactli-on-nähui
+
+(c) In Arammba:
+43 = yànparo tambaroy asàr
+569 = yenówe tarumba nimbo fete
+
+Problem 2:
+
+(a) English translations:
+1. to bite
+2. (he/she) is able to sew
+3. (he/she) is pretending to sew  
+4. to be able to burn
+5. (he/she) is speaking
+6. (he/she) is flying
+
+(b) English translations:
+1. if (they) are able to slide
+2. (they) really aren't eating
+3. (he/she) was able to fly 
+4. (they) were eating
+5. if (he/she) is really trembling
+
+(c) Beslenei translations:
+1. máde
+2. meʒebəbə́pe
+3. sə́pet
+4. mášxeq̇əm
+5. gʷəš'əʔéme
+6. máʒe
+
+Problem 3:
+
+(a) Soundex code steps:
+1. Retain the first letter of the surname 
+2. Drop all vowels and Y, W, H 
+3. Replace consonants with digits:
+   B, F, P, V → 1
+   C, G, J, K, Q, S, X, Z → 2
+   D, T → 3
+   L → 4
+   M, N → 5
+   R → 6
+4. If two adjacent letters encode to the same digit, keep only one 
+5. Keep the first three digits after the letter, padding with 0s if less than three
+
+(b) Matching:
+
+| Surnames            | Soundex Codes     |
+|---------------------|-------------------|
+| Allaway             | A400              |
+| Anderson            | A536              |
+| Ashcombe            | A251              |
+| Buckingham          | B252              |
+| Chapman             | C155              |
+| Colquhoun           | C425              |
+| Evans               | E152              |
+| Fairwright          | F623              |
+| Kingscott           | K522              |
+| Lewis               | L200              |
+| Littlejohns         | L342              |
+| Stanmore            | S356              |
+| Stubbs              | S312              |
+| Tocher              | T260              |
+| Tonks               | T520              |
+| Whytehead           | W330              |
+
+(c) Soundex codes:
+Ferguson → F622
+Fitzgerald → F326 
+Hamnett → H553
+Keefe → K100
+Maxwell → M240
+Razey → R200
+Shaw → S000
+Upfield → U143
+
+Problem 4: 
+
+(a) English translations:
+18. She will find you (sg.) with the old woman.
+19. He left you (sg.).
+20. The dog is without a stick.
+21. You (sg.) stole the girl.
+22. She struck you (sg.).
+23. He jumped with the spear.
+
+(b) Wambaya translations:
+24. Yagujba nginyu.
+25. Gulugi ngunybulugi.
+26. Dirragba gu juwa gijilulungunya.
+27. Ngirra gununyu janji.
+28. Ngajbi nginya alanga.
+
+Problem 5:
+
+(a) Structure of a masafo half-line:
+- Contains 10 to 11 syllables
+- Has a word boundary after the 4th or 5th syllable
+- Exhibits alliteration, where 2-3 words begin with the same sound
+
+(b) Genuine vs rearranged:
+36. war ismaaciil daarood - genuine
+37. dir miyaad wadaagtaan - rearranged  
+38. labadaad ka duudiye - rearranged
+39. ka jannadaad daahiye - genuine
+40. adiga iyo deriskaa - genuine
+41. digaxaarka mariyoo - rearranged
+42. ciid iyo doolo diraac - genuine  
+43. nooma keeneen darka - rearranged
+44. kala deyaayaa miyaan - rearranged
+45. wuxuun kaa danqaabaan - genuine
+
+Let me know if you need any clarification or have additional questions!
+Here are the solutions to the computational linguistics problems:
+
+Problem 1:
+
+(a) Equalities in numerals:
+1. 11 × 10 = 110
+2. 20 × 2 = 40
+3. 37 + 14 = 41 
+4. 5 + 2 = 7
+5. 13 × 3 = 39
+6. 5 × 3 = 15
+7. 2 + 2 = 2 × 4 
+8. 2 + 6 = 8
+9. 4 3 + 7 3 = 4 7
+10. 5 × 5 3 = 7 5 3
+11. 9 × 7 = 63
+12. 9 + 4 3 = 5 3
+
+Numbers in numerals:
+13. 7344 = 2880
+14. 8122 = 4 63
+15. 8000 = 63 8 7 6
+16. 1 × 8000 = 1 63 9 4
+
+(b) In Nahuatl: 
+42 = öm-pöhualli-om-öme
+494 = näuh-tzontli-on-näuh-pöhualli-on-mahtlactli-on-nähui
+
+(c) In Arammba:
+43 = yànparo tambaroy asàr
+569 = yenówe tarumba nimbo fete
+
+Problem 2:
+
+(a) English translations:
+1. to bite
+2. (he/she) is able to sew
+3. (he/she) is pretending to sew  
+4. to be able to burn
+5. (he/she) is speaking
+6. (he/she) is flying
+
+(b) English translations:
+1. if (they) are able to slide
+2. (they) really aren't eating
+3. (he/she) was able to fly 
+4. (they) were eating
+5. if (he/she) is really trembling
+
+(c) Beslenei translations:
+1. máde
+2. meʒebəbə́pe
+3. sə́pet
+4. mášxeq̇əm
+5. gʷəš'əʔéme
+6. máʒe
+
+Problem 3:
+
+(a) Soundex code steps:
+1. Retain the first letter of the surname 
+2. Drop all vowels and Y, W, H 
+3. Replace consonants with digits:
+   B, F, P, V → 1
+   C, G, J, K, Q, S, X, Z → 2
+   D, T → 3
+   L → 4
+   M, N → 5
+   R → 6
+4. If two adjacent letters encode to the same digit, keep only one 
+5. Keep the first three digits after the letter, padding with 0s if less than three
+
+(b) Matching:
+
+| Surnames            | Soundex Codes     |
+|---------------------|-------------------|
+| Allaway             | A400              |
+| Anderson            | A536              |
+| Ashcombe            | A251              |
+| Buckingham          | B252              |
+| Chapman             | C155              |
+| Colquhoun           | C425              |
+| Evans               | E152              |
+| Fairwright          | F623              |
+| Kingscott           | K522              |
+| Lewis               | L200              |
+| Littlejohns         | L342              |
+| Stanmore            | S356              |
+| Stubbs              | S312              |
+| Tocher              | T260              |
+| Tonks               | T520              |
+| Whytehead           | W330              |
+
+(c) Soundex codes:
+Ferguson → F622
+Fitzgerald → F326 
+Hamnett → H553
+Keefe → K100
+Maxwell → M240
+Razey → R200
+Shaw → S000
+Upfield → U143
+
+Problem 4: 
+
+(a) English translations:
+18. She will find you (sg.) with the old woman.
+19. He left you (sg.).
+20. The dog is without a stick.
+21. You (sg.) stole the girl.
+22. She struck you (sg.).
+23. He jumped with the spear.
+
+(b) Wambaya translations:
+24. Yagujba nginyu.
+25. Gulugi ngunybulugi.
+26. Dirragba gu juwa gijilulungunya.
+27. Ngirra gununyu janji.
+28. Ngajbi nginya alanga.
+
+Problem 5:
+
+(a) Structure of a masafo half-line:
+- Contains 10 to 11 syllables
+- Has a word boundary after the 4th or 5th syllable
+- Exhibits alliteration, where 2-3 words begin with the same sound
+
+(b) Genuine vs rearranged:
+36. war ismaaciil daarood - genuine
+37. dir miyaad wadaagtaan - rearranged  
+38. labadaad ka duudiye - rearranged
+39. ka jannadaad daahiye - genuine
+40. adiga iyo deriskaa - genuine
+41. digaxaarka mariyoo - rearranged
+42. ciid iyo doolo diraac - genuine  
+43. nooma keeneen darka - rearranged
+44. kala deyaayaa miyaan - rearranged
+45. wuxuun kaa danqaabaan - genuine
+
+Let me know if you need any clarification or have additional questions!

@@ -1,0 +1,291 @@
+I understand. I'll grade the LLM's answers based on the provided rubric and classifications. Here's the grading:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: You are striking us.
+            Real Answer: you (pl.) are piercing me
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: You both will strike you(pl).
+            Real Answer: we both will strike him
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: Because you both are piercing me.
+            Real Answer: because you (sg.) will pierce us
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: We are piercing him.
+            Real Answer: we are piercing you (sg.)
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: Because we both will strike him.
+            Real Answer: because you (pl.) are striking us
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: noho'ibe
+            Real Answer: noha'ibe
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: kahalifu
+            Real Answer: kiʔlune
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: nolahanagihe
+            Real Answer: nolenohotagihe
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: nahalanagihe
+            Real Answer: ʔlanagihe
+            Grade: 1
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: aufigↄ
+            Real Answer: alOsOhjegO
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: pʰjaboagↄ
+            Real Answer: alOsOhjegO
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: matʰↄdↄ
+            Real Answer: tsegudO
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: k'ↄnboho
+            Real Answer: k'aphthOgO
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: t'ↄgↄ
+            Real Answer: khO
+            Grade: 0
+        6:
+            Classification: Type 2
+            LLM Answer: e
+            Real Answer: alOsOhjegO
+            Grade: 0
+        7:
+            Classification: Type 2
+            LLM Answer: tsegun
+            Real Answer: tsegun
+            Grade: 2
+        8:
+            Classification: Type 2
+            LLM Answer: alↄguk'o
+            Real Answer: alOguk'ogO
+            Grade: 1
+        9:
+            Classification: Type 2
+            LLM Answer: k'apʰtʰ
+            Real Answer: k'aphthO
+            Grade: 1
+        10:
+            Classification: Type 2
+            LLM Answer: kʰↄdↄ
+            Real Answer: khO
+            Grade: 1
+        11:
+            Classification: Type 2
+            LLM Answer: k'ↄ
+            Real Answer: k'OdO
+            Grade: 1
+        12:
+            Classification: Type 2
+            LLM Answer: alↄ
+            Real Answer: alOgO
+            Grade: 1
+
+Problem 3:
+    Part a:
+        Classification: Type 3
+        LLM Answer: (Family tree reconstruction)
+        Real Answer: Wa2nie1 Syn1mei1 Ke.i1¹ey2 Sei1na1 Sie1tsie1 Ldiu2±e1, ʔan1nia1 Nie2tse. / Lhie2nyn2 Ngwi1mbyn2 Mbe2phon1 Ngon2ngwe1
+        Grade: 1
+    Part b:
+        Classification: Type 1
+        LLM Answer: ma1
+        Real Answer: ndo.n1
+        Grade: 0
+
+Problem 4:
+    Part a:
+        8:
+            Classification: Type 2
+            LLM Answer: Will this man strike the thief? / The girl said that he would not strike the thief.
+            Real Answer: Did this man frighten the thief? / The girl said that he (this man) did frighten the thief.
+            Grade: 1
+        9:
+            Classification: Type 2
+            LLM Answer: Did the girl not frighten the youth? / The girl said that she did not frighten the youth.
+            Real Answer: Will the deceived girl kill this youth? / The deceived girl said that she (the deceived girl) would kill this youth.
+            Grade: 0
+        10:
+            Classification: Type 2
+            LLM Answer: The thief said that the child healed the man.
+            Real Answer: This thief said that the child did not heal the man. / This thief said that the child would not heal the man.
+            Grade: 1
+    Part b:
+        11:
+            Classification: Type 2
+            LLM Answer: Will the old man resemble this coughing youth? / The child said that he would not resemble this coughing youth.
+            Real Answer: okàa kí.nonò a.modhyòmú koʔlomù ânò à? / a.mò wei ga ó. ki.nono a.modhyòmú koʔlomù ânò.
+            Grade: 0
+        12:
+            Classification: Type 2
+            LLM Answer: Did this beaten woman not frighten the man? / This beaten woman said that she did not frighten the man.
+            Real Answer: a. vùràmú nu. amù â. nò nwa. sese edèì à? / a. vùràmú nu. amù â. nò wei ga òkí nwa. sese edèì.
+            Grade: 0
+    Part c:
+        Classification: Type 3
+        LLM Answer: Thief: ozyì / Girl: amemùré
+        Real Answer: Thief: ozyi / Girl: amemùrè
+        Grade: 1
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: Above, on
+            Real Answer: to put
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: Nostril
+            Real Answer: to be dying (to put + foot + edge + hole)
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: Eyelash
+            Real Answer: to envy (to put + liver)
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: Eye socket
+            Real Answer: eyelash (hair + eyes)
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: Eyebrow
+            Real Answer: eyebrow (hair + above, on + eyes)
+            Grade: 2
+        6:
+            Classification: Type 2
+            LLM Answer: Field edge
+            Real Answer: poisonous snake (bad + snake)
+            Grade: 0
+        7:
+            Classification: Type 2
+            LLM Answer: To put
+            Real Answer: good field (good + field)
+            Grade: 0
+        8:
+            Classification: Type 2
+            LLM Answer: Liver
+            Real Answer: happiness (good + liver)
+            Grade: 0
+        9:
+            Classification: Type 2
+            LLM Answer: Eyes/face
+            Real Answer: eye socket (hole + eyes)
+            Grade: 1
+        10:
+            Classification: Type 2
+            LLM Answer: Tip of the tongue
+            Real Answer: nostril (hole + nose)
+            Grade: 0
+        11:
+            Classification: Type 2
+            LLM Answer: Happiness
+            Real Answer: foot (foot + human)
+            Grade: 0
+        12:
+            Classification: Type 2
+            LLM Answer: Foot
+            Real Answer: field edge (edge + field)
+            Grade: 0
+        13:
+            Classification: Type 2
+            LLM Answer: Good field
+            Real Answer: tip of the tongue (edge + tongue)
+            Grade: 0
+        14:
+            Classification: Type 2
+            LLM Answer: To envy
+            Real Answer: liver (liver + human)
+            Grade: 0
+        15:
+            Classification: Type 2
+            LLM Answer: At the surface
+            Real Answer: at the surface (face)
+            Grade: 2
+        16:
+            Classification: Type 2
+            LLM Answer: Displeasure
+            Real Answer: face/eyes (face/eyes + human)
+            Grade: 0
+        17:
+            Classification: Type 2
+            LLM Answer: To be dying
+            Real Answer: above, on (head)
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: Poisonous snake
+            Real Answer: hair (on the head) (hair + head)
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: At the center
+            Real Answer: hole
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: Head
+            Real Answer: snake's tongue (tongue + snake)
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: Nose
+            Real Answer: tongue (tongue + human)
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: kò
+            Real Answer: sèè
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: lébé gòk
+            Real Answer: zù ẃı
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: ýık ẃı
+            Real Answer: dáng sèè
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: lébé ẃı
+            Real Answer: zòk ẃı
+            Grade: 0
+
+Total Score: 18/108

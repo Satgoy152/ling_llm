@@ -1,0 +1,61 @@
+clas
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer:
+            Real Answer:
+            Grade: 1
+        6:
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 0
+        7:
+            Classification: Type 2
+            LLM Answer:
+            Real Answer:
+            Grade: 0
+        8:
+            Classification: Type 2
+            LLM Answer:
+            Real Answer:
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer:
+            Real Answer:
+            Grade: 1
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer:
+            Real Answer:
+            Grade: 0

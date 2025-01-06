@@ -1,0 +1,319 @@
+I'll help grade the LLM's answers based on the provided classification and rubric. Let me grade each problem individually:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: "I came, and the Indians called the bears."
+            Real Answer: "Whom did he kill?"
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: "The person killed (someone) and called me."
+            Real Answer: "Who killed him?"
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: "The person killed (someone) and then called me."
+            Real Answer: lakhota ki hokšita ki ktepi čha matho ki hi
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: "He/she/it killed (someone)."
+            Real Answer: yahi ną lakhota ki yakte
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: No answer provided
+            Real Answer: tuwa wačho he
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: lakhota ki hokšila ki wičhakte ną matho ki hi
+            Real Answer: wičhaša ki hipi čha tuwa wičhakte
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: yahi čha lakhota ki nikte
+            Real Answer: Not provided
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: tuwa mačho he
+            Real Answer: Not provided
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: wičhaša ki hipi ną tuwa wičhakte
+            Real Answer: Not provided
+            Grade: 0
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: els bastaixes
+            Real Answer: els bastaixos
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: els troleibuses
+            Real Answer: els troleibusos
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: els irises
+            Real Answer: els iris
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: els llaços
+            Real Answer: els llaços
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: els ònixs
+            Real Answer: els ònixs
+            Grade: 1
+        6:
+            Classification: Type 1
+            LLM Answer: els pisos
+            Real Answer: els pisos
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: els sequaços
+            Real Answer: els sequaços
+            Grade: 1
+        8:
+            Classification: Type 1
+            LLM Answer: les sequaçs
+            Real Answer: les sequaçs
+            Grade: 1
+        9:
+            Classification: Type 1
+            LLM Answer: les xeixs
+            Real Answer: les xeixs
+            Grade: 1
+        10:
+            Classification: Type 1
+            LLM Answer: No answer
+            Real Answer: la clos
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: No answer
+            Real Answer: les pelvis
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 3
+            LLM Answer: The marks ` and ´ are used to indicate the stressed syllable in Catalan words when the stress does not follow the regular stress patterns
+            Real Answer: The marks ` and ´ are used when the stress falls on a non-default syllable
+            Grade: 2
+    Part c:
+        1:
+            Classification: Type 3
+            LLM Answer: The stress typically falls on the last syllable of the word
+            Real Answer: Without the marks, stress is penultimate if the word ends in -s, otherwise it is final
+            Grade: 1
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: poьm - passion
+            Real Answer: ka:m - passion
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: a:c - be able
+            Real Answer: a:c - passion
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: noьm - suck
+            Real Answer: am - suck
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: ŋoьm - wait
+            Real Answer: cam - suck
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: cam - delta
+            Real Answer: piъm - delta
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: peьŋ - hold in one's teeth
+            Real Answer: poьm - delta
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: aŋ - lead, guide
+            Real Answer: noьm - lead, guide
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: caŋ - roast on a spit
+            Real Answer: aŋ - lead, guide
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: am - inarticulately
+            Real Answer: ŋoьm - inarticulately
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: piъm - bar the way
+            Real Answer: peьŋ - inarticulately
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: ŋiъk - turn around
+            Real Answer: ŋiъk - turn around
+            Grade: 1
+        12:
+            Classification: Type 1
+            LLM Answer: ka:m - have
+            Real Answer: miъn - turn around
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: miъn - trim, rough-hew
+            Real Answer: caŋ - trim, rough-hew
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: poьm
+            Real Answer: kam
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: ca
+            Real Answer: ca:m
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: amэ
+            Real Answer: ka:k
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: cjam
+            Real Answer: niъ:m
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: No answer provided
+            Real Answer: moьm
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: No answer provided
+            Real Answer: ŋeьŋ
+            Grade: 0
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: No answer provided
+            Real Answer: su b'ataŋiu zä:ŋini
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: No answer provided
+            Real Answer: si teŋku bugdiŋi:
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: No answer provided
+            Real Answer: si teŋkuŋi: bugdini
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: No answer provided
+            Real Answer: b'ata wo:ni
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: No answer provided
+            Real Answer: bu naktaŋiu
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: No answer provided
+            Real Answer: bi azigaŋi mo:ŋini
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: No answer provided
+            Real Answer: Yes
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: No answer provided
+            Real Answer: Yes
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: No answer provided
+            Real Answer: No
+            Grade: 0
+    Part d:
+        1:
+            Classification: Type 3
+            LLM Answer: No answer provided
+            Real Answer: bi tekpui - my skin (the skin of my body)
+            Grade: 0
+        2:
+            Classification: Type 3
+            LLM Answer: No answer provided
+            Real Answer: bi tekpuŋi: - my skin (e.g., an animal's skin belonging to me)
+            Grade: 0
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 3
+            LLM Answer: No answer provided
+            Real Answer: Mdala amguli ugimbi Mwangi
+            Grade: 0
+        2:
+            Classification: Type 3
+            LLM Answer: No answer provided
+            Real Answer: Kamau avaguli mene vabuya
+            Grade: 0
+        3:
+            Classification: Type 3
+            LLM Answer: No answer provided
+            Real Answer: Not provided
+            Grade: 0
+        4:
+            Classification: Type 3
+            LLM Answer: No answer provided
+            Real Answer: Not provided
+            Grade: 0
+        5:
+            Classification: Type 3
+            LLM Answer: No answer provided
+            Real Answer: Not provided
+            Grade: 0
+        6:
+            Classification: Type 3
+            LLM Answer: No answer provided
+            Real Answer: Not provided
+            Grade: 0
+
+Total Score: 11/81
+- Type 1 Questions (33 questions): 6 points
+- Type 2 Questions (15 questions): 0 points
+- Type 3 Questions (9 questions): 5 points

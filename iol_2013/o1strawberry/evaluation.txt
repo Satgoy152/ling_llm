@@ -1,0 +1,249 @@
+I understand. I'll grade the LLM's answers based on the provided rubric and classifications. I'll use the real answers you've provided for comparison. Here's the grading:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: mugaóu:m (no long vowels)
+            Real Answer: mugaóumu
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: waNalg:gu (no long vowels)
+            Real Answer: waNa:lgu
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: bama:n — "of a person"
+            Real Answer: bama:n (of a person)
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: buñabi — "another woman"
+            Real Answer: buña:bi (another woman)
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: maéu:rmuéay — "with another frog"
+            Real Answer: maéurmuéay (with a frog)
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: muéamni — "of a mother"
+            Real Answer: muéa:mni (of a mother)
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: muyubarini
+            Real Answer: muyubara:n
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: mugaóu:gu
+            Real Answer: mugaóugu
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: bimbi
+            Real Answer: bimbi
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: maéu:m
+            Real Answer: maéu:rmu
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: wagugimbal
+            Real Answer: wagu:éagimbal
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: éudu:luni
+            Real Answer: éuduluni
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: baéigal
+            Real Answer: baéi:gal
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: waNalgimbal
+            Real Answer: waNalgimbal
+            Grade: 1
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: ilennime - gunshot
+            Real Answer: ilennime (herd of deer)
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: rifle
+            Real Answer: rifle
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: gunshot
+            Real Answer: rifle case
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: wooden deer feed
+            Real Answer: nest
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: gun
+            Real Answer: deer
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: bird's beak
+            Real Answer: tip of nose
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: knife
+            Real Answer: food
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: deer
+            Real Answer: wood
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: nose case
+            Real Answer: wooden house
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: person
+            Real Answer: child
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: cuo johudawur
+            Real Answer: cuoncireme
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: Unable to translate accurately
+            Real Answer: johunmøŋer
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: ilenlegulewce
+            Real Answer: cohojedewce
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: aariinjohul
+            Real Answer: legudoŋoj
+            Grade: 0
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: [1Pa.ai.bi]
+            Real Answer: [Pa.1ai.bi]
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: [1Paa.pi.si]
+            Real Answer: [1Paa.pi.si]
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: [1Pii.tii.xi.si]
+            Real Answer: [Pi.1tii.Pi.si]
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: ground
+            Real Answer: ground
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: papaya
+            Real Answer: papaya
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: monkey
+            Real Answer: monkey
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: pencil
+            Real Answer: pencil
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: old banana
+            Real Answer: old banana
+            Grade: 1
+        6:
+            Classification: Type 1
+            LLM Answer: another toucan
+            Real Answer: another toucan
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: big toucan
+            Real Answer: big toucan
+            Grade: 1
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: My ants' mountain is near.
+            Real Answer: The Monkey is buying my ants
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: The demons will return to the women's pupil.
+            Real Answer: The demons will return to the women's pupil
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: Lagahi dofoni kontuhi murindo.
+            Real Answer: a-la-a-laga na-moni we kontu-no muri
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: Lagahi we adhiadhini.
+            Real Answer: a laga-hi do-kala we a-dhi-a-dhini
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: Andoandoke nododo lambuku robhineku.
+            Real Answer: ndoke-hi-ndo robhine-hi-ku da-dumodo kalei-hi-ku
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: Molo andoandoke dokodoho.
+            Real Answer: molo-hi-no ndoke no-kodoho
+            Grade: 0
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: Word 1: refrigerator, Word 2: cat, Word 3: butterfly, Word 4: bed, Word 5: spoon, Word 6: cow
+            Real Answer: Refrigerator: A = low, B = low, C = high, D = high. Cow: A = low, B = low, C = high, D = low. Bed: A = high, B = low, C = low, D = low. Butterfly: A = low, B = low, C = low, D = high. Spoon: A = low, B = high, C = high, D = low. Cat: A = low, B = low, C = low, D = low.
+            Grade: 1
+
+Total Score: 12/44

@@ -1,0 +1,207 @@
+Based on the provided classification, LLM solutions, and real answers, here's the grading for each problem:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: 6² + 3 + 4 = 43
+            Real Answer: 52 + 3 + 4 = 32
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: bākūrū bītāt = 35
+            Real Answer: bākūrū bītāt = 36
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: ʃāāgwīnìŋ = 56
+            Real Answer: ʃāāgwīnìŋ = 11
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: kūrū = 20
+            Real Answer: kūrū = 12
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: 6 = bà tùŋūn
+            Real Answer: 6 = tìīmìn
+            Grade: 0
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: 1l, 2o, 3n, 4m, 5p, 6i, 7j, 8a, 9b, 10f, 11e, 12c, 13k, 14g, 15h, 16d, 17q
+            Real Answer: (No direct answer provided)
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: amin - your (pl.) nose
+            Real Answer: a-min — your (sg.) nose
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: deya hebataa - my tree branch
+            Real Answer: de-ya he-bataa — one's own mother's tree
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: fe
+            Real Answer: fe
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: rimin
+            Real Answer: ri-lui
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: emaama hetatang
+            Real Answer: e-ya he-maama
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: maama niya
+            Real Answer: ne-maama ha-pong
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: hekuda hewei
+            Real Answer: da-wei
+            Grade: 0
+        6:
+            Classification: Type 2
+            LLM Answer: niya
+            Real Answer: ne-tama
+            Grade: 0
+
+Problem 3:
+    Part a:
+        12:
+            Classification: Type 2
+            LLM Answer: The sorcerer saw the stars.
+            Real Answer: Did the sorcerer see the stars?
+            Grade: 1
+        13:
+            Classification: Type 2
+            LLM Answer: There are stars in the sky.
+            Real Answer: There are stars in the sky.
+            Grade: 2
+        14:
+            Classification: Type 2
+            LLM Answer: I danced.
+            Real Answer: I danced.
+            Grade: 2
+        15:
+            Classification: Type 2
+            LLM Answer: The man saw the bananas in Luanda.
+            Real Answer: Did the man see the bananas in Luanda?
+            Grade: 1
+    Part b:
+        16:
+            Classification: Type 2
+            LLM Answer: ŋgáʃíkà? / ŋgáʃíkà nì?
+            Real Answer: ŋgáʃíká
+            Grade: 1
+        17:
+            Classification: Type 2
+            LLM Answer: mútù wásáŋgá múlóʒì nì dìkámbá múkìtándà.
+            Real Answer: mútú mwásáŋgá múlóʒì nì dìkámbà mùkìtándà
+            Grade: 1
+        18:
+            Classification: Type 2
+            LLM Answer: djálá djámí djámónà dìkúŋgù.
+            Real Answer: djálá djámí djámónà dìkúŋgù
+            Grade: 2
+        19:
+            Classification: Type 2
+            LLM Answer: mùlwándá mwálà álóʒì. / álóʒì álà mùlwándà.
+            Real Answer: mùlwándà mwálà àlóʒì; àlóʒí álà mùlwándà
+            Grade: 2
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: "the collection of all villages"
+            Real Answer: big group of villages
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: laradi - men, people
+            Real Answer: laradi — man
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: lavatkonuna - many big spirits
+            Real Answer: lavatkonuna — big branch
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: laxantoonan - many spirits
+            Real Answer: laxantoonan — many spirits
+            Grade: 2
+        4:
+            Classification: Type 2
+            LLM Answer: levengkatli - eyes
+            Real Answer: levengkatli — eyes
+            Grade: 2
+        5:
+            Classification: Type 2
+            LLM Answer: loxot - part of a place
+            Real Answer: loxot — place
+            Grade: 1
+        6:
+            Classification: Type 2
+            LLM Answer: lubungkavus - group of white men
+            Real Answer: lubungkavus — group of white men
+            Grade: 2
+        7:
+            Classification: Type 2
+            LLM Answer: luvaroos - two big vines
+            Real Answer: luvaroos — two big vines
+            Grade: 2
+    Part c:
+        8:
+            Classification: Type 2
+            LLM Answer: peve
+            Real Answer: leveve
+            Grade: 1
+        9:
+            Classification: Type 2
+            LLM Answer: lataamang
+            Real Answer: leventaamang
+            Grade: 1
+        10:
+            Classification: Type 2
+            LLM Answer: lavanga
+            Real Answer: laxampanga
+            Grade: 1
+        11:
+            Classification: Type 2
+            LLM Answer: lurubuno
+            Real Answer: luvuttubuno
+            Grade: 1
+        12:
+            Classification: Type 2
+            LLM Answer: luxaleng
+            Real Answer: luxonaleng
+            Grade: 1
+        13:
+            Classification: Type 2
+            LLM Answer: luuna
+            Real Answer: lengkonuna
+            Grade: 0
+        14:
+            Classification: Type 2
+            LLM Answer: lemparuuna
+            Real Answer: lempatkonuna
+            Grade: 1
+
+Total Score: 31/61

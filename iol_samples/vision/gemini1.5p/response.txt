@@ -1,0 +1,90 @@
+**Problem 1: Georgian Countries**
+
+a. The untranslated countries are **Argentina** and **Chile**.
+
+**Problem 4: Japanese Braille**
+
+a.  The key insight is that the Braille characters are based on hiragana, with a consistent shift. If you arrange the Roman letters of the given words in alphabetical order, you can deduce which Braille character corresponds to which hiragana and match the words:
+
+* **atari:**  f.
+* **haiku:** h.
+* **katana:** a.
+* **kimono:** b.
+* **koi:** e.
+* **sake:** c.
+
+
+b.  Using the same shift pattern:
+
+* g. **sushi**
+* d. **tempura**
+
+c. 
+
+* **samurai:**  The Braille characters would be the same as for "kimono," but with an additional character for "sa" at the beginning.
+* **miso:** The Braille characters would be the same as for "koi," but with "mi" replacing "ko" at the beginning, and an additional character for "so" at the end.
+
+**Problem 11: Inuktitut Numerals**
+
+This problem requires the image of the Inuktitut numeral system to solve.  Without that image, it's impossible to provide the answers. Please provide the image of the table.
+
+**Problem 13: Basque Kinship**
+
+a. 
+
+* Top left: **Felix**
+* Top middle: **Ines**
+* Top right: **Miren**
+* Bottom left: **Kontxi**
+* Bottom middle: **Andres**
+
+
+b. Kontxi is **female**. The problem states "Monika Kontxiren ahizpa da," which translates to "Monika is Kontxi's sister."  Sisters are female.
+
+
+c.
+
+1. Kontxi **Monikaren** ahizpa da. (Kontxi is Monika's sister.)
+2. Inma eta Manu Iboneren **seme-alabak** dira. (Inma and Manu are Ibone's children.)
+3. Ibone Andresen **arreba** da. (Ibone is Andres's sister.)
+4. Manu Inmaren **anaia** da. (Manu is Inma's brother.)
+5. Kontxi Mikelen **emaztea** da. (Kontxi is Mikel's wife.)
+6. Emilio **Mirenen** senarra da. (Emilio is Miren's husband.)
+
+
+**Problem 15: Manam**
+
+a.
+
+* **A:** Tola
+* **B:**  Pita
+* **C:** Sala
+* **D:** Onkau
+* **E:** Sulung
+
+
+b.  You need to establish the meaning of the directional words based on the given locations.  Without further information about the Manam language, this part can't be definitively solved. Please provide a glossary of terms or more examples.
+
+**Problem 17: Aymara**
+
+a.  First, you need to understand the number and size words:
+
+* *Mä*: one
+* *Paya*: two
+* *Kimsa*: three
+* *challwa*: fish
+* *hach'a*: big
+
+Then, analyze the sentences:
+
+1. "One big fish": **b**
+2. "Three big fish": **e**
+3. "One fish with one big fish": **f**
+4. "One big fish with three fish": **c**
+5. "Two fish": **d**
+6. "One fish with two fish": **a**
+7. "Three fish with two fish": **g**
+
+Fisherman **g** is lying, as they claim to have caught five fish total, but the image shows only four.
+
+b. The image shows one large fish and two small fish. The Aymara sentence would be: "Mä hach'a challwa paya challwallampiwa." (One big fish with two fish.)

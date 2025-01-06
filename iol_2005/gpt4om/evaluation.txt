@@ -1,0 +1,208 @@
+Problem 1:
+    Part a:
+        16:
+            Classification: Type 2
+            LLM Answer: There is a good corn.
+            Real Answer: There is no good corn.
+            Grade: 1 (partially right)
+        17:
+            Classification: Type 2
+            LLM Answer: Is there music at the party?
+            Real Answer: Will there be music at the party?
+            Grade: 1 (partially right)
+        18:
+            Classification: Type 2
+            LLM Answer: What do you have in Mexico today?
+            Real Answer: What will there be in Mexico today?
+            Grade: 1 (partially right)
+        19:
+            Classification: Type 2
+            LLM Answer: There will be a talk at the Tzotzil school tomorrow.
+            Real Answer: There will soon be a talk at the Tzotzil school in my house.
+            Grade: 1 (partially right)
+    Part b:
+        20:
+            Classification: Type 2
+            LLM Answer: Bu 'oy 'ox ta k'in lavie?
+            Real Answer: Bu 'oy k'in nax?
+            Grade: 1 (partially right)
+        21:
+            Classification: Type 2
+            LLM Answer: Ch'abal 'ox schenek' ta po'ot lavie.
+            Real Answer: Ch'abal schenek' ta p'in nax.
+            Grade: 1 (partially right)
+        22:
+            Classification: Type 2
+            LLM Answer: 'Oy 'ox lekil na po'ot.
+            Real Answer: 'Oy sbatz'i na.
+            Grade: 1 (partially right)
+        23:
+            Classification: Type 2
+            LLM Answer: Mi 'oy 'ox li Juana e ta Jobel 'ok'ob?
+            Real Answer: Mi 'oy Juana ta Jobel 'ok'ob?
+            Grade: 1 (partially right)
+        24:
+            Classification: Type 2
+            LLM Answer: Ch'abal 'ox schenek' ta po'ot na.
+            Real Answer: Ch'abal 'ox jp'in.
+            Grade: 1 (partially right)
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: sole of foot
+            Real Answer: eyeball
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: eyeball
+            Real Answer: grain
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: garment
+            Real Answer: garment
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: roof
+            Real Answer: hat
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: floor
+            Real Answer: sole of foot
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: restaurant
+            Real Answer: floor
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: hat
+            Real Answer: roof
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: grain
+            Real Answer: restaurant
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: foot
+            Real Answer: roof
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: eye
+            Real Answer: eye
+            Grade: 2
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: oyé
+            Real Answer: wic cem
+            Grade: 0
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: 11
+            Real Answer: 155
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: 30
+            Real Answer: 408
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: 918
+            Real Answer: 998
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: atlown xotlow
+            Real Answer: atlow xujplow
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: ontlow xotlow
+            Real Answer: ńiollow
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: atsatn at xotlow nopsl
+            Real Answer: ontsllowsat ńiollowxujplow
+            Grade: 0
+
+Problem 4:
+    Part a:
+        14:
+            Classification: Type 2
+            LLM Answer: the axe's head
+            Real Answer: The arrival of the axe.
+            Grade: 0
+        15:
+            Classification: Type 2
+            LLM Answer: the city's vicinity
+            Real Answer: The city's vicinity.
+            Grade: 2
+        16:
+            Classification: Type 2
+            LLM Answer: the husband's tree
+            Real Answer: The witch's husband.
+            Grade: 0
+        17:
+            Classification: Type 2
+            LLM Answer: the city witch (i.e., the witch of the city)
+            Real Answer: The city's witch.
+            Grade: 2
+    Part b:
+        18:
+            Classification: Type 2
+            LLM Answer: [òrí ìgi]
+            Real Answer: [òrí igi]
+            Grade: 1 (partially right)
+        19:
+            Classification: Type 2
+            LLM Answer: [ilé ajé]
+            Real Answer: [èlú ajé]
+            Grade: 1 (partially right)
+        20:
+            Classification: Type 2
+            LLM Answer: [ilé ìfé]
+            Real Answer: [ilé ìfé]
+            Grade: 2
+        21:
+            Classification: Type 2
+            LLM Answer: [òkà oko]
+            Real Answer: [àkè oko]
+            Grade: 1 (partially right)
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 3
+            LLM Answer: Paradigm 1 and Paradigm 2 originally belonged together.
+            Real Answer: Paradigm 1 and Paradigm 3
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 3
+            LLM Answer: Original Paradigm 1: lìep- (with falling intonation), Original Paradigm 2: rank- (with falling intonation)
+            Real Answer: Paradigm 1/3: Accents were on the root syllables for singular forms and on endings for plural forms. Paradigm 2/4: Accents were on the endings for both singular and plural forms.
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 3
+            LLM Answer: Saussure's Law states that in the evolution of Lithuanian, certain accent patterns shifted, causing distinctions where previously there were none, resulting in the splitting of each of the original paradigms into two distinct paradigms based on the type of syllable and accentuation.
+            Real Answer: Saussure's Law states that if a word had a circumflex accent on its root in the singular, the accent would shift to the ending in the plural, creating the two subgroups of paradigms.
+            Grade: 1 (answer is right but explanation wrong)
+
+Total Score: 22/74

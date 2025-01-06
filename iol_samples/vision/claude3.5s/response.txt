@@ -1,0 +1,108 @@
+I'll analyze each problem and provide solutions:
+
+Problem 1: Georgian Countries
+
+a. The untranslated countries in Georgian are:
+
+პერუ - Peru
+ურუგვაი - Uruguay
+
+This can be deduced by matching the Georgian script to the English translations provided for Brazil and comparing the patterns.
+
+Problem 4: Japanese Braille
+
+a. Matching the tenji words to their meanings:
+
+atari - d
+haiku - f
+katana - c
+kimono - e
+koi - a
+sake - b
+
+b. The words in tenji are:
+
+karate
+sushi
+
+c. Writing words in tenji:
+
+a) samurai:
+[I would need to create a tenji representation here, which I can't do in text form]
+
+b) miso:
+[I would need to create a tenji representation here, which I can't do in text form]
+
+Problem 11: Inuktitut Numerals
+
+Based on the image provided, we can deduce the following:
+
+\ represents 1
+V represents 2
+- represents 5
+W represents 10
+ꜵ (the symbol that looks like a figure 8) represents 20
+
+a. Answers in Inuktitut numerals:
+
+V\ + V\ = W (2+2=4)
+ꜵ x --- = WW- (20x3=60)
+\ꜵ - V\ = \W (18-2=16)
+- x - = V- (5x5=25)
+W - V\ = W (12-2=10)
+\V + \W = VV (12+10=22)
+V ÷ V\ = \ (4÷2=2)
+
+b. Today's date in Inuktitut numerals (assuming October 14, 2024):
+
+Day: \W (14)
+Month: \ꜵ (10)
+Year: VꜵVW (2024)
+
+Problem 13: Basque Kinship
+
+a. The blank spaces should be filled as follows:
+Left of Mikel: Ines
+Right of Mikel: Felix
+Left of Ibone: Andres
+Right of Monika: Kontxi
+
+b. Kontxi is female. This can be deduced from the sentence "Monika Kontxiren ahizpa da," where "ahizpa" means "sister" (for a female).
+
+c. Filling in the gaps:
+
+1. Kontxi Monikaren ahizpa da.
+2. Inma eta Manu Iboneren seme-alabak dira.
+3. Ibone Andresen arreba da.
+4. Manu Inmaren neba da.
+5. Kontxi Mikelen emaztea da.
+6. Emilio Mirenen senarra da.
+
+Problem 15: Manam
+
+a. The houses belong to:
+A: Sala
+B: Tola
+C: Sulung
+D: Pita
+E: Butokang
+
+b. Three sentences describing Arongo's house location:
+1. Arongo pera kana ata ieno, Pita pera kana awa ieno.
+2. Arongo pera kana auta ieno, Sulung pera kana ilau ieno.
+3. Arongo pera kana ata auta ieno, Butokang pera kana awa ilau ieno.
+
+Problem 17: Aymara
+
+a. Matching fishermen to their catch:
+1 - F (one big fish)
+2 - G (three big fish)
+3 - B (one small fish and one big fish)
+4 - D (one big fish and three small fish)
+5 - A (two small fish)
+6 - C (one small fish and two big fish)
+7 - E (This is the lie, as the image shows 4 small fish and 2 big fish)
+
+b. Describing your catch in Aymara:
+"Paya hach'a challwa kimsa challwallampiwa challwataxa."
+(Two big fish with three small fish)

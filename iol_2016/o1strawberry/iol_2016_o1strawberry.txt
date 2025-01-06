@@ -1,0 +1,133 @@
+Problem 1
+
+Filled Gaps:
+
+	•	In Kahangang hamlet:
+	•	Lamaoä’ dai’ di Palempang.
+	•	In Kombeng hamlet:
+	•	Lamaoä’ dai’ di Palempang.
+	•	In Kota hamlet:
+	•	Lamaoä’ bete’ di Bulung.
+	•	Lamaoä’ tama di Sohongang.
+	•	In Palempang hamlet:
+	•	Lamaoä’ bete’ di Bulung.
+	•	Lamaoä’ naung di Kota.
+	•	Lamaoä’ pano di Pahihuang.
+	•	In Bulung hamlet:
+	•	Lamaoä’ sau di Kota.
+	•	Lamaoä’ naung di Pikung.
+	•	In Panampo hamlet:
+	•	Lamaoä’ sau di Kota.
+	•	In Pikung hamlet:
+	•	Lamaoä’ naung di Bulung.
+	•	Lamaoä’ bete’ di Kahangang.
+	•	Lamaoä’ pano di Panampo.
+	•	In Tamonseng hamlet:
+	•	Lamaoä’ naung di Kahangang.
+	•	Lamaoä’ dai’ di Palempang.
+
+Problem 2
+
+(a) Correspondences:
+
+	1.	runtiyas ∼ G, P
+	2.	patis ∼ E, S
+	3.	harnisas ∼ A, X
+	4.	iziyanta ∼ V, T
+	5.	turpis ∼ D, N
+	6.	tarhunzas ∼ J, F
+	7.	hawis ∼ C, Q
+	8.	sanawas ∼ I, W
+	9.	nimuwizas ∼ Y, M
+	10.	zitis ∼ H, Z
+	11.	piyanti ∼ L, U
+	12.	hantawatis ∼ B, O
+	13.	istaris ∼ K, R
+
+(b) Identifications:
+
+	1.	tyis — zitis (‘man’)
+	2.	f4_ — nimuwizas (‘son’)
+
+(c) Functions of Symbols:
+
+	1.	´ — Marks vowel length or accent
+	2.	% — Represents plural or collective
+	3.	W — Syllabic “wa” sound
+	4.	t — Consonant “t”
+	5.	s — Consonant “s”
+	6.	T — Syllabic “ta” sound
+	7.	5 — Represents the syllable “tar” or “ta”
+
+Problem 3
+
+(a) Translations:
+
+	11.	The thief will steal him.
+	12.	I repaired the doors for the neighbors.
+	13.	The donkey found the dress.
+	14.	The dress gave the camel to the neighbor.
+	15.	I gave the chicken to the dogs.
+
+(b) Translations into Kunuz Nubian:
+
+	16.	Jahalgi beyyeːg ajomirra.
+	17.	Jahali waliːg argi kamiːg jaːntirsi.
+	18.	Ar magaski ajomri.
+	19.	Tirtgi magaski bijoːnsu.
+	20.	Walgi darbadki biticcirra.
+
+Problem 4
+
+(a) Correspondences:
+
+	1.	guna vaala — d. book
+	2.	ka’ik — m. spear
+	3.	ka’ikgu — f. rifle
+	4.	klawun — h. car
+	5.	laavu — c. canoe
+	6.	laavuga vi’ — l. watch (timepiece)
+	7.	laavuga — a. banana
+	8.	ni’bu — g. picture, shadow
+	9.	ni’buna vaala — j. mirror
+	10.	nyaka’ik — e. carbonated beverage, alcohol
+	11.	vi — o. ground, land
+	12.	vi’wun — i. I got
+	13.	walini’bana bâk — k. I saw
+	14.	walini’bana gu — n. to read
+	15.	walini’bana vi — b. cow
+
+(b) Translations:
+
+	1.	vaala — book
+	2.	gu — to read
+	3.	vi’ — ground, land
+
+Synonym:
+
+	•	vi’ is a synonym for vi, meaning “ground, land”. It came into use due to language evolution and possibly influence from other languages.
+
+(c) Translations into Iatmül:
+
+	1.	Pig — klawun
+	2.	Banana leaves — laavuga
+	3.	Sun — ni’bu
+	4.	White people — nyaka’ik
+
+Problem 5
+
+(a) Translations:
+
+	1.	utnhantxi — Is it in my house?
+	2.	yapp”psa — Our (1+2) field too
+	3.	yapup”psa — His field too
+
+(b) Translations into Jaqaru:
+
+	4.	yapsta — Our (1+2) cliff
+	5.	chushna — In your corner
+	6.	chushnapsa — In your corner too
+	7.	chushnt”psa — From your corner too
+	8.	aq”untxi — Is it from the cave?
+	9.	utxi — Is it the house?
+

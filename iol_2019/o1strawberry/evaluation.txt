@@ -1,0 +1,357 @@
+Based on the provided real answers and the classification, here's the grading for each problem:
+
+Problem 1:
+    Part a:
+        12:
+            Classification: Type 2
+            LLM Answer: He takes the bread and eats it.
+            Real Answer: She took the bread and ate it.
+            Grade: 1 (partially right)
+        13:
+            Classification: Type 2
+            LLM Answer: He will drink and will go away.
+            Real Answer: She comes and we go away.
+            Grade: 0 (completely wrong)
+        14:
+            Classification: Type 2
+            LLM Answer: You sing and will hear.
+            Real Answer: They sing and she hears.
+            Grade: 1 (partially right)
+        15:
+            Classification: Type 2
+            LLM Answer: We will hear the dog and they will get up.
+            Real Answer: They will hear the dog and will get up.
+            Grade: 1 (partially right)
+        16:
+            Classification: Type 2
+            LLM Answer: He will see the man and will see the dog.
+            Real Answer: I will see the fish and you(sg) will see the man.
+            Grade: 0 (completely wrong)
+        17:
+            Classification: Type 2
+            LLM Answer: I saw the fish and ate it.
+            Real Answer: He sees the water and I drink it.
+            Grade: 0 (completely wrong)
+    Part b:
+        18:
+            Classification: Type 2
+            LLM Answer: Wenenub miniib.
+            Real Answer: Wananuuwa mananiib.
+            Grade: 1 (partially right)
+        19:
+            Classification: Type 2
+            LLM Answer: Awon baan karuwa om wedmeen aneen.
+            Real Answer: Awon biina oon been.
+            Grade: 1 (partially right)
+        20:
+            Classification: Type 2
+            LLM Answer: Ambib anaana karuwa wedmoona karuwa weng wengambaraneen.
+            Real Answer: Oka ambiwa wedmene anon ye weng wengamboroon.
+            Grade: 1 (partially right)
+        21:
+            Classification: Type 2
+            LLM Answer: Wingkeewa oka karuwa wingkeewa.
+            Real Answer: Om aneneb wingkeeb.
+            Grade: 1 (partially right)
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: A. brown dog
+            Real Answer: G. white ball
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: B. black shoe
+            Real Answer: M. red hazelnut
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: C. black bear
+            Real Answer: D. white berry
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: D. white berry
+            Real Answer: A. brown dog
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: E. brown shoe
+            Real Answer: H. white manzanita bush
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: L. grass-green shirt
+            Real Answer: K. red tree
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: G. white ball
+            Real Answer: N. purple berry
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: H. white manzanita bush
+            Real Answer: I. white chair
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: N. purple berry
+            Real Answer: F. white dog
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: J. orange bear
+            Real Answer: C. black bear
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: M. red hazelnut
+            Real Answer: L. grass-green shirt
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: I. white chair
+            Real Answer: P. white deer
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: K. red tree
+            Real Answer: O. black shirt
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: P. white deer
+            Real Answer: E. brown shoe
+            Grade: 0
+        15:
+            Classification: Type 1
+            LLM Answer: C. black bear
+            Real Answer: J. orange bear
+            Grade: 0
+        16:
+            Classification: Type 1
+            LLM Answer: P. white deer
+            Real Answer: B. black shoe
+            Grade: 0
+        17:
+            Classification: Type 1
+            LLM Answer: Q. blue ball
+            Real Answer: R. yellow berry
+            Grade: 0
+        18:
+            Classification: Type 1
+            LLM Answer: R. yellow berry
+            Real Answer: Q. blue ball
+            Grade: 0
+    Part b:
+        19:
+            Classification: Type 1
+            LLM Answer: S. canary
+            Real Answer: V. milk
+            Grade: 0
+        20:
+            Classification: Type 1
+            LLM Answer: T. coffee bean
+            Real Answer: W. alder tree
+            Grade: 0
+        21:
+            Classification: Type 1
+            LLM Answer: V. milk
+            Real Answer: X. wild iris
+            Grade: 0
+        22:
+            Classification: Type 1
+            LLM Answer: U. blood
+            Real Answer: T. coffee bean
+            Grade: 0
+        23:
+            Classification: Type 1
+            LLM Answer: W. alder tree
+            Real Answer: U. blood
+            Grade: 0
+        24:
+            Classification: Type 1
+            LLM Answer: X. wild iris
+            Real Answer: Y. sky
+            Grade: 0
+        25:
+            Classification: Type 1
+            LLM Answer: Y. sky
+            Real Answer: S. canary
+            Grade: 0
+    Part c:
+        26:
+            Classification: Type 1
+            LLM Answer: Hazelnut
+            Real Answer: grass
+            Grade: 0
+        27:
+            Classification: Type 2
+            LLM Answer: Blood dog (Unlikely; perhaps "red dog")
+            Real Answer: black ball
+            Grade: 0 (completely wrong)
+        28:
+            Classification: Type 2
+            LLM Answer: Black berry
+            Real Answer: red dog
+            Grade: 0 (completely wrong)
+        29:
+            Classification: Type 2
+            LLM Answer: Yellow berry
+            Real Answer: reddish-brown dog
+            Grade: 0 (completely wrong)
+    Part d:
+        30:
+            Classification: Type 2
+            LLM Answer: sʼoktoy noʼoy
+            Real Answer: luuehlson' puuek
+            Grade: 0 (completely wrong)
+        31:
+            Classification: Type 2
+            LLM Answer: sʼerkterʼery pyaapʼ or luuehlsonʼ pyaapʼ
+            Real Answer: muenchey no'oy
+            Grade: 0 (completely wrong)
+        32:
+            Classification: Type 2
+            LLM Answer: skoyon nerhpery
+            Real Answer: tegee'n rohkuen
+            Grade: 1 (partially right)
+        33:
+            Classification: Type 2
+            LLM Answer: perkeryerh slekwoh
+            Real Answer: lo'ogar' tepoo
+            Grade: 0 (completely wrong)
+
+Problem 3:
+    Part a:
+        1-34:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: Provided
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: Not provided
+            Real Answer: Provided
+            Grade: 0 (completely wrong)
+    Part c:
+        EE-JJ:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: Provided
+            Grade: 0
+    Part d:
+        KK-NN:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: Provided
+            Grade: 0
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: North: ɛtɛtaleŋa, Coast: ɛtaleŋaleŋa
+            Real Answer: North: ɛtaŋleŋa, Coast: ɛtaleleŋa
+            Grade: 1 (partially right)
+        2:
+            Classification: Type 2
+            LLM Answer: North: jajaga, Coast: jagajaga
+            Real Answer: North: jagjaga, Coast: jajaga
+            Grade: 1 (partially right)
+        3:
+            Classification: Type 2
+            LLM Answer: North: gasgasírana, Coast: gasígasírana
+            Real Answer: North: garsírana, Coast: gasirasírana
+            Grade: 1 (partially right)
+        4:
+            Classification: Type 2
+            LLM Answer: North: dardaramota, Coast: daradaramota
+            Real Answer: North: daratmota, Coast: daramotamota
+            Grade: 1 (partially right)
+        5:
+            Classification: Type 2
+            LLM Answer: North: pɔwpɔwna, Coast: pɔpɔwna
+            Real Answer: North: pɔwpɔwna, Coast: pɔwpɔwna
+            Grade: 1 (partially right)
+        6:
+            Classification: Type 2
+            LLM Answer: North: ɛrɛrtɔpa, Coast: ɛrtɔptɔpa
+            Real Answer: North: ɛrtɔptɔpa, Coast: ɛrtɔpatɔpa
+            Grade: 1 (partially right)
+        7:
+            Classification: Type 2
+            LLM Answer: North: dadabuka, Coast: dabukabuka
+            Real Answer: North: dakbuka, Coast: dabubuka
+            Grade: 1 (partially right)
+        8:
+            Classification: Type 2
+            LLM Answer: North: ŋuŋŋuŋim, Coast: ŋuŋiŋim
+            Real Answer: North: ŋuŋuŋim, Coast: ŋuŋuŋim
+            Grade: 1 (partially right)
+        9:
+            Classification: Type 2
+            LLM Answer: North: igígɔ́ŋ, Coast: igɔ́ŋgɔ́ŋ
+            Real Answer: North: iŋgɔ́ŋ, Coast: igɔ́ŋgɔŋ
+            Grade: 1 (partially right)
+
+Problem 5:
+    Part a:
+        16:
+            Classification: Type 2
+            LLM Answer: The day after tomorrow is Bvusɔw.
+            Real Answer: Bvusɔw is the day after tomorrow.
+            Grade: 2 (completely right)
+        17:
+            Classification: Type 2
+            LLM Answer: I will hear the yam at the market.
+            Real Answer: Today, I will see the yam.
+            Grade: 1 (partially right)
+        18:
+            Classification: Type 2
+            LLM Answer: He heard that they saw us on Bvumbon.
+            Real Answer: On Bvumbon, he saw us.
+            Grade: 1 (partially right)
+        19:
+            Classification: Type 2
+            LLM Answer: We will find the market tomorrow on Bvuzhi.
+            Real Answer: On Bvuzhiden, we will come to the market.
+            Grade: 1 (partially right)
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: Bvutfu, Bvumbon, Bvusɔw, Bvuzhi, Bvuŋka, Bvuŋkaden
+            Real Answer: Bvutfu, Bvuŋka, Bvuzhi, Bvukema, Bvuŋkaden, Bvuzhiden, Bvusɔw, Bvumbon
+            Grade: 0
+    Part c:
+        20:
+            Classification: Type 2
+            LLM Answer: wɔ̀ nǔ me fí dìɛ̀msɛ̌n bvúsɔ̀w.
+            Real Answer: me ncí nɔ̂ː nfı ᷅ dìɛ̀msɛ̌n bvúsɔ̀w.
+            Grade: 1 (partially right)
+        21:
+            Classification: Type 2
+            LLM Answer: cɔ̌ŋ tɔ̀ nɔ̂ː kèŋkfǔ lé.
+            Real Answer: cɔ̌ŋ nɔ̂ː cɔ᷅ŋ kèŋkfǔ.
+            Grade: 1 (partially right)
+        22:
+            Classification: Type 2
+            LLM Answer: Bvûŋka᷆ːde᷆n nǔ me ŋgéː nyɛ́n mutù.
+            Real Answer: me nú nyúː nyów mutù bvûŋka᷆ːde᷆n.
+            Grade: 1 (partially right)
+        23:
+            Classification: Type 2
+            LLM Answer: wvù bɛ̂ː kwɔ᷆ːn bóy lě dìɛ̀msɛ̌n.
+            Real Answer: kwɔ᷆ːn nǔ géː yó dìɛ̀msɛ̌n ɛ̀bɛ̀n.
+            Grade: 1 (partially right)
+        24:
+            Classification: Type 2
+            LLM Answer: dìɛ̀msɛ̌n mbɛ̂ː yɛ᷅n wɔ̀.
+            Real Answer: dìɛ̀msɛ̌n bɛ̂ː yɛ᷅n wɔ̀ lě ɛ̀bɛ̀n.
+            Grade: 1 (partially right)
+
+Total Score: 32/106

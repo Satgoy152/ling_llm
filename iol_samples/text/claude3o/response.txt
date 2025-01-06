@@ -1,0 +1,319 @@
+Here are the solutions to the computational linguistics problems:
+
+Problem 2 - Ancient Greek
+
+a. Matching:
+A-1, B-2, C-3, D-4, E-5, F-6, G-7, H-8
+
+b. Translations:
+a) hoi tōn emporōn oicoi
+b) hoi tu dulu onoi
+
+The key observations are:
+- The genitive case is marked by -u or -ōn endings 
+- The definite article ho/hoi agrees in case with the following noun
+- Nouns referring to people (cyrios, emporos, adephos, etc.) are masculine
+- Nouns referring to things (oicos, onos) are masculine or neuter
+
+Problem 3 - Aragonese
+
+a. Missing plurals:
+concordaus
+chicolatz
+chuntas
+eclixes
+ferfetz
+
+Key observations:
+- Plurals are formed by adding -s
+- If the singular ends in a consonant, an epenthetic vowel is added before -s
+  - -et → -etz
+  - -at → -atz
+  - -au → -aus
+- Vowel changes may occur in the stem (e.g. bal - bals)
+
+Problem 5 - Lalana Chinantec 
+
+a. li:ʔ means 'beautiful'
+b. ro:h means 'ripe'
+
+c. Translations into Lalana Chinantec:
+1) kalaʤö mo:h ne kwa:
+2) li:ʔ kalaro:h kwɨ: kya ne 
+
+d. Translations into English:  
+1) The ripe corn turned out well
+2) The beautiful corn grew
+
+Key observations:
+- Adjectives precede nouns
+- li:ʔ 'beautiful' and ro:h 'ripe' are adjectives based on their position
+- ne indicates 'well' and kya indicates 'beautifully' based on the translations
+- Possessive 'my' is indicated by kya after the noun
+
+Problem 6 - Molistic
+
+a. You would likely hear:
+b) The singer was not only molistic but also cluvious. 
+
+Molistic and cluvious seem to be positive qualities that can describe people.
+
+b. Qualities to look for in a person:
+a) blitty
+c) sloshful
+
+Blitty and sloshful have positive connotations based on the examples. Weasy and frumsy seem to be more negative qualities.
+
+The made-up words make it challenging to determine meaning with certainty, but the examples provide clues about positive vs. negative connotations and which words are used to describe people.
+
+Problem 7 - Persian
+
+a. Translations into English:
+1) The stool under the table
+2) The book under the bookcase
+
+b. Translations into Persian:  
+1) sang zir-e āb
+2) ğābeğ zir-e deraxt
+
+Key observations:
+- zir-e is used for 'under' when the object is touching/supported by the landmark 
+- pāin-e is used for a more general 'under/below' relation
+- The preposition follows the landmark noun
+
+Problem 8 - Kazakh
+
+a. Matching and fill-in-the-blanks:
+a-ii.  one and five - bir men bes  
+b-iii. one and eight - bir men segiz
+c-viii. three and two - üš pen eki
+d-vii. four and seven - tört pen žeti
+e-v. seven and fifty - žeti men elüw
+f-i. eight and fifty - segiz ben elüw 
+g-ix. thirteen and thirty - on üš pen otız
+h-vi. thirty and two - otız ben eki
+i-iv. fifty-two and ten - elüw eki men on
+
+b. Translations into Kazakh:
+1. bes pen otız segiz  
+2. on men tört
+3. žeti men elüw üš
+4. otız segiz ben bes
+
+Key observations:
+- Numbers 1-10 have unique words
+- Decades (20, 30, etc.) have unique words 
+- Other numbers are formed by combining the decade and unit words
+- 'and' is men with single digit numbers, ben with decades
+- The order is smaller number + 'and' + larger number
+
+Problem 9 - Japanese Chess
+
+a. Filled in names:
+
+Initial value	        Promoted value
+1. hashiryū "Running Stag"	⟹ honroku hashiryū
+2. ugun "Right Army"	    ⟹ tōshō "Sword General" 
+3. gyūhei "Ox Soldier"	    ⟹ gyūshō "Ox General"
+4. ugun "Right Army"	    ⟹ ugun tōshō "Right Sword General"
+5. gyūshō "Ox General"	    ⟹ hongyū gyūshō "Dashing Ox General"  
+6. kyūhei "Bow Soldier"	    ⟹ kyūshō "Bow General"
+7. kisho "Wood General"	    ⟹ honki kisho "Dashing Wood General"
+8. dohei "Crossbow Soldier"	⟹ doshō "Crossbow General"  
+9. kiba "Horseback"	        ⟹ honba "Dashing Horse"
+10. usa "Left Chariot"	    ⟹ sagun usa "Left Army Chariot"
+11. bahei "Horse Soldier"	⟹ sōba "Running Horse"  
+12. sōyū "Running Bear"	    ⟹ honyū "Dashing Bear"
+13. tonshō "Pig General"	⟹ honton tonshō "Dashing Pig General"
+14. tesshō "Iron General"	⟹ hakuzō "White Elephant"
+15. sagun "Left Army"	    ⟹ sagun "Left Army"
+16. usha "Right Chariot"	⟹ utessha "Right Iron Chariot"
+17. rōhei "Wolf Soldier"	⟹ honrō "Dashing Wolf"  
+18. sekishō "Stone General"	⟹ hakuzō "White Elephant"
+
+Key observations:
+- hei means "Soldier", shō means "General"
+- Promoted pieces gain the prefix hon- "Dashing"
+- Left and right armies have corresponding pieces
+- Animals like stag, bear, horse, elephant are used in names
+- Promoted generals take on more grandiose animal names
+
+Problem 10 - Tupi-Guarani
+
+a. Filled in words:
+
+| English       | Tupinambá     | Guaraní Mbya |
+|---------------|---------------|--------------|  
+| boss          | ubixab        | uvixá        |
+| rib           | arukang       | arukã        |
+| to overcome   | opuan         | opuã         | 
+| peanut        | mandubi       | manduvi      |
+| to beat       | petek         | pete         |
+| to hear       | senub         | hendu        |
+| red           | pyranga       | pytã         |
+| lizard        | teju          | teju         |
+| I say         | a'é           | há'e         |
+| beautiful     | porang        | porã         |
+| mouth         | juru          | juru         |
+| half          | ku'a          | ku'a         |  
+| wood          | ybyrá         | yvyrá        |
+| you stay      | erepytá       | erepytá      |
+| high          | ybaté         | yvaté        |
+| you have      | ererekó       | ereké        |  
+| jaguar        | jaguar        | jagua        |
+| to want       | potár         | potá         |
+
+b. Matching cities with meanings:
+
+1. Ibiúna (SP) - (j) black soil
+2. Ibiporanga (SP) - (m) beautiful land  
+3. Iúna (ES) - (k) black river
+4. Tijuípe (BA) - (d) lizard river
+5. Pindamonhangaba (SP) - (c) place for producing fishing hooks
+6. Jacarecoara (MA) - (i) alligator's/yacare's burrow
+7. Ibitinga (SP) - (a) white soil
+8. Jericoaquara (CE) - (f) turtle's burrow
+9. Ipiranga (PR) - (e) red river
+10. Tijuaçu (BA) - (n) big lizard
+11. Itaipú (PR) - (g) sound the water does in the rock
+12. Itatinga (SP) - (o) white rock 
+13. Itauçu (GO) - (h) great rock
+14. Pirajuí (SP) - (l) fish of the yellow river
+15. Iguaçu (PR) - (b) great river
+
+Key observations:
+- Sound correspondences between Tupinambá and Guaraní, e.g. b-v, r-t 
+- Compounds are formed by combining roots
+- City names incorporate natural features like soil color, animals, rivers
+- Specific suffixes like -úna (black), -tinga (white), -açu/uçu (big)
+
+Problem 12 - Basque Numbers
+
+a. Filled in gaps:
+lau × bost = hogei
+lau × hamar = berrogei
+
+b. In figures:  
+(1) laurogeita hamahiru = 93
+(2) hirurogei = 60
+
+c. In Basque:
+(1) 39 = hogeita hemeretzi  
+(2) 77 = hirurogeita hamazazpi
+(3) 80 = laurogei
+
+Key observations:
+- Numbers 1-10 have unique words
+- Decades are formed by multiplying the unit and ten (hogei = 2 × 10, hirurogei = 3 × 20)  
+- In between numbers use the decade plus the unit (hogeita bat = 20 + 1)
+- Higher numbers string together decades and units (laurogeita hamahiru = 4 × 20 + 13)
+
+Problem 14 - Icelandic Kinship
+
+a. The older descendant of an immigrant is Ingimundur Sigurðarson Bergmann.
+
+b. Kristín Guðrúnardóttir Aronsdóttir has no grandsons/granddaughters at the party.
+
+c. Viktor had one child (Viktoría Viktorsdóttir).
+
+d. Steinunn had two children (Margret Steinunnardóttir Jakobsdóttir and Daniel Steinunnarson Đorarinssonar).
+
+e. Rakel's son who didn't inherit any of her surnames is Jón Oddsson Bergmann.
+
+f. Five possibilities for Eva and Christian's son:
+- Guðmundur Christiansson Evasson 
+- Guðmundur Christiansson Kvaransson
+- Guðmundur Evasson Christiansson
+- Guðmundur Kvaransson Christiansson  
+- Guðmundur Kvaran Christiansson
+
+g. Two possibilities for Steinunn's daughter with Björn Annasson:
+- Guðrún Steinunnardóttir Björnsdóttir
+- Guðrún Björnsdóttir Steinunnardóttir
+
+Key observations:
+- Patronymic naming system - father's first name + son/dóttir
+- Some people have matronymic names from their mother
+- Wives do not take husband's surname
+- Surnames can be passed down as additional "middle names"  
+- In a patronymic, the genitive case of the father's name is used
+
+Problem 16 - Guaraní Verbs
+
+a. Translations into English:
+(1) akaruma - I was eating  
+(2) ojupita - He will be waking up
+(3) ndavo'omo'ãi - I will not be taking
+(4) napekororõi - You are not crying 
+(5) ndapyhyima - You were not catching/taking
+
+b. Translations into Guaraní:
+(1) napembokapui - You are not shooting
+(2) ndojapuraheiri - He is not singing  
+(3) jakaru'ãta - We will be eating
+(4) ndajapurahei'ãmo'ãi - I will not be singing
+
+Key observations:
+- Prefixes indicate person/number: a- (I), ja- (we), o- (he), pe- (you pl.) 
+- Negation is indicated by circumfixes: nd-_-i (present), nd-_-ma (past), nd-_-mo'ã (future)
+- Future tense is indicated by -ta (affirmative) or -mo'ã (negative)
+- Past tense is indicated by -ma (after the root in affirmative, in the negation circumfix in negative)
+
+Problem 18 - Toki Pona
+
+a. Associations:
+kiwen suno jelo - gold
+tomo tawa telo - boat
+jan Powi - Boris
+ilo suno - lantern
+telo jelo - piss 
+jan ilo - robot
+jan toki - prophet
+supa lape - bed
+supa moku - dinner table
+ma tomo - city
+wile moku - hungry
+tawa - movement 
+nasin linja - orthodoxy
+wile pona - well-intentioned
+telo kiwen - ice
+lipu toki - book
+wile lawa - dominant
+linja lawa - hair
+tomo moku - restaurant
+linja kiwen - thorn
+
+b. Translations of simple words:
+kiwen - hard, stone
+suno - sun
+jelo - yellow 
+tomo - house, building
+tawa - to move, movement
+telo - water, liquid
+jan - person
+Powi - Boris
+ilo - tool, machine
+lape - to sleep
+moku - to eat, food
+ma - land, earth
+wile - to want, need 
+nasin - way, doctrine
+pona - good, simple
+lipu - document, paper
+lawa - head, mind
+linja - long and flexible thing
+
+c. Literal translation of Toki Pona:
+"Language of Good"
+
+toki = language, to speak
+pona = good, simple
+
+Key observations:
+- Words are often compounds of simple roots
+- Nouns don't inflect for number  
+- Adjectives follow nouns
+- Verbs are often used as nouns too
+- Word order is Subject-Verb-Object
+
+The solutions demonstrate the key techniques in computational linguistics such as identifying morphological patterns, syntactic structures, and semantic clues to decipher unfamiliar languages. Comparisons between related languages and literal translations of compounds also provide valuable insights.

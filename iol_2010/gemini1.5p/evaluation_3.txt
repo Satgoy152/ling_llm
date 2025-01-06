@@ -1,0 +1,114 @@
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: 
+            Real Answer: 
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 0
+        5: 
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 1
+        7:  
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 0
+        8:      
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 1
+        9:    
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 0
+        10:   
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 1
+        11:  
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer:
+            Real Answer:
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer:
+            Real Answer:
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer:
+            Real Answer:
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer:
+            Real Answer:
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer:
+            Real Answer:
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer:
+            Real Answer:
+            Grade: 1

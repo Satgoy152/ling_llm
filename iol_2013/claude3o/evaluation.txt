@@ -1,0 +1,249 @@
+I understand. I'll grade the LLM's answers based on the provided rubric and classifications, comparing them to the real answers you've given. I'll follow the output format you specified, grading each subquestion individually.
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: mugaóumu
+            Real Answer: mugaóumu
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: waNalgu
+            Real Answer: waNa:lgu
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: baman
+            Real Answer: bama:n
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: buñabi
+            Real Answer: buña:bi
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: maéu:rmuéay
+            Real Answer: maéurmuéay
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: muéamni
+            Real Answer: muéa:mni
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: muyubarani
+            Real Answer: muyubara:n
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: mugaóumu:gu
+            Real Answer: mugaóugu
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: bimbi
+            Real Answer: bimbi
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: maéu:m
+            Real Answer: maéu:rmu
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: wagu:gimbal
+            Real Answer: wagu:éagimbal
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: éudu:luni
+            Real Answer: éuduluni
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: baéigal
+            Real Answer: baéi:gal
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: waNalgimbal
+            Real Answer: waNalgimbal
+            Grade: 1
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: -nime = wooden, joqo- = horse/box, saan- = deer feed, -cohoje = nose, johu- = bird, ile- = gunshot/Yakut knife, -doŋoj = thunder, -møŋer = muzzle/case, aarii- = nose/rifle/herd, uo- = Yakut, -dawur = knife/bird, -l = bag/nest
+            Real Answer: ilennime (herd of deer), joqonnime (wooden house), saancohoje (wooden knife), johudawur (nose case), ilenlegul (deer feed), cireme (bird), johul (nose), aariinmøŋer (gunshot), joqodile (horse), møŋer (thunder), ciremennime (nest), joqoncohoje (Yakut knife), saadoŋoj (wooden box), uoduo (grandchild), oŋoj (bag), aariinjohul (rifle's muzzle), uodawur (cradle), joqol (Yakut person)
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: aarii
+            Real Answer: aarii
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: aariidoŋoj
+            Real Answer: aariidoŋoj
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: ciremedawur
+            Real Answer: ciremedawur
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: ile
+            Real Answer: ile
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: johudewce
+            Real Answer: johudewce
+            Grade: 1
+        6:
+            Classification: Type 1
+            LLM Answer: legul
+            Real Answer: legul
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: saal
+            Real Answer: saal
+            Grade: 1
+        8:
+            Classification: Type 1
+            LLM Answer: saannime
+            Real Answer: saannime
+            Grade: 1
+        9:
+            Classification: Type 1
+            LLM Answer: uo
+            Real Answer: uo
+            Grade: 1
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: cuojohudawur
+            Real Answer: cuoncireme
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: saancohojeewce
+            Real Answer: johunmøŋer
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: ilenlewce
+            Real Answer: cohojedewce
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: aariijohuljohul
+            Real Answer: legudoŋoj
+            Grade: 0
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: [1Pa.ai.bi]
+            Real Answer: [Pa.1ai.bi]
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: [1Paa.pi.si]
+            Real Answer: [1Paa.pi.si]
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: [1Pi.tii.Pi.si]
+            Real Answer: [Pi.1tii.Pi.si]
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: bigi
+            Real Answer: bigi
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: kagahoaogii
+            Real Answer: kagahoaogii
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: kaibai
+            Real Answer: kaibai
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: kapiigaiitoii
+            Real Answer: kapiigaiitoii
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: poogaihiai toio
+            Real Answer: poogaihiai toio
+            Grade: 1
+        6:
+            Classification: Type 1
+            LLM Answer: xabagi kapioxio
+            Real Answer: xabagi kapioxio
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: xabagi xogiai
+            Real Answer: xabagi xogiai
+            Grade: 1
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: The Monkey buys my ants.
+            Real Answer: The Monkey is buying my ants.
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: The demons will return to the women's pupil.
+            Real Answer: The demons will return to the women's pupil.
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: a lagahi dofoni kontuhi murino.
+            Real Answer: a-la-a-laga na-moni we kontu-no muri.
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: lagahino dakumala we adhiadhini.
+            Real Answer: a laga-hi do-kala we a-dhi-a-dhini.
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: murindo robhineku dakoalea kaleiku.
+            Real Answer: ndoke-hi-ndo robhine-hi-ku da-dumodo kalei-hi-ku.
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: molono andoandoke dokodoho.
+            Real Answer: molo-hi-no ndoke no-kodoho.
+            Grade: 0
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: 1 - lettuce, 2 - corn / cup, 3 - igloo, 4 - bed, 5 - butterfly, 6 - cat / cow / spoon
+            Real Answer: Refrigerator: A = low, B = low, C = high, D = high. Cow: A = low, B = low, C = high, D = low. Bed: A = high, B = low, C = low, D = low. Butterfly: A = low, B = low, C = low, D = high. Spoon: A = low, B = high, C = high, D = low. Cat: A = low, B = low, C = low, D = low.
+            Grade: 1
+
+Total Score: 20/44

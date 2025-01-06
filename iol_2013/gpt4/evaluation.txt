@@ -1,0 +1,247 @@
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: mugaóumu
+            Real Answer: mugaóumu
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: waNalgu
+            Real Answer: waNa:lgu
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: baman
+            Real Answer: bama:n
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: buñabi
+            Real Answer: buña:bi
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: maéurmuéay
+            Real Answer: maéurmuéay
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: muéamni
+            Real Answer: muéa:mni
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: muyubarini
+            Real Answer: muyubara:n
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: mugaóumu:gu
+            Real Answer: mugaóugu
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: bimbi
+            Real Answer: bimbi
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: maéu:m
+            Real Answer: maéu:rmu
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: wagugimbal
+            Real Answer: wagu:éagimbal
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: éudu:lumuéayni
+            Real Answer: éuduluni
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: baéigal
+            Real Answer: baéi:gal
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: waNalgimbal
+            Real Answer: waNalgimbal
+            Grade: 1
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: ilenlegul -> Yakut knife
+            Real Answer: ilennime (herd of deer)
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: aarii: nose
+            Real Answer: aarii (rifle)
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: aariidoŋoj: tip of nose
+            Real Answer: aariidoŋoj (rifle case)
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: ciremedawur: wooden house
+            Real Answer: ciremedawur (nest)
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: ile: gunshot
+            Real Answer: ile (deer)
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: johudewce: tip of bird's beak
+            Real Answer: johudewce (tip of nose)
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: legul: Yakut knife
+            Real Answer: legul (food)
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: saal: deer feed
+            Real Answer: saal (wood)
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: saannime: nose case
+            Real Answer: saannime (wooden house)
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: uo: Yakut person
+            Real Answer: uo (child)
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: cuo johudawur
+            Real Answer: cuoncireme
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: ciremeewce
+            Real Answer: johunmøŋer
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: ilenlegulewce
+            Real Answer: cohojedewce
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: aariinjohul
+            Real Answer: legudoŋoj
+            Grade: 0
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: [1Paa.i.bi]
+            Real Answer: [Pa.1ai.bi]
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: [1Paa.pi.si]
+            Real Answer: [1Paa.pi.si]
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: [1Pii.tii.xi.si]
+            Real Answer: [Pi.1tii.Pi.si]
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: bigi: ground
+            Real Answer: bigi [bi.1gi]
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: kagahoaogii: papaya
+            Real Answer: kagahoaogii [ka.ga.ho.ao.1gii]
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: kaibai: monkey
+            Real Answer: kaibai [1kai.bai]
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: kapiigaiitoii: pencil
+            Real Answer: kapiigaiitoii [ka.pii.ga.ii.to.1ii]
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: poogaihiai toio: old banana
+            Real Answer: poogaihiai toio [poo.gai.1hia.to.io]
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: xabagi kapioxio: another toucan
+            Real Answer: xabagi kapioxio [2Pa.ba.gi.ka.pio.1Pio]
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: xabagi xogiai: big toucan
+            Real Answer: xabagi xogiai [Pa.ba.1gio.gi.ai]
+            Grade: 0
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: The ants' mountain is close
+            Real Answer: andoandoke nogholi lagahiku
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: The demons will return to the woman's pupil
+            Real Answer: a dhinihi dasumuli we murindo robhinehi
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: lagahi dofoni murindo we kontuhi
+            Real Answer: a-la-a-laga na-moni we kontu-no muri
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: lagahi we adhiadhini
+            Real Answer: a laga-hi do-kala we a-dhi-a-dhini
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: murihi dhini tamandia rohibine me dhini
+            Real Answer: ndoke-hi-ndo robhine-hi-ku da-dumodo kalei-hi-ku
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: molo dofoni andoandoke
+            Real Answer: molo-hi-no ndoke no-kodoho
+            Grade: 0
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: bed: low, low, high, high
+            Real Answer: bed: A = high, B = low, C = low, D = low
+            Grade: 0
+
+Total Score: 4/38

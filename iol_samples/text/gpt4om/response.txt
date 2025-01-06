@@ -1,0 +1,266 @@
+### Problem 2: Ancient Greek
+
+#### a. Match the Ancient Greek phrase (A-H) with the corresponding English translation (1-8).
+
+1. **A. ho tōn hyiōn dulos** - 1. the slave of the sons
+2. **B. hoi tōn dulōn cyrioi** - 2. the masters of the slaves
+3. **C. hoi tu emporu adelphoi** - 3. the brothers of the merchant
+4. **D. hoi tōn onōn emporoi** - 4. the merchants of the donkeys
+5. **E. ho tu cyriu onos** - 5. the donkey of the master
+6. **F. ho tu oicu cyrios** - 6. the master of the house
+7. **G. ho tōn adelphōn oicos** - 7. the house of the brothers
+8. **H. hoi tōn cyriōn hyioi** - 8. the sons of the masters
+
+#### b. Translate into Ancient Greek:
+a) the houses of the merchants - **hoi tōn emporōn oikoi**  
+b) the donkeys of the slave - **hoi tōn dulōn onoi**
+
+---
+
+### Problem 3: Aragonese
+
+#### a. Write down the missing words.
+
+- awake: **despertau**
+- chocolate: **chicolat**
+- union: **chunta**
+- eclipse: **eclix**
+- cicada: **ferfet**
+
+---
+
+### Problem 5: Lalana Chinantec
+
+#### a. What does the word li:ʔ mean?
+**li:ʔ** means "corn."
+
+#### b. What does the word ro:h mean?
+**ro:h** means "yellow."
+
+#### c. Translate into Lalana Chinantec:
+1) The good pineapples became beautiful. - **kya porang mo:h kyä**
+2) My ripe corn has yellowed well. - **kwɨ: li:ʔ kalakwa: ne kya**
+
+#### d. Translate the following into English:
+1) mɨlaro:h kwɨ: ne - **My yellow pineapples have grown.**
+2) li:ʔ kalakwa: kwɨ: - **The corn grew beautifully.**
+
+---
+
+### Problem 6: Molistic
+
+#### a. Which of the following would you be likely to hear?
+b) The singer was not only molistic but also cluvious.
+
+#### b. What quality or qualities would you be looking for in a person?
+a) blitty  
+c) sloshful  
+d) frumsy
+
+---
+
+### Problem 7: Persian
+
+#### a. Translate into English:
+1) čahārpāye pāin-e miz - **The stool on the table.**
+2) ketāb zir-e komod - **The book under the cupboard.**
+
+#### b. Fill in the gaps in these English to Persian translations:
+1) The stone under the water sang **gor** āb.
+2) The box under the tree **sanduq** deraxt.
+
+---
+
+### Problem 8: Kazakh
+
+#### a. Match each phrase with its correct translation and supply the missing words.
+
+a. one and five - ii. bir men bes  
+b. one and eight - iii. bir _ segiz (missing word: "men")  
+c. three and two - iv. elüw eki men on  
+d. four and seven - vii. tört pen žeti  
+e. seven and fifty - v. žeti men elüw  
+f. eight and fifty - vi. otız ben _ (missing word: "elüw")  
+g. thirteen and thirty - ix. on üš pen otız  
+h. thirty and two - viii. üš _ eki (missing word: "on")  
+i. fifty-two and ten - x. elüw eki men on
+
+#### b. Translate into Kazakh:
+1. five and thirty-eight - **bes men otız segiz**  
+2. ten and four - **on men toq**  
+3. seven and fifty-three - **žeti men elüw üş**  
+4. thirty-eight and five - **otız segiz men bes**
+
+---
+
+### Problem 9: Taikyoku Shōgi
+
+#### a. Fill the gaps.
+
+1. **tōshō** “Sword General” ⟹ **kōsō**
+2. **gyūhei** “Ox Soldier” ⟹ **kōgyū** “Ox General”
+3. **kisho** “Wood General” ⟹ **mukō** “Wood General”
+4. **dohei** “Crossbow Soldier” ⟹ **yūhei** “Crossbow General”
+5. **sōba** “Horse Soldier” ⟹ **sōba** “Horse General”
+6. **sōyū** “Running Bear” ⟹ **dōyū** “Dashing Bear”
+7. **tonshō** “Pig General” ⟹ **honton** “Pig General”
+8. **tesshō** ⟹ **kōkō** “White Elephant”
+
+---
+
+### Problem 10: Tupi-Guarani
+
+#### a. Fill in the blank spaces.
+
+| English       | Tupinambá     | Guaraní Mbya |
+|---------------|---------------|--------------|
+| boss          | **tata**      | **tata**     |
+| rib           | **ribi**      | **ribi**     |
+| to overcome   | **opuan**     | **opuan**    |
+| peanut        | **mandubi**   | **mandubi**  |
+| to beat       | **petek**     | **petek**    |
+| to hear       | **senub**     | **senub**    |
+| red           | **pyranga**   | **pyranga**  |
+| lizard        | **teju**      | **teju**     |
+| I say         | **a'é**       | **a'é**      |
+| beautiful     | **porang**    | **porang**   |
+| mouth         | **pó**        | **juru**     |
+| half          | **pata**      | **ku'a**     |
+| wood          | **yvyrá**     | **yvyrá**    |
+| you stay      | **erepytá**   | **erepytá**  |
+| high          | **tupã**      | **tupã**     |
+| **water**     | **y**         | **y**        |
+| **black**     | **un**        | **ũ**        |
+| **rock**      | **ita**       | **ita**      |
+| **soil**      | **ybý**       | **yvý**      |
+| **head**      | **akanga**    | **akã**      |
+| **to bring**  | **erur**      | **eru**      |
+| **to heal**   | **pueráb**    | **kuerá**    |
+| **to experiment** | **sa'ang** | **ha'ã**     |
+| **to hear**   | **endub**     | **endu**     |
+
+#### b. Match the cities in Brazil of Tupi origin with their meanings:
+1. Ibiúna (SP) - **(j) black soil**
+2. Ibiporanga (SP) - **(a) white soil**
+3. Iúna (ES) - **(l) fish of the yellow river**
+4. Tijuípe (BA) - **(d) lizard river**
+5. Pindamonhangaba (SP) - **(c) place for producing fishing hooks**
+6. Jacarecoara (MA) - **(i) alligator’s/yacare’s burrow**
+7. Ibitinga (SP) - **(h) great rock**
+8. Jericoaquara (CE) - **(m) beautiful land**
+9. Ipiranga (PR) - **(b) great river**
+10. Tijuaçu (BA) - **(k) black river**
+11. Itaipú (PR) - **(o) white rock**
+12. Itatinga (SP) - **(e) red river**
+13. Itauçu (GO) - **(f) turtle’s burrow**
+14. Pirajuí (SP) - **(g) sound the water does in the rock**
+15. Iguaçu (PR) - **(n) big lizard**
+
+---
+
+### Problem 12: Basque Numbers
+
+#### a. Fill in the gaps.
+1. lau × bost = **hogeita bi**
+2. **hogeita bi** × hamar = laurogeita hamar
+
+#### b. Write in figures:
+1. (1) laurogeita hamahiru = **43**
+2. (2) hirurogei = **30**
+
+#### c. Write out in Basque:
+1. (1) 39 = **hogeita bederatzi**
+2. (2) 77 = **hirurogeita zazpi**
+3. (3) 80 = **laurogeita**
+
+---
+
+### Problem 14: Icelandic Kinship
+
+#### a. Among the participants, who is the older descendant of an immigrant?
+**Gunnar Gunnarsson** is likely the older descendant of an immigrant.
+
+#### b. Which of the sons/daughters of Guðrún and Jakob has no grandsons/granddaughters?
+**Margret Steinunnarson** has no grandsons/granddaughters.
+
+#### c. How many kids had Viktor?
+**Viktor Danielsson** has **two** kids.
+
+#### d. How many kids had Steinunn?
+**Steinunn Jakobsdóttir** has **one** child.
+
+#### e. Which of the sons/daughters of Rakel didn’t inherit any of her surnames?
+**Ragnheiður Jakobsdóttir** didn’t inherit any of Rakel's surnames.
+
+#### f. Write five possibilities of name and surname for the son that Eva and Christian are waiting.
+1. **Björk Christian**
+2. **Björk Guðrúnar**
+3. **Björk Jakob**
+4. **Björk Daniel**
+5. **Björk Hrafn**
+
+#### g. Give two possibilities for the name of this girl.
+1. **Steinunn**
+2. **Guðrún**
+
+---
+
+### Problem 16: Guaraní Verbs
+
+#### a. Translate into English:
+1. akaruma - **I will eat.**
+2. ojupita - **You will be waking up.**
+3. ndavo’omo’ãi - **You will not be taking.**
+4. napekororõi - **You will not be crying.**
+5. ndapyhyima - **I was not crying.**
+
+#### b. Translate into Guaraní:
+1. You are not shooting - **ndepemokapu.**
+2. He is not singing - **nó japurahei.**
+3. We will be eating - **ñamenda.**
+4. I will not be singing - **ndañapuruhái.**
+
+---
+
+### Problem 18: Toki Pona
+
+#### a. Do the right associations between the words and translations.
+1. **kiwen** - **rock**
+2. **suno** - **sun**
+3. **jelo** - **yellow**
+4. **tomo** - **house**
+5. **tawa** - **movement**
+6. **telo** - **water**
+7. **jan** - **person**
+8. **Powi** - **Boris**
+9. **ilo** - **tool**
+10. **supa** - **table**
+11. **lape** - **sleep**
+12. **moku** - **eat**
+13. **ma** - **land**
+14. **wile** - **want**
+15. **nasin** - **path**
+16. **linja** - **line**
+17. **lawa** - **head**
+18. **kiwen** - **hard**
+
+#### b. Give the translation of all the simple Toki Pona words used in the compounded words and expressions of this problem.
+- **kiwen** - rock
+- **suno** - light
+- **jelo** - yellow
+- **tomo** - house
+- **tawa** - movement
+- **telo** - water
+- **jan** - person
+- **ilo** - tool
+- **supa** - surface
+- **lape** - sleep
+- **moku** - eat
+- **ma** - land
+- **wile** - want
+- **nasin** - way
+- **linja** - line
+- **lawa** - head
+
+#### c. How would you translate literally the name of the language?
+Toki Pona can be literally translated as "the language of good" or "simple language."

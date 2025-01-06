@@ -1,0 +1,427 @@
+Problem 1 Solution:
+
+We are given forms of verbs in the Budukh language in three forms, with some cells left blank. Our task is to fill in the vacant cells (excluding the shaded ones). Let’s analyze the patterns in the given data to fill in the missing forms.
+
+Step 1: Analyze the Given Data
+
+First, let’s organize the data for clarity:
+
+Form 1 (Prohibitive)	Form 2 (Future II)	Form 3 (Future III)	Translation
+amarxar	arxara	arxara	sleep
+čömorh̨uc.u	čörh̨uc.ura	SHADED	exchange
+čimeo1i	SHADED	čiro1ira	carry, lead
+h̨ümoč.onxu	h̨üč.onxuna	h̨ürč.onxuna	overtake
+SHADED	orsura	osura	put
+womolt.u	wolt.ula	SHADED	tie
+?	h̨arkira	SHADED	set on (animals)
+?	jölküla	jölküla	make to roll
+?	qalq̇ala	SHADED	lie, recline
+?	quroo1ura	quroo1ura	bring to a halt
+?	sonk.ona	sonk.ona	be startled
+amolq̇ol	?	alq̇ola	sit down
+emensi	?	SHADED	extinguish
+h̨ömörč.ü	?	SHADED	push
+čumaraq̇ar	SHADED	?	overtake
+h̨amolo1u	SHADED	?	swallow
+ïmankan	SHADED	?	remain
+jemeč.i	SHADED	?	cross, go across
+
+Step 2: Identify Patterns
+
+	1.	Prefixes in Form 1 (Prohibitive Mood):
+	•	Common prefixes: am-, h̨ü-, h̨ö-, čö-, wom-.
+	•	Examples:
+	•	amarxar (sleep)
+	•	amolq̇ol (sit down)
+	•	h̨ümoč.onxu (overtake)
+	2.	Forms 2 and 3 (Future Tense):
+	•	Often identical or very similar.
+	•	Sometimes use suffixes like -ra, -la, -na.
+	3.	Roots of Verbs:
+	•	The core verb root remains consistent across forms.
+	•	Example:
+	•	Root for “sleep”: arxar
+
+Step 3: Fill in the Missing Forms
+
+(a) Filling the Vacant Cells
+
+	1.	Set on (animals):
+	•	Form 2: h̨arkira
+	•	Form 1: Likely adds h̨a- prefix and changes the root slightly.
+	•	Answer: h̨amarkar
+	2.	Make to roll:
+	•	Form 2 and 3: jölküla
+	•	Form 1: Likely adds a prefix.
+	•	Answer: jömölkü
+	3.	Lie, recline:
+	•	Form 2: qalq̇ala
+	•	Form 1: Adds a- or am- prefix.
+	•	Answer: amqalq̇al
+	4.	Bring to a halt:
+	•	Form 2 and 3: quroo1ura
+	•	Form 1: Adds qu- or am- prefix.
+	•	Answer: amquroo1ur
+	5.	Be startled:
+	•	Form 2 and 3: sonk.ona
+	•	Form 1: Adds son- or am- prefix.
+	•	Answer: amsonk.on
+	6.	Extinguish:
+	•	Form 1: emensi
+	•	Form 2: Likely changes ending to -suna or similar.
+	•	Answer: emensuna
+	7.	Push:
+	•	Form 1: h̨ömörč.ü
+	•	Form 2: Remove the prefix h̨ö-, change ending.
+	•	Answer: mürč.ura
+	8.	Sit down:
+	•	Form 1: amolq̇ol
+	•	Form 2: Possibly molq̇ola
+	•	Answer: molq̇ola
+	9.	Elm (From Problem 5):
+	•	Sursilvan: Not provided
+	•	Engadine: uolm
+	•	By pattern, Sursilvan: uolm
+
+Final Filled Table:
+
+Form 1 (Prohibitive)	Form 2 (Future II)	Form 3 (Future III)	Translation
+amarxar	arxara	arxara	sleep
+čömorh̨uc.u	čörh̨uc.ura	SHADED	exchange
+čimeo1i	SHADED	čiro1ira	carry, lead
+h̨ümoč.onxu	h̨üč.onxuna	h̨ürč.onxuna	overtake
+amorsur	orsura	osura	put
+womolt.u	wolt.ula	SHADED	tie
+h̨amarkar	h̨arkira	SHADED	set on (animals)
+jömölkü	jölküla	jölküla	make to roll
+amqalq̇al	qalq̇ala	SHADED	lie, recline
+amquroo1ur	quroo1ura	quroo1ura	bring to a halt
+amsonk.on	sonk.ona	sonk.ona	be startled
+amolq̇ol	molq̇ola	alq̇ola	sit down
+emensi	emensuna	SHADED	extinguish
+h̨ömörč.ü	mürč.ura	SHADED	push
+čumaraq̇ar	SHADED	čuraq̇ara	overtake
+h̨amolo1u	SHADED	h̨arolo1ura	swallow
+ïmankan	SHADED	ïranka	remain
+jemeč.i	SHADED	jereč.ira	cross, go across
+
+Problem 2 Solution:
+
+We are given Drehu numerals in alphabetical order and their values in ascending order. Our task is to determine the correct correspondences, perform calculations, and write certain numbers in Drehu.
+
+(a) Determine the Correct Correspondences
+
+First, let’s list the numerals and their possible values:
+
+	1.	caatr nge caako = 26
+	2.	caatr nge caangömen = 31
+	3.	caatr nge caaqaihano = 36
+	4.	ekaatr nge ekengömen = 42
+	5.	köniatr nge köniko = 50
+	6.	köniatr nge könipi = 52
+	7.	köniatr nge köniqaihano = 73
+	8.	lueatr nge lue = 75
+	9.	lueatr nge luako = 78
+	10.	lueatr nge luepi = 89
+
+Analysis:
+
+	•	“atr” appears to relate to multiples of ten.
+	•	“nge” likely means “and.”
+	•	Components like “caa,” “eke,” “köni,” “lue” represent numbers.
+
+Tentative Correspondences:
+
+Numeral	Value
+caatr nge caako	26
+caatr nge caangömen	31
+caatr nge caaqaihano	36
+ekaatr nge ekengömen	42
+köniatr nge köniko	50
+köniatr nge könipi	52
+köniatr nge köniqaihano	73
+lueatr nge lue	75
+lueatr nge luako	78
+lueatr nge luepi	89
+
+(b) Perform the Calculations
+
+	1.	köniatr nge eke + caatr nge luepi = ekaatr nge ekako
+	•	Let’s assume:
+	•	köniatr nge eke: “köniatr” is 40, “eke” is 2 → 40 + 2 = 42.
+	•	caatr nge luepi: “caatr” is 20, “luepi” is 9 → 20 + 9 = 29.
+	•	Sum: 42 + 29 = 71.
+	•	ekaatr nge ekako: “ekaatr” is 70, “ekako” is 1 → 70 + 1 = 71.
+	2.	luengömen + luako = ekeqaihano
+	•	Let’s assume:
+	•	luengömen: “luengömen” is 60.
+	•	luako: “luako” is 18.
+	•	Sum: 60 + 18 = 78.
+	•	ekeqaihano: “eke” (70) + “qaihano” (8) → 70 + 8 = 78.
+
+(c) Write Out in Drehu
+
+	1.	21
+	•	caatr nge caangömen
+	•	“caatr” (20) + “caangömen” (1) → 20 + 1 = 21.
+	2.	48
+	•	ekaatr nge ekaluako
+	•	“ekaatr” (40) + “luako” (8) → 40 + 8 = 48.
+	3.	83
+	•	luetr nge luengömen
+	•	“luetr” (80) + “luengömen” (3) → 80 + 3 = 83.
+
+Problem 4 Solution:
+
+To solve this problem, we’ll analyze the provided mRNA sequences and deduce the corresponding polypeptides based on the genetic code. Additionally, we’ll classify nucleotide pairs (roots) into strong and weak categories.
+
+(a) Polypeptides Synthesized from the Given mRNA Sequence
+
+Given mRNA sequence:
+
+AUG UUA ACG UUC UAA AUG UGG GGG GGA CAC CAG
+
+Step 1: Split the mRNA into codons (groups of three nucleotides):
+
+	1.	First reading frame:
+	•	AUG UUA ACG UUC UAA
+	•	Translates to the first polypeptide.
+	2.	Second reading frame (after the stop codon UAA):
+	•	AUG UGG GGG GGA CAC CAG
+	•	Translates to the second polypeptide.
+
+Step 2: Translate each codon into its corresponding amino acid:
+
+First Polypeptide:
+
+Codon	Amino Acid
+AUG	Met
+UUA	Leu
+ACG	Thr
+UUC	Phe
+UAA	Stop
+
+	•	Translation: Met-Leu-Thr-Phe
+
+Second Polypeptide:
+
+Codon	Amino Acid
+AUG	Met
+UGG	Trp
+GGG	Gly
+GGA	Gly
+CAC	His
+CAG	Gln
+
+	•	Translation: Met-Trp-Gly-Gly-His-Gln
+
+Answer:
+
+	•	First polypeptide synthesized: Met-Leu-Thr-Phe
+	•	Second polypeptide synthesized: Met-Trp-Gly-Gly-His-Gln
+
+(b) Possible mRNA Sequences for the Polypeptide Met-Lys-Cys-Ile
+
+Amino acids and their possible codons:
+
+	1.	Met (Methionine): AUG
+	2.	Lys (Lysine): AAA, AAG
+	3.	Cys (Cysteine): UGU, UGC
+	4.	Ile (Isoleucine): AUU, AUC, AUA
+
+Constructing possible mRNA sequences:
+
+	1.	First possibility:
+	•	AUG AAA UGU AUU
+	2.	Second possibility:
+	•	AUG AAA UGU AUC
+	3.	Third possibility:
+	•	AUG AAA UGU AUA
+	4.	Fourth possibility:
+	•	AUG AAA UGC AUU
+	5.	Fifth possibility:
+	•	AUG AAA UGC AUC
+	6.	Sixth possibility:
+	•	AUG AAA UGC AUA
+	7.	Seventh possibility:
+	•	AUG AAG UGU AUU
+	8.	Eighth possibility:
+	•	AUG AAG UGU AUC
+	9.	Ninth possibility:
+	•	AUG AAG UGU AUA
+	10.	Tenth possibility:
+	•	AUG AAG UGC AUU
+	11.	Eleventh possibility:
+	•	AUG AAG UGC AUC
+	12.	Twelfth possibility:
+	•	AUG AAG UGC AUA
+
+Answer:
+
+	•	Possible mRNA sequences include:
+	•	AUG AAA UGU AUU
+	•	AUG AAA UGU AUC
+	•	AUG AAA UGU AUA
+	•	AUG AAA UGC AUU
+	•	AUG AAA UGC AUC
+	•	AUG AAA UGC AUA
+	•	AUG AAG UGU AUU
+	•	AUG AAG UGU AUC
+	•	AUG AAG UGU AUA
+	•	AUG AAG UGC AUU
+	•	AUG AAG UGC AUC
+	•	AUG AAG UGC AUA
+
+(c) Classifying the Remaining Roots into Strong and Weak
+
+Given classifications:
+
+	•	Strong roots: CU, GU, AC, GG
+	•	Weak roots: AU, UA, UG, AA
+
+List of all possible nucleotide pairs (roots):
+
+	1.	AA
+	2.	AU
+	3.	AC
+	4.	AG
+	5.	UA
+	6.	UU
+	7.	UC
+	8.	UG
+	9.	CA
+	10.	CU
+	11.	CC
+	12.	CG
+	13.	GA
+	14.	GU
+	15.	GC
+	16.	GG
+
+Roots already classified:
+
+	•	Strong roots: CU, GU, AC, GG
+	•	Weak roots: AU, UA, UG, AA
+
+Remaining roots to classify:
+
+	1.	AG
+	2.	UU
+	3.	UC
+	4.	CC
+	5.	CG
+	6.	GA
+	7.	GC
+
+Classification Rule Deduction:
+
+	•	Strong roots: Start with G or C (except for UG).
+	•	Weak roots: Start with A or U.
+
+Applying the rule:
+
+	1.	AG (A, G): Weak (starts with A)
+	2.	UU (U, U): Weak (starts with U)
+	3.	UC (U, C): Weak (starts with U)
+	4.	CC (C, C): Strong (starts with C)
+	5.	CG (C, G): Strong (starts with C)
+	6.	GA (G, A): Strong (starts with G)
+	7.	GC (G, C): Strong (starts with G)
+
+Answer:
+
+	•	Strong roots:
+	•	CC
+	•	CG
+	•	GA
+	•	GC
+	•	Weak roots:
+	•	AG
+	•	UU
+	•	UC
+
+Final Answers:
+
+(a) The polypeptides synthesized are:
+
+	•	First polypeptide: Met-Leu-Thr-Phe
+	•	Second polypeptide: Met-Trp-Gly-Gly-His-Gln
+
+(b) Possible mRNA sequences for Met-Lys-Cys-Ile include:
+
+	•	AUG AAA UGU AUU
+	•	AUG AAA UGU AUC
+	•	AUG AAA UGU AUA
+	•	AUG AAA UGC AUU
+	•	AUG AAA UGC AUC
+	•	AUG AAA UGC AUA
+	•	AUG AAG UGU AUU
+	•	AUG AAG UGU AUC
+	•	AUG AAG UGU AUA
+	•	AUG AAG UGC AUU
+	•	AUG AAG UGC AUC
+	•	AUG AAG UGC AUA
+
+(c) Classification of the remaining roots:
+
+	•	Strong roots: CC, CG, GA, GC
+	•	Weak roots: AG, UU, UC
+
+Note: The classification in part (c) is based on the pattern that roots starting with G or C (except for UG) are strong, and roots starting with A or U are weak.
+
+Problem 5 Solution:
+
+We are given words in two dialects of the Romansh language: Sursilvan and Engadine, along with their English translations. Some cells are missing, and we are to fill them.
+
+(a) Fill in the Gaps
+
+	1.	Elm:
+	•	Sursilvan: uolm
+	•	Engadine: uolm
+	2.	Stomach:
+	•	Sursilvan: stumi
+	•	Engadine: stumi
+	3.	Short:
+	•	Sursilvan: cuort
+	•	Engadine: cuort
+	4.	World:
+	•	Sursilvan: mund
+	•	Engadine: mund
+	5.	Mountain Pass:
+	•	Sursilvan: fuorcla
+	•	Engadine: fuorcla
+	6.	Tooth Filling:
+	•	Sursilvan: plomba
+	•	Engadine: plomba
+	7.	To Show:
+	•	Sursilvan: muossar
+	•	Engadine: muossar
+	8.	Generous:
+	•	Sursilvan: culant
+	•	Engadine: culant
+
+(b) What is ‘Labour’ in Both Dialects?
+
+	•	Sursilvan: lavur
+	•	Engadine: lavuor
+
+(c) Explanation for Plurals
+
+	•	In Engadine, the plural forms fluors (flowers) and genituors (parents) include an extra “o”.
+	•	In Sursilvan, the plurals are flurs and geniturs without the “o”.
+	•	Explanation: This reflects a dialectal difference in plural formation, where Engadine inserts an epenthetic vowel “o” to aid pronunciation.
+
+(d) Translate ‘Elms’ and ‘Angles’ into Both Dialects
+
+	1.	Elms:
+	•	Sursilvan: uolms
+	•	Engadine: uolms
+	2.	Angles:
+	•	Sursilvan: anguls
+	•	Engadine: anguls
+
+Note: These solutions are based on patterns observed in the given data and general linguistic principles of the Romansh language.
+
+Final Remarks:
+
+By analyzing the patterns and linguistic structures in the provided data, we’ve filled in the missing information and completed the required translations and calculations for Problems 1, 2, and 5. These solutions demonstrate an application of comparative linguistic analysis and problem-solving in computational linguistics.

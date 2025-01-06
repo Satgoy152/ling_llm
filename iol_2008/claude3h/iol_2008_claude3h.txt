@@ -1,0 +1,95 @@
+Here is my attempt at solving the computational linguistics problems:
+Problem 1
+(a) Transcription of the given words:
+12. gsnqo'qon: [g@s@nqōxon]
+13. tg'poq: [tg@b@q]
+14. gmu'jmin: [gm@ūjcın]
+15. emtoqwatg: [@mt@qw@tk]
+16. te'plj: [tēpljc]
+(b) Writing the given words in the Listuguj orthography:
+17. [@tp@dēs@n]: tped'sn
+18. [@mtesk@m]: amt'k'm
+19. [alapt@k]: alapt'k
+20. [g@lamen]: glamn
+Problem 2
+(a) The main rules of the dróttkvætt meter are:
+
+The first line of each distich (pair of lines) contains two words beginning with the same sound, and the first word of the second line begins with this sound as well.
+All vowels are considered to alliterate with one another and with j.
+
+(b) Filling in the gaps in stanza V:
+
+[a] (þreifsk reiddra øxa
+[b] ; knǫ́ttu spjǫ́r [c] )
+[d] bitu seggi
+[e] þjóðkonungs ferðar,
+þás ( [f] hǫlða)
+[g] hlaut [h] sigr [i] svartskyggð
+(hǫ́r vas [j] of [k] smíði)
+[l] (flugbeiddra [m] vigra).
+
+The missing words are:
+a. andskoti
+b. Gauta
+c. glymja
+d. hugfyldra
+e. ríks
+f. rymr
+g. hlaut
+h. sigr
+i. svartskyggð
+j. hœgra
+k. sǫngr
+l. svírum
+m. vigra
+Problem 3
+(a) Correspondences:
+DrehuCemuhîgaaangöne-gejëba-jiényinebéthinwöli
+(b) Possible meanings:
+
+wahnawa: 'church'
+drai: 'calendar'
+wöli: 'twilight'
+pulut: 'bed'
+
+(c) Translations from Drehu:
+
+i-bii: 'the bee'
+tusi-hmitrötr: 'book wall'
+
+Problem 4
+(a) Translations to English:
+
+caky2sm2tih: 'only above the vine'
+k2m2Nšeh: 'like a shadow'
+P2s mok: 'my corn'
+mis nd2ctaPm: 'your teeth'
+pahsunbit: 'squash'
+perolkotoyašehtaPm: 'just like for the kettle'
+
+(b) Translations to Copainalá Zoque:
+
+pokskuykotoya: 'for the chair'
+mis perol: 'with my kettle'
+koc2kšeh: 'just like a mountain'
+P2s Ngom: 'posts'
+k2m2NdaPm2sm2: 'above the shadows'
+mis kumguk: 'your town'
+
+Problem 5
+(a) Translations to English:
+
+Amaruup angatkuit takujanga: 'The wolf saw your shaman.'
+Nanuit inuuhukturmik aanniqsijuq: 'The polar bears hurt the boy.'
+Angunahuktiit aarqijuq: 'Your hunters cured (someone).'
+Ilinniaqtitsiji qukiqtait: 'The teacher shot them.'
+Qaijutit: 'You came.'
+Angunahuktimik aarqisijutit: 'You cured a hunter.'
+
+(b) Translations to Inuktitut:
+
+Angatkuup aanniqtutit: 'The shaman hurt you.'
+Ilinniaqtitsiji inuuhuktuit takujanga: 'The teacher saw the boy.'
+Amarutit ukiakhaqtut: 'Your wolf fell.'
+Qingmimik qukiqtutit: 'You shot a dog.'
+Qingmivit ilinniaqtitsijimik aanniqtanga: 'Your dog hurt a teacher.'

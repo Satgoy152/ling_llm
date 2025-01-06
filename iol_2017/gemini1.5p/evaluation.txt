@@ -1,0 +1,207 @@
+Based on the provided classification, LLM solutions, and real answers, here's the grading for each problem:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: No answer provided
+            Real Answer: 52 + 3 + 4 = 32
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: No answer provided
+            Real Answer: bākūrū bītāt = 36
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: No answer provided
+            Real Answer: ʃāāgwīnìŋ = 11
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: No answer provided
+            Real Answer: kūrū = 12
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: No answer provided
+            Real Answer: 6 = tìīmìn
+            Grade: 0
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: abang - trigger
+            Real Answer: a-bang — your (sg.) shoulder
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: amin: We cannot translate this word, as the provided vocabulary and examples don't offer enough information. We need more context or related examples.
+            Real Answer: a-min — your (sg.) nose
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: deya hebataa: "your (sg.) mother's hand" (using the pattern from "bataa hawata").
+            Real Answer: de-ya he-bataa — one's own mother's tree
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: We need more information to form this word. Abui likely has a separate word for "pig," but it's not deducible from the given data.
+            Real Answer: fe
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: deya hedekafi (following the possessive pattern)
+            Real Answer: ri-lui
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: mamaa hetama (assuming "mamaa" refers to a parent generally)
+            Real Answer: e-ya he-maama
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: tama heritama (assuming "tama" is a general word for "father")
+            Real Answer: ne-maama ha-pong
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: rièng he...? (We need the word for "ear," which is not provided).
+            Real Answer: da-wei
+            Grade: 0
+        6:
+            Classification: Type 2
+            LLM Answer: tamin (using the existing example)
+            Real Answer: ne-tama
+            Grade: 1
+
+Problem 3:
+    Part a:
+        12:
+            Classification: Type 2
+            LLM Answer: múlóʒí mwámónà ʒìtéténbwá: The sorcerer saw the stars.
+            Real Answer: múlóʒí mwámónà ʒìtéténbwá — Did the sorcerer see the stars?
+            Grade: 1
+        13:
+            Classification: Type 2
+            LLM Answer: ʒìtéténbwá ʒjálà mùdjúlù: The stars are in the sky. (Very similar to sentence 4)
+            Real Answer: ʒìtéténbwá ʒjálà mùdjúlù — There are stars in the sky.
+            Grade: 2
+        14:
+            Classification: Type 2
+            LLM Answer: ŋgákínà: I danced.
+            Real Answer: ŋgákínà — I danced.
+            Grade: 2
+        15:
+            Classification: Type 2
+            LLM Answer: djálá djámónà màhónʒò mùlwándá: The man saw the bananas in Luanda.
+            Real Answer: djálá djámónà màhónʒò mùlwándá — Did the man see the bananas in Luanda?
+            Grade: 1
+    Part b:
+        16:
+            Classification: Type 2
+            LLM Answer: ŋgáʃíkà?
+            Real Answer: ŋgáʃíká — Did I sing?
+            Grade: 1
+        17:
+            Classification: Type 2
+            LLM Answer: Mutu wásáŋgá múlóʒí ni dikámbá múkìtándà.
+            Real Answer: mútú mwásáŋgá múlóʒì nì dìkámbà mùkìtándà — The person met the sorcerer and the friend in the square.
+            Grade: 1
+        18:
+            Classification: Type 2
+            LLM Answer: Djálá djámí djámónà dìkúŋgú.
+            Real Answer: djálá djámí djámónà dìkúŋgù — My man (husband) saw the cave.
+            Grade: 2
+        19:
+            Classification: Type 2
+            LLM Answer: Mùlwándà mwálà álóʒí.
+            Real Answer: mùlwándà mwálà àlóʒì; àlóʒí álà mùlwándà — There are sorcerers in Luanda.
+            Grade: 1
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: "the whole place of villages," which figuratively translates to "the whole world."
+            Real Answer: big group of villages
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: laradi: two men (following the "lu-" prefix for two)
+            Real Answer: laradi — man
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: lavatkonuna: the whole tree (using the "lavat-" prefix)
+            Real Answer: lavatkonuna — big branch
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: laxantoonan: many spirits (using the "laxa-" prefix)
+            Real Answer: laxantoonan — many spirits
+            Grade: 2
+        4:
+            Classification: Type 2
+            LLM Answer: levengkatli: many places (using the "laxa-" prefix)
+            Real Answer: levengkatli — eyes
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: loxot: fire (singular form of "laxao")
+            Real Answer: loxot — place
+            Grade: 0
+        6:
+            Classification: Type 2
+            LLM Answer: lubungkavus: a group of white men ("lubung-" for group, "kavus" for white men)
+            Real Answer: lubungkavus — group of white men
+            Grade: 2
+        7:
+            Classification: Type 2
+            LLM Answer: luvaroos: two vines
+            Real Answer: luvaroos — two big vines
+            Grade: 1
+    Part c:
+        8:
+            Classification: Type 2
+            LLM Answer: lempeve (singular of "levempeve")
+            Real Answer: leveve
+            Grade: 1
+        9:
+            Classification: Type 2
+            LLM Answer: We need more information; we only have "loxontaamang" (part of a garden).
+            Real Answer: leventaamang
+            Grade: 0
+        10:
+            Classification: Type 2
+            LLM Answer: laxavanga ("laxa-" prefix for many)
+            Real Answer: laxampanga
+            Grade: 1
+        11:
+            Classification: Type 2
+            LLM Answer: larubuno (assuming "la-" prefix for plural)
+            Real Answer: luvuttubuno
+            Grade: 0
+        12:
+            Classification: Type 2
+            LLM Answer: lualeng ("lu-" prefix for two, "aleng" for parts of day)
+            Real Answer: luxonaleng
+            Grade: 1
+        13:
+            Classification: Type 2
+            LLM Answer: We need more information; no direct translation is available.
+            Real Answer: lengkonuna
+            Grade: 0
+        14:
+            Classification: Type 2
+            LLM Answer: We need the word for "branch" first.
+            Real Answer: lempatkonuna
+            Grade: 0
+
+Total Score: 22/61

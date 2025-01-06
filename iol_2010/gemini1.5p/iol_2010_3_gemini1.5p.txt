@@ -1,0 +1,41 @@
+**(a) Blissymbolics Correspondences**
+
+* **waist:**  symbol 5 (octagon with inward pointing arrows)
+* **active:** symbol 10 (heart with upward arrow)
+* **ill, sick:** symbol 8 (downward arrow through circle)
+* **lips:** symbol 4 (two triangles pointing at each other)
+* **activity:** symbol 3 (circle with checkmark)
+* **to blow:** symbol 6 (hatched Z with arrow)
+* **western:** symbol 1 (slanted L)
+* **merry:**  symbol 7 (curved upward arrow next to circle)
+* **to weep:** symbol 9 (downward arrow next to heart)
+* **saliva:** symbol 2 (wavy line)
+* **to breathe:** symbol 0 (L with circle above)
+
+
+**(b) Meanings of Additional Symbols**
+
+* Symbol 1: **western** (same as the first symbol in the original set)
+* Symbol 2: **saliva** (same as the second symbol in the original set)
+* Symbol 3: **feeling** (This is likely derived from the "person" indicator combined with an internal element representing emotion/sensation.)
+* Symbol 4: **opposite, against** (The angled lines seem to suggest opposition or contrary motion.)
+* Symbol 5:  **round, circular** (The circled dot likely represents an enclosed space or shape.)
+
+
+
+**(c) Writing in Blissymbolics (Hypothetical)**
+
+Blissymols are constructed logically by combining basic elements. Since we don't have a full Blissymbolics dictionary, the following are educated guesses based on the provided examples and general principles of the system.
+
+* **air:**  Probably a combination of "sky" (which we don't know) and some indicator of substance or invisibility. Perhaps a cloud symbol if one exists, or the "feeling" symbol modified to suggest something intangible.
+
+* **body (torso):**  Likely a simplified depiction of a human torso, perhaps a rectangle or rounded shape.
+
+* **to rise:** An upward arrow.  Possibly combined with the "person" indicator to show a person rising.
+
+* **east:**  The opposite of "western" (symbol 1).  Perhaps the mirrored version of the "western" symbol.
+
+* **sad:** The opposite of "merry" (symbol 7).  Perhaps a downward curving arrow by a circle, or a darkened/shaded version of the "merry" symbol.
+
+
+**Important Note:** Without a complete Blissymbols chart, these proposed constructions in (c) are speculative. The actual symbols could be different.  A comprehensive resource would be needed for accurate representation.

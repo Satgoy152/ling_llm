@@ -1,0 +1,293 @@
+## Solutions to Computational Linguistics Problems
+
+Here are the solutions to the computational linguistics problems you provided:
+
+**Problem 2: Ancient Greek**
+
+**a. Matching:**
+
+| Greek Phrase | English Translation |
+|--------------|---------------------|
+| A. ho tōn hyiōn dulos | 1. the slave of the sons |
+| B. hoi tōn dulōn cyrioi | 2. the masters of the slaves |
+| C. hoi tu emporu adelphoi | 3. the brothers of the merchant |
+| D. hoi tōn onōn emporoi | 4. the merchants of the donkeys |
+| E. ho tu cyriu onos | 5. the donkey of the master |
+| F. ho tu oicu cyrios | 6. the master of the house |
+| G. ho tōn adelphōn oicos | 7. the house of the brothers |
+| H. hoi tōn cyriōn hyioi | 8. the sons of the masters |
+
+**b. Translation:**
+
+* a) the houses of the merchants: **hoi tōn emporōn oikoi**
+* b) the donkeys of the slave: **hoi tu doulu onoi**
+
+**Problem 3: Aragonese**
+
+**a. Missing Words:**
+
+* concordau (plural): **concordaus**
+* chicolat (plural): **chicolatz**
+* chunta (plural): **chuntas**
+* eclix (plural): **eclixes**
+* ferfet (plural): **ferfetz** 
+
+**Problem 5: Lalana Chinantec**
+
+**a. Meaning of li:ʔ:** **tall**
+**b. Meaning of ro:h:** **ripe**
+
+**c. Translations into Lalana Chinantec:**
+
+* 1) The good pineapples became beautiful: **kalaʤö mo:h kwa: kya**
+* 2) My ripe corn has yellowed well: **mɨlaro:h kwɨ: ne kya**
+
+**d. Translations into English:**
+
+* 1) mɨlaro:h kwɨ: ne: **My ripe corn has yellowed.**
+* 2) li:ʔ kalakwa: kwɨ:: **The beautiful tall corn grew.**
+
+**Problem 6: Molistic**
+
+**a. Likely to Hear:** 
+**(a) Meredith is blitty and brastic.** 
+
+* Explanation: The other two options combine positive and negative qualities, which is unlikely in descriptive sentences about people.
+
+**b. Desirable Qualities:** 
+**(a) blitty**
+
+* Explanation: The context suggests "blitty" is a positive quality, while "weasy," "sloshful," and "frumsy" are presented as negative or undesirable traits.
+
+**Problem 7: Persian**
+
+**a. Translations into English:**
+
+* 1) čahārpāye pāin-e miz: **The stool on the lowest shelf in the table** (assuming "pāin-e" can refer to the lowest part).
+* 2) ketāb zir-e komod: **The book under the dresser/chest of drawers** 
+
+**b. Fill in the Gaps:**
+
+* 1) The stone under the water sang **zir-e** āb
+* 2) The box under the tree **zir-e** deraxt 
+
+* Explanation: "zir-e" consistently means "under" in the provided phrases.
+
+**Problem 8: Kazakh**
+
+**a. Matching and Missing Words:**
+
+| Phrase | Translation |
+|---|---|
+| a. one and five | ii.  bir men bes |
+| b. one and eight | iii. bir men segiz |
+| c. three and two | viii. üš pen eki |
+| d. four and seven | vii. tört pen žeti |
+| e. seven and fifty | v.  žeti men elüw |
+| f. eight and fifty | i.  segiz ben elüw |
+| g. thirteen and thirty | ix.  on üš pen otız |
+| h. thirty and two | vi.  otız ben eki |
+| i. fifty-two and ten | iv.  elüw eki men on |
+
+**b. Translations into Kazakh:**
+
+* 1. five and thirty-eight: **bes pen otız segiz**
+* 2. ten and four: **on men tört**
+* 3. seven and fifty-three: **žeti men elüw üš**
+* 4. thirty-eight and five: **otız segiz ben bes**
+
+**Problem 9: Japanese Chess**
+
+**a. Filling the Gaps:**
+
+| Initial Value | Promoted Value |
+|---|---|
+| 1. **rokuroku** “Running Stag” | honroku **“Stag King”** |
+| 2. **shōshō** “Minor General” | tōshō “Sword General” |
+| 3. gyūhei “Ox Soldier” | **gyūshō** “Ox General” |
+| 4. **ugun** “Right General” | ugun **“Right Army”** |
+| 5. **hongyū** “Ox General” | hongyū **“Great Ox General”** |
+| 6. kyūhei “Bow Soldier” | **kyūshō** “Bow General” |
+| 7. kisho “Wood General” | **daikisho** “Great Wood General” |
+| 8. dohei “Crossbow Soldier” | **doshō** “Crossbow General” |
+| 9. **keshiki** “Side Mover Horse” | **gekishō** “Dashing Horse” |
+| 10. **shasha** “Left Chariot” | **sashatō** “Left Chariot General” |
+| 11. **keima** “Horse Soldier” | sōba “Horse General” |
+| 12. sōyū “Running Bear” | **gekiyū** “Dashing Bear” |
+| 13. tonshō “Pig General” | honton **“Wild Pig General”** |
+| 14. **tessha** “Iron Chariot” | hakuzō “White Elephant” |
+| 15. **sagun** “Left Army” | sagun **“Left Great Army”** |
+| 16. **uma** “Horse” | utessha “Right Iron Chariot” |
+| 17. **ryūkō** “Running Wolf” | honrō “Dashing Wolf” |
+| 18. sekishō “Stone General” | **hakuzō** “White Elephant” | 
+
+**Problem 10: Tupi-Guarani**
+
+**a. Filling the Gaps:**
+
+| English | Tupinambá | Guaraní Mbya |
+|---|---|---|
+| rock | itá | itá |
+| soil | ybý | yvý |
+| water | y | y |
+| black | un | ũ |
+| head | akanga | akã |
+| to bring | erur | eru |
+| to hear | endub | endu |
+| to experiment | sa'ang | ha'ã |
+| you want | erepotár | erepotá |
+| to heal | pueráb | kuerá |
+| I sleep | aker | aké |
+| boss | ubixab | **mburuvicha** |
+| rib | arukang | **rukan'g** |
+| to overcome | opuan | **pu'aka** |
+| peanut | mandubi | **manduvi** |
+| to beat | petek | **mbyepoti** |
+| to hear | senub | **hendu** |
+| red | pyranga | **pytã** |
+| lizard | teju | **teju** |
+| I say | a'é | **ha'e** |
+| beautiful | porang | **porã** |
+| mouth | **ñemby** | juru |
+| half | **apõ** | ku'a |
+| wood | **ybyrá** | yvyrá |
+| you stay | **erepyta** | erepytá |
+| high | **yvate** | yvaté |
+| **to see** | **je'e** | ereké |
+| **jaguar** | jaguar | **jaguarete** |
+| **fire** | **tata** | potá |
+
+**b. Matching Cities with Meanings:**
+
+* 1.	Ibiúna (SP) - **(j) black soil**
+* 2.	Ibiporanga (SP) - **(m) beautiful land** 
+* 3.	Iúna (ES) - **(k) black river**
+* 4.	Tijuípe (BA) - **(d) lizard river**
+* 5.	Pindamonhangaba (SP) - **(c) place for producing fishing hooks** 
+* 6.	Jacarecoara (MA) - **(i) alligator’s/yacare’s burrow**
+* 7.	Ibitinga (SP) - **(a) white soil**
+* 8.	Jericoaquara (CE) - **(f) turtle’s burrow** 
+* 9.	Ipiranga (PR) - **(e) red river** 
+* 10.	Tijuaçu (BA) - **(n) big lizard**
+* 11.	Itaipú (PR) - **(g) sound the water does in the rock**
+* 12.	Itatinga (SP) - **(a) white soil**
+* 13.	Itauçu (GO) - **(h) great rock** 
+* 14.	Pirajuí (SP) - **(l) fish of the yellow river**
+* 15.	Iguaçu (PR) - **(b) great river** 
+
+
+**Problem 12: Basque Numbers**
+
+**a. Filling the Gaps:**
+
+* lau × bost = **hogei**
+* **zortzi** × hamar = laurogeita hamar
+
+**b. Writing in Figures:**
+
+* (1) laurogeita hamahiru = **83**
+* (2) hirurogei = **60**
+
+**c. Writing in Basque:**
+
+* (1) 39 = **hogeita hemeretzi**
+* (2) 77 = **hirurogeita hamazazpi**
+* (3) 80 = **laurogei**
+
+**Problem 14: Icelandic Kinship**
+
+**a. Older Descendant of an Immigrant:** **Robert Bergmann Gunnarsson** (Assuming "Bergmann" indicates a foreign surname)
+
+**b. Son/Daughter with No Grandchildren:** **Jakob Đorarinsson** 
+
+**c. Number of Viktor's Kids:** **One** (Hrafn Kristínsson Viktorsson)
+
+**d. Number of Steinum's Kids:** **Two** (Daniel Steinunnarson Đorarinssonar and Margret Steinunnardóttir Jakobsdóttir)
+
+**e. Rakel's Child Without Her Surnames:** **Sigurður Jóns Bergmann**
+
+**f. Five Possible Names for Eva and Christian's Son:**
+
+* 1. Guðmundur Kristínsson 
+* 2. Guðmundur Kvaran
+* 3. Guðmundur Christiansson
+* 4. Guðmundur Evason
+* 5. Guðmundur Emilsdóttir (Icelandic naming conventions allow for matronyms)
+
+**g. Two Possible Names for Steinunn's Daughter:**
+
+* 1. Guðrún Björnsdóttir 
+* 2. Hrafnhildur Björnsdóttir
+
+**Problem 16: Guaraní Verbs**
+
+**a. Translations into English:**
+
+(1) akaruma:  **I eat**
+(2) ojupita: **He/she gets up**
+(3) ndavo’omo’ãi: **You (pl.) will not take**
+(4) napekororõi: **You (pl.) are not crying**
+(5) ndapyhyima: **We did not get/take**
+
+**b. Translations into Guaraní:**
+
+(1) You are not shooting: **ndembokapuiri**
+(2) He is not singing: **nojapuraheiri**
+(3) We will be eating: **rokarumíta**
+(4) I will not be singing: **ndajapurahéimo’ãi**
+
+**Problem 18: Toki Pona**
+
+**a. Associations between Words and Translations:**
+
+| Toki Pona | English |
+|---|---|
+| kiwen | stone |
+| suno | good, well-intentioned |
+| jelo | yellow, gold |
+| tomo | house, building, room |
+| tawa | four |
+| telo | water, liquid, juice |
+| jan | person, people, somebody |
+| Powi | Boris |
+| ilo | tool, machine, device, robot |
+| toki | language, to speak, word |
+| supa | table, surface |
+| lape | sleep, to sleep, bed |
+| moku | food, to eat, meal |
+| ma | land, country, earth |
+| wile | want, to want, desire |
+| nasin | way, path, road, doctrine, system, method |
+| linja | long, thin thing, line, thread, cord, hair |
+| pona | good, simple, to fix, correct, repair |
+| lipu | flat and bendable thing, sheet, paper, leaf, page, book |
+| lawa | head, to lead, control, guide |
+
+**Compound Words & Expressions:**
+
+* suno jelo: well-intentioned, literally "good yellow"
+* tomo tawa telo: restaurant, literally "house four water" (referring to a table for four)
+* ilo suno: prophet, literally "tool good"
+* telo jelo: lantern, literally "water yellow"
+* jan ilo: robot, literally "person tool"
+* jan toki: orthodoxy, literally "person language"
+* supa lape: bed, literally "table sleep"
+* supa moku: dinner table, literally "table food"
+* ma tomo: city, literally "land house"
+* wile moku: hungry, literally "want food"
+* tawa linja: boat, literally "four line"
+* wile pona: movement, literally "want good"
+* telo kiwen: ice, literally "water stone"
+* lipu toki: book, literally "flat thing language"
+* wile lawa: dominant, literally "want head"
+* linja lawa: thorn, literally "line head"
+* tomo moku: piss, literally "house food" (euphemism)
+* linja kiwen: hair, literally "line stone"
+
+**b. Translations of Simple Words:**
+
+* toki: language, to speak, word
+* pona: good, simple, to fix, correct, repair
+
+**c. Literal Translation of the Language Name:** 
+**Toki Pona** literally translates to **"good language"** or **"simple language."** 

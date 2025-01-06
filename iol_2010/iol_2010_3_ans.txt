@@ -1,0 +1,40 @@
+
+### Problem 3: Symbolic Language
+#### (a) Composition and Meaning:
+
+| **Part of Speech** | **Composition**          | **Meaning**    |
+|--------------------|--------------------------|----------------|
+| verb               | mouth + nose             | to breathe     |
+| noun               | water + mouth            | saliva         |
+| adjective          | circle (sun) + pointer   | western        |
+| adjective          | activity                 | active         |
+| noun               | body (torso) + 2 pointers| waist          |
+| verb               | mouth + (air + outwards) | to blow        |
+| adjective          | ill, sick                | ill, sick      |
+| noun               | mouth + 2 pointers       | lips           |
+| verb               | eye + (water + downwards)| to weep        |
+| noun               | activity                 | activity       |
+| adjective          | heart + upwards          | merry          |
+
+#### (b) Additional Translations:
+
+| **Part of Speech** | **Composition**          | **Meaning**    |
+|--------------------|--------------------------|----------------|
+| noun               | nose                     | nose           |
+| noun               | water                    | water, liquid  |
+| noun               | body (torso) + pointer   | neck           |
+| verb               | activity                 | to act, be active|
+| noun               | eye with eyebrow + pointer| eyebrow       |
+| noun               | head with neck + pointer | neck           |
+
+#### (c) Additional Translations:
+
+| **Part of Speech** | **Composition**          | **Meaning**    |
+|--------------------|--------------------------|----------------|
+| noun               | air                      | air            |
+| noun               | body (torso)             | body (torso)   |
+| verb               | upwards                  | to rise        |
+| noun               | circle (sun) + pointer   | east           |
+| adjective          | heart + downwards        | sad            |
+
+---

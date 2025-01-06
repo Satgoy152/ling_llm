@@ -255,34 +255,28 @@ Here are some words and word combinations in Rotuman as well as their English tr
 
 (a) Here are the Rotuman names of seven body parts as well as their English translations in arbitrary order. Determine the correct correspondences:
 
-| Rotuman | English         |
-|---------|-----------------|
-| ‘u‘u    | arm/hand        |
-| isu     | eye             |
-| kia     | neck            |
-| leva    | heart           |
-| mafa    | hair            |
-| susu    | breast          |
-| huga    | nose            |
+‘u‘u, isu, kia, leva, mafa, susu, huga
+
+breast, eye, arm/hand, hair, heart, neck, nose
 
 (b) Translate into English:
-- tiro: to cut
-- poga (noun): hole
-- huag lala: courageous
-- ha. f puhra. ki: to boil
-- maf pogi = maf pala: to pierce the night
+- tiro 
+- poga (noun)
+- huag lala
+- ha. f puhra. ki
+- maf pogi = maf pala
 
 (c) Translate into Rotuman:
-- round: poag
-- to cut copra: niu ‘olo
-- curly hair: mafa piri
-- sticky: pulu
-- to flash: riamrima
-- rubbish: moafmofa
+- round
+- to cut copra
+- curly hair
+- sticky
+- to flash
+- rubbish
 
 (d) Using the material given above you cannot translate ‘word’ and ‘to exhaust’ into Rotuman with certainty. What would the theoretically possible translations of these words into Rotuman be?
-- ‘word’: *huag ‘ele*
-- ‘to exhaust’: *ha. fha. huag*
+- ‘word’
+- ‘to exhaust’
 
 △!
 eu or German ö; ü = French u or German ü. The mark “ ̄” denotes vowel length.

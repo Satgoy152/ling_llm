@@ -1,0 +1,106 @@
+Solution to Problem 1
+
+(a) Mark the long vowels:
+
+	•	mugaóumu: Based on the Yidiny patterns observed in the given data, long vowels are usually marked with a colon (:). However, since the vowel that follows ó in “mugaóumu” is already marked as different (ó), it suggests it’s a long vowel. No other apparent long vowels are present, so it remains as “mugaóumu”.
+	•	waNalgu: There is no indication of long vowels from the given pattern, and since it involves unique consonants (N) and does not follow the colon pattern, it remains as “waNalgu”.
+
+(b) Mark the long vowels and translate into English:
+
+	•	baman translates to “man” (based on “wagu:éa” - man).
+	•	buñabi translates to “another woman” (based on “buñagimbal” - without a woman, and “gudagabi” - another dog).
+	•	maéurmuéay translates to “with another frog” (based on “maéu:rbi” - another frog, and suffix patterns indicating relationships).
+	•	muéamni translates to “of a mother” (based on “muéam” - mother).
+
+(c) Translate into Yidiny:
+
+	•	of a stranger: muyubarini
+	•	for a fishing net: mugaóumu:gu
+	•	father: bimbi
+	•	from a frog: maéu:m
+	•	without a man: wagugimbal
+	•	of a pigeon: éudu:lumuéayni
+	•	tortoise: baéigal
+	•	without a boomerang: waNalgimbal
+
+Solution to Problem 2
+
+(a) Correct correspondences:
+
+	•	ilenlegul -> Yakut knife
+	•	joqonnime -> wooden box
+	•	saancohoje -> nose
+	•	johudawur -> bird
+	•	cireme -> deer feed
+	•	joqodile -> horse
+	•	møŋer -> nose case
+	•	ciremennime -> wooden house
+	•	joqoncohoje -> grandchild
+	•	saadoŋoj -> thunder
+	•	uoduo -> Yakut person
+	•	aariinmøŋer -> rifle’s muzzle
+	•	aariinjohul -> herd of deer
+	•	uodawur -> wooden knife
+	•	joqol -> nest
+
+(b) Translate into English:
+
+	•	aarii: nose
+	•	aariidoŋoj: tip of nose
+	•	ciremedawur: wooden house
+	•	ile: gunshot
+	•	johudewce: tip of bird’s beak
+	•	legul: Yakut knife
+	•	saal: deer feed
+	•	saannime: nose case
+	•	uo: Yakut person
+
+(c) Translate into Yukaghir:
+
+	•	iron bird: cuo johudawur
+	•	snoring: ciremeewce
+	•	tip of knife’s blade: ilenlegulewce
+	•	sack for provisions: aariinjohul
+
+Solution to Problem 3
+
+(a) Pronunciations:
+
+	•	xaaibi: [1Paa.i.bi]
+	•	xaapisi: [1Paa.pi.si]
+	•	xitiixisi: [1Pii.tii.xi.si]
+
+(b) Translate into English:
+
+	•	bigi: ground
+	•	kagahoaogii: papaya
+	•	kaibai: monkey
+	•	kapiigaiitoii: pencil
+	•	poogaihiai toio: old banana
+	•	xabagi kapioxio: another toucan
+	•	xabagi xogiai: big toucan
+
+Solution to Problem 4
+
+(a) Translate into English:
+
+	12.	andoandoke nogholi lagahiku: The ants’ mountain is close.
+	13.	a dhinihi dasumuli we murindo robhinehi: The demons will return to the woman’s pupil.
+
+(b) Translate into Muna:
+
+	14.	lagahi dofoni murindo we kontuhi: The Ant will climb the pupil’s stone.
+	15.	lagahi we adhiadhini: The ants are going to the Demon.
+	16.	murihi dhini tamandia rohibine me dhini: My women’s monkeys will cut my bananas.
+	17.	molo dofoni andoandoke: The monkey’s mountains are far.
+
+Solution to Problem 5
+
+Determine the correct correspondences:
+
+	•	bed: low, low, high, high (similar to “lettuce”)
+	•	butterfly: low, low, high, low (similar to “cup”)
+	•	cat: high, low, low, low (similar to “igloo”)
+	•	cow: low, low, low, high (unique pattern)
+	•	refrigerator: low, high, high, low (unique pattern)
+	•	spoon: low, low, low, low (similar to “lettuce”)

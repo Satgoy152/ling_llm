@@ -1,0 +1,328 @@
+Problem 1
+
+To solve this problem, we’ll analyze the given Ubykh verb forms to identify patterns in their morphology, allowing us to translate and construct new forms.
+
+(a) Alternative Translation of Form 9
+
+The ninth form is:
+
+	9.	aŝʷəstʷan — I give him to you_{pl}
+
+Upon analysis, this form can also be translated as:
+
+	•	I give you_{pl} to him
+
+This is because Ubykh verb morphology allows for ambiguity in the order of direct and indirect objects when certain prefixes are used.
+
+(b) Translations into English
+
+Let’s break down each form to translate them accurately.
+
+10. ašʼəntʷən
+
+	•	a-šʼə-n-tʷən
+	•	a-: First person singular subject (I)
+	•	šʼə-: Third person singular direct object (him)
+	•	n-: First person singular indirect object (me)
+	•	tʷən: Verb root (give)
+	•	Translation: I give him to me
+
+However, since giving something to oneself is unusual, it’s more plausible that n- here represents a plural indirect object (us), leading to:
+
+	•	Alternative Translation: I give him to us
+
+11. səŝʷtʷan
+
+	•	sə-ŝʷ-tʷan
+	•	sə-: Third person singular subject (he)
+	•	ŝʷ-: Second person plural direct object (you_{pl})
+	•	tʷan: Verb root (give)
+	•	Translation: He gives you_{pl} to them
+
+12. šʼəwənatʷan
+
+	•	šʼə-wə-na-tʷan
+	•	šʼə-: Second person singular subject (you_{sg})
+	•	wə-: Third person plural direct object (them)
+	•	na-: First person singular indirect object (me)
+	•	tʷan: Verb root (give)
+	•	Translation: You_{sg} give them to me
+
+(c) Translations into Ubykh
+
+We’ll construct Ubykh verb forms using the identified prefixes.
+
+Prefixes:
+
+	•	Subject Prefixes:
+	•	a-: I
+	•	wə-: We/They
+	•	sə-: He
+	•	sa-: You_{sg}
+	•	ŝʷə-: You_{pl}
+	•	Direct Object Prefixes:
+	•	s-: You_{sg}
+	•	n-: Us
+	•	wə-: Them/Him
+	•	ŝʷə-: You_{pl}
+	•	Indirect Object Prefixes:
+	•	na-: Me
+	•	šʼ-: Him
+	•	ŝʷə-: You_{pl}
+
+13. They give you_{pl} to me
+
+	•	Prefixes: wə- (they) + ŝʷə- (you_{pl} direct object) + na- (me indirect object)
+	•	Verb Form: wəŝʷənatʷən
+
+14. You_{pl} give him to me
+
+	•	Prefixes: ŝʷə- (you_{pl}) + šʼ- (him direct object) + na- (me indirect object)
+	•	Verb Form: ŝʷəšʼnatʷən
+
+15. You_{sg} give us to him
+
+	•	Prefixes: sa- (you_{sg}) + n- (us direct object) + šʼ- (him indirect object)
+	•	Verb Form: sanšʼtʷən
+
+16. We give you_{sg} to them
+
+	•	Prefixes: wə- (we) + s- (you_{sg} direct object) + wə- (them indirect object)
+	•	Verb Form: wəswətʷan
+
+17. He gives them to us
+
+	•	Prefixes: sə- (he) + wə- (them direct object) + n- (us indirect object)
+	•	Verb Form: səwəntʷan
+
+Problem 2
+
+(a) Correspondences between Alabama Words and English Translations
+
+We’ll match the Alabama words (1–26) with the English translations (A–Z).
+
+	1.	achánnàaka — T. he tears it in two
+	2.	achanni — 31. it is torn in two
+	3.	ahamatli — Q. it is turned upside down
+	4.	ahámmatka — 32. he turns it upside down
+	5.	apòotka — 33. he leans it against something
+	6.	apotòoli — G. it leans against something
+	7.	apóttòoka — N. he leans them against something
+	8.	atanayli — D. he puts it next to something
+	9.	atánnayka — S. they are next to something
+	10.	atanni — U. he has one
+	11.	bàalka — V. he lays it down
+	12.	balàali — B. he lays them down
+	13.	balli — L. they lie, are lying down
+	14.	incháffàaka — Z. he wraps it
+	15.	kawaɬɬi — J. it has holes, they have holes
+	16.	ɬìilka — A. he breaks it in two
+	17.	ɬìipka — P. he makes a hole
+	18.	ɬilaffi — O. he makes holes
+	19.	ɬipli — F. it is torn in several places, they are torn
+	20.	ɬíppìika — E. he turns them upside down
+	21.	ɬobaffi — C. he wraps them
+	22.	ɬómbafka — Y. he peels a strip off
+	23.	ɬombi — K. it is wrapped
+	24.	ɬòomka — X. he peels the bark off
+	25.	sibapli — R. he scatters it, he scatters them
+	26.	simbi — M. it is scattered, they are scattered
+
+(b) Translations into English
+
+27. bállàaka
+
+	•	Related to bàalka (he lays it down).
+	•	Translation: He lays it down
+
+28. inchafàali
+
+	•	Related to incháffàaka (he wraps it).
+	•	Translation: It is wrapped
+
+29. kawwi
+
+	•	Related to kawaɬɬi (it has holes, they have holes).
+	•	Possible translations:
+	•	It has a hole
+	•	He makes a hole
+
+(c) Translations into Alabama
+
+30. He tears it in several places
+
+	•	Alabama Word: ɬilaffi
+
+31. It is torn in two
+
+	•	Alabama Word: achanni
+
+32. He turns it upside down
+
+	•	Alabama Word: ahámmatka
+
+33. He leans it against something
+
+	•	Alabama Word: apòotka
+
+(d) Alabama Word with Multiple Translations
+
+	•	Word: ɬilaffi
+	•	Other Translation: He makes holes
+
+This word can mean both “he tears it in several places” and “he makes holes,” indicating a semantic overlap in Alabama for actions involving creating multiple openings or tears.
+
+Problem 3
+
+To solve this problem, we’ll analyze the given Nǀuuki sentences to understand the grammatical structure.
+
+(a) Translations into English
+
+17. na kacuuʔi ŋ ɡǀu xae ŋ ǃuu ǃʔai
+
+	•	Breakdown:
+	•	na: I
+	•	kacuuʔi ŋ: ask if
+	•	ɡǀu xae: who
+	•	ŋ ǃuu ǃʔai: my grandfather calls
+	•	Translation: I ask who my grandfather calls
+
+18. na ǁu si sĩisen ŋ ɡǃari
+
+	•	Breakdown:
+	•	na ǁu: my mother
+	•	si sĩisen ŋ: will work
+	•	ɡǃari: in Upington
+	•	Translation: My mother will work in Upington
+
+19. ǀeeki ke ǃaukea ŋ ŋǀŋ ǂhun
+
+	•	Breakdown:
+	•	ǀeeki ke: the woman
+	•	ǃaukea ŋ: is afraid of
+	•	ŋǀŋ ǂhun: my dog
+	•	Translation: The woman is afraid of my dog
+
+20. ŋ kee si ǃʔai a
+
+	•	Breakdown:
+	•	ŋ: my
+	•	kee si: will call
+	•	ǃʔai a: you
+	•	Translation: I will call you
+
+21. cuu xae u ŋǀii
+
+	•	Breakdown:
+	•	cuu xae: who
+	•	u: your (plural)
+	•	ŋǀii: see
+	•	Translation: Whom do you_{pl} see?
+
+22. cuu xae ts’aaʔa ŋ
+
+	•	Breakdown:
+	•	cuu xae: who
+	•	ts’aaʔa ŋ: like
+	•	Translation: Who likes? or Who do you like?
+
+(b) Translations into Nǀuuki
+
+23. Our mother will not call your_{sg} brother
+
+	•	Translation: ŋ ǁu ke ǁãu u ǃʔai
+
+24. It is you_{sg} whom my dog is afraid of
+
+	•	Translation: u kee ǃaukea ŋ ŋǀŋ ǂhun
+
+25. Where will you_{pl} sing?
+
+	•	Translation: kiɟa xae u si ǂqheeke
+
+26. I ask if it is our grandfather whom you_{sg} think about
+
+	•	Translation: na kacuuʔi ŋ ɡǀi xae a ǂʔii ŋǁa
+
+27. Who will dance tomorrow?
+
+	•	Translation: cuu xae si ǀqhõʕo ŋ ǃhaeke
+
+28. Do you_{pl} see us?
+
+	•	Translation: u ŋǀii a ɟanasa
+
+Problem 4
+
+Due to the complexity and length of this problem, we’ll provide a concise summary of the solution.
+
+(a) Matching Family Members
+
+We need to match individuals labeled A–X with their positions (1–24) on the family tree.
+
+Given the dialogues and the relationships expressed, we can deduce:
+
+	•	A: Man 7
+	•	B: Woman 9
+	•	C: Woman 11
+	•	D: Woman 12
+	•	E: Man 13
+	•	F: Man 1
+	•	G: Woman 15
+	•	H: Man 16
+	•	I: Woman 8
+	•	J: Woman 14
+	•	K: Man 17
+	•	L: Woman 19
+	•	M: Man 18
+	•	N: Woman 6
+	•	O: Woman 21
+	•	P: Man 20
+	•	Q: Man 5
+	•	R: Woman 22
+	•	S: Man 23
+	•	T: Woman 24
+	•	U: Man 3
+	•	V: Woman 4
+	•	W: Man 24
+	•	X: Woman 2
+
+(b) Filling in the Blanks
+
+Using the kinship terms and relationships expressed in the dialogues:
+
+	•	(i): nhupa (his wife)
+	•	(ii): lhuka (her sibling)
+	•	(iii): lhuka (his sibling)
+	•	(iv): nhupa (his wife)
+	•	(v): kadnhini (her cousin)
+	•	(vi): wardu (his son)
+	•	(vii): kadnhini (his cousin)
+	•	(viii): kadnhini (her cousin)
+	•	(ix): lhuka (his sibling)
+
+Problem 5
+
+(a) Hypothetical Tsat Word for bala
+
+Given the Proto-Chamic word bala and its Phan Rang Cham descendant pilà, we can predict its Tsat form.
+
+	•	Proto-Chamic *bala → Tsat phia¹¹
+
+(b) Filling in the Blanks
+
+Proto-Chamic	Phan Rang Cham	Tsat	Meaning
+kulit	kaliʔ	liʔ²⁴	skin
+hitam	hatam	tham¹¹	black
+bubah	papàh	pha⁵⁵	mouth
+ʔikat	hikàt	kiat²⁴	to tie
+dəpa	təpa	pa³³	fathom
+matay	matai	thai¹¹	to die
+dalam	talaŋ	laŋ¹¹	inside
+labuh	labuʔ	puʔ²⁴	to fall down
+bulaːn	pilàn	phia¹¹	moon
+-	pala	pai³³	to plant
+-	tapùh	thu⁵⁵	to ransom
+-	tatà	tha³³	chest
+
+Note: These solutions are based on linguistic analysis of the provided data. The interpretations aim to be as accurate as possible given the information.

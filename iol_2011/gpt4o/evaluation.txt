@@ -1,0 +1,246 @@
+Based on the provided real answers, I will grade the LLM's performance according to the rubric:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: we_{1+2} bite it through
+            Real Answer: we (inclusive) chop it through, break it through by tool
+            Grade: 1 (partially right)
+        2:
+            Classification: Type 2
+            LLM Answer: I open it by tool (by raising a lid or opening a door)
+            Real Answer: I open, uncover it by hand (√ pāhk) OR I break it off, tear it off by hand (√ pahk)
+            Grade: 1 (partially right)
+        3:
+            Classification: Type 2
+            LLM Answer: he begins walking
+            Real Answer: he begins laughing
+            Grade: 1 (partially right)
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: newǣpem
+            Real Answer: newǣpahtan
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: kewǣkenam
+            Real Answer: kekāwenæq
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: tawǣham
+            Real Answer: tawānæhkæw
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: kekǣtohnæw
+            Real Answer: ketōhnæw
+            Grade: 0
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: [bø:ja]
+            Real Answer: [bø:va]
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: [knOa:ar]
+            Real Answer: [kno:ar]
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: [kvø:va]
+            Real Answer: [kvø:a]
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: [lø:jur]
+            Real Answer: [lø:vur]
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: [plOa:ja]
+            Real Answer: [plOava]
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: [ska:ji]
+            Real Answer: [skEaji]
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: [tOijur]
+            Real Answer: [tOijur]
+            Grade: 1
+        8:
+            Classification: Type 1
+            LLM Answer: [tru:ji]
+            Real Answer: [tr0uwi]
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 3
+            LLM Answer: Vowel Length and Quality: Long vowels in Faroese are transcribed with a colon (e.g., [ø:], [Oa:], [a:], etc.). The orthography provides clues to vowel quality and length. Consonant Transcription: Consonants such as "g" are often transcribed with [j] when they appear in certain environments. The ending consonants often reflect the orthographic representation. Glides and Transitions: The presence of glides like [j] and [w] is inferred from the combination of vowels and consonants in the orthographic form.
+            Real Answer: 1. Vowels: a [Ea], á [Oa], e [e:], ei [ai], ey [Ei], i [i:], o [o:], oy [Oi], ó [Ou], u [u:], ú [0u], ø [ø:]. 2. Between vowels: ð = g 3. Rules for ð/g transformation: 1. [w] | [u(:)] 2. [j] | [i(:)] or [i(:)] 3. [v] | [u(:)] 4. [v] in a noun, [∅] in a verb.
+            Grade: 1 (answer is wrong but explanation partially right)
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: the woman's fish
+            Real Answer: the woman's fish
+            Grade: 2 (completely right)
+        2:
+            Classification: Type 2
+            LLM Answer: the child's snake
+            Real Answer: the short child's snake
+            Grade: 1 (partially right)
+        3:
+            Classification: Type 2
+            LLM Answer: the boat's eye
+            Real Answer: the short boat
+            Grade: 0 (completely wrong)
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: kándÒ jǎNĚ lÒÒĚ, the sky's boat
+            Real Answer: kándÒ-lÈndÈ lÒÒĚ, the small airplane
+            Grade: 0 (completely wrong)
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: kÒánjà nỳımı̀̀ıĚ
+            Real Answer: kÒánjàĚ á nỳımı̀̀ıĚ
+            Grade: 1 (partially right)
+        2:
+            Classification: Type 2
+            LLM Answer: léN lÒÒĚ já
+            Real Answer: léN lÒÒĚ já
+            Grade: 2 (completely right)
+        3:
+            Classification: Type 2
+            LLM Answer: kà́ıĚ jǎNĚ mùsú
+            Real Answer: kà́ı jǎNĚ lÒÒ-mùsù
+            Grade: 1 (partially right)
+        4:
+            Classification: Type 2
+            LLM Answer: nỳımı̀̀ı lÒÒĚ kÈnj̀ı
+            Real Answer: nỳımı̀̀ı-lèN lÒÒĚ
+            Grade: 1 (partially right)
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: canoe owner
+            Real Answer: canoe, "water house"
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: water pepper
+            Real Answer: Not provided in real answers
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: water
+            Real Answer: water
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: house
+            Real Answer: house
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: master of house
+            Real Answer: village
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: chili water
+            Real Answer: chili water
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: chili
+            Real Answer: chili
+            Grade: 1
+        8:
+            Classification: Type 1
+            LLM Answer: grandfather/ancestor
+            Real Answer: grandfather/ancestor
+            Grade: 1
+        9:
+            Classification: Type 1
+            LLM Answer: revered grandfather/ancestor
+            Real Answer: revered grandfather/ancestor
+            Grade: 1
+        10:
+            Classification: Type 1
+            LLM Answer: master of child
+            Real Answer: mother, "one who has child(ren)"
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: possessor of stones
+            Real Answer: Not provided in real answers
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: child
+            Real Answer: child
+            Grade: 1
+        13:
+            Classification: Type 1
+            LLM Answer: boy
+            Real Answer: boy, male child
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: callah
+            Real Answer: calli
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: capil
+            Real Answer: tetl
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: atlhuah
+            Real Answer: ahuah
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: oquichhuahcapil
+            Real Answer: oquichtzintli
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: chili water
+            Real Answer: cocoa
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: chili
+            Real Answer: cocoa bean
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: water pepper
+            Real Answer: cocoa drink
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: master of chili
+            Real Answer: possessor of cocoa
+            Grade: 0
+
+Total Score: 18/78

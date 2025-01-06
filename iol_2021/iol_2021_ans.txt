@@ -1,0 +1,112 @@
+Problem 1 Solutions
+
+(a) Numerals in digits:
+
+	•	moeto waroewo — 480
+	•	ijema joka rati — 39
+	•	moeto wido ma benomi ka wi — 186
+
+(b) Write out in Ekari:
+
+	1.	ena
+	2.	ijema rati or ije mepina
+	3.	benomima mepina
+	4.	wima mepija daemita moeto
+	5.	moeto wi ma wijama rati beo ka idibi
+
+Problem 2 Solutions
+
+(a) Correct correspondences:
+
+1.	mo:chikwa datda:we — I. peach trees
+2.	haya:we — G. piles of leaves
+3.	doko:ko mo’le — H. chicken egg
+4.	ma:chikwa — C. sugar
+5.	mu:chikwa — J. chocolate bar
+6.	mulonne, mu’le — D. loaf of bread
+7.	mowe — E. beads
+8.	ha:k’yawe — B. tea
+9.	doko:ko shiwe — A. chicken meat
+10.	mo:chikwa mulo:chikwa — F. peach pie
+
+(b) Correct correspondences:
+11. ade muwe — O. blood clots
+12. beyanne — P. field of grass
+13. homa:we — M. juniper leaves
+14. ma:k’yawe — N. salt water
+15. ma:k’ose — S. salt
+16. ma’le — K. granule, grain
+17. homayanne — R. juniper branch
+18. mi’le — L. ear of corn [corn cob]
+19. ade k’yawe — Q. blood
+
+(c) Translations into English:
+20. be’le — blade of grass
+21. chikwa — sweet (adj.)
+22. datdanne — tree
+23. ade — blood
+24. mulo:we — bread
+25. hawe — leaves
+
+(d) Translations into Zuni:
+26. salty — k’ose
+27. juniper leaf — homanne
+28. piece of meat — shi’le
+29. water — k’yawe
+30. corn, maize — miwe
+31. fields of grass — beya:we
+
+(e) Ma’k’yayanne — salt lake.
+
+Problem 3 Solutions
+
+(a) Translations into English:
+14. Navila vivila biyamata tomwaya mtona? — How many women will this old man look after?
+15. Bikamkwamsi kweyu vivila minasina. — These women will eat two things.
+16. Amagudina gwadi lekota? — Which child arrived?
+17. Tevila tauwau bigisesi gugwadi gudigasisi? — How many men will see the wild children? / How many men will the wild children see?
+18. Legisesi ketala waga vivila minasiwena. — Those women saw one canoe.
+
+(b) Translations into Kilivila:
+19. How many canoes did those old women see? — Kevila waga legisesi nunumwaya minasiwena?
+20. These four white men will look after this clever child. — Biyamatasi gwadi magudina gudikabitam tevasi dimdim mtosina.
+21. How many children will eat these pigs? — Gudivila gugwadi bikamkwamsi bunukwa minasina?
+22. Which woman caught those beautiful fish? — Aminana vivila lebani yena minasiwena namanabweta?
+23. Two wild dogs saw that old man. — Legisesi tomwaya mtowena nayu ka’ukwa nagasisi.
+
+Problem 4 Solutions
+
+(a) Exception and corrected form:
+
+	•	tі ̃ḿі ̃t́і ̃ńі ̃́ is the exception, and the corrected form should be tṹmі ̃t́і ̃ńі ̃́.
+
+(b) Agbirigba forms:
+
+	1.	rʊ́tʊ̂ — tʊ́rʊ́tʊ́tʊ̀
+	2.	rɛẁʊ̃́ — tɪr̀ɛt̀ʊ̃́wʊ̃́
+	3.	bіḱó — túbіt́úkó
+	4.	ɲ́yẽ́ rɪỳã̀ — ńtĩýẽ́ tɪr̀ɪt̀ɪ ̃ỳã̀
+	5.	bɛḱʷʊ̃́ — tʊ́bɛt́ʊ̃́kʷʊ̃́
+	6.	rіýõ̀rõ̀ — tіŕіt́ĩỳõ̀tũ̀rõ̀
+	7.	hʷɔg̀â — tʊh̀ʷɔt̀ʊ́gà
+
+Problem 5 Solutions
+
+(a) Translations into English:
+
+	•	aharapyryk — I hugged you
+	•	mymyboro — He will bite us
+	•	uru — I slept
+	•	tsiksiwynaha — We cut them up (past)
+	•	ikwak — I hunted
+	•	ziksi — He left
+
+(b) Translations into Rikbaktsa:
+
+	•	We will fall — tsimynarahanaha
+	•	I bathed — ikmoro
+	•	You_{sg} bit us — tsikmyboro
+	•	I will wait for them / he will wait for them — mysipery
+	•	I will hug you_{pl} / he will hug you_{pl} — pahaharapyryk
+	•	You_{sg} will leave — tsipiksi
+	•	I killed it — ibeze

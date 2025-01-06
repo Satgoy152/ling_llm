@@ -1,0 +1,508 @@
+Based on the provided classifications, LLM solutions, and real answers, I will grade each problem according to the rubric. Here's the grading:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: 100
+            Real Answer: 11
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: 2
+            Real Answer: 40
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: 17
+            Real Answer: 67
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: 7
+            Real Answer: 14
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: 20
+            Real Answer: 81
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: 10
+            Real Answer: 7
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: 13
+            Real Answer: 13
+            Grade: 1
+        8:
+            Classification: Type 1
+            LLM Answer: tambaroy
+            Real Answer: 39
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: yànparo fete
+            Real Answer: 15
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: fete yenówe tàxwo
+            Real Answer: 2
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: tarumba
+            Real Answer: 5
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: yenówe tàxwo
+            Real Answer: 12
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 60
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 72
+            Grade: 0
+        15:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 18
+            Grade: 0
+        16:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 54
+            Grade: 0
+        17:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 216
+            Grade: 0
+        18:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 12
+            Grade: 0
+        19:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 1296
+            Grade: 0
+        20:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 432
+            Grade: 0
+        21:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 400
+            Grade: 0
+        22:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 400
+            Grade: 0
+        23:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 8000
+            Grade: 0
+        24:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 8000
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: nahui-on-ome
+            Real Answer: ömpöhualli-om-öme
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: mahtlactli-on-nahui-on-cē-on-cē
+            Real Answer: centzontli-on-näuh-pöhualli-om-mahtlactli-on-nähui
+            Grade: 1
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: ngámbi + ngámbi + yànparo
+            Real Answer: fete nimbo ngámbi
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: ngámbi × yànparo + ngámbi × yànparo + ngámbi
+            Real Answer: yànparo tarumba yenówe fete asàr tàxwo tambaroy
+            Grade: 0
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: to bite (present tense)
+            Real Answer: to bite
+            Grade: 2
+        2:
+            Classification: Type 2
+            LLM Answer: (he/she) is able to sew
+            Real Answer: (he/she) is able to sew
+            Grade: 2
+        3:
+            Classification: Type 2
+            LLM Answer: (he/she) is able to pretend to sew
+            Real Answer: (he/she) is pretending to sew
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: to be able to burn
+            Real Answer: to be able to burn
+            Grade: 2
+        5:
+            Classification: Type 2
+            LLM Answer: (he/she) is able to speak
+            Real Answer: (he/she) is speaking
+            Grade: 1
+        6:
+            Classification: Type 2
+            LLM Answer: (he/she) is really flying
+            Real Answer: (he/she) is flying
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: (they) were able to slide
+            Real Answer: if (he/she) is able to slide
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: (he/she) wasn't able to eat
+            Real Answer: (they) aren't pretending to eat
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: (he/she) really was flying
+            Real Answer: (he/she) was able to fly
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: to eat
+            Real Answer: (he/she) was eating
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: (they) are not trembling
+            Real Answer: if (he/she) really is trembling
+            Grade: 1
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: máde
+            Real Answer: mádexe
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: meʒeq̇áfe
+            Real Answer: mebəbə́fexe
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: bəbə́b
+            Real Answer: sə́pet
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: sə́fq̇əm
+            Real Answer: šxéfq̇əm
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: gʷəš'əʔén
+            Real Answer: gʷəš'ə́ʔexeme
+            Grade: 1
+        6:
+            Classification: Type 2
+            LLM Answer: ʒeq̇én
+            Real Answer: meʒáq̇exe
+            Grade: 1
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 3
+            LLM Answer: 1. Retain the first letter of the surname.
+2. Replace each consonant (except the first letter) with its corresponding Soundex digit:
+   - B, F, P, V → 1
+   - C, G, J, K, Q, S, X, Z → 2
+   - D, T → 3
+   - L → 4
+   - M, N → 5
+   - R → 6
+3. Ignore consecutive duplicates of the same digit.
+4. Truncate or pad the result to ensure it is exactly 4 characters long.
+            Real Answer: 1. Leave the first letter in place.
+2. Delete `h` and `w`.
+3. Replace all consonant letters with digits:
+    - `bpv` (f): `1`
+    - `cgjkqs` (xz): `2`
+    - `dt`: `3`
+    - `l`: `4`
+    - `mn`: `5`
+    - `r`: `6`
+4. Reduce any sequence of two or more identical digits to a single digit.
+5. Delete all vowels (a, e, i, o, u, y).
+6. Leave only the first three digits or add zeroes on the right to make the code one letter and three digits long.
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: S312
+            Real Answer: A400
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: T652
+            Real Answer: A536
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: A252
+            Real Answer: A251
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: B252
+            Real Answer: B252
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: C351
+            Real Answer: C155
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: C422
+            Real Answer: C425
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: E152
+            Real Answer: E152
+            Grade: 1
+        8:
+            Classification: Type 1
+            LLM Answer: F163
+            Real Answer: F623
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: K523
+            Real Answer: K523
+            Grade: 1
+        10:
+            Classification: Type 1
+            LLM Answer: L020
+            Real Answer: L200
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: L352
+            Real Answer: L342
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: S545
+            Real Answer: S356
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: S313
+            Real Answer: S312
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: T260
+            Real Answer: T260
+            Grade: 1
+        15:
+            Classification: Type 1
+            LLM Answer: T522
+            Real Answer: T520
+            Grade: 0
+        16:
+            Classification: Type 1
+            LLM Answer: W030
+            Real Answer: W330
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: F626
+            Real Answer: F622
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: F326
+            Real Answer: F326
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: H533
+            Real Answer: H530
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: K100
+            Real Answer: K100
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: M240
+            Real Answer: M240
+            Grade: 1
+        6:
+            Classification: Type 1
+            LLM Answer: R020
+            Real Answer: R200
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: S020
+            Real Answer: S000
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: U314
+            Real Answer: U143
+            Grade: 0
+
+Problem 4:
+    Part a:
+        18:
+            Classification: Type 2
+            LLM Answer: The girl will see the old woman.
+            Real Answer: The old woman will find you (sg.).
+            Grade: 0
+        19:
+            Classification: Type 2
+            LLM Answer: He left you (sg.).
+            Real Answer: He left you (sg.).
+            Grade: 2
+        20:
+            Classification: Type 2
+            LLM Answer: The stick ran away.
+            Real Answer: The dog doesn't have a stick.
+            Grade: 0
+        21:
+            Classification: Type 2
+            LLM Answer: I stole the girl.
+            Real Answer: You (sg.) stole the girl.
+            Grade: 1
+        22:
+            Classification: Type 2
+            LLM Answer: The old woman saw you (sg.).
+            Real Answer: You (sg.) struck me.
+            Grade: 0
+        23:
+            Classification: Type 2
+            LLM Answer: The old man will jump with the spear.
+            Real Answer: She jumped with the spear.
+            Grade: 1
+    Part b:
+        24:
+            Classification: Type 2
+            LLM Answer: Yagujba ngiyinga.
+            Real Answer: Yagujba nyungu.
+            Grade: 1
+        25:
+            Classification: Type 2
+            LLM Answer: Gulugba ngu.
+            Real Answer: Gulugbi ga ngunybulugi.
+            Grade: 1
+        26:
+            Classification: Type 2
+            LLM Answer: Juwani gina dagumajba gijilulungunya.
+            Real Answer: Juwa gu bardba gijilulunguji.
+            Grade: 1
+        27:
+            Classification: Type 2
+            LLM Answer: Ngirra nga gijilulu.
+            Real Answer: Ngirrajba gunu janji.
+            Grade: 1
+        28:
+            Classification: Type 2
+            LLM Answer: Alanga gu ngajbi.
+            Real Answer: Ngajbi ngiyinya alangani.
+            Grade: 0
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 3
+            LLM Answer: 1. Each half-line is divided into two parts of equal syllabic length.
+2. The meter involves a specific pattern of syllable stresses and a set number of syllables.
+3. The structure often features a pattern of alliteration or rhyme.
+            Real Answer: Not provided
+            Grade: 2
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: war ismaaciil daarood
+            Real Answer: ×
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: dir miyaad wadaagtaan
+            Real Answer: √
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: labadaad ka duudiye
+            Real Answer: √
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: adiga iyo deriskaa
+            Real Answer: √
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: ciid iyo doolo diraac
+            Real Answer: ×
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: waad nimankaad ma diidi
+            Real Answer: Not provided
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: qoran daftarkaaga kuma
+            Real Answer: Not provided
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: helo dabacayuun kulaan
+            Real Answer: Not provided
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: kuu miyuu tari wax dafir
+            Real Answer: Not provided
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: dumarkii furayaan ma
+            Real Answer: √
+            Grade: 1
+
+Total Score: 32/92

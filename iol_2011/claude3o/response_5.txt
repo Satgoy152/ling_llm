@@ -1,0 +1,16 @@
+Here are the solutions to the barcode problem:
+(a) Matching the barcodes to the facts:
+
+Toilet paper (Spain) is barcode E
+Smoked salmon (Ireland) is barcode B. Product code is 02661, so full code is 5-390266-102661. Checksum is 1.
+The Lost Symbol (ISBN book) is barcode I
+Pork steak (packed in store) is barcode A. Cost is 4 euros and 16 cents (20-416).
+Mop head is barcode D, full code 4-023103-075702. It is from Germany based on the system number 40.
+Cholesterol-lowering spread (Finland) is barcode F
+Sirloin steak (packed in store) is barcode C. Cost is 20-928 or 9 euros and 28 cents.
+Korsordboken (Sweden) is barcode G. Full code is 7-310000-052790.
+Mots Codés (France) is barcode H
+
+(b) The barcode 1-453927-348790 is drawn in the provided grid.
+(c) The barcode from the Norwegian newspaper Dagbladet has the full code 7-020029-310005. Based on the list of system numbers, the code for Norway appears to be 70.
+In summary, the key was matching the facts to the visual barcode patterns to determine the full codes, origins and other details. The grid allowed constructing a barcode from the provided partial code. And the Norwegian barcode revealed the likely system number for Norway by process of elimination.

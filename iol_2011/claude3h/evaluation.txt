@@ -1,0 +1,246 @@
+I understand. I'll grade the LLM's answers based on the provided rubric and classifications. I'll follow the output format you specified, grading each subquestion individually.
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: kekēskahæq - we_{1+2} bite it through
+            Real Answer: kekēskahæq - we (inclusive) chop it through, break it through by tool
+            Grade: 1
+        2: 
+            Classification: Type 2
+            LLM Answer: nepāhkenan - I open it up
+            Real Answer: nepāhkenan - I open, uncover it by hand (√ pāhk) OR I break it off, tear it off by hand (√ pahk)
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: wǣpāhpew - he begins to open up
+            Real Answer: wǣpāhpew - he begins laughing
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: nekewǣpeqtam
+            Real Answer: newǣpahtan
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: kekētahtæq
+            Real Answer: kekāwenæq
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: kewǣpānæhkæw
+            Real Answer: tawānæhkæw
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: kekǣtohnæw
+            Real Answer: ketōhnæw
+            Grade: 0
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: [bø:ga]
+            Real Answer: [bø:va]
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: [knOvaR]
+            Real Answer: [kno:ar]
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: [kvø:a]
+            Real Answer: [kvø:a]
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: [løjuR]
+            Real Answer: [lø:vur]
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: [plA:ga]
+            Real Answer: [plOava]
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: [skaði]
+            Real Answer: [skEaji]
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: [tOiwguR]
+            Real Answer: [tOijur]
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: [tru:ji]
+            Real Answer: [tr0uwi]
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 3
+            LLM Answer: [j] represents the sound of 'y' in 'yum', [w] represents the sound of 'w' in 'win', [E], [O], [ø], [0] are different vowel sounds, The colon ':' denotes vowel length
+            Real Answer: Vowels: a [Ea], á [Oa], e [e:], ei [ai], ey [Ei], i [i:], o [o:], oy [Oi], ó [Ou], u [u:], ú [0u], ø [ø:]. Between vowels: ð = g. Rules for ð/g transformation: [w] | [u(:)], [j] | [i(:)] or [i(:)], [v] | [u(:)], [v] in a noun, [∅] in a verb.
+            Grade: 1
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: mùsúĚ á gbòmùĚ - the woman's fish
+            Real Answer: mùsúĚ á gbòmùĚ - the woman's fish
+            Grade: 2
+        2:
+            Classification: Type 2
+            LLM Answer: léN kúndúĚ á nỳımı̀̀ıĚ - the eagle's short snake
+            Real Answer: léN kúndúĚ á nỳımı̀̀ıĚ - the short child's snake
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: gbòmù-lÈndÈ kúndúĚ - the boat's short snake
+            Real Answer: gbòmù-lÈndÈ kúndúĚ - the short boat
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: kándÒ-lÈndÉ lÒÒĚ - the high sky's small thing
+            Real Answer: kándÒ-lÈndÈ lÒÒĚ - the small airplane
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: kÒánjà nỳımı̀̀ıĚ - the eagle's snake
+            Real Answer: kÒánjàĚ á nỳımı̀̀ıĚ - the eagle's snake
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: kÒánjà-lèNĚ kúndúĚ - the small child's eye
+            Real Answer: léN lÒÒĚ já - the small child's eye
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: kà́ıĚ jǎNĚ mùsú - the tall man's sister
+            Real Answer: kà́ı jǎNĚ lÒÒ-mùsù - the tall man's sister
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: kÒánjà-lèN nỳımı̀̀ıĚ - the small baby-snake
+            Real Answer: nỳımı̀̀ı-lèN lÒÒĚ - the small baby-snake
+            Grade: 0
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: acalhuah - canoe owner
+            Real Answer: a-cal-li - canoe, "water house"
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: achilli - water pepper
+            Real Answer: a-tl - water
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: atl - water
+            Real Answer: cal-li - house
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: callah - house
+            Real Answer: cal-lah - village
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: calhuah - master of house
+            Real Answer: chil-li - chili
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: chilatl - chili water
+            Real Answer: chil-a-tl - chili water
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: chilli - chili
+            Real Answer: col-li - grandfather/ancestor
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: colli - grandfather/ancestor
+            Real Answer: col-tzintli - revered grandfather/ancestor
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: coltzintli - revered grandfather/ancestor
+            Real Answer: cone-huah - mother, "one who has child(ren)"
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: conehuah - master of child
+            Real Answer: cone-tl - child
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: conehuahcapil - possessor of stones
+            Real Answer: oquich-cone-tl - boy, male child
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: conetl - child
+            Real Answer: te-huah - possessor of stones
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: oquichconetl - boy
+            Real Answer: totol-te-tl - turkey egg
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: callah
+            Real Answer: calli
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: tetl
+            Real Answer: tetl
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: atlahuah
+            Real Answer: ahuah
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: oquichtotoltzintli
+            Real Answer: oquichtzintli
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: cacahuatl
+            Real Answer: cacahua-tl
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: cacahuatetl
+            Real Answer: cacahua-te-tl
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: cacahuaatl
+            Real Answer: cacahua-a-tl
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: cacahuahuah
+            Real Answer: cacahua-huah
+            Grade: 1
+
+Total Score: 12/75

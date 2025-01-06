@@ -1,0 +1,126 @@
+### Problem 1: Menominee Verb Structure
+#### Structure:
+- Prefixes:
+  - `ne-` — I
+  - `ke-` — we (inclusive)
+  - `——` — he
+- Verb Root Modifiers:
+  - `kaw` — down
+  - `ket` — out
+  - `kēsk` — through
+  - `pahk` — off
+  - `pāhk` — open
+  - `pīt` — hither
+  - `taw` — pierce
+  - `wack` — around
+  - `wǣp` — begin
+
+- Intransitive Verb Suffixes:
+  - `-āhpe` — laughing
+  - `-ānæhkæ` — digging
+  - `-eqta` — —
+  - `-ohnæ` — walking
+
+- Subject Suffixes:
+  - `-m` — I
+  - `-q` — we (inclusive)
+  - `-w` — he
+
+- Transitive Verb Suffixes:
+  - `-ah` — by tool
+  - `-aht` — by mouth
+  - `-en` — by hand
+  - `-es` — cutting
+
+- Vowel Lengthening: If both first vowels in the word are short, the second becomes long (e > ǣ).
+
+#### (a) Translations:
+1. `kekēskahæq` — we (inclusive) chop it through, break it through by tool.
+2. `nepāhkenan`:
+   - I open, uncover it by hand (√ `pāhk`)
+   - I break it off, tear it off by hand (√ `pahk`)
+3. `wǣpāhpew` — he begins laughing.
+
+#### (b) Translations:
+1. I begin to eat it: `newǣpahtan`
+2. We (inclusive) lay it flat by hand: `kekāwenæq`
+3. He digs a hole: `tawānæhkæw`
+4. He walks out: `ketōhnæw`
+
+---
+
+### Problem 2: Faroese Phonology
+#### (a) Phonetic Transcriptions:
+1. `bøga` — [bø:va]
+2. `knoðar` — [kno:ar]
+3. `kvøða` — [kvø:a]
+4. `løgur` — [lø:vur]
+5. `plága` — [plOava]
+6. `skaði` — [skEaji]
+7. `toygur` — [tOijur]
+8. `trúgi` — [tr0uwi]
+
+#### (b) Rules:
+1. Vowels: a [Ea], á [Oa], e [e:], ei [ai], ey [Ei], i [i:], o [o:], oy [Oi], ó [Ou], u [u:], ú [0u], ø [ø:].
+2. Between vowels:
+   - `ð = g`
+3. Rules for `ð/g` transformation:
+   1. [w] | [u(:)] 
+   2. [j] | [i(:)] or [i(:)]
+   3. [v] | [u(:)]
+   4. [v] in a noun, [∅] in a verb.
+
+---
+
+### Problem 3: Adjectival Modifiers
+#### Rules:
+1. Adjectives follow their nouns.
+2. A noun (or the adjective if there is one) gets the marker `-Ě`, unless it is inalienably possessed (body part, kinship term); in the latter case, it is preceded by the possessor.
+3. Alienable possession is expressed by `á` between the possessor and the possessed.
+4. In compound nouns, the last syllable has a low tone (`).
+
+#### (a) Translations:
+1. `mùsúĚ á gbòmùĚ` — the woman’s fish
+2. `léN kúndúĚ á nỳımı̀̀ıĚ` — the short child’s snake
+3. `gbòmù-lÈndÈ kúndúĚ` — the short boat
+
+#### (b) Translation:
+1. `kándÒ-lÈndÈ lÒÒĚ` — the small airplane
+
+#### (c) Translations:
+1. The eagle’s snake: `kÒánjàĚ á nỳımı̀̀ıĚ`
+2. The small child’s eye: `léN lÒÒĚ já`
+3. The tall man’s sister: `kà́ı jǎNĚ lÒÒ-mùsù`
+4. The small baby-snake: `nỳımı̀̀ı-lèN lÒÒĚ`
+
+---
+
+### Problem 4: Nahuatl Noun Compounding
+#### (a) Vocabulary:
+1. `a-cal-li` — canoe, “water house”
+2. `a-tl` — water
+3. `cal-li` — house
+4. `cal-lah` — village
+5. `chil-li` — chili
+6. `chil-a-tl` — chili water
+7. `col-li` — grandfather/ancestor
+8. `col-tzintli` — revered grandfather/ancestor
+9. `cone-huah` — mother, “one who has child(ren)”
+10. `cone-tl` — child
+11. `oquich-cone-tl` — boy, male child
+12. `te-huah` — possessor of stones
+13. `totol-te-tl` — turkey egg
+
+#### (b) Translations:
+1. house: `calli`
+2. stone: `tetl`
+3. possessor of water: `ahuah`
+4. revered man/husband: `oquichtzintli`
+
+#### (c) Compound Words:
+1. `cacahua-tl` — cocoa
+2. `cacahua-te-tl` — cocoa bean
+3. `cacahua-a-tl` — cocoa drink
+4. `cacahua-huah` — possessor of cocoa
+
+

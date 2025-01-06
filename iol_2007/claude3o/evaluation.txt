@@ -1,0 +1,197 @@
+Based on the classification and real answers provided, I will grade each problem according to the rubric. Here's the grading:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: ⠠⠃⠗⠊⠝⠛ ⠲⠚⠔ ⠏⠊⠵⠵⠁⠎ ⠁⠝⠙ ⠧⠑⠗⠍⠕⠥⠞⠓⠂ ⠠⠍⠁⠗⠅⠖
+            Real Answer: Not provided
+            Grade: 2 (assuming it's correct as no real answer was provided)
+
+Problem 2:
+    Part 1:
+        1:
+            Classification: Type 2
+            LLM Answer: The combination "kw" always stands for a single specific consonant in Movima. This can be seen in words like "bakwanyiń" and "vuskwa".
+            Real Answer: Not provided
+            Grade: 2 (assuming it's correct as no real answer was provided)
+    Part 2:
+        1:
+            Classification: Type 1
+            LLM Answer: kas asa:sa'
+            Real Answer: kas asa:sa'
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: kas enferme:ra:ra'
+            Real Answer: kas ena'ferme:ra
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: kas ji#aka'pa
+            Real Answer: kas ji!aka'pa
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: kas deje'
+            Real Answer: kas deka:ka'
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: kas rulrula'
+            Real Answer: kas rula'rul
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: kas tipoya'su:da
+            Real Answer: kas tipoya'su:da
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: kas wurula:la'
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: kas dewaja'na
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: kas deka'wajna
+            Grade: 0
+
+Problem 3:
+    Part 1:
+        1:
+            Classification: Type 2
+            LLM Answer: The LLM provided a list of 15 verb forms with their English translations.
+            Real Answer: The real answer provided a similar list with explanations of verb structure.
+            Grade: 2 (The translations match the real answer)
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: 1 - abo
+            Real Answer: Not provided
+            Grade: 0 (incorrect based on context)
+        2:
+            Classification: Type 1
+            LLM Answer: 2 - mer
+            Real Answer: Not provided
+            Grade: 1 (correct based on context)
+        3:
+            Classification: Type 1
+            LLM Answer: 3 - thonith
+            Real Answer: Not provided
+            Grade: 1 (correct based on context)
+        4:
+            Classification: Type 1
+            LLM Answer: 4 - tondor
+            Real Answer: Not provided
+            Grade: 1 (correct based on context)
+        5:
+            Classification: Type 1
+            LLM Answer: 5 - nif
+            Real Answer: Not provided
+            Grade: 0 (incorrect based on context)
+        6:
+            Classification: Type 1
+            LLM Answer: 6 - sas
+            Real Answer: Not provided
+            Grade: 0 (incorrect based on context)
+        7:
+            Classification: Type 1
+            LLM Answer: 7 - ithin
+            Real Answer: Not provided
+            Grade: 1 (correct based on context)
+        8:
+            Classification: Type 1
+            LLM Answer: 8 - meregh
+            Real Answer: Not provided
+            Grade: 1 (correct based on context)
+        9:
+            Classification: Type 1
+            LLM Answer: 9 - thef
+            Real Answer: Not provided
+            Grade: 1 (correct based on context)
+        10:
+            Classification: Type 1
+            LLM Answer: 10 - an
+            Real Answer: Not provided
+            Grade: 0 (incorrect based on context)
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: mer abo sas $ meregh = tondor abo mer an thef abo meregh
+            Real Answer: mer abo sas = 7 (6 + 1)
+            Grade: 0 (completely different)
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: nif ithin abo ithin - 5 7 + 7 = 57
+            Real Answer: nif ithin abo ithin = 6^2 3+3 = 111
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: mer an thef abo meregh - 2 $ 9 + 8 = 26
+            Real Answer: mer an thef abo meregh = 6*2+5 = 17
+            Grade: 0
+    Part d:
+        1:
+            Classification: Type 1
+            LLM Answer: 58 - nif ithin abo meregh
+            Real Answer: 58 = 6&+18+4 = nif abo tondor abo thonith
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: 87 - meregh ithin abo ithin
+            Real Answer: 87 = 6& 2+6*2+3 = nif thef abo mer an thef abo ithin
+            Grade: 0
+
+Problem 5:
+    Part a:
+        19:
+            Classification: Type 1
+            LLM Answer: usta - osta - master
+            Real Answer: usta - osta
+            Grade: 1
+        20:
+            Classification: Type 1
+            LLM Answer: gözenek - küzänäk - pore
+            Real Answer: gözenek - küzänäḱ
+            Grade: 1
+        21:
+            Classification: Type 1
+            LLM Answer: yılan - yılan - snake
+            Real Answer: yılan - yılan
+            Grade: 1
+        22:
+            Classification: Type 1
+            LLM Answer: yedi&er - cide&är - seven each
+            Real Answer: yedişer - cideşär
+            Grade: 0
+        23:
+            Classification: Type 1
+            LLM Answer: bilezik - beläzek - bracelet
+            Real Answer: bilezik - beläzek
+            Grade: 1
+        24:
+            Classification: Type 1
+            LLM Answer: üstünde - östendä - on top of
+            Real Answer: üstünde - östendä
+            Grade: 1
+        25:
+            Classification: Type 1
+            LLM Answer: bin - men - mount!
+            Real Answer: bin - men
+            Grade: 1
+        26:
+            Classification: Type 1
+            LLM Answer: yumru - yomrı - lump, swelling
+            Real Answer: yumru - yomrı
+            Grade: 1
+
+Total Score: 20/31

@@ -1,0 +1,215 @@
+Problem 1 Solution
+
+To solve this problem, we’ll analyze the provided Braille sentences and deduce how numbers and punctuation are represented in Braille, especially in the context of French Braille, since the system was devised for French and the note mentions the minimal use of ‘w’ in French.
+
+Understanding the Braille Representation:
+
+	1.	Braille Alphabet:
+	•	Braille uses combinations of raised dots in a 2x3 grid.
+	•	In French Braille, numbers are represented by the letters ‘a’ to ‘j’ (dots 1 to 10) without a number sign, differing from English Braille, which uses a number sign.
+	2.	Letters and Numbers in French Braille:
+	•	‘a’ (⠁) represents ‘1’
+	•	‘b’ (⠃) represents ‘2’
+	•	‘c’ (⠉) represents ‘3’
+	•	‘d’ (⠙) represents ‘4’
+	•	‘e’ (⠑) represents ‘5’
+	•	‘f’ (⠋) represents ‘6’
+	•	‘g’ (⠛) represents ‘7’
+	•	‘h’ (⠓) represents ‘8’
+	•	‘i’ (⠊) represents ‘9’
+	•	‘j’ (⠚) represents ‘0’
+	3.	Analyzing the Sentences:
+	•	“She is 89 years old.”
+	•	Braille: ⠠⠎⠓⠑ ⠊⠎ ⠤⠓⠊⠂⠤⠊⠔ ⠽⠑⠁⠗⠎ ⠕⠇⠙⠲
+	•	The symbol ⠤ represents the number sign in this context.
+	•	⠓ (h) and ⠊ (i) correspond to ‘8’ and ‘9’, respectively.
+	•	So, ⠤⠓⠊ represents ‘89’.
+	•	“Bring 40 pizzas and vermouth, Mark!”
+	•	Braille: ⠠⠃⠗⠊⠝⠛ ⠲⠚⠔ ⠏⠊⠵⠵⠁⠎ ⠁⠝⠙ ⠧⠑⠗⠍⠕⠥⠞⠓⠂ ⠠⠍⠁⠗⠅⠖
+	•	Here, ⠲ serves as the number sign.
+	•	⠚ (j) and ⠔ are used to represent ‘4’ and ‘0’ (since ‘j’ is ‘0’ in French Braille).
+
+Conclusion:
+
+The numbers in the Braille sentences are represented using the letters corresponding to numbers in French Braille, with specific symbols like ⠤ or ⠲ serving as number signs. Punctuation marks like commas and periods are also represented using specific Braille symbols.
+
+Problem 2 Solution
+
+§1. Identification of the Two-Letter Combination:
+
+In the Movima language data, the combination “kw” always stands for a single specific consonant. This is evident from words like:
+
+	•	itilakwan”i:ye (little boy)
+	•	bakwanyiń (my wrist)
+
+Here, “kw” represents a labialized velar consonant, functioning as a single sound.
+
+§2. Filling in the Gaps:
+
+Based on the patterns observed in the provided data, the negative form in Movima is constructed by:
+
+	1.	Prefixing “kas” to the base form.
+	2.	Inserting “a’” after the first syllable or vowel.
+	3.	Adding “a’” at the end of the word.
+	4.	Sometimes lengthening the vowel after insertion.
+
+Applying the Pattern to Fill the Gaps:
+
+	1.	as (to sit)
+	•	Negative Form: kas asa:sa’
+	2.	enferme:ra (nurse)
+	•	Negative Form: kas ena’ferme:ra
+	3.	ji#a:pa (to grate manioc)
+	•	Negative Form: kas ji#a’a:pa’
+	4.	de (to lie)
+	•	Negative Form: kas dea:na’
+	5.	rulrul (jaguar)
+	•	Negative Form: kas rula’lrul
+	6.	tipoysu:da (dressed in tipoy)
+	•	Negative Form: kas tipoya’su:da
+
+Explanation:
+
+	•	“kas” is consistently used as a prefix for negative forms.
+	•	The insertion of “a’” follows the first syllable, modifying the root.
+	•	The endings often have an additional “a’”, marking the negative.
+
+Notes on Pronunciation:
+
+	•	y is pronounced as in “yahoo.”
+	•	” represents the sound “ch” as in “church.”
+	•	Symbols like #, !, and ’ are unique consonants in Movima.
+
+Problem 3 Solution
+
+Matching Georgian Verb Forms with English Translations:
+
+Understanding that in Georgian:
+
+	•	The prefix “v-” denotes the first person singular (I).
+	•	The prefix “i-” often denotes the second person singular (you).
+	•	The prefix “gv-” denotes the first person plural (we).
+	•	Suffixes may indicate tense or aspect.
+
+Correspondences:
+
+	1.	vtkvi - I said
+	2.	tkvi - you say
+	3.	kenit - you (pl.) did
+	4.	vkeni - I did
+	5.	inadiret - you (pl.) hunted
+	6.	vinadire - I hunted
+	7.	nadirob - you hunt
+	8.	itavmGdomareve - you presided
+	9.	vitavmGdomareve - I presided
+	10.	vsadilobt - we dine
+	11.	vivlit - I will dine
+	12.	vigoreb - we will walk
+	13.	visadileb - I will roll
+	14.	izamt - you (pl.) will do
+	15.	ambob - you said
+
+Explanation:
+
+	•	“v-” prefix indicates first person singular.
+	•	“i-” prefix indicates second person singular.
+	•	Verbs ending with ”-t” often denote plural forms.
+	•	Similar roots in verbs indicate similar meanings (e.g., “nadir” in hunting verbs).
+
+Conclusion:
+
+The correspondences are established based on the prefixes and suffixes that indicate person and number, along with the roots that signify the verb’s meaning.
+
+Problem 4 Solution
+
+§1. Determining the Squares:
+
+To solve this problem, we need to match the Ndom phrases to the squares of numbers from 1 to 10. However, due to insufficient data and arbitrary order, we cannot conclusively determine which phrase corresponds to which square without additional context or a key to the number words in Ndom.
+
+§2. Writing the Equality in Numerals:
+
+Given:
+
+	•	mer abo sas meregh = tondor abo mer an thef abo meregh
+
+Without knowing the numerical values of mer, sas, tondor, thef, and meregh, we cannot translate this equality into numerals.
+
+§3. Writing in Numerals:
+
+Similarly, without the numerical values of the Ndom number words, we cannot write:
+
+	•	nif ithin abo ithin
+	•	mer an thef abo meregh
+
+§4. Writing Out in Ndom:
+
+	•	58 and 87
+
+Without a lexicon or pattern to convert numerals into Ndom words, we cannot write these numbers in Ndom.
+
+Conclusion:
+
+Due to the lack of sufficient data on the Ndom numbering system, we are unable to provide accurate numerical translations or write numbers in Ndom.
+
+Problem 5 Solution
+
+Filling in the Gaps between Turkish and Tatar Words:
+
+We need to identify the cognates and fill in the missing words based on the patterns in sound changes between Turkish and Tatar.
+
+Sound Correspondences:
+
+	•	Turkish “y” often corresponds to Tatar “c” or “ç”.
+	•	Turkish ”% (ğ)” (silent or lengthens the preceding vowel) may correspond to Tatar “w” or be omitted.
+	•	Turkish “b” may correspond to Tatar “m”.
+	•	Turkish “g” corresponds to Tatar “k”.
+	•	Vowel harmony plays a significant role in both languages.
+
+Filled Gaps:
+
+	1.	Turkish: yedi%er (seven each)
+	•	Tatar: cite&er
+	•	Translation: seven each
+	2.	Turkish: bilezik (bracelet)
+	•	Tatar: milek
+	•	Translation: bracelet
+	3.	Turkish: üstünde (on top of)
+	•	Tatar: öste
+	•	Translation: on top of
+	4.	Turkish: bin (mount!)
+	•	Tatar: min
+	•	Translation: mount!
+	5.	Turkish: yumru (lump, swelling)
+	•	Tatar: ümre
+	•	Translation: lump, swelling
+	6.	Tatar: osta (master)
+	•	Turkish: usta
+	•	Translation: master
+	7.	Tatar: küzänäk (pore)
+	•	Turkish: gözeneği
+	•	Translation: pore
+	8.	Tatar: yılan (snake)
+	•	Turkish: yılan
+	•	Translation: snake
+
+Conclusion:
+
+By analyzing the phonetic changes and cognate patterns between Turkish and Tatar, we can fill in the missing words, ensuring they align with the translations provided.
+
+Notes:
+
+	•	Turkish Special Letters:
+	•	% (ğ): Soft ‘g’, often lengthens the preceding vowel.
+	•	ç: As in “church.”
+	•	& (ş): As in “ship.”
+	•	Pronunciation:
+	•	ä, ı, ö, ü: Specific Turkish vowels.
+	•	c: As in “jet.”
+	•	y: As in “yet.”
+
+Cultural References:
+
+	•	Boza: A traditional fermented drink in Turkey and surrounding regions.
+	•	Tipoy: A traditional garment worn by indigenous women.
+
+Good luck with your further studies in computational linguistics!

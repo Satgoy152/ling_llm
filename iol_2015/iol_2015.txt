@@ -269,7 +269,7 @@ To help you understand the structure of masafo, here are 10 half-lines which wer
 39. ka jannadaad daahiye  
 40. adiga iyo deriskaa
 41. digaxaarka mariyoo  
-42. ciid iyo doolo diraac  
+42. ciid iyo doolo diraac
 43. nooma keeneen darka  
 44. kala deyaayaa miyaan  
 45. wuxuun kaa danqaabaan

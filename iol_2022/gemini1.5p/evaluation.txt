@@ -1,0 +1,446 @@
+Based on the provided answers and classifications, here is the grading for each problem:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: I give him to you (pl).
+            Real Answer: I give him to you_{pl}.
+            Grade: 2
+    Part b:
+        10:
+            Classification: Type 2
+            LLM Answer: he gives us to you (sg)
+            Real Answer: He gives him to us.
+            Grade: 0
+        11:
+            Classification: Type 2
+            LLM Answer: you (sg) give me to him
+            Real Answer: You_{pl} give him to me.
+            Grade: 0
+        12:
+            Classification: Type 2
+            LLM Answer: they give us to you (sg)
+            Real Answer: They give us to you_{sg}.
+            Grade: 2
+    Part c:
+        13:
+            Classification: Type 1
+            LLM Answer: wəsəŝʷənatʷan
+            Real Answer: ŝʷəsənatʷan
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: šʼəsawəntʷan
+            Real Answer: asəŝʷtʷan
+            Grade: 0
+        15:
+            Classification: Type 1
+            LLM Answer: šʼastʷən
+            Real Answer: šʼəwtʷan
+            Grade: 0
+        16:
+            Classification: Type 1
+            LLM Answer: awəsənatʷən
+            Real Answer: wašʼtʷən
+            Grade: 0
+        17:
+            Classification: Type 1
+            LLM Answer: šʼašʼənatʷan
+            Real Answer: ašʼəntʷan
+            Grade: 0
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: X
+            Real Answer: G
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: Y
+            Real Answer: N
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: M
+            Real Answer: R
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: R
+            Real Answer: M
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: W
+            Real Answer: S
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: J
+            Real Answer: D
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: P
+            Real Answer: I
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: G
+            Real Answer: Z
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: N
+            Real Answer: K
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: 33.
+            Real Answer: C
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: D
+            Real Answer: L
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: I
+            Real Answer: V
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: S
+            Real Answer: B
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: 30.
+            Real Answer: U
+            Grade: 0
+        15:
+            Classification: Type 1
+            LLM Answer: K
+            Real Answer: A
+            Grade: 0
+        16:
+            Classification: Type 1
+            LLM Answer: B
+            Real Answer: F
+            Grade: 0
+        17:
+            Classification: Type 1
+            LLM Answer: V
+            Real Answer: H
+            Grade: 0
+        18:
+            Classification: Type 1
+            LLM Answer: 31.
+            Real Answer: T
+            Grade: 0
+        19:
+            Classification: Type 1
+            LLM Answer: A
+            Real Answer: E
+            Grade: 0
+        20:
+            Classification: Type 1
+            LLM Answer: T
+            Real Answer: Q
+            Grade: 0
+        21:
+            Classification: Type 1
+            LLM Answer: Q
+            Real Answer: P
+            Grade: 0
+        22:
+            Classification: Type 1
+            LLM Answer: 32.
+            Real Answer: W
+            Grade: 0
+        23:
+            Classification: Type 1
+            LLM Answer: E
+            Real Answer: O
+            Grade: 0
+        24:
+            Classification: Type 1
+            LLM Answer: 29.
+            Real Answer: J
+            Grade: 0
+        25:
+            Classification: Type 1
+            LLM Answer: U
+            Real Answer: Y
+            Grade: 0
+        26:
+            Classification: Type 1
+            LLM Answer: L
+            Real Answer: X
+            Grade: 0
+    Part b:
+        27:
+            Classification: Type 2
+            LLM Answer: he puts them next to something
+            Real Answer: He/it lies, is lying down.
+            Grade: 0
+        28:
+            Classification: Type 2
+            LLM Answer: they are torn in several places
+            Real Answer: He gets one.
+            Grade: 0
+        29:
+            Classification: Type 2
+            LLM Answer: he wraps them OR it is wrapped
+            Real Answer: He breaks it in several places, he breaks them.
+            Grade: 0
+    Part c:
+        30:
+            Classification: Type 1
+            LLM Answer: incháffàaka
+            Real Answer: ɬilli
+            Grade: 0
+        31:
+            Classification: Type 1
+            LLM Answer: ɬilaffi
+            Real Answer: ɬíllafka
+            Grade: 0
+        32:
+            Classification: Type 1
+            LLM Answer: ɬómbafka
+            Real Answer: ɬipìili
+            Grade: 0
+        33:
+            Classification: Type 1
+            LLM Answer: atanni
+            Real Answer: achanàali
+            Grade: 0
+    Part d:
+        1:
+            Classification: Type 2
+            LLM Answer: He turns it over. OR He flips it over.
+            Real Answer: He tears them.
+            Grade: 0
+
+Problem 3:
+    Part a:
+        17:
+            Classification: Type 2
+            LLM Answer: I ask if it is us whom you (pl) call.
+            Real Answer: I ask if it is you_{pl} whom my grandfather calls.
+            Grade: 1
+        18:
+            Classification: Type 2
+            LLM Answer: I will not work in Upington.
+            Real Answer: I will not work in Upington.
+            Grade: 2
+        19:
+            Classification: Type 2
+            LLM Answer: The woman is afraid of my dog.
+            Real Answer: The woman is afraid of my dog.
+            Grade: 2
+        20:
+            Classification: Type 2
+            LLM Answer: Is it you (sg) whom he will call?
+            Real Answer: It is I who will call you_{sg}.
+            Grade: 0
+        21:
+            Classification: Type 2
+            LLM Answer: Whom do you (pl) see?
+            Real Answer: Whom do you_{pl} see?
+            Grade: 2
+        22:
+            Classification: Type 2
+            LLM Answer: Who likes you (sg)?
+            Real Answer: Who likes me?
+            Grade: 1
+    Part b:
+        23:
+            Classification: Type 2
+            LLM Answer: na ɡǀi aŋki si ǃʔai ŋ ǁu ǁãu
+            Real Answer: i xaŋki ke ǁu si !ʔai a ǁãu
+            Grade: 1
+        24:
+            Classification: Type 2
+            LLM Answer: ɡǀa xae ŋǀŋ ǂhun ǃaukea ŋ
+            Real Answer: a kee ŋ ǂhun ǃaukea ŋǁa
+            Grade: 1
+        25:
+            Classification: Type 2
+            LLM Answer: kiɟa xae u si ǂqheeke
+            Real Answer: kiɟa xae u si ǂqheeke ŋǁa
+            Grade: 1
+        26:
+            Classification: Type 2
+            LLM Answer: ŋǀŋ kacuuʔi ŋ ɡǀi xae ŋ ǃuu ǂʔii ŋǁa
+            Real Answer: na kacuuʔi ŋ ɡǀi ǃuu xae a ǂʔii ŋǁa
+            Grade: 1
+        27:
+            Classification: Type 2
+            LLM Answer: cuu xae si ǀqhõʕo ŋ ǃhaeke
+            Real Answer: cuu xae si ǀqhõʕo ŋ !haeke
+            Grade: 2
+        28:
+            Classification: Type 2
+            LLM Answer: u ŋǀii ɡǀu
+            Real Answer: gǀu ŋǀii i
+            Grade: 1
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: 8
+            Real Answer: 19
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: nhupa
+            Real Answer: nhupa
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: piyaka
+            Real Answer: piyaka
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: kadnhini
+            Real Answer: lhuka
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: kadnhini
+            Real Answer: apityi
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: thanti
+            Real Answer: kupaka
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: wardu
+            Real Answer: amanyi
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: kaku
+            Real Answer: thanti
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: amanyi
+            Real Answer: wardu
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: amanyi
+            Real Answer: lhuka
+            Grade: 0
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: phia¹¹
+            Real Answer: phia¹¹
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: kiʔ⁴²
+            Real Answer: liʔ²⁴
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: taːnʔ⁴²
+            Real Answer: taːnʔ⁴²
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: pha⁵⁵
+            Real Answer: pha⁵⁵
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: kaːʔ²⁴
+            Real Answer: ikaʔ
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: ka⁴²
+            Real Answer: kaʔ²⁴
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: taːi³³
+            Real Answer: tapa
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: laːnʔ⁴²
+            Real Answer: pa¹¹
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: pha⁵⁵
+            Real Answer: mɨtay
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: phiaːn¹¹
+            Real Answer: taːiʔ⁴²
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: pɛ²⁴
+            Real Answer: talàm
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: tu⁵⁵
+            Real Answer: laːnʔ⁴²
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: tha³³
+            Real Answer: lipùh
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: No answer provided
+            Real Answer: phu⁵⁵
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: No answer provided
+            Real Answer: pilàn
+            Grade: 0
+        15:
+            Classification: Type 1
+            LLM Answer: No answer provided
+            Real Answer: phiaːn¹¹
+            Grade: 0
+        16:
+            Classification: Type 1
+            LLM Answer: No answer provided
+            Real Answer: pia³³
+            Grade: 0
+        17:
+            Classification: Type 1
+            LLM Answer: No answer provided
+            Real Answer: phu⁵⁵
+            Grade: 0
+        18:
+            Classification: Type 1
+            LLM Answer: No answer provided
+            Real Answer: tha¹¹
+            Grade: 0
+
+Total Score: 21/142

@@ -1,0 +1,84 @@
+Here are my solutions to the problems:
+Problem 1:
+(a) Translations:
+
+kekēskahæq - we_{1+2} bite it through
+nepāhkenan - I open it up
+wǣpāhpew - he begins to open up
+
+(b) Translations to Menominee:
+
+I begin to eat it - nekewǣpeqtam
+we_{1+2} lay it flat by hand - kekētahtæq
+he digs a hole - kewǣpānæhkæw
+he walks out - kekǣtohnæw
+
+Problem 2:
+(a) Filling in the gaps:
+
+bøga - [bø:ga]
+knoðar - [knOvaR]
+kvøða - [kvø:a]
+løgur - [løjuR]
+plága - [plA:ga]
+skaði - [skaði]
+toygur - [tOiwguR]
+trúgi - [tru:ji]
+
+(b) Rules used:
+
+[j] represents the sound of 'y' in 'yum'
+[w] represents the sound of 'w' in 'win'
+[E], [O], [ø], [0] are different vowel sounds
+The colon ':' denotes vowel length
+
+Problem 3:
+(a) Translations:
+
+mùsúĚ á gbòmùĚ - the woman's fish
+léN kúndúĚ á nỳımı̀̀ıĚ - the eagle's short snake
+gbòmù-lÈndÈ kúndúĚ - the boat's short snake
+
+(b) Corrected phrase: kándÒ-lÈndÉ lÒÒĚ - the high sky's small thing
+(c) Translations to Vai:
+
+the eagle's snake - kÒánjà nỳımı̀̀ıĚ
+the small child's eye - kÒánjà-lèNĚ kúndúĚ
+the tall man's sister - kà́ıĚ jǎNĚ mùsú
+the small baby-snake - kÒánjà-lèN nỳımı̀̀ıĚ
+
+Problem 4:
+(a) Correct correspondences:
+
+acalhuah - canoe owner
+achilli - water pepper
+atl - water
+callah - house
+calhuah - master of house
+chilatl - chili water
+chilli - chili
+colli - grandfather/ancestor
+coltzintli - revered grandfather/ancestor
+conehuah - master of child
+conehuahcapil - possessor of stones
+conetl - child
+oquichconetl - boy
+oquichhuah - man/husband
+oquichtotoltzintli - revered turkey-cock
+tehuah - turkey egg
+tetlah - wife
+totoltetl - turkey
+
+(b) Translations to Nahuatl:
+
+house - callah
+stone - tetl
+possessor of water - atlahuah
+revered man/husband - oquichtotoltzintli
+
+(c) Translations to English:
+
+cacahuatl - cacao
+cacahuatetl - cacao seed
+cacahuaatl - cacao water
+cacahuahuah - cacao owner

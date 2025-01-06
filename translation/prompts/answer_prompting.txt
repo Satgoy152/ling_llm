@@ -1,0 +1,15 @@
+Act as an expert of linguistics and reasoning. I am working on a project on benchmarking LLMs performance on various linguistic problems. 
+To do so I am developing a dataset of problems and solutions from the international linguistics olympiad (iol). 
+The generated answers from the LLM have a lot of extra text. Help me extract the just answers that the LLM generated. Problems have also been classified based on a rubric.
+
+The problems the LLM was given:
+
+
+And the solultions:
+
+
+LLM generated answers:
+
+Return what the LLM answered for each question in the most minimal way possible:
+
+

@@ -1,0 +1,55 @@
+I will classify the questions based on the provided rubric.
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 1
+        2:
+            Classification: Type 1
+        3:
+            Classification: Type 1
+        4:
+            Classification: Type 1
+        5: 
+            Classification: Type 1
+        6:
+            Classification: Type 1
+        7:  
+            Classification: Type 1
+        8:      
+            Classification: Type 1
+        9:    
+            Classification: Type 1
+        10:   
+            Classification: Type 1
+        11:  
+            Classification: Type 1
+    Part b:
+        1:
+            Classification: Type 1
+        2:
+            Classification: Type 1
+        3:
+            Classification: Type 1
+        4:
+            Classification: Type 1
+        5:
+            Classification: Type 1
+        6:
+            Classification: Type 1
+    Part c:
+        1:
+            Classification: Type 2
+        2:
+            Classification: Type 2
+        3:
+            Classification: Type 2
+        4:
+            Classification: Type 2
+        5:
+            Classification: Type 2
+
+Total Questions: 22
+    Type 1: 17
+    Type 2: 5
+    Type 3: 0

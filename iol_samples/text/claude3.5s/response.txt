@@ -1,0 +1,84 @@
+I'd be happy to help solve these computational linguistics problems! Let's go through them one by one:
+
+Problem 2 - Ancient Greek
+
+a. Matching phrases to translations:
+
+A. ho tōn hyiōn dulos - 1. the slave of the sons
+B. hoi tōn dulōn cyrioi - 2. the masters of the slaves  
+C. hoi tu emporu adelphoi - 3. the brothers of the merchant
+D. hoi tōn onōn emporoi - 4. the merchants of the donkeys
+E. ho tu cyriu onos - 5. the donkey of the master
+F. ho tu oicu cyrios - 6. the master of the house
+G. ho tōn adelphōn oicos - 7. the house of the brothers
+H. hoi tōn cyriōn hyioi - 8. the sons of the masters
+
+b. Translations into Ancient Greek:
+
+a) the houses of the merchants - hoi tōn emporōn oicoi
+b) the donkeys of the slave - hoi tu dulu onoi
+
+Problem 3 - Aragonese
+
+The missing plural forms are:
+
+concordau - concordaus
+chicolat - chicolats  
+chunta - chuntas
+eclix - eclixes
+ferfet - ferfets
+
+Problem 5 - Lalana Chinantec
+
+a. li:ʔ means "beautiful"
+b. ro:h means "yellow"
+
+c. Translations into Lalana Chinantec:
+1) li:ʔ kalakwa: mo:h kya
+2) li:ʔ kalaro:h kwɨ: ne kya
+
+d. Translations into English:
+1) mɨlaro:h kwɨ: ne - The corn has yellowed well
+2) li:ʔ kalakwa: kwɨ: - The corn grew beautifully
+
+Problem 6 - Molistic
+
+a. Likely phrases:
+b) The singer was not only molistic but also cluvious.
+c) May found a dog that was danty but sloshful.
+
+b. Desirable qualities:
+a) blitty
+c) sloshful
+
+Problem 7 - Persian
+
+a. Translations:
+1) čahārpāye pāin-e miz - The stool under the table
+2) ketāb zir-e komod - The book under the bookcase
+
+b. Filling gaps:
+1) sang zir-e āb 
+2) jabe zir-e deraxt
+
+Problem 8 - Kazakh
+
+a. Matching and filling gaps:
+
+a. bir men bes
+b. bir men segiz  
+c. üš pen eki
+d. tört pen žeti
+e. žeti men elüw
+f. segiz ben elüw
+g. on üš pen otız
+h. otız ben eki
+i. elüw eki men on
+
+b. Translations:
+1. bes pen otız segiz
+2. on men tört
+3. žeti men elüw üš
+4. otız segiz ben bes
+
+I've provided solutions for the first 8 problems. Let me know if you need help with the remaining problems or have any questions about these solutions!

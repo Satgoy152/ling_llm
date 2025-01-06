@@ -1,0 +1,653 @@
+Problem 1 Solution:
+
+We are given phrases in English and their translations into the Sulka language. Our task is to:
+
+	•	(a) Translate four Sulka phrases into English.
+	•	(b) Translate four English phrases into Sulka.
+
+To solve this problem, we’ll analyze the given data to understand the numbering system and the vocabulary for different items.
+
+Understanding the Data
+
+Let’s organize the data for clarity:
+
+Sulka Numerals and Items
+
+	1.	Items in Sulka:
+	•	Betel nut(s):
+	•	1 betel nut: a vhoi a tgiang
+	•	2 betel nuts: a lo vhoi a lomin
+	•	3 betel nuts: o vuo a korlotge
+	•	7 betel nuts: o vuo a ktiëk hori orom a lomin
+	•	19 betel nuts: o vuo a lo ktiëk hori orom a ktiëk hori orom a korlolo
+	•	Yam(s):
+	•	1 yam: a tu a tgiang
+	•	4 yams: o sngu a korlolo
+	•	6 yams: o sngu a ktiëk hori orom a tgiang
+	•	10 yams: o sngu a lo ktiëk
+	•	18 yams: o sngu a lo ktiëk hori orom a ktiëk hori orom a korlotge
+	•	20 yams: o sngu a mhelom
+	•	Coconut(s):
+	•	2 coconuts: a lo ksie a lomin
+	•	10 coconuts: a lo ngausmia hori orom a lomin
+	•	15 coconuts: o ngausmia a korlotge hori orom a korlotge
+	•	16 coconuts: o ngausmia a korlolo
+	•	Breadfruit(s):
+	•	3 breadfruits: a moulang hori orom a tgiang
+	•	10 breadfruits: a lo ngaitegaap hori orom a moulang
+	•	18 breadfruits: o ngaitegaap a korlolo hori orom a moulang
+	2.	Sulka Numerals:
+Based on the data, we can deduce the following numerals:
+
+Sulka	English Numeral
+a tgiang	1
+a lomin	2
+a korlotge	3
+a korlolo	4
+a ktiëk	5
+a lo ktiëk	10
+a mhelom	20
+hori orom	plus (addition)
+
+
+	3.	Classifiers and Items:
+	•	Betel nuts: vhoi (singular), o vuo (plural classifier)
+	•	Yams: tu (singular), o sngu (plural classifier)
+	•	Coconuts: ksie
+	•	Breadfruits: moulang
+
+(a) Translating Sulka Phrases into English
+
+1. a ksie a tgiang
+
+	•	Analysis:
+	•	a ksie: “a” (article) + ksie (“coconut”)
+	•	a tgiang: “a” (article) + tgiang (1)
+	•	Translation: 1 coconut
+
+2. o ngaitegaap a korlotge
+
+	•	Analysis:
+	•	o (plural classifier)
+	•	ngaitegaap: Numeral, need to determine its value
+	•	a korlotge: “a” (article) + korlotge (3)
+	•	Determining ngaitegaap:
+From the data:
+	•	18 breadfruits: o ngaitegaap a korlolo hori orom a moulang
+	•	ngaitegaap + a korlolo (4) = 18
+	•	So, ngaitegaap must be 14 (since 14 + 4 = 18)
+	•	10 breadfruits: a lo ngaitegaap hori orom a moulang
+	•	a lo ngaitegaap implies multiplication
+	•	Since a lo is 2, and the result is 10, ngaitegaap must be 5 (2 x 5 = 10)
+	•	Conclusion:
+	•	ngaitegaap = 5
+	•	So, o ngaitegaap a korlotge = 5 + 3 = 8
+	•	Translation: 8 unspecified items (since no specific item is mentioned)
+
+3. o ngausmia a ktiëk
+
+	•	Analysis:
+	•	o (plural classifier)
+	•	ngausmia: Numeral, need to determine its value
+	•	a ktiëk: “a” (article) + ktiëk (5)
+	•	Determining ngausmia:
+From the data:
+	•	16 coconuts: o ngausmia a korlolo
+	•	ngausmia + a korlolo (4) = 16
+	•	Therefore, ngausmia = 12 (since 12 + 4 = 16)
+	•	Calculation:
+	•	ngausmia (12) + ktiëk (5) = 12 + 5 = 17
+	•	Translation: 17 unspecified items
+
+4. o vuo a lo ktiëk hori orom a tgiang
+
+	•	Analysis:
+	•	o vuo: Plural classifier for betel nuts
+	•	a lo ktiëk: “a lo” (2) x ktiëk (5) = 10
+	•	hori orom: “plus”
+	•	a tgiang: “a” + tgiang (1)
+	•	Calculation:
+	•	10 (from a lo ktiëk) + 1 (from a tgiang) = 11 betel nuts
+	•	Translation: 11 betel nuts
+
+(b) Translating English Phrases into Sulka
+
+1. 2 yams
+
+	•	Analysis:
+	•	“2” corresponds to a lomin
+	•	Classifier for yams: o sngu
+	•	Translation: o sngu a lomin
+
+2. 14 yams
+
+	•	Analysis:
+	•	a lo ktiëk (10) + a korlotge (3) + hori orom + a lomin (2)
+	•	Since 10 + 4 = 14, and a korlolo is 4
+	•	Translation: o sngu a lo ktiëk hori orom a korlolo
+
+3. 15 breadfruits
+
+	•	Analysis:
+	•	a lo ktiëk (10) + a ktiëk (5)
+	•	Classifier for breadfruits: a moulang
+	•	Translation: o ngaitegaap a ktiëk hori orom a moulang
+
+4. 20 betel nuts
+
+	•	Analysis:
+	•	“20” corresponds to a mhelom
+	•	Classifier for betel nuts: o vuo
+	•	Translation: o vuo a mhelom
+
+Final Translations:
+
+(a) Translations into English:
+
+	1.	a ksie a tgiang — 1 coconut
+	2.	o ngaitegaap a korlotge — 8 items
+	3.	o ngausmia a ktiëk — 17 items
+	4.	o vuo a lo ktiëk hori orom a tgiang — 11 betel nuts
+
+(b) Translations into Sulka:
+
+	1.	2 yams — o sngu a lomin
+	2.	14 yams — o sngu a lo ktiëk hori orom a korlolo
+	3.	15 breadfruits — o ngaitegaap a ktiëk hori orom a moulang
+	4.	20 betel nuts — o vuo a mhelom
+
+Note: The translations are based on patterns observed in the data. The Sulka numbering system appears to use addition with the conjunction hori orom (“plus”) and multiplication for numbers like 10 and 20. Classifiers like o sngu (for yams) and o vuo (for betel nuts) are used for plural items.
+
+Problem 3 Solution:
+
+We are given the names and birthdates of Burmese children, and we need to match six additional names with their correct birthdates.
+
+Understanding the Data
+
+Children and Their Birthdates
+
+Boys:
+
+Name	Date of Birth
+kau6 myaP	06/01/2009
+zeiya cO	06/09/2009
+pyesou6 au6	06/18/2009
+ne li6	06/20/2009
+lwi6 koko	06/24/2009
+phou6 nai6 thu6	06/25/2009
+myo khi6 wi6	07/02/2009
+ti6 mau6 laP	07/04/2009
+khai6 mi6 thu6	07/06/2009
+wi6 cO au6	07/08/2009
+thEP au6	07/11/2009
+sha6 thu6	07/21/2009
+
+Girls:
+
+Name	Date of Birth
+pa6 we	06/04/2009
+thou6 u6	06/06/2009
+khi6 le nwE	06/08/2009
+wi6 i mu6	06/10/2009
+mimi khai6	06/18/2009
+su myaP so	06/30/2009
+susu wi6	07/07/2009
+yadana u	07/08/2009
+ti6 za mO	07/11/2009
+yi6yi6 myi6	07/15/2009
+keþi thu6	07/20/2009
+shu ma6 cO	07/21/2009
+
+Unassigned Names and Dates
+
+Unassigned Birthdates:
+
+	•	06/14/2009
+	•	06/16/2009
+	•	06/24/2009
+	•	07/09/2009
+	•	07/13/2009
+	•	07/18/2009
+
+Unassigned Names:
+
+	•	Boys:
+	•	Nwe si6þu
+	•	so mo cO
+	•	yE au6 nai6
+	•	Girls:
+	•	daliya
+	•	e ti6
+	•	phyuphyu wi6
+
+Approach
+
+To assign the names to the correct birthdates, we’ll look for patterns in the existing data, specifically focusing on:
+
+	•	The dates on which boys and girls are born.
+	•	Common elements in names that could be linked to specific dates.
+
+Analyzing the Data
+
+Step 1: Gender and Dates
+
+From the data:
+
+	•	Boys’ Birthdates:
+	•	06/01, 06/09, 06/18, 06/20, 06/24, 06/25
+	•	07/02, 07/04, 07/06, 07/08, 07/11, 07/21
+	•	Girls’ Birthdates:
+	•	06/04, 06/06, 06/08, 06/10, 06/18, 06/30
+	•	07/07, 07/08, 07/11, 07/15, 07/20, 07/21
+
+Observation: Both boys and girls are born on similar dates, so date alone doesn’t determine gender.
+
+Step 2: Matching Unassigned Dates
+
+List of unassigned dates:
+
+	•	June:
+	•	06/14
+	•	06/16
+	•	06/24
+	•	July:
+	•	07/09
+	•	07/13
+	•	07/18
+
+Step 3: Analyzing Names
+
+We can look for patterns in names:
+
+	•	Boys’ Names:
+	•	Often include au6, thu6, khi6, wi6, myaP
+	•	Examples: pyesou6 au6, myo khi6 wi6, phou6 nai6 thu6
+	•	Girls’ Names:
+	•	Often include reduplication, mimi, susu, yi6yi6, shu ma6 cO
+	•	Examples: mimi khai6, susu wi6, yi6yi6 myi6
+	•	Names Ending with “wi6”
+	•	myo khi6 wi6 (boy)
+	•	susu wi6 (girl)
+	•	phyuphyu wi6 (unassigned girl)
+	•	Reduplicated Names
+	•	susu, mimi, yi6yi6, phyuphyu
+
+Conclusion: Reduplication seems more common in girls’ names.
+
+Assigning Names to Dates
+
+1. Matching Names by Patterns
+
+	•	phyuphyu wi6: Likely a girl due to reduplication (phyuphyu).
+	•	daliya: Sounds feminine.
+	•	e ti6: Could be a girl (the initial “e” is common in girls’ names like e ti6).
+	•	so mo cO: Likely a boy; cO appears in boy’s name zeiya cO.
+	•	Nwe si6þu: Contains si6, which is similar to si6þu; possibly a boy’s name.
+	•	yE au6 nai6: Contains au6 nai6, similar to phou6 nai6 thu6 (boy’s name).
+
+2. Assigning Names Based on Dates
+
+	•	06/14/2009: Date between other June dates.
+	•	06/16/2009: Same.
+	•	06/24/2009: Already assigned to lwi6 koko (boy).
+	•	Assigning Girls:
+	•	phyuphyu wi6: Assign to the earliest unassigned date for girls.
+	•	Possible dates for girls: 06/14, 06/16.
+	•	Assigning Boys:
+	•	so mo cO, Nwe si6þu, yE au6 nai6
+	•	Given that 06/24/2009 is already assigned to a boy, we can proceed as follows:
+
+Final Assignment
+
+06/14/2009
+
+	•	Name: phyuphyu wi6 (girl)
+	•	Reasoning: Fits the pattern of girls’ names with reduplication.
+
+06/16/2009
+
+	•	Name: daliya (girl)
+	•	Reasoning: Likely a girl’s name; assign to next unassigned June date.
+
+07/09/2009
+
+	•	Name: e ti6 (girl)
+	•	Reasoning: ti6 appears in other girls’ names (ti6 za mO); assign to earliest unassigned July date for girls.
+
+06/24/2009
+
+	•	Name: Nwe si6þu (boy)
+	•	Reasoning: Date suitable for a boy; si6þu aligns with boys’ names.
+
+07/13/2009
+
+	•	Name: so mo cO (boy)
+	•	Reasoning: cO appears in boys’ names; assign to next unassigned July date for boys.
+
+07/18/2009
+
+	•	Name: yE au6 nai6 (boy)
+	•	Reasoning: Contains au6 nai6, similar to other boys’ names.
+
+Final Answer
+
+06/14/2009 — phyuphyu wi6 (Girl)
+
+06/16/2009 — daliya (Girl)
+
+06/24/2009 — Nwe si6þu (Boy)
+
+07/09/2009 — e ti6 (Girl)
+
+07/13/2009 — so mo cO (Boy)
+
+07/18/2009 — yE au6 nai6 (Boy)
+
+Problem 4 Solution:
+
+We are given Old Indic word stems with their stress placement and need to:
+
+	•	(a) Explain why we cannot determine the stress of certain stems.
+	•	(b) Indicate the stress placement of additional word stems.
+
+(a) Explanation for Undetermined Stress Placement
+
+Word Stems:
+
+	•	bhāg-a- ‘share’
+	•	pad-a- ‘step’
+	•	pat-i- ‘lord’
+	•	us-ri- ‘morning light’
+
+Reasoning:
+
+In the given data, the stress placement is indicated, and words are divided into root and suffix by a hyphen.
+
+However, for the stems provided in (a), we cannot determine the stress placement because:
+
+	1.	Monosyllabic Roots:
+	•	bhāg-a- and pad-a- have monosyllabic roots (bhāg-, pad-).
+	•	Without additional morphological information, we cannot tell whether the stress falls on the root or the suffix.
+	2.	Lack of Stress Indicators:
+	•	The data provides words with stress marks (e.g., vŕ.k-a-, vadh-á-).
+	•	The given stems lack stress marks, and there’s insufficient data to infer the pattern.
+	3.	Alternating Stress Patterns:
+	•	Old Indic words can have different stress patterns based on morphological or phonological rules, which are not provided.
+
+Answer:
+
+It is not possible to determine the stress placement for these stems because they are monosyllabic roots without sufficient morphological context or stress indicators, and the data does not provide enough information to establish a pattern for stress assignment.
+
+(b) Indicating the Stress of the Given Word Stems
+
+We need to place the stress (marked by an accent) on the appropriate vowel in each word stem.
+
+Approach:
+
+	1.	Identify the Root and Suffix:
+	•	The stems are divided into root and suffix (e.g., vŕ.k-a-).
+	2.	Refer to Patterns in Given Data:
+	•	Observe stress patterns in similar words.
+	•	Roots often carry the stress.
+
+Given Words and Stress Placement:
+
+	1.	mr.dh-ra-: foe
+	•	Root: mr.dh-
+	•	Suffix: -ra-
+	•	Similar to vadh-ri- (stressed root)
+	•	Stress: mŕ.dh-ra-
+	2.	phe-na-: foam
+	•	Root: phe-
+	•	Suffix: -na-
+	•	Similar to gá-ti- (stressed root)
+	•	Stress: phé-na-
+	3.	stu-ti-: praise
+	•	Root: stu-
+	•	Suffix: -ti-
+	•	Similar to p̄ı-tí- (stressed suffix)
+	•	Stress: stu-tí-
+	4.	tan-ti-: cord
+	•	Root: tan-
+	•	Suffix: -ti-
+	•	Similar to p̄ı-tí-
+	•	Stress: tan-tí-
+	5.	bhār-a-: burden
+	•	Root: bhār-
+	•	Suffix: -a-
+	•	Similar to k´̄a-ma-
+	•	Stress: bhā́r-a-
+	6.	dū-ta-: messenger
+	•	Root: dū-
+	•	Suffix: -ta-
+	•	Similar to gá-ti-
+	•	Stress: dū́-ta-
+	7.	svap-na-: sleep
+	•	Root: svap-
+	•	Suffix: -na-
+	•	Similar to phé-na-
+	•	Stress: sváp-na-
+	8.	bhū-mi-: earth, soil
+	•	Root: bhū-
+	•	Suffix: -mi-
+	•	Similar to gá-ti-
+	•	Stress: bhū́-mi-
+	9.	ghar-ma-: heat
+	•	Root: ghar-
+	•	Suffix: -ma-
+	•	Similar to dar-má-
+	•	Stress: ghar-má-
+	10.	abh-ra-: cloud
+	•	Root: abh-
+	•	Suffix: -ra-
+	•	Similar to vadh-ri-
+	•	Stress: ábh-ra-
+	11.	ghan-a-: killing
+	•	Root: ghan-
+	•	Suffix: -a-
+	•	Similar to k´̄a-ma-
+	•	Stress: ghán-a-
+	12.	ghr.s.-vi-: exuberant
+	•	Root: ghr.s.-
+	•	Suffix: -vi-
+	•	Similar to bhŕ.m-i-
+	•	Stress: ghŕ.s.-vi-
+
+Final Answer:
+
+	1.	mŕ.dh-ra-: foe
+	2.	phé-na-: foam
+	3.	stu-tí-: praise
+	4.	tan-tí-: cord
+	5.	bhā́r-a-: burden
+	6.	dū́-ta-: messenger
+	7.	sváp-na-: sleep
+	8.	bhū́-mi-: earth, soil
+	9.	ghar-má-: heat
+	10.	ábh-ra-: cloud
+	11.	ghán-a-: killing
+	12.	ghŕ.s.-vi-: exuberant
+
+Problem 5 Solution:
+
+We are given sentences in Nahuatl and their English translations. Our tasks are:
+
+	•	(a) Translate six Nahuatl sentences into English in all possible ways.
+	•	(b) Translate five English sentences into Nahuatl.
+
+Understanding the Data
+
+First, we’ll analyze the given sentences to understand the structure and vocabulary.
+
+Common Nahuatl Words and Morphemes
+
+	•	ni-: I
+	•	ti-: you
+	•	in: the
+	•	-tia: causative suffix
+	•	-tla: object marker
+	•	-huia: to say
+	•	-hua: to drink
+	•	-tzi: to shout
+	•	-ki: to want
+	•	-mak(a): to give
+	•	-huetz: to fall
+	•	-teki: to beat, to cut
+	•	-tlazohtla: to love
+	•	-kāhualtia: to leave (causative)
+	•	-huītekilia: to beat for someone
+	•	-nech-: me
+	•	-mitz-: you
+	•	-te-: someone
+	•	-hua: to drink
+
+Analysis of Sample Sentences
+
+	1.	nimitztlazohtla: ni- (I) + mitz- (you) + tlazohtla (love)
+	•	Translation: “I love you”
+	2.	tikmaka in āmoxtli: ti- (you) + k-maka (give) + in āmoxtli (the book)
+	•	Translation: “You give the book to him”
+
+(a) Translating Nahuatl Sentences into English
+
+1. tiktlazohtlaltia in zihuātl in kuauhx̄ınki
+
+	•	Breakdown:
+	•	ti-ktlazohtla-tia (you make someone love)
+	•	in zihuātl (the woman)
+	•	in kuauhx̄ınki (the carpenter)
+	•	Possible Translations:
+	•	“You make the woman love the carpenter”
+	•	“You make the carpenter love the woman”
+
+2. nēchtzāhtz̄ıtia
+
+	•	Breakdown:
+	•	nēch- (me)
+	•	tzāhtzi-tia (to make someone shout)
+	•	Translation:
+	•	“He/she makes me shout”
+
+3. tikhūıteki
+
+	•	Breakdown:
+	•	ti- (you)
+	•	khūıteki (beat/cut)
+	•	Translation:
+	•	“You beat/cut something”
+
+4. nikēhuilia in kikatl in t̄ız̄ıtl
+
+	•	Breakdown:
+	•	ni- (I)
+	•	kēhui-lia (sing to someone)
+	•	in kikatl (the song)
+	•	in t̄ız̄ıtl (the healer)
+	•	Translation:
+	•	“I sing the song to the healer”
+
+5. nikneki in ātōlli
+
+	•	Breakdown:
+	•	ni- (I)
+	•	k-neki (want)
+	•	in ātōlli (the atole)
+	•	Translation:
+	•	“I want the atole”
+
+6. mitztlakāhualtia
+
+	•	Breakdown:
+	•	mitz- (you)
+	•	tlakāhualtia (make someone leave)
+	•	Translation:
+	•	“He/she makes you leave”
+
+(b) Translating English Sentences into Nahuatl
+
+1. He makes me prepare the atole
+
+	•	Nahuatl Translation:
+	•	ni-- (I)
+	•	-nech- (me)
+	•	tlach̄ıhua (prepare)
+	•	-tia (causative suffix)
+	•	in ātōlli (the atole)
+	•	-ia (to someone)
+	•	Constructed Sentence:
+	•	“nēchtlach̄ıhūıtia in ātōlli”
+
+2. You prepare the wine for somebody
+
+	•	Nahuatl Translation:
+	•	ti- (you)
+	•	tlach̄ıhua (prepare)
+	•	in oktli (the wine)
+	•	te- (someone)
+	•	-huia (for)
+	•	Constructed Sentence:
+	•	“titētlach̄ıhuia in oktli”
+
+3. The healer makes you sleep
+
+	•	Nahuatl Translation:
+	•	in t̄ız̄ıtl (the healer)
+	•	mitz- (you)
+	•	kochi (sleep)
+	•	-tia (causative suffix)
+	•	Constructed Sentence:
+	•	“kochi-tia in t̄ız̄ıtl mitz”
+	•	Or rearranged:
+	•	“t̄ız̄ıtl mitzkochtia”
+
+4. I sing something
+
+	•	Nahuatl Translation:
+	•	ni- (I)
+	•	kēhua (sing)
+	•	tla- (something)
+	•	Constructed Sentence:
+	•	“nikkēhua”
+
+5. I fall
+
+	•	Nahuatl Translation:
+	•	ni- (I)
+	•	huetz (fall)
+	•	Constructed Sentence:
+	•	“nihuetz”
+
+Final Translations:
+
+(a) Nahuatl to English:
+
+	1.	tiktlazohtlaltia in zihuātl in kuauhx̄ınki
+	•	“You make the woman love the carpenter”
+	•	“You make the carpenter love the woman”
+	2.	nēchtzāhtz̄ıtia
+	•	“He/she makes me shout”
+	3.	tikhūıteki
+	•	“You beat/cut something”
+	4.	nikēhuilia in kikatl in t̄ız̄ıtl
+	•	“I sing the song to the healer”
+	5.	nikneki in ātōlli
+	•	“I want the atole”
+	6.	mitztlakāhualtia
+	•	“He/she makes you leave”
+
+(b) English to Nahuatl:
+
+	1.	He makes me prepare the atole
+	•	“nēchtlach̄ıhūıtia in ātōlli”
+	2.	You prepare the wine for somebody
+	•	“titētlach̄ıhuia in oktli”
+	3.	The healer makes you sleep
+	•	“t̄ız̄ıtl mitzkochtia”
+	4.	I sing something
+	•	“nikkēhua”
+	5.	I fall
+	•	“nihuetz”
+
+Note: The translations are based on the morphological structure of Nahuatl, considering prefixes, suffixes, and root words. The causative suffix -tia is used to indicate that someone causes an action. The object markers nēch- (me), mitz- (you), and te- (someone) are used accordingly.
+
+Good luck!

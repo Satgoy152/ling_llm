@@ -1,0 +1,107 @@
+### Problem 1: Numeral Construction in Sulka Language
+#### Rules:
+1. **Numerals:**
+   - `tgiang` — 1
+   - `lomin` — 2
+   - `korlotge` — 3
+   - `korlolo` — 4
+   - `ktiëk` — 5
+   - `mhelom` — 20
+
+2. **Modifiers:**
+   - `hori orom` — addition
+   - `lo` — doubling
+
+3. **Number Agreement:**
+   - `a` — singular
+   - `o` — plural (from 3 on)
+
+4. **Special Forms:**
+   - `ngaitegaap` — foursome of breadfruits
+   - `moulang` — twosome of breadfruits
+   - `ngaitegaap` — foursome of coconuts
+
+#### (a) Translations:
+1. `a ksie a tgiang` — 1 coconut
+2. `o ngaitegaap a korlotge` — 12 breadfruits
+3. `o ngausmia a ktiëk` — 20 coconuts
+4. `o vuo a lo ktiëk hori orom a tgiang` — 11 betel nuts
+
+#### (b) Translations:
+1. 2 yams — `a lo tu a lomin`
+2. 14 yams — `o sngu a lo ktiëk hori orom a korlolo`
+3. 15 breadfruits — `o ngaitegaap a korlotge hori orom a moulang hori orom a tgiang`
+4. 20 betel nuts — `o vuo a mhelom`
+
+---
+
+### Problem 3: Day Names and Birthdays in Burmese
+#### (a) Day Names:
+1. **Monday:** `kau6 myaP`, `khi6 le nwE`, `khai6 mi6 thu6`, `keþi thu6`
+2. **Tuesday:** `zeiya cO`, `su myaP so`, `susu wi6`, `sha6 thu6`, `shu ma6 cO`
+3. **Wednesday:** `wi6 i mu6`, `lwi6 koko`, `wi6 cO au6`, `yadana u`, `yi6yi6 myi6`
+4. **Thursday:** `pa6 we`, `pyesou6 au6`, `mimi khai6`, `phou6 nai6 thu6`, `myo khi6 wi6`
+5. **Saturday:** `thou6 u6`, `ne li6`, `ti6 mau6 laP`, `thEP au6`, `ti6 za mO`
+
+#### (b) Birthdays:
+1. `Nwe si6þu` — 07/13/2009 (Monday)
+2. `so mo cO` — 06/16/2009 (Tuesday)
+3. `yE au6 nai6` — 06/24/2009 (Wednesday)
+4. `daliya` — 07/18/2009 (Saturday)
+5. `e ti6` — 06/14/2009 (Sunday)
+6. `phyuphyu wi6` — 07/09/2009 (Thursday)
+
+---
+
+### Problem 4: Stress Patterns in Sanskrit
+#### Rules:
+1. If the stop consonant in the root and the vowel in the suffix are voiced, the stress is on the suffix.
+2. If the stop consonant in the root and the vowel in the suffix are voiceless, the stress is on the root.
+
+#### (a) Additional Rule:
+- This rule applies if the root contains precisely one stop consonant. If there are two (e.g., `bhāg-a-`, `pad-a-`, `pat-i-`) or none (`us-ri-`), the stress cannot be determined.
+
+#### (b) Examples:
+1. `mr.dh-rá-`
+2. `phé-na-`
+3. `stu-tí-`
+4. `tan-tí-`
+5. `bhār-á-`
+6. `dū-tá-`
+7. `sváp-na-`
+8. `bh´̄u-mi-`
+9. `ghar-má-`
+10. `abh-rá-`
+11. `ghan-á-`
+12. `ghŕ.s.-vi-`
+
+---
+
+### Problem 5: Nahuatl Verb Conjugation
+#### Rules:
+1. **Verb Prefixes:**
+   - Subject: `ni-` (1st person sg), `ti-` (2nd person sg), `——` (3rd person sg)
+   - Object: `nēch-` (1st person sg), `mitz-` (2nd person sg), `k-` (3rd person sg)
+   - Additional Object: `tē-` (somebody), `tla-` (something)
+
+2. **Verb Suffixes:**
+   - `make . . .`:
+     - `<intransitive verb>-tia` (with lengthening of preceding `i`)
+     - `<transitive verb>-ltia`
+   - `do for . . .`: `-lia` (with change of preceding `a` to `i`)
+
+#### (a) Translations:
+1. `tiktlazohtlaltia` — you make the woman love the carpenter.
+   - `in zihuātl in kuauhx̄ınki` — you make the carpenter love the woman.
+2. `nēchtzāhtz̄ıtia` — he makes me shout.
+3. `tikhūıteki` — you beat him.
+4. `nikēhuilia in kikatl in t̄ız̄ıtl` — I sing the song for the healer.
+5. `nikneki in ātōlli` — I want the atole.
+6. `mitztlakāhualtia` — he makes you leave something.
+
+#### (b) Translations:
+1. He makes me prepare the atole: `nēchch̄ıhualtia in ātōlli`
+2. You prepare the wine for somebody: `tiktēch̄ıhuilia in oktli`
+3. The healer makes you sleep: `mitzkoch̄ıtia in t̄ız̄ıtl`
+4. I sing something: `nitlaēhua`
+5. I fall: `nihuetzi`

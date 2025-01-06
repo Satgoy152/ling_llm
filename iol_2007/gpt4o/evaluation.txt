@@ -1,0 +1,253 @@
+Based on the classification and real answers provided, I will grade each problem according to the rubric. Here's the grading:
+
+Problem 2:
+    Part 2:
+        1:
+            Classification: Type 1
+            LLM Answer: kas a'sa
+            Real Answer: kas asa:sa'
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: kas enferma'ra
+            Real Answer: kas ena'ferme:ra
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: kas ji#aka'pa
+            Real Answer: kas ji!aka'pa
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: kas de'a
+            Real Answer: kas deka:ka'
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: kas rula'rul
+            Real Answer: kas rula'rul
+            Grade: 1
+        6:
+            Classification: Type 1
+            LLM Answer: kas tipoka'ysu:da
+            Real Answer: kas tipoya'su:da
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: kas wurula:la'
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: kas dewaja'na
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: kas deka'wajna
+            Grade: 0
+
+Problem 3:
+    Part 1:
+        1:
+            Classification: Type 2
+            LLM Answer: vtkvi - I said
+            Real Answer: vtkvi — I said.
+            Grade: 2
+        2:
+            Classification: Type 2
+            LLM Answer: kenit - you (pl.) did
+            Real Answer: kenit — you (pl.) did.
+            Grade: 2
+        3:
+            Classification: Type 2
+            LLM Answer: inadiret - you (pl.) hunted
+            Real Answer: inadiret — you (pl.) hunted.
+            Grade: 2
+        4:
+            Classification: Type 2
+            LLM Answer: itavmGdomareve - I will dine
+            Real Answer: itavmGdomareve — you chaired.
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: vsadilobt - we will walk
+            Real Answer: vsadilobt — we dine.
+            Grade: 0
+        6:
+            Classification: Type 2
+            LLM Answer: tkvi - you said
+            Real Answer: tkvi — you said.
+            Grade: 2
+        7:
+            Classification: Type 2
+            LLM Answer: vigoreb - I hunted
+            Real Answer: vigoreb — I will roll.
+            Grade: 0
+        8:
+            Classification: Type 2
+            LLM Answer: vkeni - I presided
+            Real Answer: vkeni — I did.
+            Grade: 0
+        9:
+            Classification: Type 2
+            LLM Answer: nadirob - you hunt
+            Real Answer: nadirob — you hunt.
+            Grade: 2
+        10:
+            Classification: Type 2
+            LLM Answer: visadileb - I will roll
+            Real Answer: visadileb — I will dine.
+            Grade: 1
+        11:
+            Classification: Type 2
+            LLM Answer: vinadire - you presided
+            Real Answer: vinadire — I hunted.
+            Grade: 0
+        12:
+            Classification: Type 2
+            LLM Answer: ambob - you say
+            Real Answer: ambob — you say.
+            Grade: 2
+        13:
+            Classification: Type 2
+            LLM Answer: vitavmGdomareve - I presided
+            Real Answer: vitavmGdomareve — I chaired.
+            Grade: 1
+        14:
+            Classification: Type 2
+            LLM Answer: izamt - you (pl.) will do
+            Real Answer: izamt — you (pl.) will do.
+            Grade: 2
+        15:
+            Classification: Type 2
+            LLM Answer: vivlit - I did
+            Real Answer: vivlit — we will walk.
+            Grade: 0
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: mer an thef abo thonith = 16 (6 × 2 + 4)
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: nif thef abo mer abo ithin = 81 (36 × 2 + 6 + 3)
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: nif abo mer an thef abo sas = 49 (36 + 12 + 1)
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: nif abo tondor abo mer abo thonith = 64 (36 + 18 + 6 + 4)
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: nif thef abo tondor abo mer abo thonith = 100 (72 + 18 + 6 + 4)
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: tondor abo mer abo sas = 18+6+1 = 25
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: mer abo ithin = 6+3 = 9
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: thonith = 4
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: sas = 1
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: nif = 6& = 36
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: mer abo sas $ meregh = tondor abo mer an thef abo meregh
+            Real Answer: mer abo sas = 7 (6 + 1)
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: nif ithin abo ithin
+            Real Answer: nif ithin abo ithin = 6^2 3+3 = 111
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: mer an thef abo meregh
+            Real Answer: mer an thef abo meregh = 6*2+5 = 17
+            Grade: 0
+    Part d:
+        1:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 58 = 6&+18+4 = nif abo tondor abo thonith
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 87 = 6& 2+6*2+3 = nif thef abo mer an thef abo ithin
+            Grade: 0
+
+Problem 5:
+    Part a:
+        19:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: usta - osta
+            Grade: 0
+        20:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: gözenek - küzänäḱ
+            Grade: 0
+        21:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: yılan - yılan
+            Grade: 0
+        22:
+            Classification: Type 1
+            LLM Answer: yedi&er
+            Real Answer: yedişer - cideşär
+            Grade: 0
+        23:
+            Classification: Type 1
+            LLM Answer: bilezik
+            Real Answer: bilezik - beläzek
+            Grade: 1
+        24:
+            Classification: Type 1
+            LLM Answer: üstünde
+            Real Answer: üstünde - östendä
+            Grade: 1
+        25:
+            Classification: Type 1
+            LLM Answer: bin
+            Real Answer: bin - men
+            Grade: 1
+        26:
+            Classification: Type 1
+            LLM Answer: yumru
+            Real Answer: yumru - yomrı
+            Grade: 1
+
+Total Score: 18/62

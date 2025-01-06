@@ -1,0 +1,154 @@
+### Problem 1: Phonological Rules
+#### Rules:
+1. **Apostrophe (`'`):**
+   - Follows a vowel: indicates length.
+   - Follows a consonant: read as [ə].
+
+2. **Letter 'w':**
+   - After a consonant: rounding of the lips.
+   - Otherwise: [w].
+
+3. **[ə] Pronunciation:**
+   - Between any consonant and a following sonorant consonant ([l, m, n]).
+   - Before a consonant cluster at the beginning of a word.
+
+4. **Consonant Voicing:**
+   - `p t j g gw q qw` are voiced ([b d j g gw G Gw]) at the beginning of a word or between vowels.
+   - Voiceless ([p t c k kw x xw]) at the end of a word or next to another consonant.
+
+#### (a) Phonetic Transcriptions:
+1. 12. [əksənxōGon]
+2. 13. [ətkəbox]
+3. 14. [gəmūjəmin]
+4. 15. [emtoGwatk]
+5. 16. [dēbəlc]
+
+#### (b) Transcriptions:
+1. 17. `tp’te’sn`
+2. 18. `mtesgm`
+3. 19. `alapt’g`
+4. 20. `glamen`
+
+---
+
+### Problem 2: Old Norse Poetic Structure
+#### (a) Rules:
+1. **Number of Syllables:** Each line contains 6 syllables.
+2. **Alliteration:** As stated in the problem.
+3. **Internal Rhyme:** 
+   - Let V1, V2, ..., V6 represent the vowels in each line.
+   - At least one consonant immediately following V5 must immediately follow Vn (n = 1, 2, or 3).
+   - In even lines, Vn = V5.
+
+#### (b) Leftover Words:
+1. `hœgra`, `smíði`.
+
+#### V Structure:
+```
+1. ríks (þreifsk reiddra øxa
+2. rymr; knǫ́ttu spjǫ́r glymja)
+3. svartskyggð bitu seggi
+4. sverð þjóðkonungs ferðar,
+5. þás (hugfyldra hǫlða)
+6. hlaut andskoti Gauta
+7. (hǫ́r vas sǫngr of svírum)
+8. sigr (flugbeiddra vigra).
+```
+
+---
+
+### Problem 3: Modifier-Head Relations
+#### (a) Structure:
+1. `jun bone` — bone
+2. `i-jun` — skeleton (multitude of bones)
+3. `i-wahnawa` — bunch of bananas (multitude of bananas)
+4. `drai-hmitrötr` — Sunday (holy day)
+5. `gaa-hmitrötr` — sanctuary (holy place)
+6. `uma-hmitrötr` — church (holy house)
+7. `ngöne-uma` — wall (house border)
+8. `ngöne-gejë` — coast (water border)
+9. `tii` — to write
+10. `bé-tii` — pencil (tool to write)
+11. `bé-wöli` — fork (tool to poke)
+12. `bé-ôdu` — cup (tool to drink)
+13. `ba-bwén` — twilight (night border)
+14. `a-pulut` — bed (place to sleep)
+
+#### (b) Words:
+1. `wahnawa` — banana
+2. `drai` — day
+3. `wöli` — to poke
+4. `pulut` — to sleep
+
+#### (c) Additional Translations:
+1. `i-bii` — swarm of bees (multitude of bees)
+2. `tusi-hmitrötr` — Bible (holy book)
+
+---
+
+### Problem 4: Noun Suffixes
+#### (a) Suffixes and Forms:
+1. **Noun Suffixes:**
+   - `-k2sm2` — above, overhead.
+   - `-kotoya` — for.
+   - `-pit` — with.
+
+2. **Morphological Changes:**
+   - After nasal consonants (m, n, N), stops p, t, k become voiced (b, d, g respectively).
+   - If k comes after y, the two sounds exchange places.
+
+3. **Possessive Pronouns:**
+   - `P2s` — my
+   - `mis` — your
+   - If the noun begins with a stop, the consonant becomes voiced, and the corresponding nasal appears before it.
+
+#### (a) Examples:
+1. `caky2sm2tih` — right above the vine
+2. `k2m2Nšeh` — like a shadow
+3. `P2s mok` — my corn
+4. `mis nd2ctaPm` — your teeth
+5. `pahsunbit` — with the squash
+6. `perolkotoyašehtaPm` — as if for the kettles
+
+#### (b) Translations:
+1. `for the chair` — `pokskukyotoya`
+2. `with my kettle` — `P2s mberolpit`
+3. `just like a mountain` — `koc2kšehtih`
+4. `posts` — `komdaPm`
+5. `above the shadows` — `k2m2Ng2sm2taPm`
+6. `your town` — `mis Ngumguy`
+
+---
+
+### Problem 5: Inuktitut Sentence Structure
+#### (a) Sentence Patterns:
+1. **General Structure:**
+   - `X-(q) V–` — `X V (himself).`
+   - `X-(q) Y-(r)mik V-si–` — `X V a Y.`
+   - `X-up Y-(q) V–` — `X V the Y.`
+
+2. **Noun Endings:**
+   - `-q` for definite object or subject (no definite object).
+   - `-r-mik` for indefinite object.
+   - To say ‘your,’ replace `-q` with `-it` and `-up` with `-vit`.
+
+3. **Verb Suffixes:**
+   - `-j` following a vowel, `-t` following a consonant.
+   - Person-specific endings for subject and definite object:
+     - First two patterns: `-u-tit` (2nd person), `-u-q` (3rd person).
+     - Third pattern: `-a-it` (2/3), `-a-nga` (3/3), `-a-atit` (3/2).
+
+#### (a) Translations:
+1. The wolf saw your shaman.
+2. Your polar bear hurt a boy.
+3. Your hunter cured himself.
+4. You shot the teacher.
+5. You came.
+6. You cured a hunter.
+
+#### (b) Sentences:
+1. `Angatkuup aanniqtaatit.`
+2. `Ilinniaqtitsijiup inuuhuktuq takujanga.` 
+3. `Amaruit ukiakhaqtuq.`
+4. `Qingmirmik qukiqsijutit.`
+5. `Qingmiit ilinniaqtitsijimik aanniqsijuq.`

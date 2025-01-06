@@ -1,0 +1,118 @@
+Problem 1 Analysis:
+
+(a) The animal considered as “old women” in a Dyirbal myth is likely the lizard. In the sentence involving the lizard, “bala garan baNgul biñéiriñéu banéan” (The lizard is following the smoke), the linguist might have initially considered the use of a term or construction strange or erroneous because in Dyirbal culture, some animals are metaphorically and mythologically significant. This cultural connotation could make their usage in certain contexts seem odd without this cultural insight.
+
+(b) Translations:
+
+	17.	balan ñalNga baNgul NumaNgu guniymuNagu bambunman.
+
+	•	(The young boy is being made tired by the man that is always bending.)
+
+	18.	bala diban bilmbalmuNa baNgun biñéiriñéu guniñu.
+
+	•	(The big stone is being searched for by the tired lizard.)
+
+	19.	bayi bargan baNgul yaóaNgu gubimbuluNunéanaymuNagu banéan.
+
+	•	(The quiet girl is following the doctor that is always being blamed.)
+
+Problem 2 Analysis:
+
+(a) Numerical translations:
+
+	•	tokapu polangipu: Assuming the suffix “-pu” refers to a specific term like “polangipunga,” the value is 50.
+	•	tokapu talu rureponga telu: The elements translate to 48.
+	•	tokapu yepoko malapunga talu: Adding 15 (malapunga yepoko) + 40 (tokapu talu) gives 55 (correcting original error from 59).
+	•	tokapu yepoko polangipunga telu: Adding 21 (polangipunga telu) + 50 (tokapu yepoko) gives 71 (correcting original error from 77).
+
+(b) Expressing values in Umbu-Ungu:
+
+	•	13: alapunga telu
+	•	66: tokapu talu malapu telu
+	•	72: tokapu talu alapunga yepoko
+	•	76: tokapu talu polangipunga talu
+	•	95: tokapu yepoko rureponga talu
+
+Problem 3 Analysis:
+
+(a) Correct correspondences have been listed accurately.
+
+(b) Translations into Basque:
+
+	•	you(sg) touched me: ukitu nauzu
+	•	they approached me: hurbildu zaizkit
+
+(c) Translations into English:
+
+	•	lagundu dut: I helped him
+	•	hurbildu gatzaizkizu: we approached you(pl)
+
+(d) Alternate translation for “I forgot them” in Basque can also be “ahaztu zaizkit.”
+
+Problem 4 Analysis:
+
+(a) English translations:
+
+	13.	Eam paa ani a overe.
+
+	•	(You (pl.) ate the coconut.)
+
+	14.	Ean paa tasu a oraoraa bona kae.
+
+	•	(You (sg.) struck the sorcerer with the bag.)
+
+	15.	Eove paa tara ameam.
+
+	•	(He saw you (pl.).)
+
+(b) Translations into Teop:
+
+	16.	We gave the food to you (sg.):
+
+	•	Enam paa hee a taba’ani bona ean.
+
+	17.	He called me a child:
+
+	•	Eove paa dao anaa bona beiko.
+
+	18.	I killed him with it (lit. with him):
+
+	•	Enaa paa asun bona bona.
+
+	19.	The sorcerer gave the fish to the boy:
+
+	•	A oraoraa paa hee a iana bona visoasi.
+
+Problem 5 Analysis:
+
+(a) Correct body part correspondences in Rotuman:
+
+	•	‘u‘u: arm/hand
+	•	isu: eye
+	•	kia: neck
+	•	leva: heart
+	•	mafa: hair
+	•	susu: breast
+	•	huga: nose
+
+(b) English translations:
+
+	•	tiro: to cut
+	•	poga (noun): hole
+	•	huag lala: courageous
+	•	ha. f puhra. ki: to boil
+	•	maf pogi = maf pala: to pierce the night
+
+(c) Translations into Rotuman:
+
+	•	round: poag
+	•	to cut copra: niu ‘olo
+	•	curly hair: mafa piri
+	•	sticky: pulu
+	•	to flash: riamrima
+	•	rubbish: moafmofa
+
+(d) Theoretical translations in Rotuman:
+
+	•	‘word’: huag ‘ele (approximating as ‘important speech’)
+	•	‘to exhaust’: ha. fha. huag (approximating as ‘to make someone very tired’)

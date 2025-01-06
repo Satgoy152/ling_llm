@@ -1,0 +1,112 @@
+Problem 1 Solutions
+
+(a) Mark the stress:
+
+	1.	ifa — [ifá] dog
+	2.	ifoci — [ifó.ci] puppy
+	3.	nâːnaki — [nâː . .nakí] things
+	4.	sâːsakwa — [sâː . . . . . . sák.wa] goose
+	5.	aktopa — [ak . . topá] bridge
+	6.	hoktaki — [hok . . . . takí] women
+	7.	wanayita — [wana.yitá] to tie
+	8.	awanayita — [awa . . . . nayí.ta] to tie to
+	9.	isiskitoci — [isis . . kitó.ci] little drinking vessel
+	10.	aːtamihoma — [aː.tami.homá] bonnet (car hood)
+	11.	honantaːki — [honan.táː.ki] men
+	12.	ilitohtaɬita — [ili . toh . taɬí.ta] to cross legs
+
+Problem 2 Solutions
+
+(a) Translations into English:
+
+	1.	nɤ ʒip ku ne — Do you_{sg} sleep?
+	2.	ati kəmə nirum lapkʰi tʰi ne — Did he see us?
+	3.	tarum kəmə nuʔrum cʰam ran ne — Do they know you_{pl}?
+	4.	nirum kəmə tarum lan ki ne — Do we beat them?
+	5.	nirum kəmə nɤ cʰam tiʔ ne — Did we know you_{sg}?
+	6.	nirum ka tiʔ ne — Did we go?
+
+(b) Translations into Hakhun:
+
+	7.	Did I beat you_{sg}? — ŋabə nɤ lan tɤʔ ne
+	8.	Did they see me? — tarum kəmə ŋa lapkʰi tʰɤ ne
+	9.	Does he know you_{sg}? — ati kəmə nɤ cʰam ru ne
+	10.	Do you_{pl} sleep? — nuʔrum ʒip kan ne
+
+Problem 3 Solutions
+
+(a) Fill in the gaps:
+
+	1.	mbîho — to go
+	2.	mbêyo — animal
+	3.	yênom — wife
+	4.	ênom — mother
+	5.	késaxo — to feel cold
+	6.	xíriri — side
+	7.	ndôko — nape
+	8.	neíxoa — to see it
+	9.	venéxo — to buy
+	10.	mémiti — to be tired
+	11.	íhikexovoku — school
+	12.	ônju — grandfather
+	13.	nêwom — nephew
+	14.	yáharana — hoe
+
+(b) Differences and translations:
+
+	1.	In Portuguese loanwords, the vowel á is treated differently: it becomes eá in these loanwords, whereas in native words, á changes to é, and â changes to eâ.
+	2.	Translations into Terêna:
+
+	•	lándana,ngápana
+
+Problem 4 Solutions
+
+(a) The word that the linguist initially thought was missing is “sugar canes,” which are represented by the word arah. 
+The three examples are:
+
+	1.	6 sugar canes — biogu nybat
+	2.	10 sugar canes — biogu nybat atuh araruh
+	3.	23 sugar canes — biogu atugu biogu biaruh atuh araruh
+
+    (6, 9, 11): 4 =nybat,8=biogu nybat,k×4(3≤k)=k-t/gunybat
+
+In these examples, the term “sugar canes” is implied by context and number markers rather than being explicitly stated.
+
+(b) Translations into English:
+
+	12.	biabys atub bøbys — 3 betel nuts
+	13.	atub juhurub — 1 egg
+	14.	nybat atuh araruh — 5 sugar canes
+	15.	biagas atugas biagas baigas — 5 sheets of sago bark
+	16.	wiwis baigas — 12 sheets of sago bark
+
+(c) Translations into Mountain Arapesh:
+
+	17.	4 betel nuts — biabys atubys atub bøbys
+	18.	11 eggs — biogu nybat biabys atub juhurubys
+	19.	20 eggs — biogu atugu biogu juhurubys
+	20.	25 sheets of sago bark — araman atug baigas
+
+Problem 5 Solutions
+
+(a) Family tree with names:
+
+	1.	Man 1 = Ofori
+	2.	Woman 1 = Dubaku
+	3.	Woman 2 = Kunto
+	4.	Man 2 = Enu
+	5.	Man 3 = Nsia
+	6.	Woman 3 = [Awotwi]
+	7.	Woman 4 = Esi
+	8.	Man 4 = Kofi
+	9.	Man 5 = Kobina
+	10.	Woman 5 = Efua
+	11.	Woman 6 = Ama
+	12.	Man 6 = Yaw
+	13.	Woman 7 = Thema
+	14.	Man 7 = Berko
+
+(b) Fill in the gaps:
+
+	1.	Yɛfrɛ me Yaw. Yɛfrɛ me ɛnanom Dubaku ne Kunto. Yɛfrɛ me agyanom Nsia ne Enu. Yɛfrɛ me nuanom Thema ne Ama ne Kobina. Yɛfrɛ me sewaa Awotwi. Yɛfrɛ me wɔfa Ofori. Yɛfrɛ me wɔfabanom Esi ne Kofi. Yɛfrɛ me sewaaba Berko.
+	2.	Yɛfrɛ me Ofori. Yɛfrɛ me banom Kofi ne Esi. Yɛfrɛ me wɔfaasenom Yaw ne Ama ne Kobina. Yɛfrɛ me nuanom Kunto ne Dubako.

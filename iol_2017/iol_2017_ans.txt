@@ -1,0 +1,118 @@
+### Problem 1: Number System
+#### Answers:
+- **(a)** 
+  1. `52 + 3 + 4 = 32`
+  2. `34 = 81`
+  3. `72 + 9 + 1 = 59`
+  4. `91 = 9`
+  5. `82 + 2 + 5 = 71`
+  6. `25 = 32`
+  7. `92 + 4 + 3 = 88`
+  8. `43 = 64`
+  9. `16 + 21 = 18 + 2 + 17`
+  
+- **(b)** 
+  - `bākūrū bītāt = 36`
+  - `ʃāāgwīnìŋ = 11`
+  - `kūrū = 12`
+  - `A = 108 − 3 − 13 = 92`
+  - `B = 49 − 14 − 15 = 20`
+  
+- **(c)**
+  - `6 = tìīmìn`
+  - `22 = kūrū ná vɛ̀ ʃāābà`
+  - `97 = bākūrū bīrwīīt ná gwɛ̄ gwīnìŋ`
+  - `120 = bākūrū ʃāābībā`
+
+---
+
+### Problem 2: Word Order and Possessive Prefixes
+#### Answers:
+- **(a)**
+  1. `a-bang` — your (sg.) shoulder
+  2. `a-táng he-ya` — your (sg.) thumb [‘your (sg.) hand’s mother’]
+  3. `bataa ha-wata` — upper part of a tree [‘tree’s neck’]
+  4. `de-kafi` — one’s own rope
+  5. `e-bataa ha-táng` — your (sg.) branch [‘your (sg.) tree’s hand’]
+  6. `e-kuda ha-wata` — your (sg.) horse’s neck
+  7. `falepak ha-wei` — trigger [‘pistol’s ear’]
+  8. `ha-táng ha-min` — his fingertip [‘his hand’s nose’]
+  9. `he-lui` — his knife
+  10. `maama he-falepak` — father’s pistol
+  11. `na-pong` — my face
+  12. `ri-èng` — your (pl.) eyes
+  13. `ri-tama` — your (pl.) sea
+  14. `ri-ya ha-táng` — your (pl.) mother’s hand
+  15. `tama ha-bang` — seashore [‘sea’s shoulder’]
+  16. `ta-min` — our noses (the nose of each of us)
+  17. `te-fe ha-wei` — our pigs’ ears [the ear of the pig of each of us]
+
+- **(b)**
+  1. `a-min` — your (sg.) nose
+  2. `de-ya he-bataa` — one’s own mother’s tree
+  
+- **(c)**
+  1. `pig` — fe
+  2. `your (pl.) knife` — ri-lui
+  3. `your (sg.) mother’s father` — e-ya he-maama
+  4. `my father’s face` — ne-maama ha-pong
+  5. `one’s own ear` — da-wei
+  6. `my sea` — ne-tama
+
+---
+
+### Problem 3: Linguistic Rules and Sentence Structures
+#### Answers:
+- **(a)**
+  1. `múlóʒí mwámónà ʒìtéténbwá` — Did the sorcerer see the stars?
+  2. `ʒìtéténbwá ʒjálà mùdjúlù` — There are stars in the sky.
+  3. `ŋgákínà` — I danced.
+  4. `djálá djámónà màhónʒò mùlwándá` — Did the man see the bananas in Luanda?
+
+- **(b)**
+  1. `ŋgáʃíká` — Did I sing?
+  2. `mútú mwásáŋgá múlóʒì nì dìkámbà mùkìtándà` — The person met the sorcerer and the friend in the square.
+  3. `djálá djámí djámónà dìkúŋgù` — My man (husband) saw the cave.
+  4. `mùlwándà mwálà àlóʒì; àlóʒí álà mùlwándà` — There are sorcerers in Luanda.
+
+---
+
+### Problem 4: Word Order and Numeral Systems
+#### Answers:
+1. `→ ← taw bɛː` — to see the raft
+2. `→ ← →plaj prɨət pɛː plaj←` — three bananas
+3. `→ hnaː traw toː ←` — six rhinoceros
+4. `→ puan lʌh ←` — four hands of bananas
+5. `→ pɛː laː ← →` — three leaves ←
+6. `→ ← cie pʌh laː` — seven sheets of paper
+7. `→ laː ploː ←` — aubergine/eggplant leaf
+8. `→plaj ploː bəːr plaj←` — two aubergines/eggplants
+9. `laː prɨət traw laː →` — six banana leaves ←
+10. `→ ← kəːr bəːr toː` — two doves
+11. `bəːr kaː →` — two fish ←
+12. `→ puan plaː ←` — four blades
+
+---
+
+### Problem 5: Prefix and Suffix Transformations
+#### Answers:
+- **(a)**
+  - `lavatbungmenemen` — big group of villages
+
+- **(b)**
+  1. `laradi` — man
+  2. `lavatkonuna` — big branch
+  3. `laxantoonan` — many spirits
+  4. `levengkatli` — eyes
+  5. `loxot` — place
+  6. `lubungkavus` — group of white men
+  7. `luvaroos` — two big vines
+
+- **(c)**
+  1. `heart` — leveve
+  2. `gardens` — leventaamang
+  3. `many things` — laxampanga
+  4. `grandchildren` — luvuttubuno
+  5. `two parts of day` — luxonaleng
+  6. `branches` — lengkonuna
+  7. `big branches` — lempatkonuna

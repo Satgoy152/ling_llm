@@ -1,0 +1,101 @@
+# Problem 1 - Micmac Language
+
+(a) The transcriptions given are correct.
+
+(b) Conversions to Listuguj orthography:
+17. [@tp@dēs@n] → tped'sn
+18. [@mtesk@m] → amt'k'm
+19. [alapt@k] → alapt'k
+20. [g@lamen] → glamn
+
+(c) Translations:
+- i-bii → "bee nest/hive"
+- tusi-hmitrötr → "sacred book"
+
+# Problem 2 - Old Norse Dróttkvætt
+
+(a) Rules of dróttkvætt distich:
+1. Alliteration: Two words in first line and first word of second line begin with same sound
+2. All vowels alliterate with each other and with j
+3. Regular metrical pattern required in each line
+4. Set number of syllables per line with specific stress patterns
+
+(b) Filling stanza V:
+1. [svartskyggð] (þreifsk reiddra øxa
+2. rymr [knǫ́ttu spjǫ́r glymja])
+3. [sverð] bitu seggi
+4. [sigr] þjóðkonungs ferðar,
+5. þás ([ríks] hǫlða)
+6. [hœgra] [hlaut] [andskoti]
+7. (hǫ́r vas [sǫngr] of [Gauta])
+8. [hugfyldra] (flugbeiddra [vigra])
+
+# Problem 3 - New Caledonian Languages
+
+(a) Correspondences:
+Drehu:
+- drai-hmitrötr → sanctuary
+- gaa-hmitrötr → church
+- i-drai → bone
+- i-jun → calendar
+- i-wahnawa → wall
+- jun → coast
+- ngöne-gejë → fork
+- ngöne-uma → bunch of bananas
+- nyine-thin → awl
+- uma-hmitrötr → skeleton
+
+Cemuhî:
+- a-pulut → bed
+- ba-bwén → animal
+- ba-jié → fork
+- bé-ôdu → cup
+- bé-tii → pencil
+- bé-wöli → coast
+- bé-wöli-wöta → twilight
+- tii → to write
+- wöta → spur
+
+(b) Meanings:
+Drehu:
+- wahnawa = "wall"
+- drai = "bone"
+
+Cemuhî:
+- wöli = "coast"
+- pulut = "bed"
+
+# Problem 4 - Copainalá Zoque
+
+(a) English translations:
+1. caky2sm2tih → only above the vine
+2. k2m2Nšeh → like a shadow
+3. P2s mok → my corn
+4. mis nd2ctaPm → your teeth
+5. pahsunbit → with the squash
+6. perolkotoyašehtaPm → just like for the kettles
+
+(b) Copainalá Zoque translations:
+1. pokskukotoya → for the chair
+2. P2s perolbit → with my kettle
+3. koc2kšeh → just like a mountain
+4. P2Ng2mdaPm → posts
+5. k2m2Nky2sm2 → above the shadows
+6. mis kumguy → your town
+
+# Problem 5 - Inuktitut
+
+(a) English translations:
+1. Amaruup angatkuit takujanga → The wolf saw your shaman
+2. Nanuit inuuhukturmik aanniqsijuq → Your polar bear hurt a boy
+3. Angunahuktiit aarqijuq → Your hunter cured himself
+4. Ilinniaqtitsiji qukiqtait → You shot the teacher
+5. Qaijutit → You came
+6. Angunahuktimik aarqisijutit → You cured a hunter
+
+(b) Inuktitut translations:
+1. Angatkuup aanniqtaatit
+2. Ilinniaqtitsijip inuuhuktuk takujanga
+3. Amaruit ukiakhaqtuq
+4. Qingmimik qukiqsijutit
+5. Qingmivit ilinniaqtitsijimik aanniqsijuq

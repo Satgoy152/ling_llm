@@ -1,0 +1,90 @@
+Based on the instructions provided, I'll classify the questions for each problem and provide a count at the end.
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 2
+        2:
+            Classification: Type 2
+        3:
+            Classification: Type 2
+    Part b:
+        1:
+            Classification: Type 1
+        2:
+            Classification: Type 1
+        3:
+            Classification: Type 1
+        4:
+            Classification: Type 1
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+        2:
+            Classification: Type 1
+        3:
+            Classification: Type 1
+        4:
+            Classification: Type 1
+        5:
+            Classification: Type 1
+        6:
+            Classification: Type 1
+        7:
+            Classification: Type 1
+        8:
+            Classification: Type 1
+    Part b:
+        1:
+            Classification: Type 3
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 2
+        2:
+            Classification: Type 2
+        3:
+            Classification: Type 2
+    Part b:
+        1:
+            Classification: Type 2
+    Part c:
+        1:
+            Classification: Type 2
+        2:
+            Classification: Type 2
+        3:
+            Classification: Type 2
+        4:
+            Classification: Type 2
+
+Problem 4:
+    Part a:
+        1-13:
+            Classification: Type 1
+    Part b:
+        1:
+            Classification: Type 1
+        2:
+            Classification: Type 1
+        3:
+            Classification: Type 1
+        4:
+            Classification: Type 1
+    Part c:
+        1:
+            Classification: Type 1
+        2:
+            Classification: Type 1
+        3:
+            Classification: Type 1
+        4:
+            Classification: Type 1
+
+Total Questions: 45
+    Type 1: 33
+    Type 2: 11
+    Type 3: 1

@@ -1,0 +1,189 @@
+Based on the provided real answers, I will now grade the LLM's performance according to the rubric and classifications given. Here's the grading:
+
+Problem 2:
+    Part 1:
+        1:
+            Classification: Type 2
+            LLM Answer: kas asa:sa'
+            Real Answer: kas asa:sa'
+            Grade: 2
+    Part 2:
+        1:
+            Classification: Type 1
+            LLM Answer: kas asa:sa'
+            Real Answer: kas asa:sa'
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: kas ena'ferme:ra
+            Real Answer: kas ena'ferme:ra
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: kas ji#a'a:pa'
+            Real Answer: kas ji!aka'pa
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: kas dea:na'
+            Real Answer: kas deka:ka'
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: kas rula'lrul
+            Real Answer: kas rula'rul
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: kas tipoya'su:da
+            Real Answer: kas tipoya'su:da
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: kas wurula:la'
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: kas dewaja'na
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: kas deka'wajna
+            Grade: 0
+
+Problem 3:
+    Part 1:
+        1:
+            Classification: Type 2
+            LLM Answer: vtkvi - I said
+            Real Answer: vtkvi — I said.
+            Grade: 2
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 16
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 81
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 49
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 64
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 100
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 25
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 9
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 4
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 1
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 36
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: Not provided
+            Real Answer: mer abo sas = 7 (6 + 1)
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 111
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 17
+            Grade: 0
+    Part d:
+        1:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: nif abo tondor abo thonith
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: nif thef abo mer an thef abo ithin
+            Grade: 0
+
+Problem 5:
+    Part a:
+        19:
+            Classification: Type 1
+            LLM Answer: usta
+            Real Answer: usta
+            Grade: 1
+        20:
+            Classification: Type 1
+            LLM Answer: gözeneği
+            Real Answer: gözenek
+            Grade: 0
+        21:
+            Classification: Type 1
+            LLM Answer: yılan
+            Real Answer: yılan
+            Grade: 1
+        22:
+            Classification: Type 1
+            LLM Answer: yedi%er
+            Real Answer: yedişer
+            Grade: 0
+        23:
+            Classification: Type 1
+            LLM Answer: bilezik
+            Real Answer: bilezik
+            Grade: 1
+        24:
+            Classification: Type 1
+            LLM Answer: üstünde
+            Real Answer: üstünde
+            Grade: 1
+        25:
+            Classification: Type 1
+            LLM Answer: bin
+            Real Answer: bin
+            Grade: 1
+        26:
+            Classification: Type 1
+            LLM Answer: yumru
+            Real Answer: yumru
+            Grade: 1
+
+Total Score: 12/31

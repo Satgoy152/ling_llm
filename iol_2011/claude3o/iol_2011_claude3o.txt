@@ -1,0 +1,108 @@
+Here are the solutions to the computational linguistics problems:
+
+Problem 1 (Menominee)
+
+(a) Translations into English:
+
+kekēskahæq - we_{1+2} break it through by tool
+nepāhkenan - I open it by hand (by raising a lid or opening a door)  
+wǣpāhpew - he begins laughing
+
+(b) Translations into Menominee:
+
+I begin to eat it - newǣpāqtam
+we_{1+2} lay it flat by hand - ketǣnæhkæq
+he digs a hole - wǣpohnæw (or tawǣsam)
+he walks out - kǣtohnæw
+
+The key insights are:
+- Preverbs indicate direction/location (e.g. p̄ıt- 'hither', kǣt- 'out')
+- -æq, -æm endings indicate we_{1+2} vs I as subject 
+- Final -am, -aq, -aw indicate the action is done by tool, by hand, or intransitively
+- wǣp- indicates beginning an action
+- Vowel changes in the verb stem indicate different meanings
+
+Problem 2 (Faroese)
+
+(a) Missing phonetic transcriptions:
+
+bøga - [bø:a]
+knoðar - [knOar] 
+kvøða - [kvø:a]
+løgur - [lø:vur]
+plága - [plOava] 
+skaði - [skEaji]
+toygur - [tOivur]
+trúgi - [tr0uwi]
+
+(b) The key rules are:
+- ð is pronounced as [j] between vowels, otherwise as [v]  
+- g is [j] after front vowels and certain diphthongs, otherwise [w] or [v]
+- á is always [Oa]
+- ó is [Ou] 
+- Accented vowels and vowels before single consonants are long
+- úC and CúC have [0u]
+- ýC has [0i]
+
+Problem 3 (Vai)
+
+(a) Translations into English:
+
+mùsúĚ á gbòmùĚ - the woman's fish
+léN kúndúĚ á nỳımı̀̀ıĚ - the short snake's tooth  
+gbòmù-lÈndÈ kúndúĚ - the short boat
+
+(b) Correction and translation:
+kándÒ-lÈndÉ lÒÒĚ -> kándÒ-lÈndÈ lÒÒĚ - the sky's small boat
+
+(c) Translations into Vai:
+
+the eagle's snake - kÒánjàĚ á nỳımı̀̀ıĚ
+the small child's eye - dèN kúndúĚ já  
+the tall man's sister - kà́ı jǎNĚ lÒÒ-mùsú
+the small baby-snake - dèN-nı̀mı̀ kúndúĚ
+
+The key insights are:
+- Genitive constructions use á between nouns
+- Adjectives follow nouns directly 
+- Compounds are head-final (e.g. baby-snake)
+- jǎN is 'tall/long', kúndú is 'short', lÒÒ is 'small'
+
+Problem 4 (Nahuatl) 
+
+(a) Correct correspondences:
+
+| Nahuatl           | Translation                    |
+|-------------------|--------------------------------|
+| acalhuah          | canoe owner                    |
+| achilli           | water pepper                   |
+| atl               | water                          |
+| callah            | house                          |
+| calhuah           | master of house                |
+| chilatl           | chili water                    |
+| chilli            | chili                          |
+| colli             | grandfather/ancestor           |
+| coltzintli        | revered grandfather/ancestor   |
+| conehuah          | master of child                |
+| conehuahcapil     | possessor of stones            |
+| conetl            | child                          |
+| oquichconetl      | boy                            |
+| oquichhuah        | man/husband                    |
+| oquichtotoltzintli| revered turkey-cock            |
+| tehuah            | possessor of stones            |
+| tetlah            | turkey egg                     |
+| totoltetl         | turkey                         |
+
+(b) Translations into Nahuatl:
+
+- house: callah
+- stone: tetl
+- possessor of water: ahuah
+- revered man/husband: oquichhuahtzintli
+
+(c) Translations into English:
+
+- cacahuatl: cacao
+- cacahuatetl: cacao stone
+- cacahuaatl: cacao water
+- cacahuahuah: master of cacao

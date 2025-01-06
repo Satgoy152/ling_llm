@@ -1,0 +1,486 @@
+Based on the provided classifications, real answers, and LLM solutions, here's the grading according to the rubric:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: 20 * 20 = 400
+            Real Answer: 10 + 1 = 11
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: 40 * 2 = 80
+            Real Answer: 20 × 2 = 40
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: 3 * 15 + 6 * 20 = 165
+            Real Answer: 3 × 20 + (5 + 2) = 67
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: 200 + 2 = 3
+            Real Answer: 10 + 4 = 14
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: 12 * 2 = 244
+            Real Answer: 4 × 20 + 1 = 81
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: 200 * 2 = 400
+            Real Answer: 5 + 2 = 7
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: x + x = x * 2
+            Real Answer: 10 + 3 = 13
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: x + y = z
+            Real Answer: 1 × 20 + (15 + 4) = 39
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: 2 * a + 4 * y = 2 * 4
+            Real Answer: 5 × 3 = 15
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: a * a * b = 4 * a * b
+            Real Answer: 1 + 1 = 1 × 2 = 2
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: x * 4 = y
+            Real Answer: 1 + 4 = 5
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: x + 2 * b = a * b
+            Real Answer: 2 × 6 = 12
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: 3 * 4 * 400 * 1 = x
+            Real Answer: 36 + 4 × 6 = 60
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: 1 * 40 * 22 = 2 * y
+            Real Answer: 2 × 36 = 72
+            Grade: 0
+        15:
+            Classification: Type 1
+            LLM Answer: 1 = y * z * 4 * y
+            Real Answer: 3 × 6 = 18
+            Grade: 0
+        16:
+            Classification: Type 1
+            LLM Answer: 14 = w * y * x * 2
+            Real Answer: 36 + 3 × 6 = 54
+            Grade: 0
+        17:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 6 × 36 = 216
+            Grade: 0
+        18:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 6 + 2 × 6 = 12
+            Grade: 0
+        19:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 3 × 400 + 4 × 20 + (15 + 1) = 1296
+            Grade: 0
+        20:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 1 × 400 + 1 × 20 + (10 + 2) = 432
+            Grade: 0
+        21:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 1 × 400 = 400
+            Grade: 0
+        22:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 216 + 5 × 36 + 4 = 400
+            Grade: 0
+        23:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 1 × 8000 = 8000
+            Grade: 0
+        24:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 7776 + 216 + 6 + 2 = 8000
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: om-mahtlactli-on-ome (2 + 20 * 2)
+            Real Answer: ömpöhualli-om-öme
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: chicuacen-pöhualli-on-caxtölli-on-mahtlactli-on-nähui (9 * 40 + 10 + 20 + 4)
+            Real Answer: centzontli-on-näuh-pöhualli-om-mahtlactli-on-nähui
+            Grade: 1
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: tambaroy asàr ngámbi (40 + 3)
+            Real Answer: fete nimbo ngámbi
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: nimbo fete yenówe tàxwo ngámbi asàr (5 * 100 + 60 + 9)
+            Real Answer: yànparo tarumba yenówe fete asàr tàxwo tambaroy
+            Grade: 1
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: ʒeq̇én: to bite
+            Real Answer: ʒeq̇én — to bite
+            Grade: 2
+        2:
+            Classification: Type 2
+            LLM Answer: medéf: (he/she) is able to sew
+            Real Answer: medéf — (he/she) is able to sew
+            Grade: 2
+        3:
+            Classification: Type 2
+            LLM Answer: medáfe: (he/she) was able to sew
+            Real Answer: medáfe — (he/she) is pretending to sew
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: səfə́n: to be able to burn
+            Real Answer: səfə́n — to be able to burn
+            Grade: 2
+        5:
+            Classification: Type 2
+            LLM Answer: megʷəš'ə́ʔe: (they) are speaking
+            Real Answer: megʷəš'ə́ʔe — (he/she) is speaking
+            Grade: 1
+        6:
+            Classification: Type 2
+            LLM Answer: mebə́b: (he/she) is flying
+            Real Answer: mebə́b — (he/she) is flying
+            Grade: 2
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: c̣ent𝑥ʷéfme: if (they) were able to slide
+            Real Answer: c̣entʷéfme — if (he/she) is able to slide
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: šxáfexeq̇əm: (they) aren't able to eat
+            Real Answer: šxáfexeq̇əm — (they) aren't pretending to eat
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: bəbə́ft: (he/she) was able to fly
+            Real Answer: bəbə́ft — (he/she) was able to fly
+            Grade: 2
+        4:
+            Classification: Type 2
+            LLM Answer: šxet: (he/she) was eating
+            Real Answer: šxet — (he/she) was eating
+            Grade: 2
+        5:
+            Classification: Type 2
+            LLM Answer: ṭəgʷərəgʷə́peme: if (they) are really trembling
+            Real Answer: ṭəgʷərəgʷə́peme — if (he/she) really is trembling
+            Grade: 1
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: medéfxe
+            Real Answer: mádexe — (they) are sewing
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: mebəbə́fxe
+            Real Answer: mebəbə́fexe — (they) are pretending to fly
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: sésape
+            Real Answer: sə́pet — (he/she) really was burning
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: šxáfq̇əm
+            Real Answer: šxéfq̇əm — (he/she) isn't able to eat
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: gʷəš'əʔéme
+            Real Answer: gʷəš'ə́ʔexeme — if (they) are speaking
+            Grade: 1
+        6:
+            Classification: Type 2
+            LLM Answer: ʒeq̇éxe
+            Real Answer: meʒáq̇exe — (they) are biting
+            Grade: 1
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 3
+            LLM Answer: 1. Retain the first letter of the surname. 2. Remove the following letters: 'h', 'w', and vowels ('a', 'e', 'i', 'o', 'u'). 3. Assign numbers to remaining consonants based on this table: * 1: b, f, p, v * 2: c, g, j, k, q, s, x, z * 3: d, t * 4: l * 5: m, n * 6: r 4. Replace consecutive duplicate numbers with a single instance. 5. Remove any remaining vowels. 6. Truncate or pad with zeros to obtain a four-character code (one letter followed by three numbers).
+            Real Answer: 1. Leave the first letter in place. 2. Delete h and w. 3. Replace all consonant letters with digits: - bpv (f): 1 - cgjkqs (xz): 2 - dt: 3 - l: 4 - mn: 5 - r: 6 4. Reduce any sequence of two or more identical digits to a single digit. 5. Delete all vowels (a, e, i, o, u, y). 6. Leave only the first three digits or add zeroes on the right to make the code one letter and three digits long.
+            Grade: 2
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: A410
+            Real Answer: A400
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: A536
+            Real Answer: A536
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: A261
+            Real Answer: A251
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: B252
+            Real Answer: B252
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: C555
+            Real Answer: C155
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: C425
+            Real Answer: C425
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: E152
+            Real Answer: E152
+            Grade: 1
+        8:
+            Classification: Type 1
+            LLM Answer: F623
+            Real Answer: F623
+            Grade: 1
+        9:
+            Classification: Type 1
+            LLM Answer: K523
+            Real Answer: K523
+            Grade: 1
+        10:
+            Classification: Type 1
+            LLM Answer: L220
+            Real Answer: L200
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: L325
+            Real Answer: L342
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: S356
+            Real Answer: S356
+            Grade: 1
+        13:
+            Classification: Type 1
+            LLM Answer: S312
+            Real Answer: S312
+            Grade: 1
+        14:
+            Classification: Type 1
+            LLM Answer: T260
+            Real Answer: T260
+            Grade: 1
+        15:
+            Classification: Type 1
+            LLM Answer: T522
+            Real Answer: T520
+            Grade: 0
+        16:
+            Classification: Type 1
+            LLM Answer: W333
+            Real Answer: W330
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: F622
+            Real Answer: F622
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: F324
+            Real Answer: F326
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: H530
+            Real Answer: H530
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: K100
+            Real Answer: K100
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: M264
+            Real Answer: M240
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: R200
+            Real Answer: R200
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: S000
+            Real Answer: S000
+            Grade: 1
+        8:
+            Classification: Type 1
+            LLM Answer: U143
+            Real Answer: U143
+            Grade: 1
+
+Problem 4:
+    Part a:
+        18:
+            Classification: Type 2
+            LLM Answer: The girls will strike you (sg.).
+            Real Answer: Alayulujba nguyunyu bungmanyani. — The old woman will find you (sg.).
+            Grade: 0
+        19:
+            Classification: Type 2
+            LLM Answer: He left you (sg.).
+            Real Answer: Yagu gininya. — He left you (sg.).
+            Grade: 2
+        20:
+            Classification: Type 2
+            LLM Answer: He has no stick.
+            Real Answer: Janji darrangguwaji. — The dog doesn't have a stick.
+            Grade: 1
+        21:
+            Classification: Type 2
+            LLM Answer: You (sg.) danced with the girl.
+            Real Answer: Ngirra nya alanga. — You (sg.) stole the girl.
+            Grade: 0
+        22:
+            Classification: Type 2
+            LLM Answer: He struck me.
+            Real Answer: Daguma nyinga. — You (sg.) struck me.
+            Grade: 1
+        23:
+            Classification: Type 2
+            LLM Answer: He ran (away) with the spear.
+            Real Answer: Dirragbi ga balamurrungunya. — She jumped with the spear.
+            Grade: 1
+    Part b:
+        24:
+            Classification: Type 2
+            LLM Answer: Yagujba gininga.
+            Real Answer: Yagujba nyungu. — You (sg.) will leave me.
+            Grade: 1
+        25:
+            Classification: Type 2
+            LLM Answer: Ngunybulugi gu.
+            Real Answer: Gulugbi ga ngunybulugi. — The doctor slept.
+            Grade: 1
+        26:
+            Classification: Type 2
+            LLM Answer: Juwani gu bungmanya gijilulungunya.
+            Real Answer: Juwa gu bardba gijilulunguji. — The man will run (away) with the money.
+            Grade: 1
+        27:
+            Classification: Type 2
+            LLM Answer: Ngirra gu janjingunya.
+            Real Answer: Ngirrajba gunu janji. — He will steal the dog.
+            Grade: 0
+        28:
+            Classification: Type 2
+            LLM Answer: Alanga ga nginya.
+            Real Answer: Ngajbi ngiyinya alangani. — The girl saw you (sg.).
+            Grade: 0
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 3
+            LLM Answer: A masafo half-line consists of: 1. Seven syllables. 2. Two or three words, never one or more than three. 3. The penultimate syllable always bears the main stress of the line.
+            Real Answer: Not provided
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: GENUINE
+            Real Answer: ×
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: REARRANGED
+            Real Answer: √
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: GENUINE
+            Real Answer: √
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: GENUINE
+            Real Answer: ×
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: REARRANGED
+            Real Answer: √
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: REARRANGED
+            Real Answer: √
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: REARRANGED
+            Real Answer: ×
+            Grade: 1
+        8:
+            Classification: Type 1
+            LLM Answer: GENUINE
+            Real Answer: ×
+            Grade: 1
+        9:
+            Classification: Type 1
+            LLM Answer: REARRANGED
+            Real Answer: ×
+            Grade: 1
+        10:
+            Classification: Type 1
+            LLM Answer: GENUINE
+            Real Answer: √
+            Grade: 0
+
+Total Score: 40/92

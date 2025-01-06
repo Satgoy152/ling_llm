@@ -1,0 +1,247 @@
+Based on the provided classifications, LLM solutions, and real answers, I will grade each problem according to the rubric. Here's the grading:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: amarxar
+            Real Answer: h̨amerki
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: čömorh̨uc.u
+            Real Answer: jömölkü
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: čimeo1i
+            Real Answer: qamalq̇al
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: h̨ümoč. onxu
+            Real Answer: qumoroo1u
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: orsu
+            Real Answer: somonk.on
+            Grade: 0
+        6:
+            Classification: Type 2
+            LLM Answer: womolt.u
+            Real Answer: amolq̇ol
+            Grade: 0
+        7:
+            Classification: Type 2
+            LLM Answer: h̨arku
+            Real Answer: emensi
+            Grade: 0
+        8:
+            Classification: Type 2
+            LLM Answer: jölkülu
+            Real Answer: h̨ömörč. ü
+            Grade: 0
+        9:
+            Classification: Type 2
+            LLM Answer: qalq̇alu
+            Real Answer: čumaraq̇ar
+            Grade: 0
+        10:
+            Classification: Type 2
+            LLM Answer: quroo1u
+            Real Answer: h̨amolo1u
+            Grade: 1
+        11:
+            Classification: Type 2
+            LLM Answer: sonk.onu
+            Real Answer: ïmankan
+            Grade: 0
+        12:
+            Classification: Type 2
+            LLM Answer: alq̇ola
+            Real Answer: jemeč. i
+            Grade: 0
+        13:
+            Classification: Type 2
+            LLM Answer: emensira
+            Real Answer: ensina
+            Grade: 1
+        14:
+            Classification: Type 2
+            LLM Answer: h̨ömörč.üra
+            Real Answer: h̨örč.üra
+            Grade: 1
+        15:
+            Classification: Type 2
+            LLM Answer: čumaraq̇ara
+            Real Answer: čuraq̇ara
+            Grade: 1
+        16:
+            Classification: Type 2
+            LLM Answer: h̨amolo1ura
+            Real Answer: h̨alo1ula
+            Grade: 1
+        17:
+            Classification: Type 2
+            LLM Answer: ïmankana
+            Real Answer: ïnkana
+            Grade: 1
+        18:
+            Classification: Type 2
+            LLM Answer: jemeč.ira
+            Real Answer: jerč. ira
+            Grade: 1
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: 6
+            Real Answer: 31
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: 1
+            Real Answer: 26
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: 6
+            Real Answer: 36
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: 40
+            Real Answer: 89
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: 2
+            Real Answer: 73
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: 2
+            Real Answer: 75
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: 2
+            Real Answer: 78
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: 9
+            Real Answer: 42
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: 0
+            Real Answer: 52
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: 2
+            Real Answer: 50
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: 81 = 42
+            Real Answer: 64 + 30 = 94
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: 9 = 9
+            Real Answer: 7 + 12 = 19
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: caatr nge caangömen
+            Real Answer: caatr nge caa
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: ekaatr nge luako
+            Real Answer: lueatr nge köningömen
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: lueatr nge köniqaihano
+            Real Answer: ekaatr nge köni
+            Grade: 0
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: Met-Leu-Asn-Val-Leu-Asn-Val-Gly-Gly-Asp-Thr-Arg
+            Real Answer: Met-Leu-Thr-Phe-stop Met-Trp-Gly-Gly-His-Gln
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: AUGAAGUGCUAU, AUGAAGUGC AUU, AUGAAGUGCAUA, AUGAAGUGC AUG
+            Real Answer: AUG AAA/AAG UGU/UGC AUU/AUC/AUA
+            Grade: 1
+    Part c:
+        1:
+            Classification: Type 3
+            LLM Answer: Strong roots: CG, Weak roots: CA, UC, AG
+            Real Answer: Strong Root: XY is strong if XYA, XYG, XYC, and XYU encode the same amino acid (e.g., UC, CC, CG, GC). Weak Root: XY is weak if not all combinations encode the same amino acid (e.g., UU, CA, AG, GA).
+            Grade: 1
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: uolm
+            Real Answer: uolm
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: stum
+            Real Answer: stomi
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: cuort
+            Real Answer: cuort
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: mond
+            Real Answer: muond
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: lavur
+            Real Answer: lavur
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: lavur
+            Real Answer: lavur
+            Grade: 1
+    Part c:
+        1:
+            Classification: Type 3
+            LLM Answer: The difference in plural formation for 'flowers' and 'parents' in Sursilvan (flurs, geniturs) compared to Engadine (fluors, genituors) showcases a dialectal variation. While both dialects use -s for pluralization, Engadine sometimes retains an -o- before the -s, potentially reflecting a more conservative form.
+            Real Answer: In Sursilvan (unlike Engadine), the first rule doesn't apply in plural forms. This may mean that it doesn't work if one consonant is part of the stem and the other belongs to the ending, or that the vowel is chosen before the ending is added, or that the vowel in the plural is made to match the vowel in the singular.
+            Grade: 1
+    Part d:
+        1:
+            Classification: Type 2
+            LLM Answer: Sursilvan: uolms, Engadine: uolms
+            Real Answer: uolms (in both dialects)
+            Grade: 2
+        2:
+            Classification: Type 2
+            LLM Answer: Sursilvan: anguls, Engadine: anguls
+            Real Answer: Sursilvan: anguls, Engadine: anguols
+            Grade: 1
+
+Total Score: 16/90

@@ -1,0 +1,246 @@
+I understand. I'll grade the LLM's answers based on the classification and rubric you provided. Please provide the LLM's answers for each problem so I can grade them accordingly.
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: kekēskahæq - we_{1+2} break it through by tool
+            Real Answer: we (inclusive) chop it through, break it through by tool
+            Grade: 2
+        2:  
+            Classification: Type 2
+            LLM Answer: nepāhkenan - I open it by hand (by raising a lid or opening a door)
+            Real Answer: I open, uncover it by hand (√ pāhk) OR I break it off, tear it off by hand (√ pahk)
+            Grade: 2
+        3:
+            Classification: Type 2
+            LLM Answer: wǣpāhpew - he begins laughing
+            Real Answer: he begins laughing
+            Grade: 2
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: newǣpāqtam 
+            Real Answer: newǣpahtan
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: ketǣnæhkæq
+            Real Answer: kekāwenæq
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: wǣpohnæw (or tawǣsam)
+            Real Answer: tawānæhkæw
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: kǣtohnæw
+            Real Answer: ketōhnæw
+            Grade: 0
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: [bø:a]
+            Real Answer: [bø:va]  
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: [knOar]
+            Real Answer: [kno:ar]
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: [kvø:a]
+            Real Answer: [kvø:a]
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: [lø:vur]
+            Real Answer: [lø:vur]
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: [plOava]
+            Real Answer: [plOava]
+            Grade: 1
+        6:
+            Classification: Type 1
+            LLM Answer: [skEaji]
+            Real Answer: [skEaji]
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: [tOivur]
+            Real Answer: [tOijur]
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: [tr0uwi]
+            Real Answer: [tr0uwi]
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 3
+            LLM Answer: ð is [j] between vowels, otherwise as [v], g is [j] after front vowels and certain diphthongs, otherwise [w] or [v], á is always [Oa], ó is [Ou], Accented vowels and vowels before single consonants are long, úC and CúC have [0u], ýC has [0i]
+            Real Answer: 1. Vowels: a [Ea], á [Oa], e [e:], ei [ai], ey [Ei], i [i:], o [o:], oy [Oi], ó [Ou], u [u:], ú [0u], ø [ø:]. 2. Between vowels: ð = g 3. Rules for ð/g transformation: [w] | [u(:)], [j] | [i(:)] or [i(:)], [v] | [u(:)], [v] in a noun, [∅] in a verb.
+            Grade: 1
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: mùsúĚ á gbòmùĚ - the woman's fish
+            Real Answer: the woman's fish  
+            Grade: 2
+        2:
+            Classification: Type 2
+            LLM Answer: léN kúndúĚ á nỳımı̀̀ıĚ - the short snake's tooth
+            Real Answer: the short child's snake
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: gbòmù-lÈndÈ kúndúĚ - the short boat
+            Real Answer: the short boat
+            Grade: 2
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: kándÒ-lÈndÉ lÒÒĚ -> kándÒ-lÈndÈ lÒÒĚ - the sky's small boat
+            Real Answer: the small airplane
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: kÒánjàĚ á nỳımı̀̀ıĚ
+            Real Answer: kÒánjàĚ á nỳımı̀̀ıĚ
+            Grade: 2
+        2:
+            Classification: Type 2
+            LLM Answer: dèN kúndúĚ já
+            Real Answer: léN lÒÒĚ já
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: kà́ı jǎNĚ lÒÒ-mùsú
+            Real Answer: kà́ı jǎNĚ lÒÒ-mùsù
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: dèN-nı̀mı̀ kúndúĚ
+            Real Answer: nỳımı̀̀ı-lèN lÒÒĚ
+            Grade: 0
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: acalhuah - canoe owner
+            Real Answer: a-cal-li — canoe, "water house"
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: achilli - water pepper
+            Real Answer: a-tl — water
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: atl - water
+            Real Answer: cal-li — house
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: callah - house
+            Real Answer: cal-lah — village
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: calhuah - master of house
+            Real Answer: chil-li — chili
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: chilatl - chili water
+            Real Answer: chil-a-tl — chili water
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: chilli - chili
+            Real Answer: col-li — grandfather/ancestor
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: colli - grandfather/ancestor
+            Real Answer: col-tzintli — revered grandfather/ancestor
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: coltzintli - revered grandfather/ancestor
+            Real Answer: cone-huah — mother, "one who has child(ren)"
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: conehuah - master of child
+            Real Answer: cone-tl — child
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: conehuahcapil - possessor of stones
+            Real Answer: oquich-cone-tl — boy, male child
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: conetl - child
+            Real Answer: te-huah — possessor of stones
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: oquichconetl - boy
+            Real Answer: totol-te-tl — turkey egg
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: callah
+            Real Answer: calli
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: tetl
+            Real Answer: tetl
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: ahuah
+            Real Answer: ahuah
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: oquichhuahtzintli
+            Real Answer: oquichtzintli
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: cacao
+            Real Answer: cocoa
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: cacao stone
+            Real Answer: cocoa bean
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: cacao water
+            Real Answer: cocoa drink
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: master of cacao
+            Real Answer: possessor of cocoa
+            Grade: 1
+
+Total Score: 24/71

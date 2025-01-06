@@ -1,0 +1,141 @@
+
+### Problem 2: Negative Form Construction
+#### Rules:
+1. **Marker Placement:**
+   - Insert the marker `-(k)a’-` after the first syllable if it is either closed (ends in a consonant) or long (contains a long vowel).
+   - Otherwise, insert the marker after the second syllable.
+
+2. **Vowel Length:**
+   - If the marker is inserted after a long vowel, the vowel loses its length.
+
+3. **Marker Form:**
+   - After an open syllable, the marker retains its original form `-ka’-`.
+   - After a closed syllable, it changes to `-a’-`.
+
+4. **Special Case for Mono- and Disyllabic Words:**
+   - The marker appears as `-(k)a:ʔa’`, where (k) depends on Rule 3.
+
+#### Examples:
+1. **Word Analysis:**
+   - `bakwanyiń` (‘my wrist’) → `kas bakwanyiń` (‘not my wrist’).
+   - The marker `-ka’-` is inserted after the second syllable, indicating the first syllable is open.
+
+2. **Base Forms and Negative Forms:**
+   | Base Form          | Negative Form          |
+   |--------------------|------------------------|
+   | `as` (to sit)      | `kas asa:sa’`          |
+   | `enferme:ra`       | `kas ena’ferme:ra`     |
+   | `ji!a:pa`          | `kas ji!aka’pa`        |
+   | `de`               | `kas deka:ka’`         |
+   | `rulrul`           | `kas rula’rul`         |
+   | `tipoysu:da`       | `kas tipoya’su:da`     |
+   | `wurul`            | `kas wurula:la’`       |
+   | `dewajna`          | `kas dewaja’na`        |
+   | `de:wajna`         | `kas deka’wajna`       |
+
+---
+
+### Problem 3: Georgian Verb Structure
+#### Analysis:
+1. **Components Identification:**
+   - Suffixes: `-e`, `-ob`, `-eb`.
+   - Prefixes: `v-`, `i-`.
+
+2. **Person/Number Markers:**
+   - Prefix and suffix combinations mark person and number:
+     - `v+0`, `0+0`, `v+t`, `0+t`.
+
+3. **Verb Forms and Meanings:**
+   - `vtkvi` — I said.
+   - `nadirob` — you hunt.
+   - `kenit` — you (pl.) did.
+   - `visadileb` — I will dine.
+   - `inadiret` — you (pl.) hunted.
+   - `vinadire` — I hunted.
+   - `itavmGdomareve` — you chaired.
+   - `ambob` — you say.
+   - `vsadilobt` — we dine.
+   - `vitavmGdomareve` — I chaired.
+   - `tkvi` — you said.
+   - `izamt` — you (pl.) will do.
+   - `vigoreb` — I will roll.
+   - `vivlit` — we will walk.
+   - `vkeni` — I did.
+
+4. **Tense Markers:**
+   - Present: `-ob`.
+   - Future: `i-`.
+
+5. **Strong vs. Weak Verbs:**
+   - Weak verbs: `i-` in the past, `-e` suffix in the past, `-eb` suffix in the future.
+   - Strong verbs: No suffixes, different roots for tenses.
+
+---
+
+### Problem 4: Numerical System Analysis
+#### Rules:
+1. **Base 6 System:**
+   - Numbers are expressed in base 6.
+   - `36` (base) is marked by the word `nif`.
+
+2. **Multiplication and Addition:**
+   - `an` marks multiplication by 6.
+   - `abo` marks addition.
+
+#### a. Number Translations:
+1. `mer an thef abo thonith` = 16 (6 × 2 + 4)
+2. `nif thef abo mer abo ithin` = 81 (36 × 2 + 6 + 3)
+3. `nif abo mer an thef abo sas` = 49 (36 + 12 + 1)
+4. `nif abo tondor abo mer abo thonith` = 64 (36 + 18 + 6 + 4)
+5. `nif thef abo tondor abo mer abo thonith` = 100 (72 + 18 + 6 + 4)
+6. tondor abo mer abo sas = 18+6+1 = 25
+7. mer abo ithin = 6+3 = 9
+8. thonith = 4
+9. sas = 1
+10. nif = 6& = 36
+
+#### b. Additional Examples:
+
+1. `mer abo sas` = 7 (6 + 1)
+2. `tondor abo mer abo sas` = 18+6*2+x = 30+x
+
+#### c. Numerical Equivalents:
+1. nif ithin abo ithin = 6^2 3+3 = 111
+2. mer an thef abo meregh = 6*2+5 = 17
+
+#### d. Numerical Equations:
+1. 58 = 6&+18+4 = nif abo tondor abo thonith
+2. 87 = 6& 2+6*2+3 = nif thef abo mer an thef abo ithin
+---
+
+### Problem 5: Turkish and Tatar Sound Correspondences
+#### Observations:
+1. **Vowel Correspondences:**
+   - `a ~ a`, `i` (1st syllable) ~ `i`, `e` (non-1st syllable) ~ `ä`.
+   - `o ~ u`, `ö ~ ü`.
+   - `ı` (non-1st syllable) ~ `ı`.
+
+2. **Consonant Correspondences:**
+   - `m` (medial) ~ `m`, `m` (initial) ~ `m` if `n` follows.
+   - `b ~ b` (initial), `d ~ d`, `t ~ t`.
+   - `n ~ n`, `l ~ l`, `r ~ r`, `s ~ s`, `z ~ z`.
+
+3. **Special Consonant Patterns:**
+   - `c ~ ç` before Tatar `i`.
+   - `y ~ y` elsewhere.
+   - `) ~ g`, `g` (initial) ~ word-initially.
+   - `k ~ k` elsewhere.
+
+#### a. Word Reconstructions:
+Here is the transcription of the image:
+
+| Turkish    | Tatar     |
+|------------|-----------|
+| 19. usta   | osta      |
+| 20. gözenek| küzänäḱ   |
+| 21. yılan  | yılan     |
+| 22. yedişer| cideşär   |
+| 23. bilezik| beläzek   |
+| 24. üstünde| östendä   |
+| 25. bin    | men       |
+| 26. yumru  | yomrı     |

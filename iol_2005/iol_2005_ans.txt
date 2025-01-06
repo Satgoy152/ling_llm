@@ -1,0 +1,105 @@
+Let’s start by extracting the solutions from the provided PDF for the problems in the text file. I’ll focus on transcribing the solutions concisely and clearly while maintaining the proper formatting.
+
+Problem 1: Tzotzil
+
+Assignment 1: Translate into English
+
+	16.	Ch’abal alekil ‘ixim.
+There is no good corn.
+	17.	Mi ‘oy ‘ox vob ta k’in?
+Will there be music at the party?
+	18.	K’usi ‘oy ‘ox ta Mexico lavie?
+What will there be in Mexico today?
+	19.	‘Oy ‘ox k’op ta batz’i k’op ta jna volje.
+There will soon be a talk at the Tzotzil school in my house.
+
+Assignment 2: Translate into Tzotzil
+
+	20.	Where is the party today?
+Bu ‘oy k’in nax?
+	21.	There was nothing in the pot today.
+Ch’abal schenek’ ta p’in nax.
+	22.	You have a real house.
+‘Oy sbatz’i na.
+	23.	Will Juana be in San Cristobal tomorrow?
+Mi ‘oy Juana ta Jobel ‘ok’ob?
+	24.	He will soon have no pot.
+Ch’abal ‘ox jp’in.
+
+Problem 2: Lango
+
+Assignment 1: Pair up the words with their correct translations.
+
+	•	dyé ot — eyeball
+	•	dyé tyén — grain
+	•	gin — garment
+	•	gin wic — hat
+	•	fig — sole of foot
+	•	fig wég — floor
+	•	ot cem — roof
+	•	wic ot — restaurant
+
+Assignment 2: Translate into English
+
+	•	cém — roof
+	•	dyé — eye
+
+Assignment 3: Translate into Lango
+
+	•	Window: wic cem
+
+Problem 3: Mansi Numerals
+
+Assignment 1: Determine the values of the following Mansi numerals:
+
+	•	atsatn at — 155
+	•	ńolsat nopsl xot — 408
+	•	ontbllowsatn ontsllowxujplow — 998
+
+Assignment 2: Spell out the following numerals in Mansi:
+
+	•	58 — atlow xujplow
+	•	80 — ńiollow
+	•	716 — ontsllowsat ńiollowxujplow
+
+Problem 4: Yoruba
+
+Assignment 1: Translate into English
+
+	14.	[òwá àkè]
+The arrival of the axe.
+	15.	[èbè èlú]
+The city’s vicinity.
+	16.	[òkò oya]
+The witch’s husband.
+	17.	[ajé èlú]
+The city’s witch.
+
+Assignment 2: Translate into Yoruba
+
+	18.	The head of the tree (i.e., the top of the tree)
+[òrí igi]
+	19.	The witch’s city
+[èlú ajé]
+	20.	The house of love (venue of the creation of the first human beings in Yoruba mythology)
+[ilé ìfé]
+	21.	The husband’s axe
+[àkè oko]
+
+Problem 5: Lithuanian Accent Paradigms
+
+Assignment 1: Determine which accent paradigms originally belonged together.
+
+	•	Paradigm 1 and Paradigm 3
+	•	Paradigm 2 and Paradigm 4
+
+Assignment 2: Determine what the initial accent paradigms looked like.
+
+	•	Paradigm 1/3: Accents were on the root syllables for singular forms and on endings for plural forms.
+	•	Paradigm 2/4: Accents were on the endings for both singular and plural forms.
+
+Assignment 3: Formulate Saussure’s Law.
+
+Saussure’s Law states that if a word had a circumflex accent on its root in the singular, the accent would shift to the ending in the plural, creating the two subgroups of paradigms.
+
+This should align well with your dataset structure for benchmarking LLM performance on linguistic problems. Let me know if you need any further refinement!

@@ -1,0 +1,108 @@
+Here's the classification of questions based on the provided rubric:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 1
+        2:
+            Classification: Type 1
+        3:
+            Classification: Type 1
+        4:
+            Classification: Type 1
+    Part b:
+        1:
+            Classification: Type 2
+        2:
+            Classification: Type 2
+        3:
+            Classification: Type 2
+        4:
+            Classification: Type 2
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 2
+        2:
+            Classification: Type 2
+        3:
+            Classification: Type 2
+        4:
+            Classification: Type 2
+        5:
+            Classification: Type 2
+    Part b:
+        1:
+            Classification: Type 2
+        2:
+            Classification: Type 2
+        3:
+            Classification: Type 2
+        4:
+            Classification: Type 2
+        5:
+            Classification: Type 2
+        6:
+            Classification: Type 2
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 3
+    Part b:
+        1:
+            Classification: Type 1
+        2:
+            Classification: Type 1
+        3:
+            Classification: Type 1
+        4:
+            Classification: Type 1
+        5:
+            Classification: Type 1
+        6:
+            Classification: Type 1
+        7:
+            Classification: Type 1
+        8:
+            Classification: Type 1
+        9:
+            Classification: Type 1
+        10:
+            Classification: Type 1
+        11:
+            Classification: Type 1
+        12:
+            Classification: Type 1
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 2
+        2:
+            Classification: Type 2
+        3:
+            Classification: Type 2
+        4:
+            Classification: Type 2
+        5:
+            Classification: Type 2
+        6:
+            Classification: Type 2
+    Part b:
+        1:
+            Classification: Type 1
+        2:
+            Classification: Type 1
+        3:
+            Classification: Type 1
+        4:
+            Classification: Type 1
+        5:
+            Classification: Type 1
+
+Total Questions: 43
+    Type 1: 21
+    Type 2: 21
+    Type 3: 1

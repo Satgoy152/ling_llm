@@ -1,0 +1,102 @@
+=### Problem 1: Verb Morphology
+#### Answers:
+- **(a)**
+  1. `noniʔbe` — you (pl.) are piercing me
+  2. `halu'ibe` — we both will strike him
+  3. `liʔlatagihe` — because you (sg.) will pierce us
+  4. `nokufune` — we are piercing you (sg.)
+  5. `nolahanagihe` — because you (pl.) are striking us
+
+- **(b)**
+  1. `noha'ibe` — you both are striking him
+  2. `kiʔlune` — we will pierce you (sg.)
+  3. `nolenohotagihe` — because we are striking you (pl.)
+  4. `ʔlanagihe` — because you (pl.) will pierce him
+
+---
+
+### Problem 2: Pluralization Rules
+#### Answers:
+- **singular / dual / plural**
+  - `plum`: `alOsOhjegO / alOsOhje / alOsOhjegO`
+  - `dog`: `tsegun / tsegun / tsegudO`
+  - `lemon`: `alOguk’ogO / alOguk’o / alOguk’ogO`
+  - `old man`: `k’aphthO / k’aphthO / k’aphthOgO`
+  - `blanket`: `khOdO / khO / khO`
+  - `tomato`: `k’OdO / k’On / k’OdO`
+  - `apple`: `alOgO / alO / alOgO`
+  - `buffalo`: `phO / phO / phOgO`
+  - `child`: `san / san / sadO`
+  - `comb`: `Olsun / Olsun / OlsudO`
+  - `fork`: `pitso / pitso / pitsogO`
+  - `chair`: `thOphpaadO / thOphpaa / thOphpaa`
+
+---
+
+### Problem 3: Linguistic Symbols and Sentences
+#### Answers:
+- **(a)**
+  1. `Wa2nie1 Syn1mei1 Ke.i1¹ey2 Sei1na1 Sie1tsie1 Ldiu2±e1, ʔan1nia1 Nie2tse.` — Sentence 1.
+  2. `Lhie2nyn2 Ngwi1mbyn2 Mbe2phon1 Ngon2ngwe1` — Sentence 2.
+  
+- **(b)**
+  1. `Nie2tse.1 Sie1tsie1 'yn1 ndo.n1 ngu2.`
+
+---
+
+### Problem 4: Syntax and Tone Changes
+#### Answers:
+- **(a)**
+  1. `Did this man frighten the thief?`  
+  The girl said that he (this man) did frighten the thief.
+  2. `Will the deceived girl kill this youth?`  
+  The deceived girl said that she (the deceived girl) would kill this youth.
+  3. `This thief said that the child did not heal the man.`  
+  or  
+  `This thief said that the child would not heal the man.`
+
+- **(b)**
+  1. `okàa kí.nonò a.modhyòmú koʔlomù ânò à?`  
+  `a.mò wei ga ó. ki.nono a.modhyòmú koʔlomù ânò.`
+  2. `a. vùràmú nu. amù â. nò nwa. sese edèì à?`  
+  `a. vùràmú nu. amù â. nò wei ga òkí nwa. sese edèì.`
+
+- **(c)**
+  - Nouns are not affected by any grammatical tone changes when placed at the very end of the sentence, before `à` or before `ânò`.  
+  - Base form for 'thief': `ozyi`  
+  - Base form for 'girl': `amemùrè`
+
+---
+
+### Problem 5: Spatial Relations and Body Parts
+#### Answers:
+- **(a)**
+  - `Páá` — to put
+  - `Páá náng nú kò` — to be dying (to put + foot + edge + hole)
+  - `Páá sèè` — to envy (to put + liver)
+  - `búmá ýık` — eyelash (hair + eyes)
+  - `búmá zù ýık` — eyebrow (hair + above, on + eyes)
+  - `dáng gòk` — poisonous snake (bad + snake)
+  - `d́ı fò` — good field (good + field)
+  - `d́ı sèè` — happiness (good + liver)
+  - `kò ýık` — eye socket (hole + eyes)
+  - `kò zòk` — nostril (hole + nose)
+  - `náng ẃı` — foot (foot + human)
+  - `nú fò` — field edge (edge + field)
+  - `nú lébé` — tip of the tongue (edge + tongue)
+  - `sèè ẃı` — liver (liver + human)
+  - `ýık` — at the surface (face)
+  - `ýık ẃı` — face/eyes (face/eyes + human)
+  - `zù` — above, on (head)
+
+- **(b)**
+  - `búmá zù` — hair (on the head) (hair + head)
+  - `kò` — hole
+  - `lébé gòk` — snake's tongue (tongue + snake)
+  - `lébé ẃı` — tongue (tongue + human)
+
+- **(c)**
+  - `sèè` — at the center (liver)
+  - `zù ẃı` — head (head + human)
+  - `dáng sèè` — displeasure (bad + liver)
+  - `zòk ẃı` — nose (nose + human)

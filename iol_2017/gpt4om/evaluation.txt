@@ -1,0 +1,247 @@
+Based on the provided classification, LLM solutions, and real answers, here's the grading for each problem:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: tùŋūn^2 + tàt + nààs = bākūrū bībā ná vɛ̀ rwīīt
+            Real Answer: 52 + 3 + 4 = 32
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: tàt nààs = bākūrū bītīīmìn ná vɛ̀ ʃāātàt
+            Real Answer: 34 = 81
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: tàāmà^2 + ʃāātàt + gwīnìŋ = bākūrū bīnāās ná vɛ̀ ʃāāgwīnìŋ
+            Real Answer: 72 + 9 + 1 = 59
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: ʃāātàt gwīnìŋ = ʃāātàt
+            Real Answer: 91 = 9
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: rwīīt^2 + bà + tùŋūn = bākūrū bītūŋūn ná vɛ̀ ʃāāgwīnìŋ
+            Real Answer: 82 + 2 + 5 = 71
+            Grade: 0
+        6:
+            Classification: Type 2
+            LLM Answer: bà tùŋūn = bākūrū bībā ná vɛ̀ rwīīt
+            Real Answer: 25 = 32
+            Grade: 0
+        7:
+            Classification: Type 2
+            LLM Answer: ʃāātàt^2 + nààs + tàt = bākūrū bītāāmà ná vɛ̀ nààs
+            Real Answer: 92 + 4 + 3 = 88
+            Grade: 0
+        8:
+            Classification: Type 2
+            LLM Answer: nààs tàt = bākūrū bītūŋūn ná vɛ̀ nààs
+            Real Answer: 43 = 64
+            Grade: 0
+        9:
+            Classification: Type 2
+            LLM Answer: kūrū ná vɛ̀ nààs + kūrū ná vɛ̀ ʃāātàt = kūrū ná vɛ̀ tìīmìn + bà + kūrū ná vɛ̀ tùŋūn
+            Real Answer: 16 + 21 = 18 + 2 + 17
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: bākūrū bītāt = bākūrū bīnāās
+            Real Answer: bākūrū bītāt = 36
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: ʃāāgwīnìŋ = ʃāātàt + gwīnìŋ
+            Real Answer: ʃāāgwīnìŋ = 11
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: Not explicitly given, but used in many equalities. Can be deduced as part of the equations.
+            Real Answer: kūrū = 12
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: 6: tàmà
+            Real Answer: 6 = tìīmìn
+            Grade: 0
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: abang - h. father's pistol
+            Real Answer: a-bang — your (sg.) shoulder
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: amin - my (sg.)
+            Real Answer: a-min — your (sg.) nose
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: deya hebataa - your (sg.) father's hand
+            Real Answer: de-ya he-bataa — one's own mother's tree
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: pig - d. one's own rope
+            Real Answer: pig — fe
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: your (pl.) knife - m. his knife
+            Real Answer: your (pl.) knife — ri-lui
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: your (sg.) mother's father - b. your (sg.) branch
+            Real Answer: your (sg.) mother's father — e-ya he-maama
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: my father's face - c. my face
+            Real Answer: my father's face — ne-maama ha-pong
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: one's own ear - a. his fingertip
+            Real Answer: one's own ear — da-wei
+            Grade: 0
+        6:
+            Classification: Type 2
+            LLM Answer: my sea - q. your (pl.) sea
+            Real Answer: my sea — ne-tama
+            Grade: 1
+
+Problem 3:
+    Part a:
+        12:
+            Classification: Type 2
+            LLM Answer: múlóʒí mwámónà ʒìtéténbwá - My sorcerer is in the sky.
+            Real Answer: múlóʒí mwámónà ʒìtéténbwá — Did the sorcerer see the stars?
+            Grade: 0
+        13:
+            Classification: Type 2
+            LLM Answer: ʒìtéténbwá ʒjálà mùdjúlù - Stars are in the sky.
+            Real Answer: ʒìtéténbwá ʒjálà mùdjúlù — There are stars in the sky.
+            Grade: 2
+        14:
+            Classification: Type 2
+            LLM Answer: ŋgákínà - I saw it.
+            Real Answer: ŋgákínà — I danced.
+            Grade: 0
+        15:
+            Classification: Type 2
+            LLM Answer: djálá djámónà màhónʒò mùlwándá - I saw my roosters in Luanda.
+            Real Answer: djálá djámónà màhónʒò mùlwándá — Did the man see the bananas in Luanda?
+            Grade: 1
+    Part b:
+        16:
+            Classification: Type 2
+            LLM Answer: Did I sing? - ŋgámbá líyú?
+            Real Answer: Did I sing? — ŋgáʃíká
+            Grade: 0
+        17:
+            Classification: Type 2
+            LLM Answer: The person met the sorcerer and the friend in the square. - àlóʒí ásáŋgá djálà mùkìtándà mwámì
+            Real Answer: The person met the sorcerer and the friend in the square. — mútú mwásáŋgá múlóʒì nì dìkámbà mùkìtándà
+            Grade: 1
+        18:
+            Classification: Type 2
+            LLM Answer: My man (husband) saw the cave. - ŋgámónà dìkúŋgú djámì
+            Real Answer: My man (husband) saw the cave. — djálá djámí djámónà dìkúŋgù
+            Grade: 1
+        19:
+            Classification: Type 2
+            LLM Answer: There are sorcerers in Luanda. - àlóʒí mwámì mùlwándà
+            Real Answer: There are sorcerers in Luanda. — mùlwándà mwálà àlóʒì; àlóʒí álà mùlwándà
+            Grade: 1
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: lavatbungmenemen - the whole world (from: lavat - world, bungmenemen - whole)
+            Real Answer: lavatbungmenemen — big group of villages
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: laradi - hot coal (ember)
+            Real Answer: laradi — man
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: lavatkonuna - many worlds
+            Real Answer: lavatkonuna — big branch
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: laxantoonan - group of eyes
+            Real Answer: laxantoonan — many spirits
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: levengkatli - big hearts
+            Real Answer: levengkatli — eyes
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: loxot - hot fire
+            Real Answer: loxot — place
+            Grade: 0
+        6:
+            Classification: Type 2
+            LLM Answer: lubungkavus - group of white men
+            Real Answer: lubungkavus — group of white men
+            Grade: 2
+        7:
+            Classification: Type 2
+            LLM Answer: luvaroos - tree branches
+            Real Answer: luvaroos — two big vines
+            Grade: 1
+    Part c:
+        8:
+            Classification: Type 2
+            LLM Answer: heart - levempeve
+            Real Answer: heart — leveve
+            Grade: 1
+        9:
+            Classification: Type 2
+            LLM Answer: gardens - loxontaamang
+            Real Answer: gardens — leventaamang
+            Grade: 1
+        10:
+            Classification: Type 2
+            LLM Answer: many things - luvanga
+            Real Answer: many things — laxampanga
+            Grade: 0
+        11:
+            Classification: Type 2
+            LLM Answer: grandchildren - lurubuno
+            Real Answer: grandchildren — luvuttubuno
+            Grade: 1
+        12:
+            Classification: Type 2
+            LLM Answer: two parts of day (two moments) - lualeng
+            Real Answer: two parts of day — luxonaleng
+            Grade: 1
+        13:
+            Classification: Type 2
+            LLM Answer: branches - loxonga
+            Real Answer: branches — lengkonuna
+            Grade: 0
+        14:
+            Classification: Type 2
+            LLM Answer: big branches - lemparoos
+            Real Answer: big branches — lempatkonuna
+            Grade: 1
+
+Total Score: 17/61

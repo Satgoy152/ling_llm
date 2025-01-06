@@ -1,0 +1,152 @@
+Prompt: As an expert in computational linguistics solve the following problems:
+
+Problem 1
+Georgian Countries
+
+There are names of some countries in South America, written in the Georgian language, together with their translations to English:
+
+[Img 1A attatched]
+
+a. What are the names, in English, of the two untranslated countries?
+
+[Img 1B attatched]
+
+Problem by Bruno L’Astorina
+For the Brazilian Linguistics Olympiad 2016
+
+
+Problem 4
+Japanese Braille
+
+Braille is a tactile writing system based on a series of raised dots that is widely used by the blind. 
+
+To  the  right  is  a  Japanese  word  written  in  the tenji (“dot characters”) writing system. 
+The large dots  represent  the  raised  bumps;  the  tiny  dots represent empty positions.
+
+[Img 4A attatched]
+
+a. The following tenji words represent atari, haiku, katana, kimono, koi, and sake.
+Which is which? You don’t need to know either Japanese or Braille to figure it out; you’ll find that the system is highly logical.
+
+[Img 4B attatched]
+
+b. What are the following words? 
+
+[Img 4C attatched]
+
+c. Write the following words in tenji:
+a) samurai
+b) miso
+
+Problem by Patrick Littell
+For the North American Computational Linguistics Olympiad 2009
+
+
+Problem 11
+
+Inuktitut is one of the main languages of the Inuit people, which lives in several areas in the
+northern Canada and Alaska. Few years ago, students from a school in the small town of Kaktovik
+invented a new way of writing numbers, more appropriate for the way numbers are expressed in
+the Inuktitut language.
+Imagine that you are travelling through northern Canada and find some Inuit students that know
+nothing about English, Latin script or Indo-Arabic numerals. Then, in order to start
+communication, one of the students offer you a list of mathematical operations, shown below (in
+the left column). This version of the table uses the Indo-Arabic symbols for the operations.
+
+[Img 11A attatched]
+
+a. Seeing that you understood the table, the student challenges you to write down the answers of
+another series of operations, shown in the right column. Give the answers in Inuktitut numerals.
+
+b. To assure the student that you understood the system, you decided to write down the date of
+today (day, month and year) in Inuktitut numerals, assuming they used Gregorian calendar. What
+did you write down?
+
+Problem 13: Basque Kinship
+
+This is the genealogical tree of a Basque family. The blanks spaces in the diagram stand for the names Ines, Kontxi, Felix, and Andres (listed here in no particular order).
+
+[Img 13A attatched]
+
+Some of the relationships between the members of this family are described below in Basque:
+
+	•	Ines Mikelen emaztea da.
+	•	Monika Kontxiren ahizpa da.
+	•	Inma Manuren arreba da.
+	•	Iker Joseparen senarra da.
+	•	Mikel Felixen anaia da.
+	•	Andres Iboneren neba da.
+	•	Ibone eta Felix senar-emazteak dira.
+	•	Andres eta Ibone Emilioren seme-alabak dira.
+	•	Manu Iboneren semea da.
+
+a. Identify the names that belong in the blank spaces in the diagram.
+b. Is Kontxi male or female? Explain, using the data from the problem.
+c. Fill in the gaps in the following Basque sentences (referring to the same family):
+	•	(1) Kontxi ___________________ ahizpa da.
+	•	(2) Inma eta Manu Iboneren ___________________ ________.
+	•	(3) Ibone Andresen ___________________ ________.
+	•	(4) Manu Inmaren ___________________ ________.
+	•	(5) Kontxi Mikelen ___________________ ________.
+	•	(6) Emilio ___________________ senarra da.
+
+Note: Ibone, Ines, Inma, Josepa, Miren, and Monika are women’s names; Andres, Emilio, Felix, Iker,
+Manu, Mikel are men’s names. The letters s and x stand for sounds similar to English sh; z has the
+sound of English s, tx of English ch, j is a sound intermediate between g and y; h is mute.
+
+Here is the transcription for Problem 15 (Manam) and the subsequent problems from the “Sample Problem Set”:
+
+Problem 15: Manam
+
+Manam Pile (“Manam Talk”) is a Malayo-Polynesian language spoken on Manam Island off the
+coast of Papua New Guinea. Manam is one of the most active volcanoes in the world, and during
+violent eruptions the population must be evacuated to the mainland.
+
+[Img 15A attatched]
+
+Below, a Manam islander describes the relative locations of the houses above:
+
+	1.	Onkau pera kana auta ieno, Kulu pera kana ilau ieno.
+	2.	Mombwa pera kana ata ieno, Kulu pera kana awa ieno.
+	3.	Tola pera kana auta ieno, Sala pera kana ilau ieno.
+	4.	Sulung pera kana awa ieno, Tola pera kana ata ieno.
+	5.	Sala pera kana awa ieno, Mombwa pera kana ata ieno.
+	6.	Pita pera kana ilau ieno, Sulung pera kana auta ieno.
+	7.	Sala pera kana awa ilau ieno, Onkau pera kana ata auta ieno.
+	8.	Butokang pera kana awa auta ieno, Pita pera kana ata ilau ieno.
+
+Questions:
+
+a.	Onkau’s, Mombwa’s, and Kulu’s houses have already been located on the map above. Who lives in the other five houses?
+
+A: ____
+B: ____
+C: ____
+D: ____
+E: ____
+
+b.	Arongo is building his new house in the location marked with an X. 
+In three Manam Pile sentences like the ones above, describe the location of Arongo’s house in relation to the three closest houses.
+
+Problem 17: Aymara
+
+Aymara is a South American language spoken by more than 2 million people in the area around
+Lake Titicaca, which, at 12,507 feet above sea level, is the highest navigable lake in the world.
+Among the speakers of Aymara are the Uros, a fishing people who live on artificial islands, woven
+from reeds, that float on the surface of Lake Titicaca.
+a. Below, seven fishermen describe their catch. Who caught what? Match the letters in the image to the statements below.
+Also, watch out! One of the fishermen is lying.
+
+[Img 17A attatched]
+
+	1.	“Mä hach’a challwawa challwataxa.”
+	2.	“Kimsa hach’a challwawa challwataxa.”
+	3.	“Mä challwa mä hach’a challwampiwa challwataxa.”
+	4.	“Mä hach’a challwa kimsa challwallampiwa challwataxa.”
+	5.	“Paya challwallawa challwataxa.”
+	6.	“Mä challwalla paya challwampiwa challwataxa.”
+	7.	“Kimsa challwa paya challwallampiwa challwataxa.”
+
+b. Your daily catch is pictured below. Describe it in Aymara, and don’t lie!
+
+[Img 17B attatched]

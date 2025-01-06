@@ -1,0 +1,32 @@
+Prompt: As an expert in computational linguistics solve the following problem:
+
+### Problem 3 (20 points)
+Blissymbolics is a universal system of symbols devised by Charles K. Bliss (1897–1985), an Australian of Austrian origin, who thought it should be understandable to all people, regardless of their native tongue.
+
+Given are words written in Blissymbolics and their English translations in arbitrary order:
+[Image 3A Attatched for Blissymbolics]
+
+- waist
+- active
+- ill, sick
+- lips
+- activity
+- to blow
+- western
+- merry
+- to weep
+- saliva
+- to breathe
+
+(a) Determine the correct correspondences.
+
+(b) Indicate what the following symbols mean, knowing that two of them have the same meaning:
+
+[Image 3B Attatched for Blissymbolics]
+
+(c) Write in Blissymbolics:
+- air
+- body (torso)
+- to rise
+- east
+- sad

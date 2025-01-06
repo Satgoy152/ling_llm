@@ -1,0 +1,274 @@
+Problem 2: Ancient Greek
+
+a. Match the Ancient Greek phrase (A-H) with the corresponding English translation (1-8):
+
+A. ho tōn hyiōn dulos - 1. the slave of the sons
+B. hoi tōn dulōn cyrioi - 2. the masters of the slaves 
+C. hoi tu emporu adelphoi - 3. the brothers of the merchant
+D. hoi tōn onōn emporoi - 4. the merchants of the donkeys
+E. ho tu cyriu onos - 5. the donkey of the master
+F. ho tu oicu cyrios - 6. the master of the house
+G. ho tōn adelphōn oicos - 7. the house of the brothers
+H. hoi tōn cyriōn hyioi - 8. the sons of the masters
+
+b. Translate into Ancient Greek:
+a) the houses of the merchants - hoi tōn emporōn oicoi
+b) the donkeys of the slave - hoi tu dulu onoi
+
+Problem 3: Aragonese
+
+a. Write down the missing words:
+
+Singular	Plural	Translation
+valley	bal	bals
+stool	banquet	banquetz
+hole	clot	clotz
+stone	cantal	cantals
+awake	concordau	concordaus
+chocolate	chicolat	chicolatz
+union	chunta	chuntaz
+unhanded	deixau	deixaus
+eclipse	eclix	eclixes
+cicada	ferfet	ferfetz
+character	personache	personaches
+fish	peix	peixes
+
+Problem 5: Lalana Chinantec
+
+a. The word li:ʔ means "my".
+b. The word ro:h means "yellow".
+c. Translate into Lalana Chinantec:
+1) The good pineapples became beautiful. - mɨlakwa: mo:h kya
+2) My ripe corn has yellowed well. - li:ʔ kalaro:h kwɨ: ne kya
+
+d. Translate the following into English:
+1) mɨlaro:h kwɨ: ne - My ripe corn has yellowed.
+2) li:ʔ kalakwa: kwɨ: - My corn has grown.
+
+Problem 6: Molistic
+
+a. Which of the following would you be likely to hear?
+b) The singer was not only molistic but also cluvious.
+
+b. What quality or qualities would you be looking for in a person?
+a) blitty
+c) sloshful
+
+Problem 7: Persian
+
+a. Translate into English:
+1) čahārpāye pāin-e miz - The stool under the table
+2) ketāb zir-e komod - The book under the bookcase
+
+b. Fill in the gaps in these English to Persian translations:
+1) The stone under the water sang sang zir-e āb
+2) The box under the tree sandūq zir-e deraxt
+
+Problem 8: Kazakh
+
+(a) Match each phrase with its correct translation and supply the missing words:
+
+a. one and five - ii. bir men bes
+b. one and eight - iii. bir ben segiz 
+c. three and two - viii. üš ben eki
+d. four and seven - vii. tört pen žeti
+e. seven and fifty - v. žeti men elüw
+f. eight and fifty - i. segiz ben elüw
+g. thirteen and thirty - ix. on üš pen otız
+h. thirty and two - iv. otız ben eki
+i. fifty-two and ten - vi. elüw eki men on
+
+(b) Translate into Kazakh:
+1. five and thirty-eight - bes ben otız segiz
+2. ten and four - on ben tört
+3. seven and fifty-three - žeti men elüw üš
+4. thirty-eight and five - otız segiz ben bes
+
+Problem 9: Taikyoku Shōgi
+
+(a) Fill the gaps:
+
+Initial value	Promoted value
+1. sōyū "Running Bear"	⟹ honroku "Dashing Stag"
+2. gyokushō "Jewel General"	⟹ tōshō "Sword General" 
+3. gyūhei "Ox Soldier"	⟹ hongyū "Ox General"
+4. hisha "Right General"	⟹ ugun "Right General"
+5. kyūgyū "Bow Ox"	⟹ hongyū "Ox General"
+6. kyūhei "Bow Soldier"	⟹ kyūsha "Bow General"
+7. kisho "Wood General"	⟹ kirin "Unicorn"
+8. dohei "Crossbow Soldier"	⟹ tōsha "Dashing Crossbow"
+9. kōsha "Strong Horse"	⟹ kōkyō "Dashing Horse"
+10. hisha "Left Chariot"	⟹ hisha "Left Chariot"
+11. keima "Horse Soldier"	⟹ sōba "Soaring Horse"
+12. sōyū "Running Bear"	⟹ rōyū "Dashing Bear"
+13. tonshō "Pig General"	⟹ honton "Dashing Boar"
+14. tesshō "Iron General"	⟹ hakuzō "White Elephant"
+15. hisha "Left Chariot"	⟹ sagun "Left Army"
+16. usha "Right Chariot"	⟹ utessha "Right Iron Chariot"
+17. ōnin "King Soldier"	⟹ honrō "Dashing Wolf"
+18. sekishō "Stone General"	⟹ hakuzō "White Elephant"
+
+Problem 10: Tupi-Guarani
+
+(a) Fill in the blank spaces:
+
+| English       | Tupinambá     | Guaraní Mbya |
+|---------------|---------------|--------------|
+| rock          | itá           | itá          |
+| soil          | ybý           | yvý          |
+| water         | y             | y            |
+| black         | un            | ũ            |
+| head          | akanga        | akã          |
+| to bring      | erur          | eru          |
+| to hear       | endub         | endu         |
+| to experiment | sa'ang        | ha'ã         |
+| you want      | erepotár      | erepotá      |
+| to heal       | pueráb        | kuerá        |
+| I sleep       | aker          | aké          |
+| boss          | ubixab        | mburuvicha   |
+| rib           | arukang       | ambĩrĩ       |
+| to overcome   | opuan         | jokói        |
+| peanut        | mandubi       | mani         |
+| to beat       | petek         | mombo        |
+| to hear       | senub         | hendu        |
+| red           | pyranga       | pytã         |
+| lizard        | teju          | teju         |
+| I say         | a'é           | ai'e         |
+| beautiful     | porang        | porã         |
+| mouth         | ãpĩ           | juru         |
+| half          | ñẽmõ          | ku'a         |
+| wood          | yvyra         | yvyrá        |
+| you stay      | epytá         | erepytá      |
+| high          | yváte         | yvaté        |
+| to leave      | oho           | ereké        |
+| jaguar        | jaguár        | jagua        |
+| flower        | pó            | potá         |
+
+(b) Match the cities in Brazil of Tupi origin with their meanings:
+
+1. Ibiúna (SP) - (j) black soil  
+2. Ibiporanga (SP) - (e) red river
+3. Iúna (ES) - (k) black river
+4. Tijuípe (BA) - (d) lizard river
+5. Pindamonhangaba (SP) - (c) place for producing fishing hooks
+6. Jacarecoara (MA) - (i) alligator's/yacare's burrow
+7. Ibitinga (SP) - (a) white soil
+8. Jericoaquara (CE) - (n) big lizard
+9. Ipiranga (PR) - (e) red river
+10. Tijuaçu (BA) - (n) big lizard  
+11. Itaipú (PR) - (g) sound the water does in the rock
+12. Itatinga (SP) - (o) white rock
+13. Itauçu (GO) - (h) great rock
+14. Pirajuí (SP) - (l) fish of the yellow river
+15. Iguaçu (PR) - (b) great river
+
+Problem 12: Basque Numbers
+
+a. Fill in the gaps:
+
+	•	bi × bi = lau
+	•	bi × bost = hamar
+	•	bi × hamar = hogei
+	•	hiru × bost = hamabost
+	•	hiru × hamar = hogeita hamar
+	•	bost × bost = hogeita bost
+	•	bost × zazpi = hogeita hama
+	•	bost zazpi × bederatzi = hirurogeita hiru
+	•	zazpi × hamar = hirurogeita hamar
+	•	lau × bost = hogei
+	•	bost × hamar = laurogeita hamar
+
+b. Write in figures:
+	•	(1) laurogeita hamahiru = 43
+	•	(2) hirurogei = 60
+
+c. Write out in Basque:
+	•	(1) 39 = hogeita bederatzi
+	•	(2) 77 = hirurogeita zazpi
+	•	(3) 80 = laurogei
+
+Problem 14: Icelandic Kinship
+
+a. Among the participants, the older descendant of an immigrant is Ingimundur Sigurðarson Bergmann.
+
+b. Ragnheiður Jakobsdóttir has no grandsons/granddaughters.
+
+c. Viktor has no kids.
+
+d. Steinunn has no kids.
+
+e. The son of Rakel that didn't inherit any of her surnames is Robert Bergmann Gunnarsson.
+
+f. Five possibilities for the name and surname of the son that Eva and Christian are waiting, knowing that his first name will be the same as the father of the pop singer Björk Guðmundsdóttir:
+1. Oddur Christiansson
+2. Oddur Christianssonar
+3. Oddur Christiansson Kvaran
+4. Oddur Christianssonar Kvaran
+5. Oddur Kvaran
+
+g. Two possibilities for the name of the daughter that Steinunn gave her grandmother's name to:
+1. Guðrún Steinunnardóttir
+2. Guðrún Steinunnardóttir Annasson
+
+Problem 16: Guaraní Verbs
+
+a. Translate into English:
+(1) akaruma - I will eat
+(2) ojupita - He woke up
+(3) ndavo'omo'ãi - I will not take
+(4) napekororõi - You are not crying
+(5) ndapyhyima - You were not grabbing
+
+b. Translate into Guaraní:
+(1) You are not shooting - ndombokapumo'ãi
+(2) He is not singing - ndojapuraheiri
+(3) We will be eating - jakaruta
+(4) I will not be singing - ndaja'e͂mo'ãi
+
+Problem 18: Toki Pona
+
+a. Match the Toki Pona words and expressions with their English translations:
+
+kiwen suno jelo - lantern
+tomo tawa telo - boat
+jan Powi - Boris
+ilo suno - lantern
+telo jelo - piss
+jan ilo - robot
+jan toki - prophet
+supa lape - bed
+supa moku - dinner table
+ma tomo - city
+wile moku - hungry
+tawa - movement
+nasin linja - orthodoxy
+wile pona - well-intentioned
+telo kiwen - ice
+lipu toki - book
+wile lawa - dominant
+linja lawa - hair
+tomo moku - restaurant
+linja kiwen - thorn
+
+b. Translations of the simple Toki Pona words:
+
+kiwen - stone
+suno - sun
+jelo - yellow
+tomo - house
+tawa - move
+telo - liquid
+jan - person
+ilo - tool
+toki - language
+supa - surface
+lape - sleep
+moku - eat
+ma - land
+wile - want
+nasin - way
+lipu - page
+lawa - head
+linja - string
+
+c. The name "Toki Pona" literally translates to "good language" in Toki Pona.

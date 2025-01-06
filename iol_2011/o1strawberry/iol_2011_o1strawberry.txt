@@ -1,0 +1,147 @@
+Problem 1
+
+Given are verb forms of the Menominee language and their English translations.
+
+(a) Translate into English:
+
+	1.	kekēskahæq
+	•	Breakdown:
+	•	ke-: we (inclusive of you)
+	•	kēska-: bite
+	•	-hæq: verb ending for “we_{1+2}”
+	•	Translation: “We (you and I) bite it.”
+	2.	nepāhkenan
+	•	Breakdown:
+	•	ne-: I
+	•	pāhk-: open
+	•	-enan: verb ending for “I”
+	•	Translation: “I open it.”
+	3.	wǣpāhpew
+	•	Breakdown:
+	•	wǣp-: begin
+	•	āhp-: laugh
+	•	-ew: he (third person singular)
+	•	Translation: “He begins to laugh.”
+
+(b) Translate into Menominee:
+
+	1.	I begin to eat it
+	•	Components:
+	•	ne-: I
+	•	wǣp-: begin
+	•	pītahtam: eat it (derived from kepītahtæq in example 20)
+	•	Menominee Translation: “newǣppītahtam”
+	2.	We (you and I) lay it flat by hand
+	•	Components:
+	•	ke-: we (inclusive)
+	•	tǣn-: take out or lay flat
+	•	-amæq: verb ending for “we_{1+2}” by hand
+	•	Menominee Translation: “ketǣnamæq”
+	3.	He digs a hole
+	•	Components:
+	•	ta-: hole
+	•	wǣsam: he cuts it (from tawǣsam in example 9)
+	•	Menominee Translation: “tawǣsam”
+	4.	He walks out
+	•	Components:
+	•	kǣtohnæw: he walks out (from kekǣtohnæq in example 6)
+	•	Menominee Translation: “kǣtohnæw”
+
+Problem 2
+
+Given are words in Faroese with their phonetic transcriptions and English translations.
+
+(a) Fill in the gaps:
+
+	1.	bøga (hen bird)
+	•	Phonetic Transcription: [bø:ja]
+	2.	knoðar ((he) kneads)
+	•	Phonetic Transcription: [knOajar]
+	3.	kvøða ((they) sing)
+	•	Phonetic Transcription: [kvø:ja]
+	4.	løgur (liquid)
+	•	Phonetic Transcription: [lø:vur]
+	5.	plága (nuisance, affliction)
+	•	Phonetic Transcription: [plEava]
+	6.	skaði (damage, loss)
+	•	Phonetic Transcription: [ska:ji]
+	7.	toygur (swallow, gulp, draught)
+	•	Phonetic Transcription: [tOijur]
+	8.	trúgi (may (he) endanger)
+	•	Phonetic Transcription: [trøuji]
+
+(b) Describe the rules you used:
+
+	•	Vowel Correspondences:
+	•	“ø” is pronounced [ø:] when stressed (e.g., “bøga” → [bø:ja]).
+	•	“á” is pronounced [Ea] or [Oa] (e.g., “plága” → [plEava]).
+	•	“ó” is pronounced [Oa] or [Ouw] (e.g., “móða” → [mOuwa]).
+	•	“ey” is pronounced [Eij] (e.g., “deyði” → [dEiji]).
+	•	“oy” is pronounced [Oij] (e.g., “koyla” → [kOila]).
+	•	“ú” is pronounced [0u] or [øu] (e.g., “rúma” → [r0uma], “trúgi” → [trøuji]).
+	•	Consonant Correspondences:
+	•	“ð” is pronounced [j] or becomes silent (e.g., “deyði” → [dEiji], “knoðar” → [knOajar]).
+	•	“g” between vowels is pronounced [j] (e.g., “bøga” → [bø:ja], “kvøða” → [kvø:ja]).
+	•	“gi” at the end of a word is pronounced [ji] (e.g., “logi” → [lo:ji], “tegi” → [te:ji]).
+	•	“v” is pronounced [w] or [v] depending on position.
+	•	Other Observations:
+	•	The ”:” indicates vowel length.
+	•	“ur” ending is pronounced [ur] (e.g., “løgur” → [lø:vur]).
+	•	Stress generally falls on the first syllable unless indicated otherwise.
+
+These rules were applied to fill in the missing phonetic transcriptions based on the patterns observed in the provided examples.
+
+Problem 3
+
+Given are phrases in the Vai language and their English translations.
+
+(a) Translate into English:
+
+	1.	mùsúĚ á gbòmùĚ
+	•	Breakdown:
+	•	mùsúĚ: woman
+	•	á: genitive marker (”’s”)
+	•	gbòmùĚ: fish
+	•	Translation: “The woman’s fish.”
+	2.	léN kúndúĚ á nỳı̀mı̀Ě
+	•	Breakdown:
+	•	léN kúndúĚ: short child (baby)
+	•	á: genitive marker
+	•	nỳı̀mı̀Ě: snake
+	•	Translation: “The snake’s short child.”
+	3.	gbòmù-lÈndÈ kúndúĚ
+	•	Breakdown:
+	•	gbòmù-lÈndÈ: fish-boat
+	•	kúndúĚ: small
+	•	Translation: “The small fish-boat.”
+
+(b) Correct the error and translate:
+
+	•	Incorrect Phrase: kándÒ-lÈndÉ lÒÒĚ
+	•	Correction: The genitive marker “á” is missing, and “lÈndÉ” should be “lÈndÈĚ” to match the pattern.
+	•	Corrected Phrase: kándÒ á lÈndÈĚ lÒÒĚ
+	•	Translation: “The small sky’s vessel.”
+
+(c) Translate into Vai:
+
+	1.	The eagle’s snake
+	•	Eagle: kÒánjà
+	•	Snake: nỳı̀mı̀Ě
+	•	Translation: “kÒánjà á nỳı̀mı̀Ě”
+	2.	The small child’s eye
+	•	Child: lèNĚ
+	•	Small: lÒÒĚ
+	•	Eye: já
+	•	Translation: “lèNĚ lÒÒĚ já”
+	3.	The tall man’s sister
+	•	Man: kà́ıĚ
+	•	Tall: jǎNĚ
+	•	Sister: mùsú
+	•	Translation: “kà́ıĚ jǎNĚ mùsú”
+	4.	The small baby-snake
+	•	Snake: nỳı̀mı̀Ě
+	•	Baby: lèNĚ
+	•	Small: lÒÒĚ
+	•	Translation: “nỳı̀mı̀Ě-lèNĚ lÒÒĚ”
+
+Note: The translations are based on the patterns observed in the provided phrases, such as the use of the genitive marker “á”, the placement of adjectives after nouns, and the formation of compound words.

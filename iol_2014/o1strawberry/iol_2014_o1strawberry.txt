@@ -1,0 +1,108 @@
+Problem 1
+
+(a) Translate into English:
+
+	1.	nonifibe — You (singular) are piercing me.
+	2.	halu’ibe — You both will strike me.
+	3.	lifilatagihe — Because you (plural) will pierce me.
+	4.	nokufune — We are piercing him.
+	5.	nolahanagihe — Because we are striking him.
+
+(b) Translate into Benabena:
+
+	1.	noho’ibe — You both are striking him.
+	2.	kafilune — We will pierce you (singular).
+	3.	lenahalagihe — Because we are striking you (plural).
+	4.	nafilanagihe — Because you (plural) will pierce him.
+
+Problem 2
+
+Filled-in Table:
+
+Singular	Dual	Plural	Translation
+adↄ	a	a	tree
+matʰↄnsjan	matʰↄnsjan	matʰↄnsjadↄ	little girl
+k’ↄ	k’ↄ	k’ↄgↄ	knife
+tʰot’olagↄ	tʰot’ola	tʰot’olagↄ	orange
+aufi	aufigↄ	aufi	fish
+pʰjaboadↄ	pʰjaboa	pʰjaboadↄ	street lamp
+matʰↄn	matʰↄdↄ	matʰↄndↄ	girl
+k’ↄnbohodↄ	k’ↄnbohon	k’ↄnbohodↄ	hat
+t’ↄ	t’ↄgↄ	t’ↄgↄ	spoon
+e	e	alↄsↄhjegↄ	plum
+tsegu	tsegun	tsegudↄ	dog
+alↄguk’ogↄ	alↄguk’o	alↄguk’ogↄ	lemon
+k’apʰtʰↄ	k’apʰtʰↄ	k’apʰtʰↄgↄ	old man
+kʰↄdↄ	kʰↄ	kʰↄdↄ	blanket
+k’ↄdↄ	k’ↄ	k’ↄdↄ	tomato
+alↄ	alↄ	alↄgↄ	apple
+pʰↄ	pʰↄ	pʰↄgↄ	buffalo
+sa	sa	sadↄ	child
+ↄlsun	ↄlsun	ↄlsun	comb
+pitso	pitso	pitsogↄ	fork
+tʰↄpʰpaadↄ	tʰↄpʰpaa	tʰↄpʰpaadↄ	chair
+
+Problem 3
+
+(b) Fill in the Blank:
+
+	36.	Nie²tse.1 Sie1tsie1 ’yn1 mu1 ngu².
+
+Problem 4
+
+(a) Translations:
+
+	8.	Will this man frighten the thief?
+The girl said that he (the man) will not frighten the thief.
+	9.	Did this girl not kill the youth?
+This girl said that she did not kill the youth.
+	10.	The thief said that the child healed the man.
+
+(b) Translations into Engenni:
+
+	11.	edèì okàá ki.nono a.modhyòmù à?
+a.mó wei ga ó. ki.nono a.modhyòmù.
+	12.	a.vùràmù nu. nwa. sese edèì à?
+a.vùràmù nu. wei ga ó. nwa. sese edèì.
+
+(c) Base Forms:
+
+	•	Thief: ozyì
+	•	Girl: amemùrè
+
+Problem 5
+
+(a) Correspondences:
+
+	•	Páá — to put
+	•	Páá náng nú kò — nostril
+	•	Páá sèè — to put at the surface
+	•	búmá ýık — eye socket
+	•	búmá zù ýık — eyelash
+	•	dáng gòk — tip of the tongue
+	•	d́ı fò — liver
+	•	d́ı sèè — happiness
+	•	kò ýık — at the center
+	•	kò zòk — field edge
+	•	náng ẃı — above, on
+	•	nú fò — nostril
+	•	nú lébé — nose
+	•	sèè ẃı — at the surface
+	•	ýık — eyes/face
+	•	ýık ẃı — eyebrow
+	•	zù — to envy
+
+(b) Translations:
+
+	•	búmá zù — to envy
+	•	kò — at the center
+	•	lébé gòk — tip of the tongue
+	•	lébé ẃı — head
+
+(c) Translations into Northwest Gbaya:
+
+	•	At the center — kò
+	•	Head — lébé
+	•	Displeasure — d́ı fò
+	•	Nose — nú lébé
+

@@ -1,0 +1,124 @@
+### Problem 1: Morphological Rules
+#### Rules:
+1. **Form 1:** `-mV-` after the first vowel, where:
+   - `V` depends on the vowel in the following syllable:
+     - `a` before `a`
+     - `o` before `o` or `u`
+     - `e` before `i`
+     - `ö` before `ü`
+
+2. **Form 2:**
+   - `-a` if the stem ends in `-aR` or `-oR`
+   - `-Ra` if the stem ends in `-i`, `-u` or `-ü`  
+     (where `R` is `l` or `n` if these consonants are in the root, or `r` otherwise).
+
+3. **Form 3:** Form 2 with `-r-` after the first vowel, unless `R` follows immediately.
+
+#### Answers:
+
+| **Form 1**      | **Form 2**        | **Form 3**        |
+|-----------------|-------------------|-------------------|
+| h̨amerki        | h̨arkira          |                   |
+| jömölkü         | jölküla           | jölküla           |
+| qamalq̇al       | qalq̇ala          |                   |
+| qumoroo1u       | quroo1ura         | quroo1ura         |
+| somonk.on       | sonk.ona          | sonk.ona          |
+
+| **Form 1**      | **Form 2**        | **Form 3**        |
+|-----------------|-------------------|-------------------|
+| amolq̇ol        | alq̇ola           | alq̇ola           |
+| emensi          | ensina            |                   |
+| h̨ömörč. ü      | h̨örč.üra         |                   |
+| čumaraq̇ar      |                  |  čuraq̇ara       |
+| h̨amolo1u       |                  |    h̨alo1ula       |
+| ïmankan         |                 |   ïnkana      |
+| jemeč. i        |                 |  jerč. ira        |
+
+---
+
+### Problem 2: Numeral System
+#### Rules:
+1. **Numbers 1–4:** `caa 1, lue 2, köni 3, eke 4`
+2. **Multiples of 5, 10, 15:** `β-pi = 5β` (1 ≤ β ≤ 3)
+3. **Numbers 6–9, 11–14, 16–19:** `α-ngömen = 5 + α`, `α-ko = 10 + α`, `α-qaihano = 15 + α` (1 ≤ α ≤ 4)
+4. **Multiples of 20, 40, 60, 80:** `γ-atr = 20γ` (1 ≤ γ); e.g., `caa-atr > caatr`, `eke-atr > ekaatr`.
+5. **21–39, 41–59, ... :** `Γ nge ∆ = Γ+∆` (Γ = 20γ, 1 ≤ ∆ ≤ 19)
+
+#### (a) Translations:
+1. `caatr nge caako` = 31
+2. `caatr nge caangömen` = 26
+3. `caatr nge caaqaihano` = 36
+4. `ekaatr nge ekengömen` = 89
+5. `köniatr nge köniko` = 73
+6. `köniatr nge könipi` = 75
+7. `köniatr nge köniqaihano` = 78
+8. `lueatr nge lue` = 42
+9. `lueatr nge luako` = 52
+10. `lueatr nge luepi` = 50
+
+#### (b) Calculations:
+1. `köniatr nge eke`: 64 + `caatr nge luepi`: 30 = `ekaatr nge ekako`: 94
+2. `luengömen`: 7 + `luako`: 12 = `ekeqaihano`: 19
+
+#### (c) Translations:
+1. `21`: `caatr nge caa`
+2. `48`: `lueatr nge köningömen`
+3. `83`: `ekaatr nge köni`
+
+---
+
+### Problem 4: mRNA and Amino Acid Sequence
+#### (a) mRNA Sequence:
+1. `AUG` — Met
+2. `UUA` — Leu
+3. `ACG` — Thr
+4. `UUC` — Phe
+5. `UAA` — stop
+
+1. `AUG` — Met
+2. `UGG` — Trp
+3. `GGG` — Gly
+4. `GGA` — Gly
+5. `CAC` — His
+6. `CAG` — Gln
+
+#### (b) Possible Combinations:
+1. Met-Lys-Cys-Ile ← `AUG`
+   - `AAA`/`AAG`
+   - `UGU`/`UGC`
+   - `AUU`/`AUC`/`AUA`
+
+   (1 × 2 × 2 × 3 = 12 possibilities).
+
+#### (c) Root Strength:
+1. **Strong Root:** `XY` is strong if `XYA`, `XYG`, `XYC`, and `XYU` encode the same amino acid (e.g., UC, CC, CG, GC).
+2. **Weak Root:** `XY` is weak if not all combinations encode the same amino acid (e.g., UU, CA, AG, GA).
+
+---
+
+### Problem 5: Dialectal Variations in Vowel Usage
+#### (a) Translations:
+1. `uo` before a cluster of `l` or `r` and another consonant.
+2. `u` before `l` or `r` without another consonant.
+3. `u` → `o` before `m`.
+4. `u` → `uo` before another consonant.
+
+| **Sursilvan**  | **Engadine** |
+|----------------|--------------|
+| uolm           | uolm         |
+| stumi          | stomi        |
+| cuort          | cuort        |
+| mund           | muond        |
+| fuorcla        | fuorcla      |
+| plumba         | plomba       |
+| mussar         | muossar      |
+| culant         | culant       |
+
+#### (b) "lavur" in both dialects.
+
+#### (c) Plural Forms:
+1. In Sursilvan (unlike Engadine), the first rule doesn’t apply in plural forms. This may mean that it doesn’t work if one consonant is part of the stem and the other belongs to the ending, or that the vowel is chosen before the ending is added, or that the vowel in the plural is made to match the vowel in the singular.
+
+#### (d) Examples:
+1. ‘elms’: `uolms` (in both dialects).
+2. ‘angles’: `anguls` (Sursilvan), `anguols` (Engadine).

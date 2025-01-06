@@ -1,0 +1,343 @@
+Based on the provided solutions and classifications, here's the grading for each problem:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: [ífa]
+            Real Answer: [ifá]
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: [ifóci]
+            Real Answer: [ifó.ci]
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: [nâːnáki]
+            Real Answer: [nâː . .nakí]
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: [sâːsákwa]
+            Real Answer: [sâː . . . . . . sák.wa]
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: [aktópa]
+            Real Answer: [ak . . topá]
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: [hoktáki]
+            Real Answer: [hok . . . . takí]
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: [wanayitá]
+            Real Answer: [wana.yitá]
+            Grade: 1
+        8:
+            Classification: Type 1
+            LLM Answer: [awanayitá]
+            Real Answer: [awa . . . . nayí.ta]
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: [isiskitóci]
+            Real Answer: [isis . . kitó.ci]
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: [aːtamíhóma]
+            Real Answer: [aː.tami.homá]
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: [honantáːki]
+            Real Answer: [honan.táː.ki]
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: [ilitohtaɬitá]
+            Real Answer: [ili . toh . taɬí.ta]
+            Grade: 0
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: Do you sleep?
+            Real Answer: Do you_{sg} sleep?
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: Did he see us?
+            Real Answer: Did he see us?
+            Grade: 2
+        3:
+            Classification: Type 2
+            LLM Answer: Did they know you (plural)?
+            Real Answer: Do they know you_{pl}?
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: Do we beat them?
+            Real Answer: Do we beat them?
+            Grade: 2
+        5:
+            Classification: Type 2
+            LLM Answer: Did we know you?
+            Real Answer: Did we know you_{sg}?
+            Grade: 1
+        6:
+            Classification: Type 2
+            LLM Answer: Did we go?
+            Real Answer: Did we go?
+            Grade: 2
+    Part b:
+        7:
+            Classification: Type 2
+            LLM Answer: ŋa nɤ lan tɤʔ ne
+            Real Answer: ŋabə nɤ lan tɤʔ ne
+            Grade: 1
+        8:
+            Classification: Type 2
+            LLM Answer: tarum kəmə ŋa lapkʰi tʰu ne
+            Real Answer: tarum kəmə ŋa lapkʰi tʰɤ ne
+            Grade: 1
+        9:
+            Classification: Type 2
+            LLM Answer: ati kəmə nɤ cʰam ku ne
+            Real Answer: ati kəmə nɤ cʰam ru ne
+            Grade: 1
+        10:
+            Classification: Type 2
+            LLM Answer: nuʔrum ʒip ki ne
+            Real Answer: nuʔrum ʒip kan ne
+            Grade: 1
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: mbîho
+            Real Answer: mbîho
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: mbîyo
+            Real Answer: mbêyo
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: yêno
+            Real Answer: yênom
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: (not provided)
+            Real Answer: ênom
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: kásaxo
+            Real Answer: késaxo
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: xélele
+            Real Answer: xíriri
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: tôko
+            Real Answer: ndôko
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: koínjoa
+            Real Answer: neíxoa
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: venénjo
+            Real Answer: venéxo
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: pépindi
+            Real Answer: mémiti
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: kízikaxovoku
+            Real Answer: íhikexovoku
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: ôxu
+            Real Answer: ônju
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: nîmom
+            Real Answer: nêwom
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: enánana
+            Real Answer: yáharana
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: leátana
+            Real Answer: lándana
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: keápana
+            Real Answer: ngápana
+            Grade: 0
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 3
+            LLM Answer: The word for "ten" in Mountain Arapesh.
+            Real Answer: The word that the linguist initially thought was missing is "sugar canes," which are represented by the word arah.
+            Grade: 0
+    Part b:
+        12:
+            Classification: Type 2
+            LLM Answer: Four betel nuts
+            Real Answer: 3 betel nuts
+            Grade: 0
+        13:
+            Classification: Type 2
+            LLM Answer: Four eggs
+            Real Answer: 1 egg
+            Grade: 0
+        14:
+            Classification: Type 2
+            LLM Answer: Seven sugar canes
+            Real Answer: 5 sugar canes
+            Grade: 0
+        15:
+            Classification: Type 2
+            LLM Answer: Twenty sheets of sago bark
+            Real Answer: 5 sheets of sago bark
+            Grade: 0
+        16:
+            Classification: Type 2
+            LLM Answer: Thirty sheets of sago bark
+            Real Answer: 12 sheets of sago bark
+            Grade: 0
+    Part c:
+        17:
+            Classification: Type 2
+            LLM Answer: atub bøbys
+            Real Answer: biabys atubys atub bøbys
+            Grade: 0
+        18:
+            Classification: Type 2
+            LLM Answer: biagas atub juhurub
+            Real Answer: biogu nybat biabys atub juhurubys
+            Grade: 0
+        19:
+            Classification: Type 2
+            LLM Answer: biagas biagas juhurub
+            Real Answer: biogu atugu biogu juhurubys
+            Grade: 0
+        20:
+            Classification: Type 2
+            LLM Answer: biagas atugas atug baigas
+            Real Answer: araman atug baigas
+            Grade: 0
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: Enu
+            Real Answer: Ofori
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: Kunto
+            Real Answer: Dubaku
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: (not provided)
+            Real Answer: Kunto
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: (not provided)
+            Real Answer: Enu
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: (not provided)
+            Real Answer: Nsia
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: (not provided)
+            Real Answer: [Awotwi]
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: (not provided)
+            Real Answer: Esi
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: Kofi
+            Real Answer: Kofi
+            Grade: 1
+        9:
+            Classification: Type 1
+            LLM Answer: Kobina
+            Real Answer: Kobina
+            Grade: 1
+        10:
+            Classification: Type 1
+            LLM Answer: Efua
+            Real Answer: Efua
+            Grade: 1
+        11:
+            Classification: Type 1
+            LLM Answer: Ama
+            Real Answer: Ama
+            Grade: 1
+        12:
+            Classification: Type 1
+            LLM Answer: Yaw
+            Real Answer: Yaw
+            Grade: 1
+        13:
+            Classification: Type 1
+            LLM Answer: Thema
+            Real Answer: Thema
+            Grade: 1
+        14:
+            Classification: Type 1
+            LLM Answer: Berko
+            Real Answer: Berko
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: Yɛfrɛ me Yaw. Yɛfrɛ me ɛnanom Dubaku ne Kunto. Yɛfrɛ me nuanom Nsia ne Awotwi. Yɛfrɛ me nuanom Thema ne Ama. Yɛfrɛ me wɔfa Awotwi. Yɛfrɛ me agya Ofori. Yɛfrɛ me nua Esi ne Kofi. Yɛfrɛ me wɔfaase Berko.
+            Real Answer: Yɛfrɛ me Yaw. Yɛfrɛ me ɛnanom Dubaku ne Kunto. Yɛfrɛ me agyanom Nsia ne Enu. Yɛfrɛ me nuanom Thema ne Ama ne Kobina. Yɛfrɛ me sewaa Awotwi. Yɛfrɛ me wɔfa Ofori. Yɛfrɛ me wɔfabanom Esi ne Kofi. Yɛfrɛ me sewaaba Berko.
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: Yɛfrɛ me Berko. Yɛfrɛ me banom Kofi ne Esi. Yɛfrɛ me ɛnanom Yaw ne Ama. Yɛfrɛ me agya Kunto ne Dubaku.
+            Real Answer: Yɛfrɛ me Ofori. Yɛfrɛ me banom Kofi ne Esi. Yɛfrɛ me wɔfaasenom Yaw ne Ama ne Kobina. Yɛfrɛ me nuanom Kunto ne Dubako.
+            Grade: 0
+
+Total Score: 18/126

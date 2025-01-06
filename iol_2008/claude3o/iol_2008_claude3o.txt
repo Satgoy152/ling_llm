@@ -1,0 +1,137 @@
+Here are the solutions to the computational linguistics problems:
+Problem 1:
+(a) Transcriptions:
+12. gsnqo'qon: [g@s@nqōxon]
+13. tg'poq: [tg@b@q]
+14. gmu'jmin: [gm@ūjcmin]
+15. emtoqwatg: [@mt@qwatk]
+16. te'plj: [tēp@lc]
+(b) Listuguj orthography:
+17. [@tp@dēs@n]: tpd'sn
+18. [@mtesk@m]: amtsk'm
+19. [alapt@k]: alapt'g
+20. [g@lamen]: glam'n
+Key observations:
+
+[@] is written as a or e
+[c] is written as j
+ is written as q
+[G] is written as g
+[w] indicates rounding of the preceding consonant and is written as '
+vowel length is indicated by '
+
+Problem 2:
+(a) Rules observed in a dróttkvætt distich:
+
+The first line contains two words beginning with the same sound (alliteration)
+The first word of the second line also begins with this alliterating sound
+All vowels alliterate with each other and with j
+
+(b) Filled in stanza V:
+
+[smíði] (þreifsk reiddra øxa
+[rymr] ; knǫ́ttu spjǫ́r [glymja] )
+[svartskyggð] bitu seggi
+[sverð] þjóðkonungs ferðar,
+þás ( [sigr] hǫlða)
+[ríks] [hlaut] [andskoti]
+(hǫ́r vas [sǫngr] of [svírum] )
+[vigra] (flugbeiddra [hugfyldra] ).
+
+Words that do not belong: Gauta, hœgra
+Problem 3:
+(a) Correct correspondences:
+Drehu - English
+
+drai-hmitrötr - Sunday
+gaa-hmitrötr - skeleton
+i-drai - sanctuary
+i-jun - church
+i-wahnawa - calendar
+jun - bone
+ngöne-gejë - fork
+ngöne-uma - wall
+nyine-thin - coast
+uma-hmitrötr - awl
+
+Cemuhî - English
+
+a-pulut - spur
+ba-bwén - animal
+ba-jié - fork
+bé-ôdu - pencil
+bé-tii - cup
+bé-wöli - coast
+bé-wöli-wöta - twilight
+tii - bed
+wöta - to write
+
+(b) Meanings:
+
+Drehu: wahnawa = 'day', drai = 'holy'
+Cemuhî: wöli = 'sea', pulut = 'rooster'
+
+(c) Translations from Drehu:
+
+i-bii = 'bee'
+tusi-hmitrötr = 'pencil'
+
+Problem 4:
+(a) English translations:
+
+caky2sm2tih - only above the vine
+k2m2Nšeh - like a shadow
+P2s mok - my corn
+mis nd2ctaPm - your teeth
+pahsunbit - with the squash
+perolkotoyašehtaPm - just like kettles
+
+(b) Copainalá Zoque translations:
+
+pokskukotoya
+P2s nperol
+koc2kšehtih
+P2s Ngom
+k2m2Nky2sm2
+mis nkumguy
+
+Key observations:
+
+Possession is indicated by prefixes (P2s = 'my', mis = 'your')
+-taPm = plural
+-tih = 'only'
+-šeh = 'like'
+-bit = 'with'
+-kotoya = 'for'
+-k2sm2 = 'above'
+
+Problem 5:
+(a) English translations:
+
+The wolf saw your shaman.
+The polar bears hurt a boy.
+You cured the hunters.
+You shot the teacher.
+You came.
+You cured a hunter.
+
+(b) Inuktitut translations:
+
+Angatkuup aanniqtaatit.
+Ilinniaqtitsijiup inuuhuktuq takujanga.
+Amaruit ukiakhaqtuq.
+Qingmirmik qukiqsijutit.
+Qingmiit ilinniaqtitsijimik aanniqsijuq.
+
+Key observations:
+
+Ergative-absolutive case system (subject of intransitive verb and object of transitive verb have same case, subject of transitive verb different)
+Possession indicated by suffixes on nouns
+Verb agrees with both subject and object
+-up/-it = ergative case (subject of transitive verb)
+-mik = accusative case (object of transitive verb)
+-tit/-tait = 2nd person singular/plural subject acting on 3rd person object
+-juq = 3rd person singular subject
+-juit/-jait = 2nd person singular subject acting on 3rd person singular/plural object
+
+Let me know if you need any clarification or have additional questions!

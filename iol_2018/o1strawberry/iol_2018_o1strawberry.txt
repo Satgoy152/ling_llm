@@ -1,0 +1,278 @@
+Problem 1
+
+To solve this problem, we’ll analyze the stress patterns in the given Creek words and apply them to mark the stress in the new set of words.
+
+Analyzing Stress Patterns
+
+First, let’s examine the given words with stress:
+
+	1.	[cokó] — house (stress on final syllable)
+	2.	[cáːlo] — trout (stress on first syllable)
+	3.	[sókca] — sack (stress on first syllable)
+	4.	[waːkocí] — calf (stress on final syllable)
+	5.	[pocóswa] — axe (stress on second syllable)
+	6.	[famíːca] — muskmelon (stress on second syllable)
+	7.	[yanása] — bison // buffalo (stress on second syllable)
+	8.	[iyanawá] — his/her cheek (stress on final syllable)
+	9.	[hîːspákwa] — robin (stress on second syllable)
+	10.	[aklowahíː] — mud (stress on final syllable)
+	11.	[imahicíta] — to look out for (stress on third syllable)
+	12.	[inkosapitá] — to implore (stress on final syllable)
+	13.	[tapassóːla] — daddy longlegs (stress on third syllable)
+	14.	[akkopánka] — playing (stress on third syllable)
+	15.	[cokpilâːpilá] — whippoorwill (stress on second and fourth syllables)
+	16.	[toknaːphotí] — wallet (stress on final syllable)
+	17.	[coːkakiɬɬitá] — learning (stress on final syllable)
+	18.	[ɬafotaháya] — pumpkin // winter squash (stress on third syllable)
+	19.	[itiwanayipíta] — to tie each other (stress on final syllable)
+	20.	[ipahankatíta] — to count us (stress on final syllable)
+	21.	[pokkoɬakkoakkopankacóko] — basketball gym (stress on final syllable)
+
+Observations:
+
+	•	In two-syllable words, stress can be on the first or final syllable.
+	•	In three-syllable words, stress often falls on the second syllable.
+	•	In longer words, stress tends to be on the final syllable or the syllable before certain suffixes like -ta.
+	•	Falling tone (ˆ) on a vowel does not necessarily indicate stress placement.
+
+Marking Stress in the New Words
+
+Using these patterns, we can mark the stress in the new set of words:
+
+	1.	[ífa] — dog
+	•	Two syllables; stress likely on the first syllable.
+	2.	[ifóci] — puppy
+	•	Three syllables; stress on the second syllable.
+	3.	[nâːnáki] — things
+	•	Falling tone on the first syllable; stress on the second syllable.
+	4.	[sâːsákwa] — goose
+	•	Falling tone on the first syllable; stress on the second syllable.
+	5.	[aktópa] — bridge
+	•	Three syllables; stress on the second syllable.
+	6.	[hoktáki] — women
+	•	Three syllables; stress on the second syllable.
+	7.	[wanayitá] — to tie
+	•	Four syllables ending with -ta; stress on the final syllable.
+	8.	[awanayitá] — to tie to
+	•	Four syllables ending with -ta; stress on the final syllable.
+	9.	[isiskitóci] — little drinking vessel
+	•	Five syllables; stress on the fourth syllable.
+	10.	[aːtamíhoma] — bonnet (car hood)
+	•	Five syllables; stress on the third syllable.
+	11.	[honantáːki] — men
+	•	Four syllables; stress on the third syllable.
+	12.	[ilitohtaɬitá] — to cross legs
+	•	Six syllables; stress on the final syllable.
+
+Final Answers
+
+Here are the words with stress marked:
+
+Creek	Translation
+[ífa]	dog
+[ifóci]	puppy
+[nâːnáki]	things
+[sâːsákwa]	goose
+[aktópa]	bridge
+[hoktáki]	women
+[wanayitá]	to tie
+[awanayitá]	to tie to
+[isiskitóci]	little drinking vessel
+[aːtamíhóma]	bonnet (car hood)
+[honantáːki]	men
+[ilitohtaɬitá]	to cross legs
+
+Problem 2
+
+To solve this problem, we’ll analyze the given Hakhun sentences to understand the grammatical structure and vocabulary, allowing us to translate new sentences accurately.
+
+Vocabulary and Grammar Extraction
+
+Pronouns:
+
+	•	ŋa — I
+	•	nɤ — you (singular)
+	•	nirum — we
+	•	nuʔrum — you (plural)
+	•	tarum — they
+	•	ati — he/him
+
+Verbs:
+
+	•	ka — to go
+	•	lapkʰi — to see
+	•	cʰam — to know
+	•	lan — to beat
+	•	ʒip — to sleep
+	•	tʰu — past tense marker
+	•	ne — question particle
+
+Verb Endings:
+
+	•	tɤʔ ne, tʰɤ ne, tiʔ ne, tʰi ne, ri ne, ran ne, kan ne, ki ne
+
+Analysis of Sentences:
+
+	1.	ŋa ka kɤ ne — Do I go?
+	2.	nɤ ʒip tuʔ ne — Did you sleep?
+	3.	ŋabə ati lapkʰi tɤʔ ne — Did I see him?
+	4.	nirum kəmə nuʔrum cʰam ki ne — Do we know you (plural)?
+	5.	nɤbə ŋa lapkʰi rɤ ne — Do you see me?
+	6.	tarum kəmə nɤ lan tʰu ne — Did they beat you (singular)?
+	7.	nuʔrum kəmə ati lapkʰi kan ne — Do you (plural) see him?
+	8.	nɤbə ati cʰam tuʔ ne — Did you know him?
+	9.	tarum kəmə nirum lapkʰi ri ne — Do they see us?
+	10.	ati kəmə ŋa lapkʰi tʰɤ ne — Did he see me?
+
+(a) Translate into English
+
+	1.	nɤ ʒip ku ne
+	•	nɤ — you (singular)
+	•	ʒip — sleep
+	•	ku — present tense marker
+	•	ne — question particle
+Translation: Do you sleep?
+	2.	ati kəmə nirum lapkʰi tʰi ne
+	•	ati kəmə — he
+	•	nirum — us
+	•	lapkʰi tʰi ne — did see?
+Translation: Did he see us?
+	3.	tarum kəmə nuʔrum cʰam ran ne
+	•	tarum kəmə — they
+	•	nuʔrum — you (plural)
+	•	cʰam ran ne — did know?
+Translation: Did they know you (plural)?
+	4.	nirum kəmə tarum lan ki ne
+	•	nirum kəmə — we
+	•	tarum — them
+	•	lan ki ne — do beat?
+Translation: Do we beat them?
+	5.	nirum kəmə nɤ cʰam tiʔ ne
+	•	nirum kəmə — we
+	•	nɤ — you (singular)
+	•	cʰam tiʔ ne — did know?
+Translation: Did we know you?
+	6.	nirum ka tiʔ ne
+	•	nirum — we
+	•	ka tiʔ ne — did go?
+Translation: Did we go?
+
+(b) Translate into Hakhun
+
+	7.	Did I beat you (singular)?
+	•	ŋa nɤ lan tɤʔ ne
+	8.	Did they see me?
+	•	tarum kəmə ŋa lapkʰi tʰu ne
+	9.	Does he know you (singular)?
+	•	ati kəmə nɤ cʰam ku ne
+	10.	Do you (plural) sleep?
+	•	nuʔrum ʒip ki ne
+
+Problem 3
+
+(a) Fill in the Gaps
+
+We’ll analyze the given forms to fill in the missing ones.
+
+Patterns:
+
+	•	1st person singular prefixes:
+	•	î-, mb-, nd-, ng-, n-, y-, v-, nj-, í-, án-
+	•	2nd person singular prefixes:
+	•	î-, p-, t-, pi-, he-, ke-, xe-, ri-, me-, le-
+
+Filling in the Gaps:
+
+	1.	mbîho — peîho — to go
+	2.	(Gap 1) — tiûti — head
+	•	From ndûti (1st person), tiûti (2nd person)
+	•	So ndûti → tiûti
+	•	Therefore, mbîho (1st person) corresponds to peîho (2nd person)
+	•	So Gap 1: peîho
+	3.	(Gap 2) — pîyo — animal
+	•	Likely 1st person form starts with mb-
+	•	So mbîyo — pîyo — animal
+	4.	yênom — yêno — wife
+	•	Gap 3 is yêno
+	5.	ngásaxo — kásaxo — to feel cold
+	•	Gap 5: kásaxo
+	6.	njérere — xélele — side
+	•	Gap 6: xélele
+	7.	ndôko — tôko — nape
+	•	Gap 7: tôko
+	8.	noínjoa — koínjoa — to see it
+	•	Gap 8: koínjoa
+	9.	vanénjo — venénjo — to buy
+	•	Gap 9: venénjo
+	10.	mómindi — pépindi — to be tired
+	•	Gap 10: pépindi
+	11.	ínzikaxovoku — kízikaxovoku — school
+	•	Gap 11: kízikaxovoku
+	12.	(Gap 12) — yôxu — grandfather
+	•	From pattern, 1st person may be ôxu
+	13.	(Gap 13) — nîwo — nephew
+	•	1st person form likely nîmom
+	14.	ánzarana — enánana — hoe
+	•	Gap 14: enánana
+
+(b) Borrowed Words
+
+	1.	Difference in Borrowings:
+	•	Portuguese borrowings have an extra vowel -a at the end in the 1st person singular form.
+	•	Native words typically start with mb-, nd-, ng-, nj- for 1st person singular.
+	•	Borrowed words use l-, le-, ke-, e- prefixes instead.
+	2.	Translate into Terêna:
+	•	My tin can — leátana
+	•	My cloak — keápana
+
+Problem 4
+
+(a) The Missing Word X
+
+	•	Word X: The word for “ten” in Mountain Arapesh.
+	•	The linguist thought it was missing in examples 5, 7, and 9.
+	•	However, “ten” is implied by the context and the structure of the numbers.
+
+(b) Translate into English
+
+	12.	biabys atub bøbys — Four betel nuts
+	13.	atub juhurub — Four eggs
+	14.	nybat atuh araruh — Seven sugar canes
+	15.	biagas atugas biagas baigas — Twenty sheets of sago bark
+	16.	wiwis baigas — Thirty sheets of sago bark
+
+(c) Translate into Mountain Arapesh
+
+	17.	4 betel nuts — atub bøbys
+	18.	11 eggs — biagas atub juhurub
+	19.	20 eggs — biagas biagas juhurub
+	20.	25 sheets of sago bark — biagas atugas atug baigas
+
+Problem 5
+
+(a) Supply the Family Tree with Names
+
+Based on the information:
+
+	•	Person 1: Enu
+	•	Children: Thema, Yaw, Ama
+	•	Spouse: Kunto
+	•	Siblings: Awotwi, Nsia
+	•	Nephew (Wɔfaase): Berko
+	•	Person 2: Kofi
+	•	Sibling: Esi
+	•	Father: Ofori
+	•	Cousins (Sewaanom): Dubaku, Kunto
+	•	Cousins’ children (Sewaabanom): Yaw, Ama, Kobina
+	•	Person 3: Kobina
+	•	Parents: Dubaku, Kunto
+	•	Siblings: Yaw, Ama
+	•	Uncle (Wɔfa): Ofori
+	•	Spouse: Efua
+
+(b) Fill in the Gaps
+
+	1.	Yɛfrɛ me Yaw. Yɛfrɛ me ɛnanom Dubaku ne Kunto. Yɛfrɛ me nuanom Nsia ne Awotwi. Yɛfrɛ me nuanom Thema ne Ama. Yɛfrɛ me wɔfa Awotwi. Yɛfrɛ me agya Ofori. Yɛfrɛ me nua Esi ne Kofi. Yɛfrɛ me wɔfaase Berko.
+	2.	Yɛfrɛ me Berko. Yɛfrɛ me banom Kofi ne Esi. Yɛfrɛ me ɛnanom Yaw ne Ama. Yɛfrɛ me agya Kunto ne Dubaku.
+
+Note: These solutions are based on patterns and information provided in the problem statements. Some interpretations may vary due to limited context.

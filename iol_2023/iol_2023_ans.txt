@@ -83,10 +83,10 @@ Extracted answers to iol_23 problems
 
 **(a) Translate into English:
 
-| Form        | Translation                  |
-|-------------|------------------------------|
-| 18. e-ɣuyanah     | We shuddered               |
-| 19. ba-ihwin      | He really cried            |
+| Form              | Translation                        |
+|-------------------|------------------------------------|
+| 18. e-ɣuyanah     | We shuddered                       |
+| 19. ba-ihwin      | He really cried                    |
 | 20. nambum-kisaɣah | I really spat on you_{sg} in vain |
 | 21. bat-ɣadawn    | Aw, he left you_{pl} behind   |
 | 22. ubamum-kolewn | Oh, you_{sg} laughed at him in vain! |
@@ -110,20 +110,20 @@ Extracted answers to iol_23 problems
 
 | Form                 | Translation                         |
 |----------------------|-------------------------------------|
-| 26. ē-wāpamikoyēk    | as he sees you_{pl}                 |
-| 27. ninakinikonān    | he stops us                         |
-| 28. kikakwēcimāwāw   | you_{pl} ask him                    |
-| 29. kiwīcihitināwāw  | I help you_{pl}                     |
+| 22. ē-wāpamikoyēk    | as he sees you_{pl}                 |
+| 23. ninakinikonān    | he stops us                         |
+| 24. kikakwēcimāwāw   | you_{pl} ask him                    |
+| 25. kiwīcihitināwāw  | I help you_{pl}                     |
 
 **(b) Translate into Plains Cree:**
 
 | Form                          | Translation                             |
 |-------------------------------|-----------------------------------------|
-| 30. if we ask them            | kakwēcimāyāhkwāwi                       |
-| 31. they challenge you_{pl}   | kimawinēskomikowāwak                    |
-| 32. they help me              | niwıc̄ihikwak                            |
-| 33. you_{sg} see them         | kiwāpamāwak                             |
-| 34. I stop you_{pl}           | kinakinitināwāw                         |
+| 26. if we ask them            | kakwēcimāyāhkwāwi                       |
+| 27. they challenge you_{pl}   | kimawinēskomikowāwak                    |
+| 28. they help me              | niwıc̄ihikwak                            |
+| 29. you_{sg} see them         | kiwāpamāwak                             |
+| 30. I stop you_{pl}           | kinakinitināwāw                         |
 ---
 
 ## Problem 5

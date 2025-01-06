@@ -1,0 +1,34 @@
+Here are the extracted texts from the images you provided:
+
+Problem 1: Georgian Countries
+
+From sample_probs_img1A:
+
+	•	Brazil
+	•	Peru
+	•	Uruguay
+
+Untranslated countries: Brazil and Uruguay (since the provided text contains names of these countries).
+
+Problem 4: Japanese Braille
+
+From sample_probs_img4A:
+
+	•	karaoke
+
+Problem 11: Inuktitut
+
+No text was extracted from the relevant images (img11A), which likely contained the operations needed for this problem.
+
+Problem 13: Basque Kinship
+
+From img13A:
+
+	•	Iker = Josepa
+	•	Mikel
+	•	Monika
+	•	Manu
+
+Additional Information
+
+The other images for problems 4, 11, 15, and 17 did not yield readable text. You might want to check those images to ensure they contain text that can be extracted. If you need any specific parts from those problems, please clarify, and I can assist further. ￼

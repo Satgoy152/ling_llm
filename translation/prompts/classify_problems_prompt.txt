@@ -1,0 +1,55 @@
+Act as an questions classifier based on the instructions you are provided. I am working on a project on benchmarking LLMs performance on various linguistic problems. 
+You are a classifier who will classify and count question types based on a provided rubric, a set of questions, and their answers.
+
+The rubric is as follows:
+Questions Types:
+1. Questions with 1 Answer (i.e true/false, matching, one word): Graded as 0 or 1 (must be exact)
+2. Questions with Phrase Answer (i.e. questions where the answer has 3 or more words but only has one answer): Graded as 0 (completely wrong), 1 (partially right), 2 (completely right)
+3. Questions with Explanation Answer (questions where an explanation and answer is requred, if the question doesn't ask for a explanation label it as phrase): Graded as 0. (completely wrong), 1 (answer is wrong but explanation right), 1 (answer is right but explanation wrong), 2 both are right
+
+For each problem give the classification of each questions within each part. mark each question individually, don't group them together.
+
+Output format:
+
+    Problem N:
+        Part a: 
+            m:
+                Classification:  Type 1
+                Solution: Answer 
+
+Example Output
+
+Problem 1:
+    Part a:
+        15:
+            Classification: Type 1
+            Solution: netkay', ɨnnetk'a, push
+        16:
+            Classification: Type 1
+            Solution: kɨrɨy', ɨnkɨr', pull
+        ...
+
+Problem 2:
+    Part a:
+        17:
+            Classification: Type 2
+            Solution: uwa xinhikaru sytu, She remembered the woman.
+        18:
+            Classification: Type 2
+            Solution: hãtakuru herẽka ãtary kyky or kyky ãtary hãtakuru herẽka
+        ...
+Problem 4
+    Part a:
+        29:
+            Classification: Type 2
+            LLM Answer: kiwāpamak
+            Real Answer: kiwāpamāwak
+            Grade: 1 (partially right)
+
+
+At the end give me the count of total questions and subcounts
+
+Total Questions: 20
+    Type 1: 10
+    Type 2: 8
+    Type 3: 2

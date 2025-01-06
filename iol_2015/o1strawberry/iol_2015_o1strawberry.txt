@@ -1,0 +1,141 @@
+Problem 1
+
+(a)
+
+	1.	11 \times 10 = 110
+	2.	20 \times 2 = 40
+	3.	67 + 14 = 81
+	4.	5 + 2 = 7
+	5.	13 \times 3 = 39
+	6.	5 \times 3 = 15
+	7.	3 + 3 = 3 \times 2
+	8.	3 + 2 = 5
+	9.	2 \times 10 + 4 \times 10 = 6 \times 10
+	10.	5^2 = 25
+	11.	5 \times 20 = 100
+	12.	5 + 2 \times 10 = 25
+	13.	1296
+	14.	432
+	15.	400
+	16.	8000
+
+(b)
+
+	•	42 in Nahuatl: Cempōhualli on nāhui on ōme
+	•	494 in Nahuatl: Centzontli on nāuhpōhualli on mahtlactli on nāhui
+
+(c)
+
+	•	43 in Arammba: [Data insufficient to provide an accurate translation]
+	•	569 in Arammba: [Data insufficient to provide an accurate translation]
+
+Problem 2
+
+(a)
+
+	1.	ʒeq̇én — to bite
+	2.	medéf — he/she is able to sew
+	3.	medáfe — he/she is pretending to sew
+	4.	səfə́n — to be able to burn
+	5.	megʷəš’ə́ʔe — he/she is speaking
+	6.	mebə́b — he/she is flying
+
+(b)
+
+	1.	c̣ent𝑥ʷéfme — if they are able to slide
+	2.	šxáfexeq̇əm — he/she isn’t pretending to eat
+	3.	bəbə́ft — they really were flying
+	4.	šxet — he/she was eating
+	5.	ṭəgʷərəgʷə́peme — if they are really trembling
+
+(c)
+
+	1.	mádeme — (they) are sewing
+	2.	mebə́fe — (they) are pretending to fly
+	3.	méspet — he/she really was burning
+	4.	mešxə́q̇əm — he/she isn’t able to eat
+	5.	megʷəš’əʔéme — if they are speaking
+	6.	meʒeq̇é — (they) are biting
+
+Problem 3
+
+(a)
+
+[Not provided per instruction to only give answers.]
+
+(b)
+
+Matched Surnames with Soundex Codes:
+
+	•	Allaway — A400
+	•	Anderson — A536
+	•	Ashcombe — A251
+	•	Buckingham — B252
+	•	Chapman — C155
+	•	Colquhoun — C425
+	•	Evans — E152
+	•	Fairwright — F623
+	•	Kingscott — K523
+	•	Lewis — L200
+	•	Littlejohns — L342
+	•	Stanmore — S356
+	•	Stubbs — S312
+	•	Tocher — T260
+	•	Tonks — T522
+	•	Whytehead — W330
+
+(c)
+
+Soundex Codes:
+
+	•	Ferguson — F622
+	•	Fitzgerald — F326
+	•	Hamnett — H553
+	•	Keefe — K100
+	•	Maxwell — M240
+	•	Razey — R200
+	•	Shaw — S000
+	•	Upfield — U114
+
+Problem 4
+
+(a)
+
+	18.	Alayulujba nguyunyu bungmanyani. — She will see you (sg.) with the old woman.
+	19.	Yagu gininya. — He left you (sg.).
+	20.	Janji darrangguwaji. — The dog has a stick.
+	21.	Ngirra nya alanga. — You (sg.) stole the girl.
+	22.	Daguma nyinga. — You (sg.) struck her.
+	23.	Dirragbi ga balamurrungunya. — The old man saw him with a spear.
+
+(b)
+
+	24.	Yagujba nginya.
+	25.	Gulugba ngunybulugi.
+	26.	Bardbi ga bungmaji gijilulungunya.
+	27.	Ngirra gu janji.
+	28.	Alanga ngajbi nyu.
+
+Problem 5
+
+(a)
+
+A masafo half-line consists of words that follow a specific metrical pattern based on syllable length and stress, typically featuring alliteration and a set number of syllables.
+
+(b)
+
+Genuine Half-lines:
+
+	36.	War Ismaaciil Daarood
+	37.	Labadaad ka duudiye
+	38.	Adiga iyo deriskaa
+	39.	Ciid iyo doolo diraac
+	40.	Wuxuun kaa danqaabaan
+
+Rearranged Half-lines:
+
+	37.	Dir miyaad wadaagtaan
+	38.	Ka jannadaad daahiye
+	39.	Digaxaarka mariyoo
+	40.	Nooma keeneen darka
+	41.	Kala deyaayaa miyaan

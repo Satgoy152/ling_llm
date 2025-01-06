@@ -1,0 +1,66 @@
+Let’s break down the problem based on the EAN-13 barcode format and the provided questions. Here’s a step-by-step approach to solving the different parts:
+
+(a) Barcode Identification:
+
+1. Toilet paper (Spain) is barcode E:
+
+	•	The country code for Spain is 84. By looking at the grid and the bar patterns, barcode E will have the appropriate EAN-13 structure with the country code starting with 84.
+
+2. Smoked salmon (Ireland), product code = 02661, checksum = ?:
+
+	•	The system number for Ireland is 539. You need to compute the checksum for the code 539-02661.
+
+The checksum for an EAN-13 barcode is calculated as follows:
+
+	•	Multiply the digits in odd positions by 1 and the digits in even positions by 3.
+	•	Sum the results.
+	•	Subtract the sum from the next multiple of 10 to get the checksum.
+
+Let’s calculate the checksum for 53902661:
+
+	•	Odd positions: 5, 9, 0, 6, 1 → Sum = 5 + 0 + 9 + 6 + 1 = 21
+	•	Even positions: 3, 3, 2, 6 → Sum = 3 × 3 + 2 × 3 + 6 × 3 = 9 + 6 + 18 = 33
+	•	Total sum = 21 + 33 = 54
+	•	The next multiple of 10 is 60, so the checksum = 60 - 54 = 6.
+
+Hence, the checksum is 6.
+
+3. The Lost Symbol (ISBN book):
+
+	•	ISBN books use the system number 978. Look for a barcode in Img 5C that starts with 978. That would identify the barcode for The Lost Symbol.
+
+4. Pork steak (packed in the store), cost = 4 euros and 16 cents:
+
+	•	In-store items generally use the system number in the range 20–29. Find the barcode in Img 5C that matches this system number.
+
+5. Mop head (from where?), full code = 4-023103-075702:
+
+	•	The system number starting with 4 corresponds to Germany (system numbers 40-44). Therefore, the mop head is from Germany, and the barcode will start with 4.
+
+6. Cholesterol-lowering spread (Finland):
+
+	•	The system number for Finland is 64. Look for a barcode starting with 64 in Img 5C, which corresponds to Finland.
+
+7. Sirloin steak (packed in the store), cost = ?:
+
+	•	Similar to pork steak, in-store items use system numbers in the range 20–29. Look for the barcode in this range for the steak.
+
+8. Korsordboken (puzzle magazine, Sweden), full code = ?:
+
+	•	The system number for Sweden is 73. The full barcode will start with 73 and follow the EAN-13 structure. Look for this pattern in Img 5C.
+
+9. Mots Codés (puzzle magazine, France):
+
+	•	The system number for France is 30–37. Identify a barcode starting with one of these system numbers in Img 5C for the French puzzle magazine.
+
+(b) Draw the barcode for 1-453927-348790:
+
+	•	This barcode starts with 1. Based on the EAN-13 structure, you need to draw the grid as per the standard encoding. The left side will use odd parity, and the right side will use even parity encoding of digits.
+	•	You can refer to Img 5D for the partially filled grid to complete this.
+
+(c) Barcode from Dagbladet (Norway):
+
+	•	To determine the system number or country code for Norway, examine the barcode in Img 5E. From the image, the barcode starts with a distinct system number.
+	•	The system number for Norway can be inferred from the given barcode or external references (it’s likely in the range of 70–79, but needs confirmation).
+
+You can manually match the barcodes in the images to the details provided in the problem and use the EAN-13 structure to finalize the answers. Let me know if you need further clarification on any of the points!

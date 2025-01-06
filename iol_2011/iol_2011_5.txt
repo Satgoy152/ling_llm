@@ -1,0 +1,56 @@
+Prompt: As an expert in computational linguistics solve the following problem:
+
+### Problem 5 (20 points)
+
+The barcode language EAN-13 (or GTIN-13) is used in almost every
+country in the world, yet nobody speaks it. It has 10 main dialects or subcodes, but this problem is
+not concerned with subcode zero, which is eﬀectively the same as the older language UPC(A).
+
+[Img 5A attatched]
+
+This is not a barcode: it belongs to a possible subcode of EAN-13 which is not in use. (On the right the
+machine-readable part of the code has been enlarged and transferred onto a grid for ease of observation.)
+
+[Img 5B attatched]
+
+This is a barcode: it belongs to subcode 5. This barcode is from a packet of biscuits from the UK, and
+the number starts with the country code or system number for the UK, which is 50. Usually the first
+part of the code (5-000168) identifies the producer and the next part (08555) is chosen by the producer
+and identifies the product. The last digit is always a checksum.
+
+Here are some more system numbers:
+
+20–29 in-store functions
+30–37 France
+40–44 Germany
+539 Ireland
+64 Finland
+73 Sweden
+84 Spain
+978 ISBN (books)
+?? Norway
+
+(a) Here are some facts about barcodes A–I, in no particular order. Give the letter of the barcode in
+each case, and answer any other questions:
+
+1. toilet paper (Spain) is barcode E;
+2. smoked salmon (Ireland), product code = 02661, checksum = ?;
+3. The Lost Symbol (ISBN book);
+4. pork steak (packed in the store), cost = 4 euros and 16 cents;
+5. mop head (from where?), full code = 4-023103-075702;
+6. cholesterol-lowering spread (Finland);
+7. sirloin steak (packed in the store), cost = ?;
+8. Korsordboken (puzzle magazine, Sweden), full code = ?;
+9. Mots Codés (puzzle magazine, France).
+
+[Img 5C attatched]
+
+(b) Draw the (imaginary) barcode 1-453927-348790 in the grid that you will find on one of your
+sheets. Some of it has been filled in to help you.
+
+[Img 5D attatched]
+
+(c) The barcode below is from Dagbladet, a newspaper from Norway. Write out the full code. What
+is the system number or country code for Norway? —Hugh Dobbs
+
+[Img 5E attatched]

@@ -1,0 +1,135 @@
+### Problem 1
+
+**(a) Fill in the gaps in rows 15–18:**
+
+15. netkay'  **ɨndetka'**  push  
+16. kɨrɨy'  **ɨŋkɨr'ɨ**  pull  
+17. p'uhruy'  **ɨmp'uhur'u**  make holes  
+18. her'oy  **heeroʔ**  smooth out
+
+**(b) Fill in the gaps in rows 39–48:**
+
+39. her'oŋ  **I smoothed (it) out**  
+40. ɨniʂpaʔ  **it is being left**  
+41. aplaʔ  **it opened**  
+42. **ʂuruʔ**  it chose (it)  
+43. **piriŋ**  I saw (it)  
+44. **ʂawʂan'**  I plant (it)  
+45. **ɨŋk'aniʔ**  it was trapped  
+46. **p'ɨhnaŋ**  I leap  
+47. **ɨnhɨk'aʔ**  it is being sewn, woven  
+48. **ɨnipaliʔ**  I was bathed
+
+### Problem 2
+
+**(a) Solutions:**
+
+17. uwa xinhikaru sytu  He remembered the woman  
+18. txipary nhinhikary  I found your fish  
+19. kyky aikute pysykary ywamukary  The man gave your eye to him
+
+**(b) Solution:**
+
+The sentence is ungrammatical because "kanawa" (canoe) is misplaced or unnecessary. The correct sentence is:
+
+Correct sentence: uwa umynary ximakymukary  
+Translation: He gave your banana to the fish.
+
+**(c) Solutions:**
+
+21. You_{sg} found the house.  
+- pita aikute apukary  
+- aikute pita apukary
+
+22. I brought your_{sg} canoe to the girl.  
+- nuta psykaru nyherẽka hãtakurumukary  
+- psykaru nuta nyherẽka hãtakurumukary
+
+23. He brought your_{sg} water to me.  
+- ywa pypurãã nyherẽka nutamukary  
+- pypurãã ywa nyherẽka nutamukary
+
+24. The man drank the girl’s blood.  
+- kyky uãtary hãtakuru mynaru
+
+25. I remembered the eye.  
+- nuta xinhikary nu  
+- nu xinhikary nuta
+
+26. You_{sg} ate my banana.  
+- pita kywy pymynary  
+- pymynary pita kywy
+
+---
+
+### Problem 3
+
+**(a) Solutions:**
+
+18. e-ɣuyanah  You_{pl} shuddered  
+19. ba-ihwin  You_{pl} really cried  
+20. nambum-kisaɣah  Oh, I laughed in vain  
+21. bat-ɣadawn  You_{pl} really left him behind  
+22. ubamum-kolewn  Oh, you_{sg} chased us away
+
+**(b) Solutions:**
+
+23. He floated to the surface.  
+- a-tamab
+
+24. Aw, you_{sg} returned.  
+- obam-dahetok
+
+25. Oh, I silenced him!  
+- nambat-huɣab
+
+26. He really chased us away.  
+- abe-otab
+
+27. You_{pl} really spat on us in vain.  
+- ibatum-kesehnawn
+
+---
+
+### Problem 4
+
+**(a) Solutions:**
+
+22. ē-wāpamikoyēk  As you_{pl} see me  
+23. ninakinikonān  I stop you_{pl}  
+24. kikakwēcimāwāw  You_{pl} ask them  
+25. kiwīcihitināwāw  You_{pl} help us
+
+**(b) Solutions:**
+
+26. If we ask them  
+- kakwēcimānānakoyāhkwāwi
+
+27. They challenge you_{pl}  
+- mawinēskomikowāw
+
+28. They help me  
+- niwīcihikowak
+
+29. You_{sg} see them  
+- kiwāpamāwak
+
+30. I stop you_{pl}  
+- ninakinikowāw
+
+---
+
+### Problem 5
+
+**(a) Answers:**
+
+- kampwɔhii shuunni na kɛ  **1017**
+- ŋkuu na baataanre  **115**
+
+**(b) Answers:**
+
+- 15  **baataanre**
+- 109  **ŋkwuu na baaricyɛɛre**
+- 152  **ŋkwuu na bɛɛcɛɛre na taanre**
+- 403  **(Cannot determine with given data)**
+- 1534  **kampwɔhii na bɛɛcɛɛre na beɲjaaga na kɛ na baaricyɛɛre**

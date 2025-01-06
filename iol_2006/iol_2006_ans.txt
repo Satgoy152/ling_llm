@@ -1,0 +1,195 @@
+### Problem 1: Verb Morphology and Syntax
+#### Rules:
+1. **Word Order:** Subject-Object-Verb (SOV).
+2. **Article:** `ki` (used after nouns).
+3. **Interrogative Marker:** Sentences end in `he` to indicate a question.
+4. **Subject and Object Markers on Verbs:**
+
+| Subject | Object |
+|---------|--------|
+| 1sg     | wa-    |
+| 2sg     | ya-    |
+| 3sg     | 0      |
+| 3pl     | -pi    |
+| -       | wičha- |
+
+5. **Order of Prefixes:** Object prefix followed by subject prefix.
+6. **Number of Nouns:** Expressed only by the verbs.
+7. **Coordinating Conjunctions:**
+   - `ną` — same subject.
+   - `čha` — different subjects.
+
+#### Translations:
+a. **Assignment 1:**
+   1. I came and the Indians called the bears.
+   2. The man killed you and called me.
+   3. The man killed you and he called me.
+   4. He killed you.
+
+b. **Assignment 2:**
+   1. Whom did he kill?
+   2. Who killed him?
+
+3. **Assignment 3:**
+   1. `lakhota ki hokšita ki ktepi čha matho ki hi`
+   2. `yahi ną lakhota ki yakte`
+   3. `tuwa wačho he`
+   4. `wičhaša ki hipi čha tuwa wičhakte`
+
+---
+
+### Problem 2: Stress and Article Usage
+#### Observations:
+1. **Articles:**
+   - `el` (masculine), `els` (plural masculine)
+   - `la` (feminine), `les` (plural feminine)
+   
+2. **Stress Marking:**
+   - `\`` on `e`, `o`, `a`.
+   - `´` on `i`, `u`.
+   - If a word ends in `-s` and the stress is not penultimate, it is marked explicitly.
+
+3. **Plural Forms:**
+   - Masculine nouns: `-os` if stressed on the last syllable, `-s` otherwise.
+   - Feminine nouns: Only `-s`.
+
+#### Examples:
+1. **Assignment 1:**
+   | Singular           | Plural         |
+   |--------------------|----------------|
+   | el bastaix         | els bastaixos  |
+   | el troleibús       | els troleibusos|
+   | la clos            | les clos       |
+   | el iris            | els iris       |
+   | el llaç            | els llaços     |
+   | el ònix            | els ònixs      |
+   | la pelvis          | les pelvis     |
+   | el pis             | els pisos      |
+   | el sequaç          | els sequaços   |
+   | el sequaç          | les sequaçs    |
+   | la xeix            | les xeixs      |
+
+2. **Assignment 2:** The marks `\`` and `´` are used when the stress falls on a non-default syllable.
+
+3. **Assignment 3:** Without the marks, stress is penultimate if the word ends in `-s`, otherwise it is final.
+
+---
+
+### Problem 3: Character Encoding and Vowel Length
+#### Rules:
+1. **Characters:**
+   - The hook in the character marks a vowel.
+   - The circle on top indicates brevity.
+
+2. **Directions:**
+   - The script is read left to right.
+   - The 'rare character' represents `k`.
+
+3. **Assignment 1:** Vowel length and consonant distribution:
+   | Word        | Meaning        |
+   |-------------|----------------|
+   | ka:m        | passion        |
+   | a:c         | passion        |
+   | am          | suck           |
+   | cam         | suck           |
+   | piъm        | delta          |
+   | poьm        | delta          |
+   | noьm        | lead, guide    |
+   | aŋ          | lead, guide    |
+   | ŋoьm        | inarticulately |
+   | peьŋ        | inarticulately |
+   | ŋiъk        | turn around    |
+   | miъn        | turn around    |
+   | caŋ         | trim, rough-hew|
+
+4. **Assignment 2:** Transliteration:
+   - kam — spoke (in a wheel)
+   - ca:m — Cham
+   - ka:k — crow
+   - niъ:m — name
+   - ŋeьŋ — bright red
+   - moьm — robust
+
+---
+
+### Problem 4: Possession and Pronouns
+#### Pronouns and Possession:
+
+Assignment a.
+su b’ataŋiu zä:ŋini - your son’s money
+si teŋku bugdiŋi: - thy stool leg
+si teŋkuŋi: bugdini - thy stool’s leg
+
+Assignment b.
+the boy’s thigh - b’ata wo:ni
+our boar - bu naktaŋiu
+my daughter’s tree - bi azigaŋi mo:ŋini
+
+Assignment c.
+bi xabai - Yes: ‘my udder’ (a cow speaking, shall we say, in a fairy-tale)
+su b’ataŋiu bugdiŋini - Yes: ‘your son’s leg’ (not his own, though, but perhaps a chicken’s leg
+belonging to him)
+si igi - No (‘my tail’ would be si igi:)
+
+Assignment d.
+bi tekpui ‘my skin’ (the skin of my body)
+bi tekpuŋi: ‘my skin’ (e.g., an animal’s skin belonging to me)
+1. **Possessive Pronouns:**
+   | Person | Singular | Plural  |
+   |--------|----------|---------|
+   | 1st    | bi       | bu      |
+   | 2nd    | si       | su      |
+
+2. **Possessive Markers:**
+   - `-i, -ni, -u` indicate possessor’s person and number.
+   - `-ŋi` indicates alienable possession.
+
+3. **Examples:**
+   | Expression            | Translation       |
+   |-----------------------|-------------------|
+   | bi wo:i               | my cow            |
+   | si bogdoloi           | your son          |
+   | bi mo:ŋi:             | my tree           |
+   | si ja:ŋi:             | your field        |
+   | ja: xabani            | his udder         |
+   | bu naktaŋiu           | our boar          |
+
+---
+
+### Problem 5: Verb Structure and Sentence Order
+#### Verb Construction:
+1. **Prefixes:**
+   - First prefix denotes the number of the subject.
+   - Second prefix denotes the number of the indirect object.
+   - The number of the direct object is not marked.
+
+2. **Word Orders:**
+   - (1) S V DO IO
+   - (2) S V IO DO
+
+3. **Rules:**
+   - Both S and IO must be marked if word order is (1).
+   - Marking is optional in order (2) but follows specific rules.
+
+Assignment:
+Clearly sentences (11) mean ‘The woman bought the beer for Mwangi’. This can be said
+correctly in the following four ways:
+Mdala amguli ugimbi Mwangi
+Mdala amguli Mwangi ugimbi
+Mdala aguli Mwangi ugimbi
+Mdala guli Mwangi ugimbi
+The errors are:
+(11a) word order (1), but neither S nor IO marked in the verb.
+(11b) only IO marked, breaking (*).
+(11c) word order (1), but only S marked.
+
+Sentences (12) mean ‘Kamau bought the goat for the grandmothers’. That is:
+Kamau avaguli mene vabuya
+Kamau avaguli vabuya mene
+Kamau aguli vabuya mene
+Kamau guli vabuya mene
+The errors are:
+(12a) the numbers of both S and IO incorrectly marked.
+(12b) word order (1), but neither S nor IO marked in the verb.
+(12c) only IO marked, breaking (*). (Or else: IO not marked, which word order (2) allows,
+but number of S marked incorrectly).

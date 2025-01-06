@@ -1,0 +1,106 @@
+Problem 1
+
+(a)
+
+	1.	2^2 + 3 + 4 = 100 - 10 + 8
+	2.	3 \times 4 = 100 - 17 + 5
+	3.	6^2 + 5 + 0 = 100 - 4 + 0
+	4.	5 \times 0 = 5
+	5.	9^2 + 1 + 2 = 100 - 12 + 0
+	6.	1 \times 2 = 100 - 10 + 9
+	7.	5^2 + 4 + 3 = 100 - 6 + 4
+	8.	4 \times 3 = 100 - 12 + 4
+	9.	(20 + 4) + (20 + 5) = (20 + 6) + 1 + (20 + 2)
+
+(b)
+
+    •	bākūrū bītāt: 100 + 3
+	•	ʃāāgwīnìŋ: 0
+	•	kūrū: 20
+	•	A. 100 \times 3 - 3 - 20 \times 1 \times 0 = 100 + 6 + 9
+	•	B. 100 + 12 \times 0 - 20 + 6 - 20 + 3 = 20 + 9
+
+(c)
+
+	•	6: bītāt
+	•	22: kūrū ná vɛ̀ tàt
+	•	97: bākūrū bīrwīīt ná vɛ̀ nààs
+	•	120: bākūrū bīkūrū
+
+Problem 2
+
+(a)
+
+	1.	abang — n. seashore
+	2.	atáng heya — e. your (sg.) shoulder
+	3.	bataa hawata — i. your (sg.) horse’s neck
+	4.	dekafi — j. trigger
+	5.	ebataa hatáng — p. your (sg.) thumb
+	6.	ekuda hawata — b. your (sg.) branch
+	7.	falepak hawei — a. his fingertip
+	8.	hatáng hamin — l. our noses (the nose of each of us)
+	9.	helui — m. his knife
+	10.	maama hefalepak — f. your (pl.) mother’s hand
+	11.	napong — d. one’s own rope
+	12.	rièng — q. your (pl.) sea
+	13.	ritama — o. upper part of a tree
+	14.	riya hatáng — k. your (pl.) eyes
+	15.	tama habang — h. father’s pistol
+	16.	tamin — l. our noses (the nose of each of us)
+	17.	tefe hawei — o. upper part of a tree
+
+(b)
+
+	1.	amin — ear
+	2.	deya hebataa — your (sg.) mother’s father
+
+(c)
+
+	1.	Pig — kuda
+	2.	Your (pl.) knife — helui riya
+	3.	Your (sg.) mother’s father — deya hebataa
+	4.	My father’s face — tama habang
+	5.	One’s own ear — amin napong
+	6.	My sea — rièng
+
+Problem 3
+
+(a)
+
+	12.	The sorcerer saw the stars.
+	13.	The stars are in the sky.
+	14.	I danced.
+	15.	The man saw the bananas in Luanda.
+
+(b)
+
+	16.	ŋgáʃíkà?
+	17.	àtú ásáŋgá múlóʒí nì dìkámbá mùkìtándà.
+	18.	mùdjúlù mwámì mwámónà dìkúŋgù.
+	19.	mùlwándà mwálà àlóʒí.
+
+Problem 5
+
+(a)
+
+“lavatbungmenemen” — “all men together”
+
+(b)
+
+	1.	laradi — day
+	2.	lavatkonuna — many brothers/sisters
+	3.	laxantoonan — many spirits
+	4.	levengkatli — many places
+	5.	loxot — branch
+	6.	lubungkavus — group of white men
+	7.	luvaroos — two vines
+
+(c)
+
+	8.	Heart — peve
+	9.	Gardens — xontaamang
+	10.	Many things — laxavus
+	11.	Grandchildren — lurubuno
+	12.	Two parts of day (two moments) — luvataleng
+	13.	Branches — xot
+	14.	Big branches — lemparoos

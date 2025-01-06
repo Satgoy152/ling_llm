@@ -1,0 +1,27 @@
+**(a) Matching Barcodes and Information**
+
+1. **E:** The left-hand digits of barcode E begin with 84, the system number for Spain.
+
+2. **I:** Barcode I starts with 539, the system number for Ireland. The product code is given as 02661. The checksum can be calculated using the EAN-13 algorithm (odd positions * 3 + even positions), and finding the number to add to make a multiple of 10.  In this case, the checksum is 5. Full code: 5390026610005
+
+3. **A:** Barcode A begins with 978, the ISBN code.
+
+4. **B:** Barcode B begins with 2, indicating an in-store function. The price is encoded directly in the barcode, and we can see 416 in the right-hand section.
+
+5. **C:** Barcode C starts with 40-44, the code for Germany.
+
+6. **H:** Barcode H starts with 64, the code for Finland.
+
+7. **D:** Barcode D starts with 2, indicating an in-store function. The price isn't given in the problem, so we can't determine it from the barcode image alone.
+
+8. **G:** Barcode G starts with 73, the code for Sweden.  We don't have enough information to determine the product code.  Therefore, we can't fill in the full code.
+
+9. **F:** Barcode F starts with 30-37, the code for France.
+
+**(b) Drawing the Barcode**
+
+I can't directly draw the barcode here, but I can guide you. You'll need to consult the EAN-13 encoding table to determine the black and white bar patterns for each digit. The first digit, '1', determines the encoding pattern for the first six digits of the product code.  The remaining six digits are encoded using the standard right-hand encoding.  The provided grid should have markings to help align the bars correctly.
+
+**(c) Decoding the Norwegian Barcode**
+
+The provided barcode image (5E) shows the code **7046126025615**. The system number is **704**, which is the country code for Norway.

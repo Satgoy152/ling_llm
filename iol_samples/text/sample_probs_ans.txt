@@ -1,0 +1,257 @@
+Here are the extracted solutions based on the corresponding problems from the text file you provided:
+
+Problem 2: Ancient Greek
+
+a. Matching phrases with their translations:
+
+	•	E → 1. the slave of the sons
+	•	C → 2. the masters of the slaves
+	•	D → 3. the brothers of the merchant
+	•	H → 4. the merchants of the donkeys
+	•	A → 5. the donkey of the master
+	•	B → 6. the master of the house
+	•	G → 7. the house of the brothers
+	•	F → 8. the sons of the masters
+
+b. Translations into Ancient Greek:
+
+	•	a) the houses of the merchants: hoi to:n emporo:n oicoi
+	•	b) the donkeys of the slave: hoi tu dulu onoi
+
+Problem 3: Aragonese
+
+Missing plurals:
+
+	•	awake: concordau → concordaus
+	•	chocolate: chicolat → chicolatz
+	•	union: chunta → chuntas
+	•	eclipse: eclix → eclixes
+	•	cicada: ferfet → ferfetz
+
+Problem 5: Lalana Chinantec
+
+a. Word meanings:
+
+	•	li:ʔ = beautiful(ly)
+	•	ro:h = ripe
+
+b. Translations into Lalana Chinantec:
+
+	1.	The good pineapples became beautiful: kalali:ʔ mo:h ʤö
+	2.	My ripe corn has yellowed well: ʤö mɨlane mo:h ro:h kya
+
+c. Translations into English:
+
+	1.	mɨlaro:h kwɨ: ne = My yellow pineapples ripened well.
+	2.	li:ʔ kalakwa: kwɨ: = The beautiful corn grew.
+
+Problem 6: Molistic
+
+a. Likely sentences:
+
+	•	c) May found a dog that was danty but sloshful.
+
+b. Desired qualities:
+
+	•	1) blitty = undesirable
+	•	2) weasy = undesirable
+	•	3) sloshful = undesirable
+	•	4) frumsy = desirable
+
+Problem 7: Persian
+
+a. Translations into English:
+
+	1.	čahārpāye pāin-e miz = The stool below the table.
+	2.	ketāb zir-e komod = The book under the bookcase.
+
+b. Fill in the gaps (English to Persian):
+
+	1.	The stone under the water: sang zir-e āb or sang pāin-e āb (depending on whether the stone is fully or partially under the water).
+        Filled in gap: zir-e or pāin-e
+	2.	The box under the tree: ja’abe pāin-e deraxt or ja’abe zir-e deraxt (depending on whether the box is fully or partially under the tree).
+        Filled in gap: zir-e or pāin-e
+
+Here is the transcription for the problems you requested based on the extracted solutions:
+
+Problem 8: Kazakh
+
+a. Matching phrases with their translations:
+
+	•	f → i. segiz ben elüw
+	•	a → ii. bir men bes
+	•	b → iii. bir men segiz
+	•	i → iv. elüw eki men on
+	•	e → v. žeti men elüw
+	•	h → vi. otız ben eki
+	•	d → vii. tört pen žeti
+	•	c → viii. üš pen eki
+	•	g → ix. on üš pen otız
+
+b. Translations into Kazakh:
+
+	1.	five and thirty-eight = bes pen otız segiz
+	2.	ten and four = on men tört
+	3.	seven and fifty-three = žeti men elüw üš
+	4.	thirty-eight and five = otız segiz ben bes
+
+Problem 9: Japanese Chess (Shōgi)
+
+a. Fill in the gaps:
+
+	1.	sōroku “Running Stag” ⟹ honroku “Dashing Stag”
+	2.	tōhei “Sword Soldier” ⟹ tōshō “Sword General”
+	3.	gyūhei “Ox Soldier” ⟹ sōgyū “Running Ox”
+	4.	ushō “Right General” ⟹ ugun “Right Army”
+	5.	gyūshō “Ox General” ⟹ hongyū “Dashing Ox”
+	6.	kyūhei “Bow Soldier” ⟹ kyūshō “Bow General”
+	7.	kishō “Wood General” ⟹ hakuzō “White Elephant”
+	8.	dohei “Crossbow Soldier” ⟹ doshō “Crossbow General”
+	9.	bashō “Horse General” ⟹ honba “Dashing Horse”
+	10.	sasha “Left Chariot” ⟹ satessha “Left Iron Chariot”
+	11.	bahei “Horse Soldier” ⟹ sōba “Running Horse”
+	12.	sōyū “Running Bear” ⟹ honyū “Dashing Bear”
+	13.	tonshō “Pig General” ⟹ honton “Dashing Pig”
+	14.	tesshō “Iron General” ⟹ hakuzō “White Elephant”
+	15.	sashō “Left General” ⟹ sagun “Left Army”
+	16.	usha “Right Chariot” ⟹ utessha “Right Iron Chariot”
+	17.	sōrō “Running Wolf” ⟹ honrō “Dashing Wolf”
+	18.	sekishō “Stone General” ⟹ hakuzō “White Elephant”
+
+Problem 10: Tupi-Guarani
+
+a. Fill in the blank spaces:
+     English: Tupinambá → Guaraní Mbya
+	•	Boss: ubixab → uvixá
+	•	Rib: arukang → arukã
+	•	To overcome: opuan → akuã
+	•	Peanut: mandubi → manduvi
+	•	To beat: petek → peté
+	•	To hear: senub → henú
+	•	Red: pyranga → pyrã
+	•	Lizard: teju → teju
+	•	I say: a’é → a’é
+	•	Beautiful: porang → porã
+	•	Mouth: _juru_ → juru
+	•	Half: _ku’a_ → ku’a
+	•	Wood: __ybyrá__ → yvyrá
+	•	You stay: _erepytá__ → erepytá
+	•	High: _ybaté_ → yvaté
+	•	You sleep: _erekér__ → ereké
+	•	Jaguar: _jaguar_ → jaguá
+	•	To want: _potár_ → potá
+
+b. Matching Brazilian city names with their meanings:
+
+| Number | City                  | Letter | Meaning                                |
+|--------|-----------------------|--------|----------------------------------------|
+| 1      | Ibiúna (SP)            | j      | black soil                             |
+| 2      | Ibiporanga (SP)        | m      | beautiful land                         |
+| 3      | Iúna (ES)              | c      | place for producing fishing hooks      |
+| 4      | Tijuípe (BA)           | d      | lizard river                           |
+| 5      | Pindamonhangaba (SP)   | i      | alligator's/yacare's burrow            |
+| 6      | Jacarecoara (MA)       | f      | turtle's burrow                        |
+| 7      | Ibitinga (SP)          | a      | white soil                             |
+| 8      | Jericoaquara (CE)      | h      | great rock                             |
+| 9      | Ipiranga (PR)          | e      | red river                              |
+| 10     | Tijuaçu (BA)           | n      | big lizard                             |
+| 11     | (Usina de) Itaipú (PR) | g      | sound the water does in the rock       |
+| 12     | Itatinga (SP)          | o      | white rock                             |
+| 13     | Itauçu (GO)            | l      | fish of the yellow river               |
+| 14     | Pirajuí (SP)           | b      | great river                            |
+| 15     | (Foz do) Iguaçu (PR)   | k      | black river                            |
+
+Problem 12: Basque Numbers
+
+a. Fill in the gaps:
+
+	•	lau × bost = __hogeita___ (20)
+	•	__bederatzi__ × hamar = laurogeita hamar (90)
+
+b. Write in figures:
+
+	1.	laurogeita hamahiru = 93
+	2.	hirurogei = 60
+
+c. Write out in Basque:
+
+	1.	39 = hogeita hamabederatzi
+	2.	77 = hirurogeita hamazazpi
+	3.	80 = laurogei
+
+Problem 14: Icelandic Kinship
+
+Part a:
+1. The oldest descendant of an immigrant is Jón Oddsson Bergmann.
+2. Ragnheiður Jakobsdóttir has no grandsons/granddaughters.
+3. Viktor has three children: Christian, Hrafn, and Viktoría.
+4. Steinunn has three children: Daniel, Sara, and Margret.
+5. Stefan Gunnarsson Gunnarssonar. He received only names of his father and his father‘s father. 
+6. Five possibilities for Eva and Christian’s son:
+
+	Guðmundur (Evasson /Christiansson)(Emilsonnar /Kristínsonnar/Viktorssonar) (Kvaran)
+
+7. Two possibilities for Steinunn’s daughter:
+
+	Hrafnildur Björnsdóttir (Annassonar)
+
+Problem 16: Guaraní 
+
+a. Translate into English:
+
+	1.	akaruma = I was eating
+	2.	ojupita = He will be waking up
+	3.	ndavo’omo’ãi = I will not be taking
+	4.	napekororõi = You are not crying
+	5.	ndapyhyima = I wasn’t catching
+
+b. Translate into Guaraní:
+
+	1.	You are not shooting = nepe-mbokapu-i
+	2.	He is not singing = ndo-purahei-ri
+	3.	We will be eating = jakaru-ta
+	4.	I will not be singing = nda-purahei-mo’ai
+
+Problem 18: Toki Pona
+
+a. Associations between the words and translations:
+
+	•	kiwen suno jelo = gold
+	•	tomo tawa telo = boat
+	•	jan Powi = Boris
+	•	ilo suno = lantern
+	•	telo jelo = piss
+	•	jan ilo = robot
+	•	jan toki = prophet
+	•	supa lape = bed
+	•	supa moku = dinner table
+	•	ma tomo = city
+	•	wile moku = hungry
+	•	tawa = movement
+	•	nasin linja = orthodoxy
+	•	wile pona = well-intentioned
+	•	telo kiwen = ice
+	•	lipu toki = book
+
+b. Translation of simple words:
+
+	•	kiwen = stone
+	•	suno = bright
+	•	jelo = yellow
+	•	tomo = house
+	•	tawa = moving
+	•	telo = water
+	•	jan = person
+	•	ilo = tool
+	•	toki = word
+	•	supa = surface
+	•	moku = eat
+	•	nasin = way
+	•	linja = straight
+	•	wile = will
+	•	pona = good
+	•	lipu = flexible surface
+
+c. Literal translation of “Toki Pona”:
+
+	•	“Good language” (or “Simple language”)

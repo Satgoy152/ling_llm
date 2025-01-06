@@ -1,0 +1,108 @@
+I'd be happy to help solve this computational linguistics problem. Let's break it down step by step:
+
+### Problem 1
+
+(a) Translating into English:
+
+- kekēskahæq - we_{1+2} break it through by tool
+This is based on the pattern in sentence 4, with the prefix ke- indicating "we_{1+2}" and the ending -hæq suggesting "by tool".
+
+- nepāhkenan - I open it by hand
+This combines elements from sentences 5 (pāhk-) and 15 (-enam), with the ne- prefix for "I".
+
+- wǣpāhpew - he begins laughing
+This combines elements from sentences 17 (wǣp-) and 21 (-āhpe-), indicating "begin" and "laughing".
+
+(b) Translating into Menominee:
+
+- I begin to eat it - newǣpetam
+- we_{1+2} lay it flat by hand - kekāwenam
+- he digs a hole - tawǣsam
+- he walks out - kǣtohnæw
+
+These translations are based on patterns observed in the given sentences, combining appropriate prefixes, roots, and suffixes.
+
+### Problem 2
+
+(a) Filling in the gaps:
+
+- bøga [bø:va]
+- knoðar [kno:ar]
+- kvøða [kvø:a]
+- løgur [lø:vur]
+- plága [plOava]
+- skaði [skEaji]
+- toygur [tOigur]
+- trúgi [tru:ji]
+
+(b) Rules:
+
+1. ð is pronounced as [j] between vowels, and is silent at the end of a word.
+2. g is pronounced as [v] between back vowels (a, o, u) and [j] between front vowels (e, i, y).
+3. Long vowels are represented with a colon in the phonetic transcription.
+4. ø is pronounced as [ø], ey as [Ei], oy as [Oi], ú as [u:].
+5. Vowels before gi at the end of a word are lengthened.
+
+### Problem 3
+
+(a) Translating into English:
+
+- mùsúĚ á gbòmùĚ - the woman's fish
+- léN kúndúĚ á nỳımı̀̀ıĚ - the short eagle's snake
+- gbòmù-lÈndÈ kúndúĚ - the short boat
+
+(b) The correct phrase should be: kándÒ-lÈndÉĚ lÒÒ
+Translation: the small sky-vessel
+
+(c) Translating into Vai:
+
+- the eagle's snake - léNĚ á nỳımı̀̀ıĚ
+- the small child's eye - dı́ lÒÒĚ já
+- the tall man's sister - kà́ı jǎNĚ lÒÒ-mùsú
+- the small baby-snake - nỳımı̀̀ı-kÒánjà lÒÒĚ
+
+### Problem 4
+
+(a) Determining the correct correspondences:
+
+atl = water
+chilli = chili
+chilatl = chili water
+callah = house
+conetl = child
+oquichconetl = boy
+totoltetl = turkey egg
+colli = grandfather/ancestor
+coltzintli = revered grandfather/ancestor
+calhuah = master of house
+conehuah = master of child
+acalhuah = canoe owner
+oquichhuah = man/husband
+oquichtotoltzintli = revered turkey-cock
+achilli = water pepper
+conehuahcapil = possessor of stones
+tehuah = wife
+tetlah = stone
+
+(b) Translating into Nahuatl:
+
+house = callah
+stone = tetl (derived from tetlah)
+possessor of water = athuah (atl + huah)
+revered man/husband = oquichhuahtzintli (oquichhuah + tzintli)
+
+(c) Translating into English:
+To translate these, we need to break down the words:
+
+cacahua- seems to be a root meaning "cocoa"
+-tl is a common ending
+-tetl means "stone"
+-atl means "water"
+-huah means "possessor of" or "master of"
+
+So:
+
+cacahuatl = cocoa
+cacahuatetl = cocoa stone
+cacahuaatl = cocoa water
+cacahuahuah = cocoa owner/master of cocoa

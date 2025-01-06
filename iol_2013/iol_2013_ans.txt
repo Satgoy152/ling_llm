@@ -1,0 +1,57 @@
+To assist with transcribing the solutions from the 2013 International Linguistics Olympiad (IOL) for your benchmarking project, I’ll summarize the solutions in the minimal way possible, while maintaining proper formatting and accents. Here’s the transcription for the five problems based on the provided solutions.
+
+Problem 1 (Yidiny)
+
+	1.	Rules:
+	•	If the word’s syllable count is even, all syllables are short.
+	•	If odd, the last even-numbered syllable of the stem is lengthened.
+	2.	Solution:
+	•	(a) mugaóumu, waNa:lgu.
+	•	(b) bama:n (of a person), buña:bi (another woman), maéurmuéay (with a frog), muéa:mni (of a mother).
+	•	(c) muyubara:n (of a stranger), mugaóugu (for a fishing net), bimbi (father), maéu:rmu (from a frog), wagu:éagimbal (without a man), éuduluni (of a pigeon), baéi:gal (tortoise), waNalgimbal (without a boomerang).
+
+Problem 2 (Tundra Yukaghir)
+
+	1.	Structure: Modifier + connective (-d- before a vowel, -n- before a consonant) + modified noun.
+	2.	Solution:
+	•	(a) ilennime (herd of deer), joqonnime (wooden house), saancohoje (wooden knife), johudawur (nose case), ilenlegul (deer feed), cireme (bird), johul (nose), aariinmøŋer (gunshot), joqodile (horse), møŋer (thunder), ciremennime (nest), joqoncohoje (Yakut knife), saadoŋoj (wooden box), uoduo (grandchild), oŋoj (bag), aariinjohul (rifle’s muzzle), uodawur (cradle), joqol (Yakut person).
+	•	(b) aarii (rifle), aariidoŋoj (rifle case), ciremedawur (nest), ile (deer), johudewce (tip of nose), legul (food), saal (wood), saannime (wooden house), uo (child).
+	•	(c) iron bird: cuoncireme, snoring: johunmøŋer, tip of knife’s blade: cohojedewce, sack for provisions: legudoŋoj.
+
+Problem 3 (Pirahã)
+
+	1.	Rules:
+	•	x = [P], noun + modifier are pronounced as one word.
+	•	Primary stress is on the heaviest syllable type among the last three syllables of the word.
+	2.	Solution:
+	•	(a) xaaibi (thin) = [Pa.1ai.bi], xaapisi (arm) = [1Paa.pi.si], xitiixisi (fish) = [Pi.1tii.Pi.si].
+	•	(b) bigi (ground) = [bi.1gi], kagahoaogii (papaya) = [ka.ga.ho.ao.1gii], kaibai (monkey) = [1kai.bai], kapiigaiitoii (pencil) = [ka.pii.ga.ii.to.1ii], poogaihiai toio (old banana) = [poo.gai.1hia.to.io], xabagi kapioxio (another toucan) = [2Pa.ba.gi.ka.pio.1Pio], xabagi xogiai (big toucan) = [Pa.ba.1gio.gi.ai].
+
+Problem 4 (Muna)
+
+	1.	Rules:
+	•	Word order: subject-verb-object.
+	•	Articles and possessive forms have specific prefixes and suffixes.
+	2.	Solution:
+	•	(a) andoandoke nogholi lagahiku (The Monkey is buying my ants).
+	•	(b) a dhinihi dasumuli we murindo robhinehi (The demons will return to the women’s pupil).
+	•	(c) Translations:
+	•	The Ant will climb the pupil’s stone: a-la-a-laga na-moni we kontu-no muri.
+	•	The ants are going to the Demon: a laga-hi do-kala we a-dhi-a-dhini.
+	•	My women’s monkeys will cut my bananas: ndoke-hi-ndo robhine-hi-ku da-dumodo kalei-hi-ku.
+	•	The monkey’s mountains are far: molo-hi-no ndoke no-kodoho.
+
+Problem 5 (Cognitive Brain Mapping)
+
+	1.	Interpretations:
+	•	Location A: shelter, Location B: manipulation, Location C: eating, Location D: long words.
+	2.	Solution:
+	•	Word-to-location mapping:
+	•	Refrigerator: A = low, B = low, C = high, D = high.
+	•	Cow: A = low, B = low, C = high, D = low.
+	•	Bed: A = high, B = low, C = low, D = low.
+	•	Butterfly: A = low, B = low, C = low, D = high.
+	•	Spoon: A = low, B = high, C = high, D = low.
+	•	Cat: A = low, B = low, C = low, D = low.
+
+This transcription captures the rules and minimal required solutions from the IOL 2013 problems in a concise format, maintaining correct accents and formatting for ease of use in benchmarking LLMs.

@@ -1,0 +1,234 @@
+Based on the provided classification, LLM solutions, and real answers, here's the grading for each problem:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: a ksie a tgiang - 1 coconut
+            Real Answer: a ksie a tgiang — 1 coconut
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: o ngaitegaap a korlotge - 13 breadfruits
+            Real Answer: o ngaitegaap a korlotge — 12 breadfruits
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: o ngausmia a ktiëk - 7 coconuts
+            Real Answer: o ngausmia a ktiëk — 20 coconuts
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: o vuo a lo ktiëk hori orom a tgiang - 11 betel nuts
+            Real Answer: o vuo a lo ktiëk hori orom a tgiang — 11 betel nuts
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: a lo tu a lomin
+            Real Answer: a lo tu a lomin
+            Grade: 2
+        2:
+            Classification: Type 2
+            LLM Answer: o sngu a ktiëk hori orom a korlolo
+            Real Answer: o sngu a lo ktiëk hori orom a korlolo
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: o moulang a korlotge
+            Real Answer: o ngaitegaap a korlotge hori orom a moulang hori orom a tgiang
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: o vuo a mhelom
+            Real Answer: o vuo a mhelom
+            Grade: 2
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: Nwe si6þu - 06/14/2009
+            Real Answer: Nwe si6þu — 07/13/2009 (Monday)
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: so mo cO - 06/16/2009
+            Real Answer: so mo cO — 06/16/2009 (Tuesday)
+            Grade: 2
+        3:
+            Classification: Type 2
+            LLM Answer: yE au6 nai6 - 07/09/2009
+            Real Answer: yE au6 nai6 — 06/24/2009 (Wednesday)
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: daliya - 06/24/2009
+            Real Answer: daliya — 07/18/2009 (Saturday)
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: e ti6 - 07/13/2009
+            Real Answer: e ti6 — 06/14/2009 (Sunday)
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+        6:
+            Classification: Type 2
+            LLM Answer: phyuphyu wi6 - 07/18/2009
+            Real Answer: phyuphyu wi6 — 07/09/2009 (Thursday)
+            Grade: 0
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 3
+            LLM Answer: It's not possible to determine stress placement for those stems because: - They don't have any long vowels or diphthongs which are always stressed - They have multiple short vowels and no data to determine which one is stressed
+            Real Answer: This rule applies if the root contains precisely one stop consonant. If there are two (e.g., `bhāg-a-`, `pad-a-`, `pat-i-`) or none (`us-ri-`), the stress cannot be determined.
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: mr.dh-rá-
+            Real Answer: mr.dh-rá-
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: phe-ná-
+            Real Answer: phé-na-
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: stú-ti-
+            Real Answer: stu-tí-
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: tán-ti-
+            Real Answer: tan-tí-
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: bhā́r-a-
+            Real Answer: bhār-á-
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: dū́-ta-
+            Real Answer: dū-tá-
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: sváp-na-
+            Real Answer: sváp-na-
+            Grade: 1
+        8:
+            Classification: Type 1
+            LLM Answer: bhū́-mi-
+            Real Answer: bh´̄u-mi-
+            Grade: 1
+        9:
+            Classification: Type 1
+            LLM Answer: ghár-ma-
+            Real Answer: ghar-má-
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: ábh-ra-
+            Real Answer: abh-rá-
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: ghán-a-
+            Real Answer: ghan-á-
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: ghr.s.-ví-
+            Real Answer: ghŕ.s.-vi-
+            Grade: 0
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: you make the woman love the carpenter / you make the carpenter love the woman
+            Real Answer: tiktlazohtlaltia — you make the woman love the carpenter. - in zihuātl in kuauhx̄ınki — you make the carpenter love the woman.
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: he/she/it makes me shout
+            Real Answer: nēchtzāhtz̄ıtia — he makes me shout.
+            Grade: 2
+        3:
+            Classification: Type 2
+            LLM Answer: you beat him/her/it
+            Real Answer: tikhūıteki — you beat him.
+            Grade: 2
+        4:
+            Classification: Type 2
+            LLM Answer: I sing the song for the healer
+            Real Answer: nikēhuilia in kikatl in t̄ız̄ıtl — I sing the song for the healer.
+            Grade: 2
+        5:
+            Classification: Type 2
+            LLM Answer: I want the atole
+            Real Answer: nikneki in ātōlli — I want the atole.
+            Grade: 2
+        6:
+            Classification: Type 2
+            LLM Answer: he/she/it makes you leave something
+            Real Answer: mitztlakāhualtia — he makes you leave something.
+            Grade: 2
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: nēchchīhualtia in ātōlli
+            Real Answer: nēchch̄ıhualtia in ātōlli
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: tiktēkāhuilia in oktli
+            Real Answer: tiktēch̄ıhuilia in oktli
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: mitzkochitia in tīzītl
+            Real Answer: mitzkoch̄ıtia in t̄ız̄ıtl
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: niklakēhua
+            Real Answer: nitlaēhua
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: nihuetzi
+            Real Answer: nihuetzi
+            Grade: 1
+
+Total Score: 24/43

@@ -1,0 +1,102 @@
+Problem 1
+
+Assignment 1: Translate into English
+
+	1.	Aje ikuru kêt
+	•	You are not devouring me
+	•	Explanation: Based on the translations “Ij” m! akuru kêt” (I am not devouring you guys) and “Ga iku” (You are devouring me), “ikuru” implies devouring in second-person singular, and “kêt” indicates a negation.
+	2.	Ba m! aku
+	•	We are decorating you guys
+	•	Explanation: Comparing with “Ba m! m! anhê” (We are decorating you guys), it seems “aku” could be an alternate form or typo of “anhê”, indicating the action of decorating in plural form.
+	3.	Irêrê kêt
+	•	I am not swimming
+	•	Explanation: Similar to “M! irêrê kêt” (We are not swimming), with the singular first-person “I” indicated by the omission of the plural marker “M!”, and “kêt” again indicating negation.
+
+Assignment 2: Translate into Kayapo
+
+	1.	You guys are not devouring us
+	•	M! aj” ikuru kêt
+	•	Explanation: “M! aj” for “us”, “ikuru” for “devouring”, and “kêt” for negation, based on the sentence structure observed.
+	2.	We are not decorating you guys
+	•	M! aj” m! anhê kêt
+	•	Explanation: Using “M! aj” for “you guys” (plural second-person), “m! anhê” for “decorating”, and “kêt” for negation.
+	3.	We are dancing
+	•	M! to
+	•	Explanation: Similar to “Ga m! to” (You guys are dancing) but with “M!” for “we” indicating first-person plural.
+	4.	I am devouring you
+	•	Ij” aku
+	•	Explanation: “Ij” for “I am”, and “aku” adapted from the existing phrases for congruency, although the precise form might vary based on dialect or formality.
+
+Problem 2
+
+Assignment: Indicate mismatched article titles
+
+Given the nature of the task and the lack of actual articles to review, a hypothetical approach would be:
+
+	1.	Insanitariness in Brobdingnag Threatens Cholera Outbreak
+	•	New title: Poor Sanitation in Brobdingnag May Lead to Health Hazards
+	•	Explanation: The specific mention of “Cholera” might be too precise without detailed content to support it; a more general title about health hazards could be more appropriate.
+	2.	Unexpected Event in Country of Houyhnhnms Threatens Early Elections
+	•	New title: Political Turmoil in Houyhnhnms Could Lead to Early Polls
+	•	Explanation: “Unexpected event” is vague and could mislead about the nature of the threat to elections; specifying “Political Turmoil” provides clarity.
+	3.	Population Crisis in Lilliput Threatens Tax Reform
+	•	New title: High Population Growth in Lilliput Complicates Tax Legislation
+	•	Explanation: “Crisis” might imply an imminent threat, which could be a misrepresentation if the situation is more about the long-term complications of population growth on policy.
+
+Problem 3
+
+Assignment 1: Indicate the Latin word that never contained the dh sound
+
+	•	fingo
+	•	Explanation: The other three words (barba, verbum, vidua) are direct cognates to “beard”, “word”, and “widow”, likely evolving from Proto-Indo-European roots with dh. “Fingo”, meaning “I sculpt”, does not readily align with these roots and its derivation suggests a different phonetic lineage.
+
+Assignment 2: Latin words without the dh sound
+
+	•	brevis, gurdus, frigus
+	•	Explanation: These words are not related to any roots that would have historically included the dh sound based on their meanings and phonetic structures, which do not trace back to the Proto-Indo-European dh. “Unda” and “debeo” might contain derivatives from roots involving water and owing, possibly having undergone more significant phonetic changes, including dh to d.
+
+Problem 4
+
+Assignment 1: Match words with their translations
+
+	•	k’e), fractured*
+	•	k’ez), scraped condition
+	•	phešniža, scratched condition
+	•	suza, slight bruise
+	•	xu*a, sparks
+
+Assignment 2: Translate into Lakhota
+
+	1.	A thin liquid is being squeezed out
+	•	*?
+	•	Explanation: No available translation, but would follow patterns from “šli”.
+	2.	It is soft and movable
+	•	*?
+	3.	It is red hot
+	•	*?
+	4.	It is semi-hard and movable
+	•	*?
+	5.	It is branching into several directions
+	•	*?
+
+Assignment 3: Explain the meaning of the word ži
+
+	•	It is yellow
+	•	Explanation: Direct translation from the provided table.
+
+Problem 5
+
+Assignment: Fill in the gaps
+
+	1.	? (to torment) - *?
+	•	Explanation: Requires more context or etymological patterns which aren’t available from the given data.
+	2.	? (to lead) - *?
+	3.	hup,n (to be completed) - *?
+	4.	? (to close) - *?
+	5.	.ühen (to be rinsed) - *?
+	6.	? (to transport) - *?
+	7.	sh,n (to be put on ice) - *?
+	8.	ü (to drop) - *?
+	9.	? (to enter) - *?
+
+This approach outlines translations and analysis based on linguistic patterns and the available data.

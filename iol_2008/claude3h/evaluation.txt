@@ -1,0 +1,218 @@
+I understand. I'll grade the LLM's answers based on the classification and rubric you provided. Please provide the LLM's answers and the real answers for each problem so I can grade them accordingly.
+
+Problem 1:
+    Part a:
+        12:
+            Classification: Type 1
+            LLM Answer: [g@s@nqōxon]
+            Real Answer: [əksənxōGon]
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: [tg@b@q]
+            Real Answer: [ətkəbox]
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: [gm@ūjcın]
+            Real Answer: [gəmūjəmin]
+            Grade: 0
+        15:
+            Classification: Type 1
+            LLM Answer: [@mt@qw@tk]
+            Real Answer: [emtoGwatk]
+            Grade: 0
+        16:
+            Classification: Type 1
+            LLM Answer: [tēpljc]
+            Real Answer: [dēbəlc]
+            Grade: 0
+    Part b:
+        17:
+            Classification: Type 1
+            LLM Answer: tped'sn
+            Real Answer: tp'te'sn
+            Grade: 0
+        18:
+            Classification: Type 1
+            LLM Answer: amt'k'm
+            Real Answer: mtesgm
+            Grade: 0
+        19:
+            Classification: Type 1
+            LLM Answer: alapt'k
+            Real Answer: alapt'g
+            Grade: 0
+        20:
+            Classification: Type 1
+            LLM Answer: glamn
+            Real Answer: glamen
+            Grade: 0
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 3
+            LLM Answer: The first line of each distich (pair of lines) contains two words beginning with the same sound, and the first word of the second line begins with this sound as well. All vowels are considered to alliterate with one another and with j.
+            Real Answer: 1. Number of Syllables: Each line contains 6 syllables. 2. Alliteration: As stated in the problem. 3. Internal Rhyme: Let V1, V2, ..., V6 represent the vowels in each line. At least one consonant immediately following V5 must immediately follow Vn (n = 1, 2, or 3). In even lines, Vn = V5.
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: andskoti Gauta glymja hugfyldra ríks rymr hlaut sigr svartskyggð hœgra smíði svírum vigra
+            Real Answer: ríks rymr glymja svartskyggð sverð þás hugfyldra hlaut andskoti hǫ́r sǫngr sigr
+            Grade: 0
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: DrehuCemuhîgaaangöne-gejëba-jiényinebéthinwöli
+            Real Answer: jun bone — bone, i-jun — skeleton (multitude of bones), i-wahnawa — bunch of bananas (multitude of bananas), drai-hmitrötr — Sunday (holy day), gaa-hmitrötr — sanctuary (holy place), uma-hmitrötr — church (holy house), ngöne-uma — wall (house border), ngöne-gejë — coast (water border), tii — to write, bé-tii — pencil (tool to write), bé-wöli — fork (tool to poke), bé-ôdu — cup (tool to drink), ba-bwén — twilight (night border), a-pulut — bed (place to sleep)
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: wahnawa: 'church'
+            Real Answer: wahnawa — banana
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: drai: 'calendar'
+            Real Answer: drai — day
+            Grade: 0
+        3:  
+            Classification: Type 2
+            LLM Answer: wöli: 'twilight'
+            Real Answer: wöli — to poke
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: pulut: 'bed'
+            Real Answer: pulut — to sleep
+            Grade: 0
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: caky2sm2tih: 'only above the vine'
+            Real Answer: caky2sm2tih — right above the vine
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: k2m2Nšeh: 'like a shadow'
+            Real Answer: k2m2Nšeh — like a shadow
+            Grade: 2
+        3:
+            Classification: Type 2
+            LLM Answer: P2s mok: 'my corn'
+            Real Answer: P2s mok — my corn
+            Grade: 2
+        4:
+            Classification: Type 2
+            LLM Answer: mis nd2ctaPm: 'your teeth'
+            Real Answer: mis nd2ctaPm — your teeth
+            Grade: 2
+        5:
+            Classification: Type 2
+            LLM Answer: pahsunbit: 'squash'
+            Real Answer: pahsunbit — with the squash
+            Grade: 0
+        6:
+            Classification: Type 2
+            LLM Answer: perolkotoyašehtaPm: 'just like for the kettle'
+            Real Answer: perolkotoyašehtaPm — as if for the kettles
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: pokskuykotoya: 'for the chair'
+            Real Answer: pokskukyotoya
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: mis perol: 'with my kettle'
+            Real Answer: P2s mberolpit
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: koc2kšeh: 'just like a mountain'
+            Real Answer: koc2kšehtih
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: P2s Ngom: 'posts'
+            Real Answer: komdaPm
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: k2m2NdaPm2sm2: 'above the shadows'
+            Real Answer: k2m2Ng2sm2taPm
+            Grade: 1
+        6:
+            Classification: Type 2
+            LLM Answer: mis kumguk: 'your town'
+            Real Answer: mis Ngumguy
+            Grade: 1
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: Amaruup angatkuit takujanga: 'The wolf saw your shaman.'
+            Real Answer: The wolf saw your shaman.
+            Grade: 2
+        2:
+            Classification: Type 2
+            LLM Answer: Nanuit inuuhukturmik aanniqsijuq: 'The polar bears hurt the boy.'
+            Real Answer: Your polar bear hurt a boy.
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: Angunahuktiit aarqijuq: 'Your hunters cured (someone).'
+            Real Answer: Your hunter cured himself.
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: Ilinniaqtitsiji qukiqtait: 'The teacher shot them.'
+            Real Answer: You shot the teacher.
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: Qaijutit: 'You came.'
+            Real Answer: You came.
+            Grade: 2
+        6:
+            Classification: Type 2
+            LLM Answer: Angunahuktimik aarqisijutit: 'You cured a hunter.'
+            Real Answer: You cured a hunter.
+            Grade: 2
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: Angatkuup aanniqtutit: 'The shaman hurt you.'
+            Real Answer: Angatkuup aanniqtaatit.
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: Ilinniaqtitsiji inuuhuktuit takujanga: 'The teacher saw the boy.'
+            Real Answer: Ilinniaqtitsijiup inuuhuktuq takujanga.
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: Amarutit ukiakhaqtut: 'Your wolf fell.'
+            Real Answer: Amaruit ukiakhaqtuq.
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: Qingmimik qukiqtutit: 'You shot a dog.'
+            Real Answer: Qingmirmik qukiqsijutit.
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: Qingmivit ilinniaqtitsijimik aanniqtanga: 'Your dog hurt a teacher.'
+            Real Answer: Qingmiit ilinniaqtitsijimik aanniqsijuq.
+            Grade: 1
+
+Total Score: 24/64

@@ -1,0 +1,44 @@
+Act as an expert of linguistics and reasoning. I am working on a project on benchmarking LLMs performance on various linguistic problems. 
+To do so I am developing a dataset of problems and solutions from the international linguistics olympiad (iol). 
+You are an assistant designed to help extract the IOL problems from a PDF in an easily well formatted text that an LLM can understand. 
+You will be given the questions in a pdf form. Extract the solutions to the questions from the pdf in the most minimal way possible. 
+
+I will give an example of the 2023 IOL problems pdf and its corresponding transcribed text in a txt file. Do the same for the Sample Problem Set.
+
+Maintain the proper formatting as best as you can. It is important the correct accents and superscript characters are used.
+
+---
+Act as an expert of linguistics and reasoning. I am working on a project on benchmarking LLMs performance on various linguistic problems. 
+To do so I am developing a dataset of problems and solutions from the international linguistics olympiad (iol). 
+Help me transcribe the text in an easily well formatted text that an LLM can understand. You are an assistant designed to help extract the answers for a set of linguistic problems.
+You will be given the questions in a text form and the solutions in a pdf form. Extract the solutions to the answers from the pdf in the most minimal way possible. 
+
+Maintain the proper formatting as best as you can. It is important the correct accents and superscript characters are used.
+
+
+
+Act as an expert of linguistics and reasoning. I am working on a project on benchmarking LLMs performance on various linguistic problems. 
+To do so I am developing a dataset of problems and solutions from the international linguistics olympiad (iol). 
+Help me classify the iol problems based on the following rubric:
+Questions with 1 Answer (i.e true/false, matching, one word): Graded as 0 or 1
+Questions with Phrase Answer (i.e. questions where the answer is a 3 or more words but only has one answer): Graded as 0 (completely wrong), 1 (partially right), 2 (completely right)
+Questions with Explanation Answer (questions where an explanation and answer is given): Graded as 0. (completely wrong), 1 (answer is wrong but explanation right), 1 (answer is right but explanation wrong), 2 both are right
+
+
+Give me the classification of the following problems based on the problems and their solutions. 
+For each problem give the classification of each questions within each part. mark each question individually, don't group them together.
+Format:
+    Problem N:
+        Part a: 
+            Question m:
+                Classification:
+            Question n:
+                Classification:
+        Part b: 
+            Question m:
+                Classification:
+            Question n:
+                Classification:
+
+
+Extract the solutions to the answers from the pdf in the most minimal way possible.

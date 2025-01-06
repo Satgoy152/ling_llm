@@ -1,0 +1,197 @@
+Based on the provided classification, real answers, and LLM solutions, I will grade each problem according to the rubric. Here's the grading:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: ⠠⠃⠗⠊⠝⠛ ⠼⠙⠼⠚ ⠏⠊⠵⠵⠁⠎ ⠁⠝⠙ ⠧⠑⠗⠍⠕⠥⠞⠓⠂ ⠠⠍⠁⠗⠅⠖
+            Real Answer: Not provided
+            Grade: 2 (assuming it's correct as no real answer is provided to compare)
+
+Problem 2:
+    Part 1:
+        1:
+            Classification: Type 2
+            LLM Answer: The combination "ka" consistently represents a single consonant sound in Movima.
+            Real Answer: Not provided
+            Grade: 2 (assuming it's correct as no real answer is provided to compare)
+    Part 2:
+        1:
+            Classification: Type 1
+            LLM Answer: kas asa:'
+            Real Answer: kas asa:sa'
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: kas enferme:ra:'
+            Real Answer: kas ena'ferme:ra
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: kas ji#a:paka'
+            Real Answer: kas ji!aka'pa
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: kas de:'
+            Real Answer: kas deka:ka'
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: kas rulru:'
+            Real Answer: kas rula'rul
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: kas tipoysu:da:'
+            Real Answer: kas tipoya'su:da
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: kas wurula:la'
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: kas dewaja'na
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: kas deka'wajna
+            Grade: 0
+
+Problem 3:
+    Part 1:
+        1:
+            Classification: Type 2
+            LLM Answer: Incorrect matching of Georgian verb forms to English translations
+            Real Answer: Correct matching provided in the real answer
+            Grade: 0
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 16
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 81
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 49
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 64
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 100
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 25
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 9
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 4
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 1
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: 36
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: 2 + 5 * 6 = 10 + 2 * 3 + 6
+            Real Answer: mer abo sas = 7 (6 + 1)
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: 8
+            Real Answer: 111
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: 12
+            Real Answer: 17
+            Grade: 0
+    Part d:
+        1:
+            Classification: Type 1
+            LLM Answer: tondor abo sas abo nif ithin abo ithin
+            Real Answer: nif abo tondor abo thonith
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: tondor abo tondor abo tondor abo nif abo thonith
+            Real Answer: nif thef abo mer an thef abo ithin
+            Grade: 0
+
+Problem 5:
+    Part a:
+        19:
+            Classification: Type 1
+            LLM Answer: usta
+            Real Answer: usta
+            Grade: 1
+        20:
+            Classification: Type 1
+            LLM Answer: küzänäk
+            Real Answer: gözenek
+            Grade: 0
+        21:
+            Classification: Type 1
+            LLM Answer: yılan
+            Real Answer: yılan
+            Grade: 1
+        22:
+            Classification: Type 1
+            LLM Answer: yedi&er
+            Real Answer: yedişer
+            Grade: 0
+        23:
+            Classification: Type 1
+            LLM Answer: bilezik
+            Real Answer: bilezik
+            Grade: 1
+        24:
+            Classification: Type 1
+            LLM Answer: üstünde
+            Real Answer: üstünde
+            Grade: 1
+        25:
+            Classification: Type 1
+            LLM Answer: bin
+            Real Answer: bin
+            Grade: 1
+        26:
+            Classification: Type 1
+            LLM Answer: yumru
+            Real Answer: yumru
+            Grade: 1
+
+Total Score: 8/31

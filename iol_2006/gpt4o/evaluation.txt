@@ -1,0 +1,316 @@
+Based on the provided classification, LLM solutions, and real answers, here's the grading for each problem:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: "I came and the Indian called the bears."
+            Real Answer: I came and the Indians called the bears.
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: "The person killed you and called me."
+            Real Answer: The man killed you and called me.
+            Grade: 2
+        3:
+            Classification: Type 2
+            LLM Answer: "The person killed you and then called me."
+            Real Answer: The man killed you and he called me.
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: "You killed."
+            Real Answer: He killed you.
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: For the sentences provided, there are no additional translations needed beyond Assignment 1.
+            Real Answer: Whom did he kill? / Who killed him?
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: "Lakhota ki hokšila ki wičhakte čha matho ki hipi."
+            Real Answer: lakhota ki hokšita ki ktepi čha matho ki hi
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: "Yahi čha lakhota ki nikte."
+            Real Answer: yahi ną lakhota ki yakte
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: "Tuwa wačho he?"
+            Real Answer: tuwa wačho he
+            Grade: 2
+        4:
+            Classification: Type 2
+            LLM Answer: "Wićhaša ki hipi čha tuwa wičhakte."
+            Real Answer: wičhaša ki hipi čha tuwa wičhakte
+            Grade: 2
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: els bastaixos
+            Real Answer: els bastaixos
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: els troleibús
+            Real Answer: els troleibusos
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: els iris
+            Real Answer: els iris
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: els llaços
+            Real Answer: els llaços
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: els ònixs
+            Real Answer: els ònixs
+            Grade: 1
+        6:
+            Classification: Type 1
+            LLM Answer: les pelvis
+            Real Answer: les pelvis
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: els pisos
+            Real Answer: els pisos
+            Grade: 1
+        8:
+            Classification: Type 1
+            LLM Answer: els sequaços
+            Real Answer: els sequaços
+            Grade: 1
+        9:
+            Classification: Type 1
+            LLM Answer: les sequaçs
+            Real Answer: les sequaçs
+            Grade: 1
+        10:
+            Classification: Type 1
+            LLM Answer: les xeixos
+            Real Answer: les xeixs
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: (No answer provided)
+            Real Answer: (No answer provided)
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 3
+            LLM Answer: In Catalan, the ` (grave accent) and ´ (acute accent) marks indicate the stressed syllable in a word, and they can also denote vowel quality. Generally: - ` is used on the vowels a, e, and o to indicate an open vowel sound. - ´ is used on the vowels e and i to indicate a closed vowel sound.
+            Real Answer: The marks ` and ´ are used when the stress falls on a non-default syllable.
+            Grade: 1
+    Part c:
+        1:
+            Classification: Type 3
+            LLM Answer: In Catalan, if a word has no accent marks, the stress typically falls on the penultimate syllable if the word ends in a vowel, an -s, or an -n. If the word ends in any other consonant, the stress falls on the last syllable.
+            Real Answer: Without the marks, stress is penultimate if the word ends in -s, otherwise it is final.
+            Grade: 1
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: passion → poьm
+            Real Answer: passion → ka:m
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: be able → a:c
+            Real Answer: passion → a:c
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: suck (a breast) → noьm
+            Real Answer: suck → am
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: wait → ŋoьm
+            Real Answer: suck → cam
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: delta → cam
+            Real Answer: delta → piъm
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: hold in one's teeth → peьŋ
+            Real Answer: delta → poьm
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: lead, guide → aŋ
+            Real Answer: lead, guide → noьm
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: roast on a spit → caŋ
+            Real Answer: lead, guide → aŋ
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: inarticulately → am
+            Real Answer: inarticulately → ŋoьm
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: bar the way → piъm
+            Real Answer: inarticulately → peьŋ
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: turn around → ŋiъk
+            Real Answer: turn around → ŋiъk
+            Grade: 1
+        12:
+            Classification: Type 1
+            LLM Answer: have → ka:m
+            Real Answer: turn around → miъn
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: trim, rough-hew → miъn
+            Real Answer: trim, rough-hew → caŋ
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: poьŋ
+            Real Answer: kam
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: poьk
+            Real Answer: ca:m
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: ŋaŋ
+            Real Answer: ka:k
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: a:m
+            Real Answer: niъ:m
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: ka:m
+            Real Answer: ŋeьŋ
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: peьk
+            Real Answer: moьm
+            Grade: 0
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: "Your boy's money."
+            Real Answer: your son's money
+            Grade: 2
+        2:
+            Classification: Type 2
+            LLM Answer: "Thy leg of the stool."
+            Real Answer: thy stool leg
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: "Thy stool's leg."
+            Real Answer: thy stool's leg
+            Grade: 2
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: "b'ataŋi: wo:i"
+            Real Answer: b'ata wo:ni
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: "biŋi: nakta"
+            Real Answer: bu naktaŋiu
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: "bi azigaŋi: mo:ŋi:"
+            Real Answer: bi azigaŋi mo:ŋini
+            Grade: 1
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: Possible: "my udder"
+            Real Answer: Yes: 'my udder' (a cow speaking, shall we say, in a fairy-tale)
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: Possible: "your boy's leg"
+            Real Answer: Yes: 'your son's leg' (not his own, though, but perhaps a chicken's leg belonging to him)
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: Possible: "thy tail"
+            Real Answer: No ('my tail' would be si igi:)
+            Grade: 0
+    Part d:
+        1:
+            Classification: Type 3
+            LLM Answer: "My head skin." (Refers to the skin as a part of the head.)
+            Real Answer: 'my skin' (the skin of my body)
+            Grade: 1
+        2:
+            Classification: Type 3
+            LLM Answer: "My head's skin." (Refers to possession by the head.)
+            Real Answer: 'my skin' (e.g., an animal's skin belonging to me)
+            Grade: 1
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 3
+            LLM Answer: Translation: "The woman bought beer Mwangi." Error: The recipient (Mwangi) is missing the preposition for "for." Corrections: Mdala aguli Mwangi ugimbi. Mdala aguli ugimbi kwa Mwangi. Mdala aguli ugimbi kwa Mwangi. Mdala aguli Mwangi ugimbi kwa.
+            Real Answer: Mdala amguli ugimbi Mwangi.
+            Grade: 1
+        2:
+            Classification: Type 3
+            LLM Answer: Translation: "The woman bought Mwangi beer." Error: Incorrect order, "bought for" is not marked. Corrections: Mdala amguli ugimbi kwa Mwangi. Mdala amguli Mwangi ugimbi. Mdala amguli ugimbi kwa Mwangi. Mdala amguli Mwangi ugimbi kwa.
+            Real Answer: Mdala amguli ugimbi Mwangi.
+            Grade: 1
+        3:
+            Classification: Type 3
+            LLM Answer: Translation: "The woman bought beer Mwangi." Error: The recipient (Mwangi) is missing the preposition for "for." Corrections: Mdala amguli ugimbi kwa Mwangi. Mdala amguli Mwangi ugimbi. Mdala amguli ugimbi kwa Mwangi. Mdala amguli Mwangi ugimbi kwa.
+            Real Answer: Mdala amguli ugimbi Mwangi.
+            Grade: 1
+        4:
+            Classification: Type 3
+            LLM Answer: Translation: "Kamau bought grandmothers goats." Error: Missing "for" after "bought." Corrections: Kamau amaguli vabuya mene. Kamau amaguli mene kwa vabuya. Kamau amaguli vabuya mene kwa. Kamau amaguli mene vabuya.
+            Real Answer: Kamau avaguli mene vabuya.
+            Grade: 1
+        5:
+            Classification: Type 3
+            LLM Answer: Translation: "Kamau bought goats grandmothers." Error: Improper noun order, missing "for." Corrections: Kamau amaguli mene kwa vabuya. Kamau amaguli vabuya mene. Kamau amaguli mene kwa vabuya. Kamau amaguli vabuya mene kwa.
+            Real Answer: Kamau avaguli mene vabuya.
+            Grade: 1
+        6:
+            Classification: Type 3
+            LLM Answer: Translation: "Kamau bought grandmothers goats." Error: Missing "for" after "bought." Corrections: Kamau amaguli vabuya mene. Kamau amaguli mene kwa vabuya. Kamau amaguli vabuya mene kwa. Kamau amaguli mene vabuya.
+            Real Answer: Kamau avaguli mene vabuya.
+            Grade: 1
+
+Total Score: 32/87

@@ -1,0 +1,189 @@
+Based on the classification and rubric provided, I will grade each problem individually. Here's the grading for the given problems:
+
+Problem 2:
+    Part 1:
+        1:
+            Classification: Type 2
+            LLM Answer: The combination of two letters that always stands for a single specific consonant in Movima is "ch", which represents the sound /ʧ/.
+            Real Answer: The combination of two letters that always stands for a single specific consonant in Movima is "ch", which represents the sound /ʧ/.
+            Grade: 2
+    Part 2:
+        1:
+            Classification: Type 1
+            LLM Answer: kas a:na'
+            Real Answer: kas asa:sa'
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: kas enferme:rana'
+            Real Answer: kas ena'ferme:ra
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: kas ji#a'pa
+            Real Answer: kas ji!aka'pa
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: kas deka'
+            Real Answer: kas deka:ka'
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: kas rulrula'
+            Real Answer: kas rula'rul
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: kas tipoya'su:da
+            Real Answer: kas tipoya'su:da
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: kas wurula:la'
+            Real Answer: kas wurula:la'
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: kas dewaja'na
+            Real Answer: kas dewaja'na
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: kas deka'wajna
+            Real Answer: kas deka'wajna
+            Grade: 0
+
+Problem 3:
+    Part 1:
+        1:
+            Classification: Type 2
+            LLM Answer: The correct correspondences are provided as a list of Georgian verb forms and their English translations.
+            Real Answer: The correct correspondences are provided, matching the given information.
+            Grade: 1
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: 16
+            Real Answer: 16
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: 81
+            Real Answer: 81
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: 49
+            Real Answer: 49
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: 64
+            Real Answer: 64
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: 100
+            Real Answer: 100
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: 25
+            Real Answer: 25
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: 9
+            Real Answer: 9
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: 4
+            Real Answer: 4
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: 1
+            Real Answer: 1
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: 36
+            Real Answer: 36
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: mer abo sas = 7 (6 + 1), tondor abo mer abo sas = 18+6*2+x = 30+x
+            Real Answer: mer abo sas = 7 (6 + 1), tondor abo mer abo sas = 25 (18 + 6 + 1)
+            Grade: 1
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: 111
+            Real Answer: 111
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: 17
+            Real Answer: 17
+            Grade: 0
+    Part d:
+        1:
+            Classification: Type 1
+            LLM Answer: nif abo tondor abo thonith
+            Real Answer: nif abo tondor abo thonith
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: nif thef abo mer an thef abo ithin
+            Real Answer: nif mer abo mer an thef abo ithin
+            Grade: 0
+
+Problem 5:
+    Part a:
+        19:
+            Classification: Type 1
+            LLM Answer: usta
+            Real Answer: usta
+            Grade: 0
+        20:
+            Classification: Type 1
+            LLM Answer: gözenek
+            Real Answer: gözenek
+            Grade: 0
+        21:
+            Classification: Type 1
+            LLM Answer: yılan
+            Real Answer: yılan
+            Grade: 0
+        22:
+            Classification: Type 1
+            LLM Answer: yedişer
+            Real Answer: yedişer
+            Grade: 0
+        23:
+            Classification: Type 1
+            LLM Answer: bilezik
+            Real Answer: bilezik
+            Grade: 0
+        24:
+            Classification: Type 1
+            LLM Answer: üstünde
+            Real Answer: üstünde
+            Grade: 0
+        25:
+            Classification: Type 1
+            LLM Answer: bin
+            Real Answer: bin
+            Grade: 0
+        26:
+            Classification: Type 1
+            LLM Answer: yumru
+            Real Answer: yumru
+            Grade: 0
+
+Total Score: 27/31

@@ -1,0 +1,446 @@
+Prompt: As an expert in computational linguistics solve the following problems:
+
+Problem 2
+Ancient Greek
+
+Consider these phrases in Ancient Greek (in a Roman-based transcription) and their unordered English translations:
+
+Phrases:
+
+	A.	ho tōn hyiōn dulos
+	B.	hoi tōn dulōn cyrioi
+	C.	hoi tu emporu adelphoi
+	D.	hoi tōn onōn emporoi
+	E.	ho tu cyriu onos
+	F.	ho tu oicu cyrios
+	G.	ho tōn adelphōn oicos
+	H.	hoi tōn cyriōn hyioi
+
+Translations:
+
+	1.	the slave of the sons
+	2.	the masters of the slaves
+	3.	the brothers of the merchant
+	4.	the merchants of the donkeys
+	5.	the donkey of the master
+	6.	the master of the house
+	7.	the house of the brothers
+	8.	the sons of the masters
+a. Match the Ancient Greek phrase (A-H) with the corresponding English translation (1-8).
+
+b. Translate into Ancient Greek:
+a) the houses of the merchants
+b) the donkeys of the slave
+
+Problem by Todor Tchervenkov
+For the North American Computational Linguistics Olympiad 2007
+
+Problem 3
+Aragonese
+
+In the Iberian Peninsula, there are several languages, apart from Portuguese and Spanish (Castillan), that share the same Romance origin, such as Catalan, Galician, Mirandese, Asturian, Leonese, and Aragonese. Below is a list of words in Aragonese, their plural forms, and their translations:
+
+Singular	Plural	Translation
+valley	bal	bals
+stool	banquet	banquetz
+hole	clot	clotz
+stone	cantal	cantals
+awake	concordau	____________
+chocolate	chicolat	____________
+union	chunta	____________
+unhanded	deixau	deixaus
+eclipse	eclix	____________
+cicada	ferfet	____________
+character	personache	personaches
+fish	peix	peixes
+
+a. Write down the missing words.
+
+Problem by Bruno L’Astorina
+For the Brazilian Linguistics Olympiad 2016
+
+
+Problem 5
+Lalana Chinantec
+
+Lalana Chinantec is a language spoken by approximately 10,000 people in the Oaxaca region of Mexico.
+In the following orthography a colon (:) marks a long vowel, and the Ɂ symbol marks a glottal stop (like the sound in the middle of uh-oh).
+
+Sentences:
+
+	1.	kalakwa: kwɨ: li:ʔ – The beautiful corn grew.
+	2.	mɨlaʤö mo:h kya – My pineapples have turned out well.
+	3.	li:ʔ kalane kwɨ: kwa: kya – My tall corn yellowed beautifully.
+	4.	ʤö kalaro:h mo:h ne kya – My yellow pineapples ripened well.
+	5.	kalaʤö kwɨ: – The corn turned out well.
+	6.	mɨlakwa: kwɨ: – The corn has grown.
+
+a. What does the word li:ʔ mean?
+b. What does the word ro:h mean?
+c. Translate into Lalana Chinantec:
+1) The good pineapples became beautiful.
+2) My ripe corn has yellowed well.
+d.	Translate the following into English:
+1) mɨlaro:h kwɨ: ne
+2) li:ʔ kalakwa: kwɨ:
+
+Problem by Rachel Nordlinger
+For the Australian Computational and Linguistics Olympiad 2008
+
+Problem 6
+Molistic
+
+Sentences:
+
+	1.	Jane is molistic and slatty.
+	2.	Jennifer is cluvious and brastic.
+	3.	Molly and Kyle are slatty but danty.
+	4.	The teacher is danty and cloovy.
+	5.	Mary is blitty but cloovy.
+	6.	Jeremiah is not only sloshful but also weasy.
+	7.	Even though frumsy, Jim is sloshful.
+	8.	Strungy and struffy, Diane was a pleasure to watch.
+	9.	Easy though weasy, John is strungy.
+	10.	Carla is blitty but struffy.
+	11.	The salespeople were cluvious and not slatty.
+
+Questions:
+
+a. Which of the following would you be likely to hear?
+
+a) Meredith is blitty and brastic.
+b) The singer was not only molistic but also cluvious.
+c) May found a dog that was danty but sloshful.
+	
+b.	What quality or qualities would you be looking for in a person?
+
+a) blitty
+b) weasy
+c) sloshful
+d) frumsy
+
+Problem by Dragomir Radev
+For the North American Computational Linguistics Olympiad 2007
+
+Problem 7
+Persian
+
+Phrases:
+
+	1.	gorbe zir-e raxtexāb – The cat under the bed
+	2.	xåne pāin-e kuh – The house under the mountain
+	3.	čahārpāye zir-e miz – The stool under the table
+	4.	ğāyeğ zir-e pol – The boat under the bridge
+	5.	amānat pāin-e dar – The package under the door
+	6.	šahr zir-e āftāb – The city under the sun
+	7.	nāme zir-e ketāb – The letter under the book
+	8.	ketāb pāin-e komod – The book on the lowest shelf in the bookcase
+
+Questions:
+
+a. Translate into English:
+1) čahārpāye pāin-e miz
+2) ketāb zir-e komod
+
+b.	Fill in the gaps in these English to Persian translations:
+1) The stone under the water sang ______ āb
+2) The box under the tree ______ deraxt
+
+Fill the gaps. If you think that some of them can be filled in more than one way, give
+all possible answers. Explain your solution.
+
+Note: ā, å, š, č, ğ, ' represent specific Persian sounds.
+
+Problem by Yulia Mazurova
+For the Moscow Traditional Olympiad of Linguistics 2001/2002
+
+Problem 8
+
+Several phrases have been translated into Kazakh (written in Roman script here), but the translations are given in random order. Some of the words are missing.
+
+Phrase	Translation
+a. one and five	    i. ____ ben elüw
+b. one and eight	ii. bir men bes
+c. three and two	iii. bir _ segiz
+d. four and seven	iv. elüw eki men on
+e. seven and fifty	v. ____ men elüw
+f. eight and fifty	vi. otız ben ____
+g. thirteen and thirty	vii. tört pen žeti
+h. thirty and two	viii. üš ____ eki
+i. fifty-two and ten	ix. on üš pen otız
+
+(a) Match each phrase with its correct translation and supply the missing words.
+
+(b) Translate into Kazakh:
+
+	1.	five and thirty-eight
+	2.	ten and four
+	3.	seven and fifty-three
+	4.	thirty-eight and five
+
+Note: i, ö, ü, ı are specific Kazakh vowels. The letter ž has the sound of “s” in the word usual.
+
+! Kazakh language belongs to the Central Turkic groups of languages. It is the official language and
+principle native language of the Republic of Kazakhstan. It is spoken by about 6,5 million people
+in Kazakhstan and about 1,5 million people southern Siberia, northwestern China and
+northwestern Mongolia.
+
+Problem 9
+
+Japanese Chess (Shōgi ), played on a board of size 9 by 9 and with a total of 40 men, is the most
+popular intellectual game in contemporary Japan, where it entertains between 10 and 20 million
+people. But between the 8th and 18th century many other variants of the game were invented in that
+country, some on smaller and some on larger boards.
+
+The largest of all Japanese chess games (and generally the largest chess game in history) is
+Taikyoku Shōgi (more or less “Ultimate Chess”), in which the board is of size 36 by 36 (or 1296
+squares in all) and every player has in the beginning an army of 402 men of 208 different types.
+
+This is a table which contains the names of some of the men in Taikyoku Shōgi (in Japanese and
+in English translation), as well as the name of the man to which each of them promotes upon
+reaching one of the farthest 11 ranks of the board:
+
+Initial value	             Promoted value
+1. ______	“Running Stag”  ⟹ honroku ______
+2. ______	____________    ⟹ tōshō “Sword General”
+3. gyūhei “Ox Soldier”	    ⟹ ______ ____________
+4. ______	“Right General” ⟹ ugun ____________
+5. ______	“Ox General”    ⟹ hongyū ____________
+6. kyūhei “Bow Soldier”	    ⟹ ______ “Bow General”
+7. kisho “Wood General”	    ⟹ ______ ____________
+8. dohei “Crossbow Soldier”	⟹ ______ ____________
+9. ______	____________    ⟹ ______ “Dashing Horse”
+10. ______	“Left Chariot”  ⟹ ______ ____________
+11. ______	“Horse Soldier” ⟹ sōba ____________
+12. sōyū “Running Bear”	    ⟹ ______ “Dashing Bear”
+13. tonshō “Pig General”	⟹ honton ____________
+14. tesshō	 ____________   ⟹ hakuzō “White Elephant”
+15. ______   ____________   ⟹ sagun “Left Army”
+16. usha	 ____________   ⟹ utessha “Right Iron Chariot”
+17. ______	 _____________  ⟹ honrō “Dashing Wolf”
+18. sekishō “Stone General”	⟹ ______ “White Elephant”
+
+Note: A bar above a vowel letter indicates length.
+
+(a) Fill the gaps.
+
+Note: A bar above a vowel letter indicates length.
+
+
+Problem 10
+
+The Tupi-Guarani language family, widespread in the lowlands of South America, was very
+important in the history of the colonization of the continent. Among them, the most famous
+languages are Tupinambá (old Tupi), spoken along the Portuguese coast in the colonial times, and
+Guarani, still spoken today in southern Brazil, Argentina, Uruguay and Paraguay (being co-official
+in the later). The table below shows some words in Tupinambá, their translations 
+
+| English       | Tupinambá     | Guaraní Mbya |
+|---------------|---------------|--------------|
+| rock          | itá           | itá          |
+| soil          | ybý           | yvý          |
+| water         | y             | y            |
+| black         | un            | ũ            |
+| head          | akanga        | akã          |
+| to bring      | erur          | eru          |
+| to hear       | endub         | endu         |
+| to experiment | sa'ang        | ha'ã         |
+| you want      | erepotár      | erepotá      |
+| to heal       | pueráb        | kuerá        |
+| I sleep       | aker          | aké          |
+| boss          | ubixab        | ______       |
+| rib           | arukang       | ______       |
+| to overcome   | opuan         | ______       |
+| peanut        | mandubi       | ______       |
+
+| English       | Tupinambá     | Guaraní Mbya |
+|---------------|---------------|--------------|
+| to beat       | petek         | ______       |
+| to hear       | senub         | ______       |
+| red           | pyranga       | ______       |
+| lizard        | teju          | ______       |
+| I say         | a'é           | ______       |
+| beautiful     | porang        | ______       |
+| mouth         | ______        | juru         |
+| half          | ______        | ku'a         |
+| wood          | ______        | yvyrá        |
+| you stay      | ______        | erepytá      |
+| high          | ______        | yvaté        |
+| ______        | ______        | ereké        |
+| ______        | jaguar        | ______       |
+| ______        | ______        | potá         |
+
+This transcription mirrors the table format and structure seen in the provided image.
+
+(a) Fill in the blank spaces.
+
+(b) Match the cities in Brazil of Tupi origin with their meanings:
+
+	1.	Ibiúna (SP)
+	2.	Ibiporanga (SP)
+	3.	Iúna (ES)
+	4.	Tijuípe (BA)
+	5.	Pindamonhangaba (SP)
+	6.	Jacarecoara (MA)
+	7.	Ibitinga (SP)
+	8.	Jericoaquara (CE)
+	9.	Ipiranga (PR)
+	10.	Tijuaçu (BA)
+	11.	Itaipú (PR)
+	12.	Itatinga (SP)
+	13.	Itauçu (GO)
+	14.	Pirajuí (SP)
+	15.	Iguaçu (PR)
+
+___ (a) white soil
+___ (b) great river
+___ (c) place for producing fishing hooks
+___ (d) lizard river
+___ (e) red river
+___ (f) turtle’s burrow
+___ (g) sound the water does in the rock
+___ (h) great rock
+___ (i) alligator’s/yacare’s burrow
+___ (j) black soil
+___ (k) black river
+___ (l) fish of the yellow river
+___ (m) beautiful land
+___ (n) big lizard
+___ (o) white rock
+
+Note: y represents the closed central unrounded vowel [ɨ]. b represents the bilabial fricative consonant [β]. ‘ representes the glottal pause [ʔ], like the pause in uh-oh.
+
+Problem 12: Basque Numbers
+
+Several multiplications have been written out in Basque. There are gaps in the last two lines.
+
+	•	bi × bi = lau
+	•	bi × bost = hamar
+	•	bi × hamar = hogei
+	•	hiru × bost = hamabost
+	•	hiru × hamar = hogeita hamar
+	•	bost × bost = hogeita bost
+	•	bost × zazpi = hogeita hama
+	•	bost zazpi × bederatzi = hirurogeita hiru
+	•	zazpi × hamar = hirurogeita hamar
+	•	lau × bost = ____________
+	•	__________ × hamar = laurogeita hamar
+
+a. Fill in the gaps.
+
+b. Write in figures:
+	•	(1) laurogeita hamahiru = ____
+	•	(2) hirurogei = ____
+
+c.	Write out in Basque:
+	•	(1) 39 = ____
+	•	(2) 77 = ____
+	•	(3) 80 = ____
+
+
+Note: The letter s has the sound of English sh, z of s, tz of ts in cats. The letter h is mute. ! Basque is spoken by 500,000 to 600,000 people in France and Spain and by about 170,000 people in South America. It has not been proven to be related to any other language.
+
+
+Problem 14: Icelandic Kinship
+
+Guðrún Eriksdóttir Hrafnhildardóttir and Jakob Christiansson had three kids, from which they are very proud, for their successes and for all of them have given them grandsons or granddaughters. In order to celebrate their 70th wedding anniversary, the long-lived couple had a party with all their descendants: sons and daughters, grandsons and granddaughters, great-grandsons and great-granddaughters. Naturally, some of their sons-in-law and daugthers-in-law, as well as grandsons-in-law and granddaughters-in-law, were also invited. Here is the list of all the people in the party:
+
+Here is the list of all the people in the party:
+
+	•	Christian Kristínsson
+	•	Daniel Guðrúnarson Jakobsson
+	•	Daniel Steinunnarson Đorarinssonar
+	•	Eva Emilsdóttir Kvaran
+	•	Gunnar Gunnarsson
+	•	Hrafn Kristínsson Viktorsson
+	•	Ingimundur Sigurðarson Bergmann
+	•	Jakob Đorarinsson
+	•	Jón Oddsson Bergmann
+	•	Kristín Guðrúnardóttir Aronsdóttir
+	•	Margret Steinunnardóttir Jakobsdóttir
+	•	Ragnheiður Jakobsdóttir
+	•	Rakel Ragnheiðardóttir Bergmann
+	•	Robert Bergmann Gunnarsson
+	•	Sara Jakobs Đorarinssonar
+	•	Sigurður Jóns Bergmann
+	•	Stefan Gunnarsson Gunnarssonar
+	•	Steinunn Jakobsdóttir
+	•	Viktor Danielsson Jakobssonar
+	•	Viktoría Viktorsdóttir
+
+Questions:
+
+a.	Among the participants, who is the older descendant of an immigrant?
+b.	Which of the sons/daughters of Guðrún and Jakob has no grandsons/granddaughters?
+c.	How many kids had Viktor?
+d.	How many kids had Steinum?
+e.	Which of the sons/daughters of Rakel didn’t inherit any of her surnames?
+f.	Write five possibilities of name and surname for the son that Eva and Christian are waiting, knowing that his first name will be the same as the father of the pop singer Björk Guðmundsdóttir.
+g.	Steinunn liked very much his grandmother (mother of her mother), so that she gave her name to the daughter she had with Björn Annasson, before she married with her present husband. Give two possibilities for the name of this girl.
+
+Note: j is pronounced as y in you; Đ and ð are pronounced as th in this.
+
+Problem 16: Guaraní Verbs
+
+The following Guaraní verb forms are listed along with their English translations:
+
+Guaraní	    Translation
+japurahei	We are singing
+noñe’e͂i	He is not talking
+nohyvykõiri	He is not enjoying
+okororõ	He is crying
+ombokapu	He is shooting
+ndajajupirima	We were not waking up
+pemomaitei	You are greeting
+ahyvykõima	I was enjoying
+ndokarumo’ãi	He will not be eating
+añe’e͂ta	I will be talking
+ndapevo’oima	You were not taking
+namomaiteiri	I am not greeting
+napekororõmo’ãi	You will not be crying
+
+Questions:
+
+a.	Translate into English:
+
+(1) akaruma
+(2) ojupita
+(3) ndavo’omo’ãi
+(4) napekororõi
+(5) ndapyhyima
+
+b.	Translate into Guaraní:
+
+(1) You are not shooting
+(2) He is not singing
+(3) We will be eating
+(4) I will not be singing
+
+Notes: “you” is always plural in the sentences above. A squiggle over a vowel indicates that it is
+nasal (pronounced partly through the nose). The letter ñ is pronounced like the sound in the
+middle of “piñata” or “onion”. The letter y is pronounced like the “u” in “cut”. The letter j and the
+apostrophe (‘) are specific consonants. Guaraní is one of the official languages (along with
+Spanish) of Paraguay, where it is spoken by 94% of the population.
+
+Problem 18: Toki Pona
+
+Toki Pona is a constructed language, created in 2011 by the Canadian linguist Sonja Elen Kisa.
+Her aim was the language to be a minimal language, undervaluing the empty and abstract
+communication such as the ones of politicians and bureaucrats and pointing more directly to the
+concrete human life experiences. Therefore, the language makes use of only 123 words, with roots
+coming from different language families.
+What follows is a list of some words and expressions in Toki Pona and, out of order, their English
+translations:
+
+kiwen suno jelo, tomo tawa telo, jan Powi, ilo suno, telo jelo, jan ilo, jan toki, supa lape,
+supa moku, ma tomo, wile moku, tawa, nasin linja, wile pona, telo kiwen, lipu toki, wile lawa,
+linja lawa, tomo moku, linja kiwen
+
+prophet, well-intentioned, hair, lantern, ice, robot, boat, thorn, hungry, Boris, book,
+piss, city, bed, orthodoxy, movement, restaurant, dominant, dinner table, gold
+
+Questions:
+
+a.	Do the right associations between the words and translations.
+b.	Give the translation of all the simple Toki Pona words used in the compounded words and expressions of this problem.
+c.	How would you translate literally the name of the language?

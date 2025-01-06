@@ -1,0 +1,286 @@
+Problem 1 Solution
+
+Assignment 1: Translate into English
+
+First, let’s analyze the given sentences to understand the pronouns, verbs, and grammatical structure.
+
+Given Sentences and Observations:
+
+	1.	Atoro kêt - You are not dancing
+	•	Atoro: You are dancing
+	•	kêt: not
+	2.	Ba mɨ mɨ anhê - We are decorating you guys
+	•	Ba mɨ: We
+	•	mɨ: you guys (object)
+	•	anhê: decorate
+	3.	Ba rê - I am swimming
+	•	Ba: I
+	•	rê: swim
+	4.	Ga iku - You are devouring me
+	•	Ga: You
+	•	iku: devouring me
+	5.	Ga mɨ to - You guys are dancing
+	•	Ga mɨ: You guys
+	•	to: dance
+	6.	Ijɨ mɨ akuru kêt - I am not devouring you guys
+	•	Ijɨ: I
+	•	mɨ: you guys
+	•	akuru: devouring
+	•	kêt: not
+	7.	Mɨ ajɨ inhêrê kêt - You guys are not decorating me
+	•	Mɨ: You guys
+	•	ajɨ: me (object)
+	•	inhêrê: decorate
+	•	kêt: not
+	8.	Mɨ irêrê kêt - We are not swimming
+	•	Mɨ: We
+	•	irêrê: swim
+	•	kêt: not
+
+Translating the Sentences:
+
+	1.	Aje ikuru kêt
+	•	Aje: He/She
+	•	ikuru: devouring them
+	•	kêt: not
+Translation:
+“He/She is not devouring them.”
+
+	2.	Ba mɨ aku
+	•	Ba mɨ: We
+	•	aku: devour you (singular or plural)
+Translation:
+“We are devouring you.”
+
+	3.	Irêrê kêt
+	•	Irêrê: They are swimming
+	•	kêt: not
+Translation:
+“They are not swimming.”
+
+Assignment 2: Translate into Kayapo
+
+	1.	You guys are not devouring us
+	•	Subject: You guys - Ga mɨ
+	•	Object: us - injê
+	•	Verb: devouring - akiri
+	•	Negative Marker: kêt
+Kayapo Translation:
+“Ga mɨ injê akiri kêt.”
+
+	2.	We are not decorating you guys
+	•	Subject: We - Ba mɨ
+	•	Object: you guys - mɨ
+	•	Verb: decorating - anhê
+	•	Negative Marker: kêt
+Kayapo Translation:
+“Ba mɨ mɨ anhê kêt.”
+
+	3.	We are dancing
+	•	Subject: We - Ba mɨ
+	•	Verb: dancing - to
+Kayapo Translation:
+“Ba mɨ to.”
+
+	4.	I am devouring you
+	•	Subject: I - Ba
+	•	Verb: devouring - aku
+Kayapo Translation:
+“Ba aku.”
+
+Problem 1 Complete.
+
+Problem 2 Solution
+
+Assignment: Identify the Incorrect Titles and Provide Correct Translations
+
+Titles That Did Not Correspond to the Contents After Translation:
+
+	1.	Title 3: Insanitariness in Brobdingnag Threatens Cholera Outbreak.
+	2.	Title 6: Population Crisis in Lilliput Threatens Tax Reform.
+	3.	Title 11: Global Cooling Threatens Food Shortages.
+
+Explanation:
+
+The confusion arises due to the ambiguous use of the word “threatens” in English. In these titles, “threatens” is intended to mean that the first noun may cause the second noun (i.e., cause leads to effect). However, the translator may have misinterpreted this, leading to incorrect translations where the cause and effect are reversed.
+
+Correct Translations:
+
+	1.	Title 3 Corrected:
+	•	Correct Translation: Insanitariness in Brobdingnag Raises Risk of Cholera Outbreak.
+	•	Explanation: Clarifies that insanitariness may lead to a cholera outbreak.
+	2.	Title 6 Corrected:
+	•	Correct Translation: Population Crisis in Lilliput Jeopardizes Tax Reform.
+	•	Explanation: Indicates that the population crisis may hinder tax reform efforts.
+	3.	Title 11 Corrected:
+	•	Correct Translation: Global Cooling May Cause Food Shortages.
+	•	Explanation: Specifies that global cooling could lead to shortages of food.
+
+Explanation of the Solution:
+
+	•	Ambiguity of “Threatens”: The word “threatens” can imply that either the subject is at risk or that the subject poses a risk to something else. This can lead to misinterpretation when translating, especially if the target language handles causality differently.
+	•	Cause and Effect Reversal: In the mistranslations, the translator may have mistakenly reversed the cause and effect, leading to titles that did not match the content of the articles.
+	•	Clarification in Translation: By rephrasing the titles to clearly indicate the cause and effect relationship, the translations align correctly with the articles’ contents.
+
+Problem 2 Complete.
+
+Problem 3 Solution
+
+Assignment 1: Identify the Latin Word That Never Contained the dh Sound
+
+Given Latin Words and Their English Translations:
+
+	1.	barba - beard
+	2.	dividit - he divides
+	3.	fumus - smoke
+	4.	fracas - sediment
+	5.	fovere - to heat
+	6.	mandere - to chew
+	7.	verbum - word
+	8.	vidua - widow
+	9.	mordax - biting
+	10.	glabra - hairless
+	11.	falx - sickle
+	12.	rubrica - red paint
+	13.	mediocris - moderate
+	14.	fingo - I sculpt
+
+Analysis:
+
+	•	Words Derived from PIE Roots Containing dh:
+	•	barba (beard): From PIE bʰardʰeh₂.
+	•	verbum (word): From PIE werdʰh₁o-, containing dh.
+	•	vidua (widow): From PIE widʰewā, containing dh.
+	•	rubrica (red paint): From PIE h₁rewdʰ-, containing dh.
+	•	mediocris (moderate): From PIE medʰyo-, containing dh.
+	•	fovere (to heat): From PIE dʰegʷʰ-, containing dh.
+	•	falx (sickle): From PIE dʰalk-, containing dh.
+	•	fingo (I sculpt): From PIE dʰeygʷʰ-, containing dh.
+	•	mandere (to chew): From PIE mendh-, containing dh.
+	•	Word That Never Contained dh:
+	•	mordax (biting): From PIE merd-, meaning “to bite,” which does not contain dh.
+
+Answer:
+
+The Latin word mordax is the one that never contained the dh sound.
+
+Assignment 2: Identify Words That Never Contained the dh Sound
+
+Additional Latin Words:
+
+	1.	brevis - short
+	2.	gurdus - silly
+	3.	frigus - cold
+	4.	unda - wave
+	5.	combrutum - reed
+	6.	debeo - I owe
+
+Analysis:
+
+	•	Words Without dh in Their Roots:
+	•	brevis (short): From PIE mreǵʰu-; may contain gʰ, but not dh.
+	•	frigus (cold): From PIE sriHgʷos; does not contain dh.
+	•	unda (wave): From PIE wódr̥; related to “water,” no dh.
+	•	gurdus (silly): Possibly of non-Indo-European origin; no dh.
+	•	combrutum (reed): Uncertain etymology; cannot confirm presence of dh.
+	•	debeo (I owe): From de (from) + habeo (have); habeo from PIE gʰabʰ-; does not contain dh.
+
+Answer:
+
+The words frigus, unda, gurdus, and debeo are sure to have never contained the dh sound because their roots do not include it.
+
+Problem 3 Complete.
+
+Problem 4 Solution
+
+Assignment 1: Match Lakhota Words with Their Translations
+
+Given Lakhota Words:
+
+	1.	k’ečhí
+	2.	k’ézi
+	3.	phešniža
+	4.	šuza
+	5.	xuǧa
+
+Translations (Misarranged):
+
+	•	It sparks
+	•	It is fractured
+	•	The surface is in a scratched condition
+	•	It has a slight bruise
+	•	The surface is in a scraped condition
+
+Matching:
+
+	1.	k’ečhí - It is fractured
+	•	Explanation: Similar to k’ezí, and k’ often indicates an action involving breaking or sudden change.
+	2.	k’ézi - It sparks
+	•	Explanation: The k’ with ezi suggests a sudden, sharp action like a spark.
+	3.	phešniža - The surface is in a scraped condition
+	•	Explanation: pheš- relates to scraping, and -niža indicates a state or condition.
+	4.	šuza - It has a slight bruise
+	•	Explanation: Similar to šuža (it is badly bruised), but šuza indicates a lesser degree.
+	5.	xuǧa - The surface is in a scratched condition
+	•	Explanation: The x (pronounced like h) with uǧa suggests a condition of scratching.
+
+Assignment 2: Translate into Lakhota
+
+	1.	A thin liquid is being squeezed out
+	•	Translation: šli
+	•	Explanation: šli means a liquid is being squeezed out; context determines the thickness.
+	2.	It is soft and movable (e.g., an enlarged gland under the skin)
+	•	Translation: ǧuǧa
+	•	Explanation: Based on patterns, ǧuǧa may indicate softness and mobility.
+	3.	It is red hot
+	•	Translation: ží
+	•	Explanation: ží means “it is red”; contextually, it can imply “red hot.”
+	4.	It is semi-hard and movable (e.g., a cartilage)
+	•	Translation: xuǧa
+	•	Explanation: Indicates a state between hard and soft.
+	5.	It is branching into several directions
+	•	Translation: žata
+	•	Explanation: žata means “it forks”; extending to multiple branches.
+
+Assignment 3: Explain the Meaning of the Word ží
+
+Explanation:
+
+The word ží in Lakhota means “it is red.” It describes the color red and can be used to indicate something that is red hot.
+
+Problem 4 Complete.
+
+Problem 5 Solution
+
+Assignment: Fill in the Gaps in the Chuvash Verbs
+
+Given Patterns:
+
+	•	-n suffix: Indicates intransitive or passive verbs.
+	•	-t, -tar, -ter suffixes: Indicate causative verbs.
+
+Filled Gaps:
+
+	1.	aptrat - to torment (Causative of aptra - to suffer)
+	2.	çit - to reach
+çiter - to lead (Causative form)
+	3.	šühen - to be rinsed (Intransitive of šühe - to rinse)
+	4.	hupǝn - to be closed (Intransitive)
+hup - to close (Transitive)
+	5.	kaç - to move
+kaçar - to transport (Causative form)
+	6.	kuč - to migrate
+kučar - to resettle (Causative form)
+	7.	ük - to fall
+üker - to drop (Causative form)
+	8.	vǝren - to enter (Intransitive)
+Explanation: Based on patterns, vǝren is likely “to enter.”
+
+Explanation:
+
+	•	Causative Formation: Adding -t, -tar, or -ter to a verb forms a causative verb (e.g., amant from aman).
+	•	Intransitive Formation: Adding -n forms an intransitive or passive verb (e.g., hurǝn from hur).
+
+Problem 5 Complete.
+
+Good luck with your studies in computational linguistics! If you have any further questions, feel free to ask.

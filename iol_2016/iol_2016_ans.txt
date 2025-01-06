@@ -1,0 +1,115 @@
+### Problem 1: Directions
+#### Answers:
+1. `Lamaoä’ dai’ di Palempang` — In Kahangang hamlet
+2. `Lamaoä’ dai’ di Palempang` — In Kombeng hamlet
+3. `Lamaoä’ bete’ di Bulung` — In Kota hamlet
+4. `Lamaoä’ sau di Sohongang` — In Kota hamlet
+5. `Lamaoä’ naung di Bulung` — In Palempang hamlet
+6. `Lamaoä’ sau di Kota` — In Palempang hamlet
+7. `Lamaoä’ naung di Pahihuang` — In Palempang hamlet
+8. `Lamaoä’ tama di Kota` — In Bulung hamlet
+9. `Lamaoä’ naung di Pikung` — In Bulung hamlet
+10. `Lamaoä’ pano di Kota` — In Panampo hamlet
+11. `Lamaoä’ bete’ di Bulung` — In Pikung hamlet
+12. `Lamaoä’ tama di Kahangang` — In Pikung hamlet
+13. `Lamaoä’ dai’ di Panampo` — In Pikung hamlet
+14. `Lamaoä’ bete’ di Kahangang` — In Tamonseng hamlet
+15. `Lamaoä’ dai’ di Palempang` — In Tamonseng hamlet
+
+---
+
+### Problem 2: Writing Systems
+#### Answers:
+- **(a)**
+  1. `runtiyas` — deer
+  2. `patis` — foot
+  3. `harnisas` — fortress
+  4. `iziyanta` — they made
+  5. `turpis` — bread
+  6. `tarhunzas` — thunder
+  7. `hawis` — sheep
+  8. `sanawas` — good
+  9. `nimuwizas` — son
+  10. `zitis` — man
+  11. `piyanti` — they give
+  12. `hantawatis` — king
+  13. `istaris` — hand
+
+- **(b)**
+  1. `tyis` — thunder (tarhunzas)
+  2. `f4_` — son (nimuwizas)
+
+- **(c)**
+  1. `´` — ta
+  2. `%` — king (hantawatis)
+  3. `W` — wa, wi
+  4. `t` — ta
+  5. `s` — s(a)
+  6. `T` — ti, foot (patis)
+  7. `5` — zi, man (zitis)
+
+---
+
+### Problem 3: Syntax and Grammar
+#### Answers:
+- **(a)**
+  1. `magasi argi ajomirra.` — The thieves are striking us.
+  2. `ay kanarriːg baːbki alletirsi.` — I repaired the door for the neighbour.
+  3. `hanu tirtiːg elirsu.` — The donkey found the owners.
+  4. `tirti argi kamgi deːccirsa.` — The owners gave us the camel.
+  5. `ay darbadki bijaːndi.` — I will buy the chicken.
+
+- **(b)**
+  1. `kanarriːcci tirtki beyyeːg atirra.` — The neighbours are giving the necklace to the owner.
+  2. `jahal argi walgi jaːndeːccirsu.` — The young man bought the dog for us.
+  3. `ar mangi bimaːgru.` — We will steal him.
+  4. `tirti magasiːg jomirsa.` — The owners struck the thieves.
+  5. `wali sarkaːygi darbadiːg eltirsa.` — The dogs found the chickens for the coward.
+
+---
+
+### Problem 4: Word Formation and Meaning
+#### Answers:
+- **(a)**
+  1. `gu-na vaala` — water-possessor canoe (canoe)
+  2. `ka’ik` — picture/shadow
+  3. `ka’ik-gu` — picture+water (mirror)
+  4. `kla-wun` — to get-1st person sg (I got)
+  5. `laavu` — banana
+  6. `laavu-ga` — banana+leaves (book)
+  7. `ni’bu` — ground, land
+  8. `ni’bu-na vaala` — ground, land-possessor canoe (car)
+  9. `nya-ka’ik` — sun+picture (watch)
+  10. `vi` — spear
+  11. `vi’-wun` — to see-1st person sg (I saw)
+  12. `walini’ba-na bâk` — white people-possessor pig (cow)
+  13. `walini’ba-na gu` — white people-possessor water (carbonated beverage, alcohol)
+  14. `walini’ba-na vi` — white people-possessor spear (rifle)
+
+- **(b)**
+  1. `vaala` — canoe
+  2. `gu` — water
+  3. `vi’` — to see
+
+- **(c)**
+  1. `pig` — bâk
+  2. `banana leaves` ≡ `book` — laavuga (due to similarity of shape and material)
+  3. `sun` — nya
+  4. `white people` — walini’ba
+
+---
+
+### Problem 5: Morphological Rules
+#### Answers:
+- **(a)**
+  1. `utnhantxi` — is it in my house?
+  2. `yapp”psa` — his field too
+  3. `yapup”psa` — through the field too
+
+- **(b)**
+  1. `qaqsa` — our cliff
+  2. `chushumna` — in your corner
+  3. `chushmanpsa` — in your corner too
+  4. `chushumt”psa` — from your corner too
+  5. `aq”it”txi` — is it from the cave?
+  6. `utatxi` — is it the house?

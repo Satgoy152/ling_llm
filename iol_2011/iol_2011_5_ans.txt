@@ -1,0 +1,44 @@
+---
+
+### Problem 5: Barcode Structure
+#### Rules:
+1. Patterns of bars:
+   - `•◦•` (at both ends)
+   - `◦•◦•◦` (in the middle)
+2. Each digit is shown as four bars of widths 1–4, with a total width of 7.
+3. Three codes for each digit:
+   - R (right)
+   - A (left)
+   - B (left)
+
+#### Codes:
+| Digit | A     | B     | R     |
+|-------|-------|-------|-------|
+| 0     | 3211  | 1123  | 3211  |
+| 1     | 2221  | 1222  | 2221  |
+| 2     | 2122  | 2212  | 2122  |
+| 3     | 1411  | 1141  | 1411  |
+| 4     | 1132  | 2311  | 1132  |
+| 5     | 1231  | 1321  | 1231  |
+| 6     | 1114  | 4111  | 1114  |
+| 7     | 1312  | 2131  | 1312  |
+| 8     | 1213  | 3121  | 1213  |
+| 9     | 3112  | 2113  | 3112  |
+| X     | ——    | ——    | ——    |
+
+#### (a) Translations:
+1. `(E);`
+2. `G, checksum = 2;`
+3. `C;`
+4. `D;`
+5. `A, Germany;`
+6. `I;`
+7. `H, cost = 4 euros and 74 cents;`
+8. `B, full code = 7-317442-030049;`
+9. `F.`
+
+#### (b) —
+
+#### (c) This barcode is upside down (it starts with a B, not with an A), so it must be turned over and written backwards.
+
+- Norway = 70, full code = `7-022070-000035`.

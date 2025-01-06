@@ -1,0 +1,142 @@
+### Problem 1 Solutions
+
+(a) Other translation: I give him to you_{pl}.
+
+(b) Translations into English:
+10. ašʼəntʷən — He gives him to us.
+11. səŝʷtʷan — You_{pl} give him to me.
+12. šʼəwənatʷan — They give us to you_{sg}.
+
+(c) Translations into Ubykh:
+13. They give you_{pl} to me — ŝʷəsənatʷan.
+14. You_{pl} give him to me — asəŝʷtʷan.
+15. You_{sg} give us to him — šʼəwtʷan.
+16. We give you_{sg} to them — wašʼtʷən.
+17. He gives them to us — ašʼəntʷan.
+
+### Problem 2 Solutions
+
+(a) Correspondences:
+1. achánnàaka — G. it leans against something
+2. achanni — N. he leans them against something
+3. ahamatli — R. he scatters it, he scatters them
+4. ahámmatka — M. it is scattered, they are scattered
+5. apòotka — S. they are next to something
+6. apotòoli — D. he puts it next to something
+7. apóttòoka — I. it is next to something
+8. atanayli — Z. he wraps it
+9. atánnayka — K. it is wrapped
+10. atanni — C. he wraps them
+11. bàalka — L. they lie, are lying down
+12. balàali — V. he lays it down
+13. balli — B. he lays them down
+14. incháffàaka — U. he has one
+15. kawaɬɬi — A. he breaks it in two
+16. ɬìilka — F. it is torn in several places, they are torn
+17. ɬìipka — H. they are turned upside down
+18. ɬilaffi — T. he tears it in two
+19. ɬipli — E. he turns them upside down
+20. ɬíppìika — Q. it is turned upside down
+21. ɬobaffi — P. he makes a hole
+22. ɬómbafka — W. it has a hole
+23. ɬombi — O. he makes holes
+24. ɬòomka — J. it has holes, they have holes
+25. sibapli — Y. he peels a strip off
+26. simbi — X. he peels the bark off
+
+(b) Translations into English:
+27. *bállàaka* — He/it lies, is lying down.  
+28. *inchafàali* — He gets one.  
+29. *kawwi* — He breaks it in several places, he breaks them.
+
+(c) Translations into Alabama:
+30. He tears it in several places — *ɬilli*.  
+31. It is torn in two — *ɬíllafka*.  
+32. He turns it upside down — *ɬipìili*.  
+33. He leans it against something — *achanàali*.
+
+(d) *ɬilli* — He tears them.
+
+### Problem 3 Solutions
+
+(a) Translations into English:
+17. *na kacuuʔi ŋ ɡǀu xae ŋ ǃuu ǃʔai* — I ask if it is you\_{pl} whom my grandfather calls.  
+18. *na ǁu si sĩisen ŋ ɡǃari* — I will not work in Upington.  
+19. *ǀeeki ke ǃaukea ŋ ŋǀŋ ǂhun* — The woman is afraid of my dog.  
+20. *ŋ kee si ǃʔai a* — It is I who will call you\_{sg}.  
+21. *cuu xae u ŋǀii* — Whom do you\_{pl} see?  
+22. *cuu xae ts’aaʔa ŋ* — Who likes me?
+
+(b) Translations into Nǀuuki:
+23. Our mother will not call your\_{sg} brother. — *i xaŋki ke ǁu si !ʔai a ǁãu*.  
+24. It is you\_{sg} whom my dog is afraid of. — *a kee ŋ ǂhun ǃaukea ŋǁa*.  
+25. Where will you\_{pl} sing? — *kiɟa xae u si ǂqheeke ŋǁa*.  
+26. I ask if it is our grandfather whom you\_{sg} think about. — *na kacuuʔi ŋ ɡǀi ǃuu xae a ǂʔii ŋǁa*.  
+27. Who will dance tomorrow? — *cuu xae si ǀqhõʕo ŋ !haeke*.  
+28. Do you\_{pl} see us? — *gǀu ŋǀii i*.
+
+### Problem 4 Solutions
+
+(a) Mapping:
+
+1 = I  
+2 = Q  
+3 = W  
+4 = O  
+5 = S  
+6 = V  
+7 = H  
+8 = P  
+9 = N  
+10 = X  
+11 = U  
+12 = J  
+13 = L  
+14 = M  
+15 = T  
+16 = R  
+17 = K  
+18 = F  
+19 = A  
+20 = D  
+21 = G  
+22 = C  
+23 = E  
+24 = B  
+
+(b) Fill in the blanks:
+
+(i)nhupa
+(ii)piyaka
+(iii)lhuka
+(iv)apityi
+(v)kupaka
+(vi)amanyi
+(vii)thanti
+(viii)wardu
+(ix)lhuka
+
+
+### Problem 5 Solutions
+
+(a) *phia¹¹.
+
+(b) Fill in the blanks:
+1.	liʔ²⁴
+2.	taːnʔ⁴²
+3.	pha⁵⁵
+4.	ikaʔ
+5.	kaʔ²⁴
+6.	tapa
+7.	pa¹¹
+8.	mɨtay
+9.	taːiʔ⁴²
+10.	talàm
+11.	laːnʔ⁴²
+12.	lipùh
+13.	phu⁵⁵
+14.	pilàn
+15.	phiaːn¹¹
+16.	pia³³
+17.	phu⁵⁵
+18.	tha¹¹

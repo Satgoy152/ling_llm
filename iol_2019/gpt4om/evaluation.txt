@@ -1,0 +1,557 @@
+I understand. I'll grade the LLM's answers based on the provided rubric and classifications. Here's the grading:
+
+Problem 1:
+    Part a:
+        12:
+            Classification: Type 2
+            LLM Answer: He takes the bread and eats it.
+            Real Answer: She took the bread and ate it.
+            Grade: 1
+        13:
+            Classification: Type 2
+            LLM Answer: We will come and sing.
+            Real Answer: She comes and we go away.
+            Grade: 0
+        14:
+            Classification: Type 2
+            LLM Answer: I sing and he goes away.
+            Real Answer: They sing and she hears.
+            Grade: 0
+        15:
+            Classification: Type 2
+            LLM Answer: We will hear the pig and she will get up and come.
+            Real Answer: They will hear the dog and will get up.
+            Grade: 1
+        16:
+            Classification: Type 2
+            LLM Answer: She saw the man and the dog and drank the water.
+            Real Answer: I will see the fish and you(sg) will see the man.
+            Grade: 0
+        17:
+            Classification: Type 2
+            LLM Answer: I saw the fish and drank the water.
+            Real Answer: He sees the water and I drink it.
+            Grade: 1
+    Part b:
+        18:
+            Classification: Type 2
+            LLM Answer: Wenenub wingkenuub.
+            Real Answer: Wananuuwa mananiib.
+            Grade: 0
+        19:
+            Classification: Type 2
+            LLM Answer: Meneni karuwa awon.
+            Real Answer: Awon biina oon been.
+            Grade: 0
+        20:
+            Classification: Type 2
+            LLM Answer: Ambib wedmoona anona ye weng wengambaranuuwa.
+            Real Answer: Oka ambiwa wedmene anon ye weng wengamboroon.
+            Grade: 1
+        21:
+            Classification: Type 2
+            LLM Answer: Wingkeewa om.
+            Real Answer: Om aneneb wingkeeb.
+            Grade: 1
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: E. brown shoe
+            Real Answer: G. white ball
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: O. black shirt
+            Real Answer: M. red hazelnut
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: A. brown dog
+            Real Answer: D. white berry
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: G. white ball
+            Real Answer: A. brown dog
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: C. black bear
+            Real Answer: H. white manzanita bush
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: I. white chair
+            Real Answer: K. red tree
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: H. white manzanita bush
+            Real Answer: N. purple berry
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: L. grass-green shirt
+            Real Answer: I. white chair
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: K. red tree
+            Real Answer: F. white dog
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: F. white dog
+            Real Answer: C. black bear
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: M. red hazelnut
+            Real Answer: L. grass-green shirt
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: N. purple berry
+            Real Answer: P. white deer
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: J. orange bear
+            Real Answer: O. black shirt
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: D. white berry
+            Real Answer: E. brown shoe
+            Grade: 0
+        15:
+            Classification: Type 1
+            LLM Answer: B. black shoe
+            Real Answer: J. orange bear
+            Grade: 0
+        16:
+            Classification: Type 1
+            LLM Answer: P. white deer
+            Real Answer: B. black shoe
+            Grade: 0
+        17:
+            Classification: Type 1
+            LLM Answer: Q. blue ball
+            Real Answer: R. yellow berry
+            Grade: 0
+    Part b:
+        19:
+            Classification: Type 1
+            LLM Answer: S. canary
+            Real Answer: V. milk
+            Grade: 0
+        20:
+            Classification: Type 1
+            LLM Answer: T. coffee bean
+            Real Answer: W. alder tree
+            Grade: 0
+        21:
+            Classification: Type 1
+            LLM Answer: U. blood
+            Real Answer: X. wild iris
+            Grade: 0
+        22:
+            Classification: Type 1
+            LLM Answer: V. milk
+            Real Answer: T. coffee bean
+            Grade: 0
+        23:
+            Classification: Type 1
+            LLM Answer: W. alder tree
+            Real Answer: U. blood
+            Grade: 0
+        24:
+            Classification: Type 1
+            LLM Answer: X. wild iris
+            Real Answer: Y. sky
+            Grade: 0
+        25:
+            Classification: Type 1
+            LLM Answer: Y. sky
+            Real Answer: S. canary
+            Grade: 0
+    Part c:
+        26:
+            Classification: Type 1
+            LLM Answer: Black
+            Real Answer: grass
+            Grade: 0
+        27:
+            Classification: Type 2
+            LLM Answer: Milk brown
+            Real Answer: black ball
+            Grade: 0
+        28:
+            Classification: Type 2
+            LLM Answer: Red berry
+            Real Answer: red dog
+            Grade: 1
+        29:
+            Classification: Type 2
+            LLM Answer: Purple berry
+            Real Answer: reddish-brown dog
+            Grade: 0
+    Part d:
+        30:
+            Classification: Type 2
+            LLM Answer: sʼoktoy noʼoy
+            Real Answer: luuehlson' puuek
+            Grade: 0
+        31:
+            Classification: Type 2
+            LLM Answer: perkeryerh holeehl ʼwernerh
+            Real Answer: muenchey no'oy
+            Grade: 0
+        32:
+            Classification: Type 2
+            LLM Answer: skoyon
+            Real Answer: tegee'n rohkuen
+            Grade: 0
+        33:
+            Classification: Type 2
+            LLM Answer: ʼwerʼerrgerchsonʼ cherʼery
+            Real Answer: lo'ogar' tepoo
+            Grade: 0
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: E
+            Real Answer: E
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: CC
+            Real Answer: CC
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: G
+            Real Answer: G
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: Y
+            Real Answer: Y
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: D
+            Real Answer: D
+            Grade: 1
+        6:
+            Classification: Type 1
+            LLM Answer: CC
+            Real Answer: CC
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: K
+            Real Answer: K
+            Grade: 1
+        8:
+            Classification: Type 1
+            LLM Answer: S
+            Real Answer: S
+            Grade: 1
+        9:
+            Classification: Type 1
+            LLM Answer: V
+            Real Answer: V
+            Grade: 1
+        10:
+            Classification: Type 1
+            LLM Answer: L
+            Real Answer: L
+            Grade: 1
+        11:
+            Classification: Type 1
+            LLM Answer: I
+            Real Answer: I
+            Grade: 1
+        12:
+            Classification: Type 1
+            LLM Answer: Z
+            Real Answer: Z
+            Grade: 1
+        13:
+            Classification: Type 1
+            LLM Answer: P
+            Real Answer: P
+            Grade: 1
+        14:
+            Classification: Type 1
+            LLM Answer: DD
+            Real Answer: DD
+            Grade: 1
+        15:
+            Classification: Type 1
+            LLM Answer: O
+            Real Answer: O
+            Grade: 1
+        16:
+            Classification: Type 1
+            LLM Answer: M
+            Real Answer: M
+            Grade: 1
+        17:
+            Classification: Type 1
+            LLM Answer: B
+            Real Answer: B
+            Grade: 1
+        18:
+            Classification: Type 1
+            LLM Answer: F
+            Real Answer: F
+            Grade: 1
+        19:
+            Classification: Type 1
+            LLM Answer: X
+            Real Answer: X
+            Grade: 1
+        20:
+            Classification: Type 1
+            LLM Answer: C
+            Real Answer: C
+            Grade: 1
+        21:
+            Classification: Type 1
+            LLM Answer: BB
+            Real Answer: BB
+            Grade: 1
+        22:
+            Classification: Type 1
+            LLM Answer: V
+            Real Answer: V
+            Grade: 1
+        23:
+            Classification: Type 1
+            LLM Answer: AA
+            Real Answer: AA
+            Grade: 1
+        24:
+            Classification: Type 1
+            LLM Answer: J
+            Real Answer: J
+            Grade: 1
+        25:
+            Classification: Type 1
+            LLM Answer: T
+            Real Answer: T
+            Grade: 1
+        26:
+            Classification: Type 1
+            LLM Answer: Q
+            Real Answer: Q
+            Grade: 1
+        27:
+            Classification: Type 1
+            LLM Answer: H
+            Real Answer: H
+            Grade: 1
+        28:
+            Classification: Type 1
+            LLM Answer: T
+            Real Answer: T
+            Grade: 1
+        29:
+            Classification: Type 1
+            LLM Answer: U
+            Real Answer: U
+            Grade: 1
+        30:
+            Classification: Type 1
+            LLM Answer: W
+            Real Answer: W
+            Grade: 1
+        31:
+            Classification: Type 1
+            LLM Answer: R
+            Real Answer: R
+            Grade: 1
+        32:
+            Classification: Type 1
+            LLM Answer: A
+            Real Answer: A
+            Grade: 1
+        33:
+            Classification: Type 1
+            LLM Answer: F
+            Real Answer: F
+            Grade: 1
+        34:
+            Classification: Type 1
+            LLM Answer: N
+            Real Answer: N
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: "n%sYMA" often appears with a final "A" for phonetic completeness.
+            Real Answer: 6nHrDX  = ʾhlmn' — Ahreman 'the evil spirit'.
+            Grade: 0
+    Part c:
+        EE:
+            Classification: Type 1
+            LLM Answer: nēss bānī
+            Real Answer: bʾnbšn'
+            Grade: 0
+        FF:
+            Classification: Type 1
+            LLM Answer: laxar
+            Real Answer: chʾl
+            Grade: 0
+        GG:
+            Classification: Type 1
+            LLM Answer: rād
+            Real Answer: tl
+            Grade: 0
+        HH:
+            Classification: Type 1
+            LLM Answer: nēzdīn
+            Real Answer: hʾk'
+            Grade: 0
+        II:
+            Classification: Type 1
+            LLM Answer: nēnīā
+            Real Answer: hwn'
+            Grade: 0
+        JJ:
+            Classification: Type 1
+            LLM Answer: nēkān
+            Real Answer: hwk'
+            Grade: 0
+    Part d:
+        KK:
+            Classification: Type 1
+            LLM Answer: 𐭠𐭢𐭣𐭥
+            Real Answer: ankI
+            Grade: 0
+        LL:
+            Classification: Type 1
+            LLM Answer: 𐭣𐭮𐭵𐭧
+            Real Answer: druwand
+            Grade: 0
+        MM:
+            Classification: Type 1
+            LLM Answer: 𐭯𐭪𐭥
+            Real Answer: stōr
+            Grade: 0
+        NN:
+            Classification: Type 1
+            LLM Answer: 𐭧𐭥𐭪𐭧
+            Real Answer: čambar
+            Grade: 0
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: ɛtaletaleŋa
+            Real Answer: ɛtaŋleŋa
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: jagajaga
+            Real Answer: jagjaga
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: gasírangasírana
+            Real Answer: garsírana
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: daramodaramota
+            Real Answer: daratmota
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: pɔwpɔwna
+            Real Answer: pɔwpɔwna
+            Grade: 2
+        6:
+            Classification: Type 2
+            LLM Answer: ɛrtɔpɛrtɔpa
+            Real Answer: ɛrtɔptɔpa
+            Grade: 1
+        7:
+            Classification: Type 2
+            LLM Answer: dabukadabuka
+            Real Answer: dakbuka
+            Grade: 1
+        8:
+            Classification: Type 2
+            LLM Answer: ŋuŋiŋuŋim
+            Real Answer: ŋuŋuŋim
+            Grade: 2
+        9:
+            Classification: Type 2
+            LLM Answer: igɔ́ngɔ́ŋ
+            Real Answer: iŋgɔ́ŋ
+            Grade: 1
+
+Problem 5:
+    Part a:
+        16:
+            Classification: Type 2
+            LLM Answer: On Bvusɔw, the day after tomorrow was Bvutfu.
+            Real Answer: Bvusɔw is the day after tomorrow.
+            Grade: 1
+        17:
+            Classification: Type 2
+            LLM Answer: Today, I heard the yam and the market.
+            Real Answer: Today, I will see the yam.
+            Grade: 1
+        18:
+            Classification: Type 2
+            LLM Answer: He saw the thief and the man on Bvumbon.
+            Real Answer: On Bvumbon, he saw us.
+            Grade: 1
+        19:
+            Classification: Type 2
+            LLM Answer: The thief will steal the yam just now on Bvuŋkaden.
+            Real Answer: On Bvuzhiden, we will come to the market.
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: Bvutfu, Bvumbon, Bvusɔw, Bvuzhi, Bvuŋkaden, Bvuŋka, Bvukema
+            Real Answer: Bvutfu, Bvuŋka, Bvuzhi, Bvukema, Bvuŋkaden, Bvuzhiden, Bvusɔw, Bvumbon
+            Grade: 0
+    Part c:
+        20:
+            Classification: Type 2
+            LLM Answer: me ncí nɔ̂ː ntɔ᷅ fɔ̀wǎy Bvusɔw.
+            Real Answer: me ncí nɔ̂ː nfı ᷅ dìɛ̀msɛ̌n bvúsɔ̀w.
+            Grade: 1
+        21:
+            Classification: Type 2
+            LLM Answer: wɔ̀ tɔ̀ nɔ̂ː yo᷅w cɔ̌ŋ.
+            Real Answer: cɔ̌ŋ nɔ̂ː cɔ᷅ŋ kèŋkfǔ.
+            Grade: 1
+        22:
+            Classification: Type 2
+            LLM Answer: me nú ŋgéː nyɛ́n kèŋkfǔ Bvuŋkaden.
+            Real Answer: me nú nyúː nyów mutù bvûŋka᷆ːde᷆n.
+            Grade: 1
+        23:
+            Classification: Type 2
+            LLM Answer: wvù tɔ̀ nɔ̂ː yo᷅w cɔ̌ŋ.
+            Real Answer: kwɔ᷆ːn nǔ géː yó dìɛ̀msɛ̌n ɛ̀bɛ̀n.
+            Grade: 0
+        24:
+            Classification: Type 2
+            LLM Answer: fɔ̀ shě ntfǔː nú Bvusɔw.
+            Real Answer: dìɛ̀msɛ̌n bɛ̂ː yɛ᷅n wɔ̀ lě ɛ̀bɛ̀n.
+            Grade: 0
+
+Total Score: 61/212

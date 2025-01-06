@@ -1,0 +1,409 @@
+Based on the provided classification, LLM solutions, and real answers, I will grade each problem according to the rubric. Here's the grading:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: Lamaoä' dai' di Palempang
+            Real Answer: Lamaoä' dai' di Palempang
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: Lamaoä' dai' di Palempang
+            Real Answer: Lamaoä' dai' di Palempang
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: Lamaoä' bete' di Bulung
+            Real Answer: Lamaoä' bete' di Bulung
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: Lamaoä' tama di Sohongang
+            Real Answer: Lamaoä' sau di Sohongang
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: Lamaoä' bete' di Bulung
+            Real Answer: Lamaoä' naung di Bulung
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: Lamaoä' naung di Kota
+            Real Answer: Lamaoä' sau di Kota
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: Lamaoä' pano di Pahihuang
+            Real Answer: Lamaoä' naung di Pahihuang
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: Lamaoä' sau di Kota
+            Real Answer: Lamaoä' tama di Kota
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: Lamaoä' naung di Pikung
+            Real Answer: Lamaoä' naung di Pikung
+            Grade: 1
+        10:
+            Classification: Type 1
+            LLM Answer: Lamaoä' sau di Kota
+            Real Answer: Lamaoä' pano di Kota
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: Lamaoä' naung di Bulung
+            Real Answer: Lamaoä' bete' di Bulung
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: Lamaoä' bete' di Kahangang
+            Real Answer: Lamaoä' tama di Kahangang
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: Lamaoä' pano di Panampo
+            Real Answer: Lamaoä' dai' di Panampo
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: Lamaoä' naung di Kahangang
+            Real Answer: Lamaoä' bete' di Kahangang
+            Grade: 0
+        15:
+            Classification: Type 1
+            LLM Answer: Lamaoä' dai' di Palempang
+            Real Answer: Lamaoä' dai' di Palempang
+            Grade: 1
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: G, P
+            Real Answer: deer
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: E, S
+            Real Answer: foot
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: A, X
+            Real Answer: fortress
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: V, T
+            Real Answer: they made
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: D, N
+            Real Answer: bread
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: J, F
+            Real Answer: thunder
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: C, Q
+            Real Answer: sheep
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: I, W
+            Real Answer: good
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: Y, M
+            Real Answer: son
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: H, Z
+            Real Answer: man
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: L, U
+            Real Answer: they give
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: B, O
+            Real Answer: king
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: K, R
+            Real Answer: hand
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: zitis ('man')
+            Real Answer: tarhunzas
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: nimuwizas ('son')
+            Real Answer: nimuwizas
+            Grade: 1
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: Marks vowel length or accent
+            Real Answer: ta
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: Represents plural or collective
+            Real Answer: king (hantawatis)
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: Syllabic "wa" sound
+            Real Answer: wa, wi
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: Consonant "t"
+            Real Answer: ta
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: Consonant "s"
+            Real Answer: s(a)
+            Grade: 1
+        6:
+            Classification: Type 2
+            LLM Answer: Syllabic "ta" sound
+            Real Answer: ti, foot (patis)
+            Grade: 1
+        7:
+            Classification: Type 2
+            LLM Answer: Represents the syllable "tar" or "ta"
+            Real Answer: zi, man (zitis)
+            Grade: 0
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: The thief will steal him.
+            Real Answer: The thieves are striking us.
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: I repaired the doors for the neighbors.
+            Real Answer: I repaired the door for the neighbour.
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: The donkey found the dress.
+            Real Answer: The donkey found the owners.
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: The dress gave the camel to the neighbor.
+            Real Answer: The owners gave us the camel.
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: I gave the chicken to the dogs.
+            Real Answer: I will buy the chicken.
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: Jahalgi beyyeːg ajomirra.
+            Real Answer: kanarriːcci tirtki beyyeːg atirra.
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: Jahali waliːg argi kamiːg jaːntirsi.
+            Real Answer: jahal argi walgi jaːndeːccirsu.
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: Ar magaski ajomri.
+            Real Answer: ar mangi bimaːgru.
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: Tirtgi magaski bijoːnsu.
+            Real Answer: tirti magasiːg jomirsa.
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: Walgi darbadki biticcirra.
+            Real Answer: wali sarkaːygi darbadiːg eltirsa.
+            Grade: 1
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: book
+            Real Answer: canoe
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: spear
+            Real Answer: picture/shadow
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: rifle
+            Real Answer: mirror
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: car
+            Real Answer: I got
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: canoe
+            Real Answer: banana
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: watch (timepiece)
+            Real Answer: book
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: banana
+            Real Answer: book
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: picture, shadow
+            Real Answer: car
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: mirror
+            Real Answer: watch
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: carbonated beverage, alcohol
+            Real Answer: carbonated beverage, alcohol
+            Grade: 1
+        11:
+            Classification: Type 1
+            LLM Answer: ground, land
+            Real Answer: spear
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: I got
+            Real Answer: I saw
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: I saw
+            Real Answer: cow
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: to read
+            Real Answer: rifle
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: book
+            Real Answer: canoe
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: to read
+            Real Answer: water
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: ground, land
+            Real Answer: to see
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: klawun
+            Real Answer: bâk
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: laavuga
+            Real Answer: laavuga
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: ni'bu
+            Real Answer: nya
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: nyaka'ik
+            Real Answer: walini'ba
+            Grade: 0
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: Is it in my house?
+            Real Answer: is it in my house?
+            Grade: 2
+        2:
+            Classification: Type 2
+            LLM Answer: Our (1+2) field too
+            Real Answer: his field too
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: His field too
+            Real Answer: through the field too
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: Our (1+2) cliff
+            Real Answer: our cliff
+            Grade: 2
+        2:
+            Classification: Type 2
+            LLM Answer: In your corner
+            Real Answer: in your corner
+            Grade: 2
+        3:
+            Classification: Type 2
+            LLM Answer: In your corner too
+            Real Answer: in your corner too
+            Grade: 2
+        4:
+            Classification: Type 2
+            LLM Answer: From your corner too
+            Real Answer: from your corner too
+            Grade: 2
+        5:
+            Classification: Type 2
+            LLM Answer: Is it from the cave?
+            Real Answer: is it from the cave?
+            Grade: 2
+        6:
+            Classification: Type 2
+            LLM Answer: Is it the house?
+            Real Answer: is it the house?
+            Grade: 2
+
+Total Score: 28/70

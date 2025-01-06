@@ -1,0 +1,291 @@
+I understand. I'll grade the LLM's answers based on the provided rubric and classifications. Here's the grading:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: nonifibe — You (singular) are piercing me.
+            Real Answer: noniʔbe — you (pl.) are piercing me
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: halu'ibe — You both will strike me.
+            Real Answer: halu'ibe — we both will strike him
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: lifilatagihe — Because you (plural) will pierce me.
+            Real Answer: liʔlatagihe — because you (sg.) will pierce us
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: nokufune — We are piercing him.
+            Real Answer: nokufune — we are piercing you (sg.)
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: nolahanagihe — Because we are striking him.
+            Real Answer: nolahanagihe — because you (pl.) are striking us
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: noho'ibe — You both are striking him.
+            Real Answer: noha'ibe — you both are striking him
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: kafilune — We will pierce you (singular).
+            Real Answer: kiʔlune — we will pierce you (sg.)
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: lenahalagihe — Because we are striking you (plural).
+            Real Answer: nolenohotagihe — because we are striking you (pl.)
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: nafilanagihe — Because you (plural) will pierce him.
+            Real Answer: ʔlanagihe — because you (pl.) will pierce him
+            Grade: 1
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: alOsOhjegO / alOsOhje / alOsOhjegO
+            Real Answer: alOsOhjegO / alOsOhje / alOsOhjegO
+            Grade: 2
+        2:
+            Classification: Type 2
+            LLM Answer: tsegun / tsegun / tsegudO
+            Real Answer: tsegun / tsegun / tsegudO
+            Grade: 2
+        3:
+            Classification: Type 2
+            LLM Answer: alOguk'ogO / alOguk'o / alOguk'ogO
+            Real Answer: alOguk'ogO / alOguk'o / alOguk'ogO
+            Grade: 2
+        4:
+            Classification: Type 2
+            LLM Answer: k'aphthO / k'aphthO / k'aphthOgO
+            Real Answer: k'aphthO / k'aphthO / k'aphthOgO
+            Grade: 2
+        5:
+            Classification: Type 2
+            LLM Answer: khOdO / khO / khOdO
+            Real Answer: khOdO / khO / khO
+            Grade: 1
+        6:
+            Classification: Type 2
+            LLM Answer: k'OdO / k'O / k'OdO
+            Real Answer: k'OdO / k'On / k'OdO
+            Grade: 1
+        7:
+            Classification: Type 2
+            LLM Answer: alO / alO / alOgO
+            Real Answer: alOgO / alO / alOgO
+            Grade: 1
+        8:
+            Classification: Type 2
+            LLM Answer: phO / phO / phOgO
+            Real Answer: phO / phO / phOgO
+            Grade: 2
+        9:
+            Classification: Type 2
+            LLM Answer: sa / sa / sadO
+            Real Answer: san / san / sadO
+            Grade: 1
+        10:
+            Classification: Type 2
+            LLM Answer: Olsun / Olsun / Olsun
+            Real Answer: Olsun / Olsun / OlsudO
+            Grade: 1
+        11:
+            Classification: Type 2
+            LLM Answer: pitso / pitso / pitsogO
+            Real Answer: pitso / pitso / pitsogO
+            Grade: 2
+        12:
+            Classification: Type 2
+            LLM Answer: thOphpaadO / thOphpaa / thOphpaadO
+            Real Answer: thOphpaadO / thOphpaa / thOphpaa
+            Grade: 1
+
+Problem 3:
+    Part a:
+        Classification: Type 3
+        LLM Answer: No answer provided
+        Real Answer: 1. Wa2nie1 Syn1mei1 Ke.i1¹ey2 Sei1na1 Sie1tsie1 Ldiu2±e1, ʔan1nia1 Nie2tse. — Sentence 1. 2. Lhie2nyn2 Ngwi1mbyn2 Mbe2phon1 Ngon2ngwe1 — Sentence 2.
+        Grade: 0
+    Part b:
+        Classification: Type 1
+        LLM Answer: Nie²tse.1 Sie1tsie1 'yn1 mu1 ngu².
+        Real Answer: Nie2tse.1 Sie1tsie1 'yn1 ndo.n1 ngu2.
+        Grade: 0
+
+Problem 4:
+    Part a:
+        8:
+            Classification: Type 2
+            LLM Answer: Will this man frighten the thief? The girl said that he (the man) will not frighten the thief.
+            Real Answer: Did this man frighten the thief? The girl said that he (this man) did frighten the thief.
+            Grade: 1
+        9:
+            Classification: Type 2
+            LLM Answer: Did this girl not kill the youth? This girl said that she did not kill the youth.
+            Real Answer: Will the deceived girl kill this youth? The deceived girl said that she (the deceived girl) would kill this youth.
+            Grade: 0
+        10:
+            Classification: Type 2
+            LLM Answer: The thief said that the child healed the man.
+            Real Answer: This thief said that the child did not heal the man. or This thief said that the child would not heal the man.
+            Grade: 0
+    Part b:
+        11:
+            Classification: Type 2
+            LLM Answer: edèì okàá ki.nono a.modhyòmù à? a.mó wei ga ó. ki.nono a.modhyòmù.
+            Real Answer: okàa kí.nonò a.modhyòmú koʔlomù ânò à? a.mò wei ga ó. ki.nono a.modhyòmú koʔlomù ânò.
+            Grade: 1
+        12:
+            Classification: Type 2
+            LLM Answer: a.vùràmù nu. nwa. sese edèì à? a.vùràmù nu. wei ga ó. nwa. sese edèì.
+            Real Answer: a. vùràmú nu. amù â. nò nwa. sese edèì à? a. vùràmú nu. amù â. nò wei ga òkí nwa. sese edèì.
+            Grade: 1
+    Part c:
+        Classification: Type 3
+        LLM Answer: Thief: ozyì, Girl: amemùrè
+        Real Answer: Nouns are not affected by any grammatical tone changes when placed at the very end of the sentence, before à or before ânò. Base form for 'thief': ozyi, Base form for 'girl': amemùrè
+        Grade: 1
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: Páá — to put
+            Real Answer: Páá — to put
+            Grade: 2
+        2:
+            Classification: Type 2
+            LLM Answer: Páá náng nú kò — nostril
+            Real Answer: Páá náng nú kò — to be dying (to put + foot + edge + hole)
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: Páá sèè — to put at the surface
+            Real Answer: Páá sèè — to envy (to put + liver)
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: búmá ýık — eye socket
+            Real Answer: búmá ýık — eyelash (hair + eyes)
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: búmá zù ýık — eyelash
+            Real Answer: búmá zù ýık — eyebrow (hair + above, on + eyes)
+            Grade: 1
+        6:
+            Classification: Type 2
+            LLM Answer: dáng gòk — tip of the tongue
+            Real Answer: dáng gòk — poisonous snake (bad + snake)
+            Grade: 0
+        7:
+            Classification: Type 2
+            LLM Answer: d́ı fò — liver
+            Real Answer: d́ı fò — good field (good + field)
+            Grade: 0
+        8:
+            Classification: Type 2
+            LLM Answer: d́ı sèè — happiness
+            Real Answer: d́ı sèè — happiness (good + liver)
+            Grade: 2
+        9:
+            Classification: Type 2
+            LLM Answer: kò ýık — at the center
+            Real Answer: kò ýık — eye socket (hole + eyes)
+            Grade: 0
+        10:
+            Classification: Type 2
+            LLM Answer: kò zòk — field edge
+            Real Answer: kò zòk — nostril (hole + nose)
+            Grade: 0
+        11:
+            Classification: Type 2
+            LLM Answer: náng ẃı — above, on
+            Real Answer: náng ẃı — foot (foot + human)
+            Grade: 0
+        12:
+            Classification: Type 2
+            LLM Answer: nú fò — nostril
+            Real Answer: nú fò — field edge (edge + field)
+            Grade: 0
+        13:
+            Classification: Type 2
+            LLM Answer: nú lébé — nose
+            Real Answer: nú lébé — tip of the tongue (edge + tongue)
+            Grade: 0
+        14:
+            Classification: Type 2
+            LLM Answer: sèè ẃı — at the surface
+            Real Answer: sèè ẃı — liver (liver + human)
+            Grade: 0
+        15:
+            Classification: Type 2
+            LLM Answer: ýık — eyes/face
+            Real Answer: ýık — at the surface (face)
+            Grade: 1
+        16:
+            Classification: Type 2
+            LLM Answer: ýık ẃı — eyebrow
+            Real Answer: ýık ẃı — face/eyes (face/eyes + human)
+            Grade: 1
+        17:
+            Classification: Type 2
+            LLM Answer: zù — to envy
+            Real Answer: zù — above, on (head)
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: búmá zù — to envy
+            Real Answer: búmá zù — hair (on the head) (hair + head)
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: kò — at the center
+            Real Answer: kò — hole
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: lébé gòk — tip of the tongue
+            Real Answer: lébé gòk — snake's tongue (tongue + snake)
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: lébé ẃı — head
+            Real Answer: lébé ẃı — tongue (tongue + human)
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: At the center — kò
+            Real Answer: sèè — at the center (liver)
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: Head — lébé
+            Real Answer: zù ẃı — head (head + human)
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: Displeasure — d́ı fò
+            Real Answer: dáng sèè — displeasure (bad + liver)
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: Nose — nú lébé
+            Real Answer: zòk ẃı — nose (nose + human)
+            Grade: 0
+
+Total Score: 35/108

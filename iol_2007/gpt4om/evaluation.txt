@@ -1,0 +1,197 @@
+Based on the classification and the provided answers, I will grade each problem according to the rubric. Here's the grading:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: ⠠⠃⠗⠊⠝⠛ ⠲⠚⠔ ⠏⠊⠵⠵⠁⠎ ⠁⠝⠙ ⠧⠑⠗⠍⠕⠥⠞⠓⠂ ⠠⠍⠁⠗⠅⠖
+            Real Answer: Not provided
+            Grade: 1 (partially right, assuming the answer is correct but not exact)
+
+Problem 2:
+    Part 1:
+        1:
+            Classification: Type 2
+            LLM Answer: The combination of two letters that stands for a single consonant in Movima is "ka".
+            Real Answer: Not provided
+            Grade: 1 (partially right, assuming the answer is correct but not exact)
+    Part 2:
+        1:
+            Classification: Type 1
+            LLM Answer: kas asaka' (to sit)
+            Real Answer: kas asa:sa'
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: kas enferme:ra (nurse)
+            Real Answer: kas ena'ferme:ra
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: kas ji#a:pa (to grate manioc)
+            Real Answer: kas ji!aka'pa
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: kas deka' (to lie)
+            Real Answer: kas deka:ka'
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: kas rulrula' (jaguar)
+            Real Answer: kas rula'rul
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: kas tipoysu:da (dressed in tipoy)
+            Real Answer: kas tipoya'su:da
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: kas wurula:la'
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: kas dewaja'na
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: kas deka'wajna
+            Grade: 0
+
+Problem 3:
+    Part 1:
+        1:
+            Classification: Type 2
+            LLM Answer: The LLM provided a list of 15 verb forms with their translations, which is different from the real answer structure.
+            Real Answer: The real answer provides an analysis of the verb structure and components.
+            Grade: 1 (partially right, as it attempts to match verb forms but misses the structural analysis)
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: mer an thef abo thonith = 16 (6 × 2 + 4)
+            Real Answer: mer an thef abo thonith = 16 (6 × 2 + 4)
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: nif thef abo mer abo ithin = 81 (36 × 2 + 6 + 3)
+            Real Answer: nif thef abo mer abo ithin = 81 (36 × 2 + 6 + 3)
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: nif abo mer an thef abo sas = 49 (36 + 12 + 1)
+            Real Answer: nif abo mer an thef abo sas = 49 (36 + 12 + 1)
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: nif abo tondor abo mer abo thonith = 64 (36 + 18 + 6 + 4)
+            Real Answer: nif abo tondor abo mer abo thonith = 64 (36 + 18 + 6 + 4)
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: nif thef abo tondor abo mer abo thonith = 100 (72 + 18 + 6 + 4)
+            Real Answer: nif thef abo tondor abo mer abo thonith = 100 (72 + 18 + 6 + 4)
+            Grade: 1
+        6:
+            Classification: Type 1
+            LLM Answer: tondor abo mer abo sas = 18+6+1 = 25
+            Real Answer: tondor abo mer abo sas = 18+6+1 = 25
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: mer abo ithin = 6+3 = 9
+            Real Answer: mer abo ithin = 6+3 = 9
+            Grade: 1
+        8:
+            Classification: Type 1
+            LLM Answer: thonith = 4
+            Real Answer: thonith = 4
+            Grade: 1
+        9:
+            Classification: Type 1
+            LLM Answer: sas = 1
+            Real Answer: sas = 1
+            Grade: 1
+        10:
+            Classification: Type 1
+            LLM Answer: nif = 6& = 36
+            Real Answer: nif = 6& = 36
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: mer abo sas = 7 (6 + 1)
+            Real Answer: mer abo sas = 7 (6 + 1)
+            Grade: 2
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: nif ithin abo ithin = 6^2 3+3 = 111
+            Real Answer: nif ithin abo ithin = 6^2 3+3 = 111
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: mer an thef abo meregh = 6*2+5 = 17
+            Real Answer: mer an thef abo meregh = 6*2+5 = 17
+            Grade: 1
+    Part d:
+        1:
+            Classification: Type 1
+            LLM Answer: 58 = 6&+18+4 = nif abo tondor abo thonith
+            Real Answer: 58 = 6&+18+4 = nif abo tondor abo thonith
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: 87 = 6& 2+6*2+3 = nif thef abo mer an thef abo ithin
+            Real Answer: 87 = 6& 2+6*2+3 = nif thef abo mer an thef abo ithin
+            Grade: 1
+
+Problem 5:
+    Part a:
+        19:
+            Classification: Type 1
+            LLM Answer: osta
+            Real Answer: osta
+            Grade: 1
+        20:
+            Classification: Type 1
+            LLM Answer: küzänäk
+            Real Answer: küzänäḱ
+            Grade: 0
+        21:
+            Classification: Type 1
+            LLM Answer: yılan
+            Real Answer: yılan
+            Grade: 1
+        22:
+            Classification: Type 1
+            LLM Answer: yedi&er
+            Real Answer: cideşär
+            Grade: 0
+        23:
+            Classification: Type 1
+            LLM Answer: bilezik
+            Real Answer: beläzek
+            Grade: 0
+        24:
+            Classification: Type 1
+            LLM Answer: üstünde
+            Real Answer: östendä
+            Grade: 0
+        25:
+            Classification: Type 1
+            LLM Answer: bin
+            Real Answer: men
+            Grade: 0
+        26:
+            Classification: Type 1
+            LLM Answer: yumru
+            Real Answer: yomrı
+            Grade: 0
+
+Total Score: 20/31

@@ -1,0 +1,343 @@
+Based on the provided classification, LLM solutions, and real answers, here's the grading for each problem:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: [ifá]
+            Real Answer: [ifá]
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: [ifó.ci]
+            Real Answer: [ifó.ci]
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: [nâː . .nakí]
+            Real Answer: [nâː . .nakí]
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: [sâː . . . . . . sák.wa]
+            Real Answer: [sâː . . . . . . sák.wa]
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: [ak . . topá]
+            Real Answer: [ak . . topá]
+            Grade: 1
+        6:
+            Classification: Type 1
+            LLM Answer: [hok . . . . takí]
+            Real Answer: [hok . . . . takí]
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: [wana.yitá]
+            Real Answer: [wana.yitá]
+            Grade: 1
+        8:
+            Classification: Type 1
+            LLM Answer: [awa . . . . nayí.ta]
+            Real Answer: [awa . . . . nayí.ta]
+            Grade: 1
+        9:
+            Classification: Type 1
+            LLM Answer: [isis . . kitó.ci]
+            Real Answer: [isis . . kitó.ci]
+            Grade: 1
+        10:
+            Classification: Type 1
+            LLM Answer: [aː.tami.homá]
+            Real Answer: [aː.tami.homá]
+            Grade: 1
+        11:
+            Classification: Type 1
+            LLM Answer: [honan.táː.ki]
+            Real Answer: [honan.táː.ki]
+            Grade: 1
+        12:
+            Classification: Type 1
+            LLM Answer: [ili . toh . taɬí.ta]
+            Real Answer: [ili . toh . taɬí.ta]
+            Grade: 1
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: Did you_{sg} sleep?
+            Real Answer: Do you_{sg} sleep?
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: Did he see us?
+            Real Answer: Did he see us?
+            Grade: 2
+        3:
+            Classification: Type 2
+            LLM Answer: Did they know you_{pl}?
+            Real Answer: Do they know you_{pl}?
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: Do we beat them?
+            Real Answer: Do we beat them?
+            Grade: 2
+        5:
+            Classification: Type 2
+            LLM Answer: Did we know you_{sg}?
+            Real Answer: Did we know you_{sg}?
+            Grade: 2
+        6:
+            Classification: Type 2
+            LLM Answer: Do we go?
+            Real Answer: Did we go?
+            Grade: 1
+    Part b:
+        7:
+            Classification: Type 2
+            LLM Answer: ŋabə nɤ lan tʰu ne
+            Real Answer: ŋabə nɤ lan tɤʔ ne
+            Grade: 1
+        8:
+            Classification: Type 2
+            LLM Answer: tarum kəmə ŋa lapkʰi tʰi ne
+            Real Answer: tarum kəmə ŋa lapkʰi tʰɤ ne
+            Grade: 1
+        9:
+            Classification: Type 2
+            LLM Answer: ati kəmə nɤ cʰam ki ne
+            Real Answer: ati kəmə nɤ cʰam ru ne
+            Grade: 1
+        10:
+            Classification: Type 2
+            LLM Answer: nuʔrum ʒip ku ne
+            Real Answer: nuʔrum ʒip kan ne
+            Grade: 1
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: peîho
+            Real Answer: mbîho
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: pîyo
+            Real Answer: mbêyo
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: yéno
+            Real Answer: yênom
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: yêno
+            Real Answer: ênom
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: késaxo
+            Real Answer: késaxo
+            Grade: 1
+        6:
+            Classification: Type 1
+            LLM Answer: xerére
+            Real Answer: xíriri
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: teôko
+            Real Answer: ndôko
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: xoínjoa
+            Real Answer: neíxoa
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: vanénjo
+            Real Answer: venéxo
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: yómindi
+            Real Answer: mémiti
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: ínzikaxovoku
+            Real Answer: íhikexovoku
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: yôxu
+            Real Answer: ônju
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: nîwo
+            Real Answer: nêwom
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: áxarana
+            Real Answer: yáharana
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: These words are different from native Terena words because they don't follow the regular pattern of first-person and second-person singular forms. In native words, the second person form usually replaces the initial "n" sound with a "x" sound. However, in these borrowed words,  the second person form replaces the initial "l" sound with a "le" sound.
+            Real Answer: In Portuguese loanwords, the vowel á is treated differently: it becomes eá in these loanwords, whereas in native words, á changes to é, and â changes to eâ.
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: My tin can: látaña, My cloak: kápaña
+            Real Answer: lándana,ngápana
+            Grade: 1
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 3
+            LLM Answer: The word X is "atuh", which means "and". The linguist thought it was missing in these examples: Example 2: nybat biabys juhurubys (6 eggs) - It should be "nybat atuh biabys juhurubys". Example 8: wiwis biabys bøbys (14 betel nuts) - It should be "wiwis atuh biabys bøbys". Example 11: anowip biabys juhurubys (26 eggs) - It should be "anowip atuh biabys juhurubys". The word "atuh" is implied because the numbers 6, 14, and 26 are all formed by adding a set of 10 to the base numbers (6, 4, and 16 respectively).  The use of "atuh" isn't mandatory when expressing these compound numbers, as the context makes it clear that addition is being used.
+            Real Answer: The word that the linguist initially thought was missing is "sugar canes," which are represented by the word arah. The three examples are: 1. 6 sugar canes — biogu nybat, 2. 10 sugar canes — biogu nybat atuh araruh, 3. 23 sugar canes — biogu atugu biogu biaruh atuh araruh. (6, 9, 11): 4 =nybat,8=biogu nybat,k×4(3≤k)=k-t/gunybat. In these examples, the term "sugar canes" is implied by context and number markers rather than being explicitly stated.
+            Grade: 1
+    Part b:
+        12:
+            Classification: Type 2
+            LLM Answer: 7 betel nuts
+            Real Answer: 3 betel nuts
+            Grade: 0
+        13:
+            Classification: Type 2
+            LLM Answer: 4 eggs
+            Real Answer: 1 egg
+            Grade: 0
+        14:
+            Classification: Type 2
+            LLM Answer: 5 sugar canes
+            Real Answer: 5 sugar canes
+            Grade: 2
+        15:
+            Classification: Type 2
+            LLM Answer: 12 sheets of sago bark
+            Real Answer: 5 sheets of sago bark
+            Grade: 0
+        16:
+            Classification: Type 2
+            LLM Answer: 13 sheets of sago bark
+            Real Answer: 12 sheets of sago bark
+            Grade: 1
+    Part c:
+        17:
+            Classification: Type 2
+            LLM Answer: atub bøbys
+            Real Answer: biabys atubys atub bøbys
+            Grade: 1
+        18:
+            Classification: Type 2
+            LLM Answer: biogu atuh juhurub
+            Real Answer: biogu nybat biabys atub juhurubys
+            Grade: 1
+        19:
+            Classification: Type 2
+            LLM Answer: araman juhurubys
+            Real Answer: biogu atugu biogu juhurubys
+            Grade: 0
+        20:
+            Classification: Type 2
+            LLM Answer: araman atugas atug baigas
+            Real Answer: araman atug baigas
+            Grade: 1
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: Enu
+            Real Answer: Ofori
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: Dubaku
+            Real Answer: Dubaku
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: Kunto
+            Real Answer: Kunto
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: Ofori
+            Real Answer: Enu
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: Kofi
+            Real Answer: Nsia
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: Yaw
+            Real Answer: Awotwi
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: Efua
+            Real Answer: Esi
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: No answer provided
+            Real Answer: Kofi
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: No answer provided
+            Real Answer: Kobina
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: No answer provided
+            Real Answer: Efua
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: Ama
+            Real Answer: Ama
+            Grade: 1
+        12:
+            Classification: Type 1
+            LLM Answer: No answer provided
+            Real Answer: Yaw
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: Thema
+            Real Answer: Thema
+            Grade: 1
+        14:
+            Classification: Type 1
+            LLM Answer: No answer provided
+            Real Answer: Berko
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: Dubaku ne Kunto, nua, yere, Enu, wɔfa, nana, wɔfase, nanabarima
+            Real Answer: Dubaku ne Kunto, agyanom, nuanom, sewaa, wɔfa, wɔfabanom, sewaaba
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: Enu, Esi, yere nuanom, mma
+            Real Answer: Ofori, wɔfaasenom, nuanom
+            Grade: 0
+
+Total Score: 36/93

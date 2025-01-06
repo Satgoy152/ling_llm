@@ -1,4 +1,4 @@
-Prompt: As an expert in computational linguistics solve the following problem:
+Prompt: As an expert in computational linguistics solve the following problems:
 
 ### Problem 1 (20 points)
 Given are verbs of the Budukh language in three forms:

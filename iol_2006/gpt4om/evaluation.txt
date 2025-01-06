@@ -1,0 +1,316 @@
+Based on the provided classification, LLM solutions, and real answers, here's the grading for each problem:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: You and the Indian called the bear.
+            Real Answer: I came and the Indians called the bears.
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: The person called me and the bear.
+            Real Answer: The man killed you and called me.
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: The person called me and the bear.
+            Real Answer: The man killed you and he called me.
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: Me.
+            Real Answer: He killed you.
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: You and the Indian called the bear. / You called the bear and the Indian did as well. / You and the Indian called the bear together.
+            Real Answer: Whom did he kill? / Who killed him?
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: Lakhota ki wičhakte ną hokšila ki hipi.
+            Real Answer: lakhota ki hokšita ki ktepi čha matho ki hi
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: Yahi hipi ną lakhota ki wičhakte.
+            Real Answer: yahi ną lakhota ki yakte
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: Tuktuk ną hi tuwa?
+            Real Answer: tuwa wačho he
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: WíiyukA ki hipi ną wičhakte.
+            Real Answer: wičhaša ki hipi čha tuwa wičhakte
+            Grade: 1
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: els bastaixos
+            Real Answer: els bastaixos
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: els troleibúsos
+            Real Answer: els troleibusos
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: les pelvises
+            Real Answer: les pelvis
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: els iris
+            Real Answer: els iris
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: els llaços
+            Real Answer: els llaços
+            Grade: 1
+        6:
+            Classification: Type 1
+            LLM Answer: els ònixs
+            Real Answer: els ònixs
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: N/A
+            Real Answer: els pisos
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: N/A
+            Real Answer: els sequaços
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: N/A
+            Real Answer: les sequaçs
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: N/A
+            Real Answer: les xeixs
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: N/A
+            Real Answer: les clos
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 3
+            LLM Answer: The mark ` is used for stressed vowels in the penultimate syllable, while the mark ´ is used for stressed vowels in the last syllable.
+            Real Answer: The marks ` and ´ are used when the stress falls on a non-default syllable.
+            Grade: 1
+    Part c:
+        1:
+            Classification: Type 3
+            LLM Answer: In these cases, the stress typically falls on the penultimate syllable.
+            Real Answer: Without the marks, stress is penultimate if the word ends in -s, otherwise it is final.
+            Grade: 1
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: poьm
+            Real Answer: ka:m
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: a:c
+            Real Answer: a:c
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: noьm
+            Real Answer: am
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: ŋoьm
+            Real Answer: cam
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: cam
+            Real Answer: piъm
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: peьŋ
+            Real Answer: poьm
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: aŋ
+            Real Answer: noьm
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: caŋ
+            Real Answer: aŋ
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: am
+            Real Answer: ŋoьm
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: piъm
+            Real Answer: peьŋ
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: ŋiъk
+            Real Answer: ŋiъk
+            Grade: 1
+        12:
+            Classification: Type 1
+            LLM Answer: ka:m
+            Real Answer: miъn
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: miъn
+            Real Answer: caŋ
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: aŋy
+            Real Answer: kam
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: aŋa
+            Real Answer: ca:m
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: eŋ
+            Real Answer: ka:k
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: caŋ
+            Real Answer: niъ:m
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: tō
+            Real Answer: ŋeьŋ
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: yā
+            Real Answer: moьm
+            Grade: 0
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: Your boy's thigh.
+            Real Answer: your son's money
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: Thy leg of the stool.
+            Real Answer: thy stool leg
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: Thy stool's leg.
+            Real Answer: thy stool's leg
+            Grade: 2
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: b'ataŋiu bugdiŋi.
+            Real Answer: b'ata wo:ni
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: bi nakta.
+            Real Answer: bu naktaŋiu
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: bi nakta bi mo:ŋi:.
+            Real Answer: bi azigaŋi mo:ŋini
+            Grade: 1
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: No
+            Real Answer: Yes
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: Yes
+            Real Answer: Yes
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: Yes
+            Real Answer: No
+            Grade: 0
+    Part d:
+        1:
+            Classification: Type 3
+            LLM Answer: bi tekpui - My skin. Meaning: Refers to the skin of the speaker.
+            Real Answer: bi tekpui 'my skin' (the skin of my body)
+            Grade: 2
+        2:
+            Classification: Type 3
+            LLM Answer: bi tekpuŋi: - My body. Meaning: Refers to the entire body of the speaker.
+            Real Answer: bi tekpuŋi: 'my skin' (e.g., an animal's skin belonging to me)
+            Grade: 1
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 3
+            LLM Answer: The woman bought a goat for Mwangi. Error: "ugimbi" (goat) should be in the plural. Correct form: Mdala guli ugimbi Mwangi. (The woman bought goats for Mwangi.)
+            Real Answer: Mdala amguli ugimbi Mwangi.
+            Grade: 1
+        2:
+            Classification: Type 3
+            LLM Answer: The woman bought Mwangi a goat. Error: "mguli" is incorrect; it should be "guli". Correct form: Mdala guli Mwangi ugimbi.
+            Real Answer: Mdala amguli ugimbi Mwangi.
+            Grade: 1
+        3:
+            Classification: Type 3
+            LLM Answer: The woman bought a goat for Mwangi. Error: "aguli" is incorrect, it should be "guli". Correct form: Mdala guli ugimbi Mwangi.
+            Real Answer: Mdala amguli ugimbi Mwangi.
+            Grade: 1
+        4:
+            Classification: Type 3
+            LLM Answer: Kamau bought a hoe for the grandmothers. Error: "vamguli" should be "amaguli". Correct form: Kamau amaguli vabuya mene.
+            Real Answer: Kamau avaguli mene vabuya.
+            Grade: 1
+        5:
+            Classification: Type 3
+            LLM Answer: Kamau bought a hoe for the grandmothers. Error: "mene" is incorrect; it should be "ligela". Correct form: Kamau guli ligela vabuya.
+            Real Answer: Kamau avaguli mene vabuya.
+            Grade: 1
+        6:
+            Classification: Type 3
+            LLM Answer: Kamau bought a hoe for the grandmothers. Error: "vaguli" should be "guli". Correct form: Kamau guli vabuya mene.
+            Real Answer: Kamau avaguli mene vabuya.
+            Grade: 1
+
+Total Score: 25/57

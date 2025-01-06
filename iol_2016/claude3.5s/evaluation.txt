@@ -1,0 +1,409 @@
+I understand. I'll grade the LLM's answers based on the provided rubric and classifications. I'll follow the format you've specified, grading each subquestion individually.
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: Lamaoä' dai' di Palempang
+            Real Answer: Lamaoä' dai' di Palempang
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: Lamaoä' bete' di Palempang
+            Real Answer: Lamaoä' dai' di Palempang
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: Lamaoä' bete' di Bulung
+            Real Answer: Lamaoä' bete' di Bulung
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: Lamaoä' tama di Sohongang
+            Real Answer: Lamaoä' sau di Sohongang
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: Lamaoä' bete' di Bulung
+            Real Answer: Lamaoä' naung di Bulung
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: Lamaoä' sau di Kota
+            Real Answer: Lamaoä' sau di Kota
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: Lamaoä' naung di Pahihuang
+            Real Answer: Lamaoä' naung di Pahihuang
+            Grade: 1
+        8:
+            Classification: Type 1
+            LLM Answer: Lamaoä' sau di Kota
+            Real Answer: Lamaoä' tama di Kota
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: Lamaoä' naung di Pikung
+            Real Answer: Lamaoä' naung di Pikung
+            Grade: 1
+        10:
+            Classification: Type 1
+            LLM Answer: Lamaoä' dai' di Kota
+            Real Answer: Lamaoä' pano di Kota
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: Lamaoä' dai' di Bulung
+            Real Answer: Lamaoä' bete' di Bulung
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: Lamaoä' dai' di Kahangang
+            Real Answer: Lamaoä' tama di Kahangang
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: Lamaoä' dai' di Panampo
+            Real Answer: Lamaoä' dai' di Panampo
+            Grade: 1
+        14:
+            Classification: Type 1
+            LLM Answer: Lamaoä' dai' di Kahangang
+            Real Answer: Lamaoä' bete' di Kahangang
+            Grade: 0
+        15:
+            Classification: Type 1
+            LLM Answer: Lamaoä' bete' di Palempang
+            Real Answer: Lamaoä' dai' di Palempang
+            Grade: 0
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: HV
+            Real Answer: runtiyas
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: EU
+            Real Answer: patis
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: OY
+            Real Answer: harnisas
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: AB
+            Real Answer: iziyanta
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: NQ
+            Real Answer: turpis
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: FT
+            Real Answer: tarhunzas
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: CK
+            Real Answer: hawis
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: IL
+            Real Answer: sanawas
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: MX
+            Real Answer: nimuwizas
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: GR
+            Real Answer: zitis
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: DW
+            Real Answer: piyanti
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: PS
+            Real Answer: hantawatis
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: JZ
+            Real Answer: istaris
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: tyis corresponds to 'man' (zitis)
+            Real Answer: tyis — thunder (tarhunzas)
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: f4_ corresponds to 'hand' (istaris)
+            Real Answer: f4_ — son (nimuwizas)
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: Likely a phonetic complement or determinative
+            Real Answer: ta
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: Possibly a plural marker or grammatical suffix
+            Real Answer: king (hantawatis)
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: Seems to be used in words related to animals
+            Real Answer: wa, wi
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: Could be a verbal marker or tense indicator
+            Real Answer: ta
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: Appears to be a common ending, possibly a nominative case marker
+            Real Answer: s(a)
+            Grade: 1
+        6:
+            Classification: Type 2
+            LLM Answer: Might represent a specific consonant sound
+            Real Answer: ti, foot (patis)
+            Grade: 1
+        7:
+            Classification: Type 2
+            LLM Answer: Could be a logogram for a common concept
+            Real Answer: zi, man (zitis)
+            Grade: 1
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: The thieves will strike us.
+            Real Answer: The thieves are striking us.
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: I repaired the door for the neighbor.
+            Real Answer: I repaired the door for the neighbour.
+            Grade: 2
+        3:
+            Classification: Type 2
+            LLM Answer: The donkey found the owner.
+            Real Answer: The donkey found the owners.
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: The owner gave us the camel.
+            Real Answer: The owners gave us the camel.
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: I am buying the chicken.
+            Real Answer: I will buy the chicken.
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: kanarri tirti beyyeːg ticcirra.
+            Real Answer: kanarriːcci tirtki beyyeːg atirra.
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: jahali argi waliːg jaːntirsu.
+            Real Answer: jahal argi walgi jaːndeːccirsu.
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: ar mani bimaːgri.
+            Real Answer: ar mangi bimaːgru.
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: tirti magaski ajomsu.
+            Real Answer: tirti magasiːg jomirsa.
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: wali sarkaːygi darbadki eldeːntirsu.
+            Real Answer: wali sarkaːygi darbadiːg eltirsa.
+            Grade: 1
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: a
+            Real Answer: gu-na vaala
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: m
+            Real Answer: ka'ik
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: f
+            Real Answer: ka'ik-gu
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: h
+            Real Answer: kla-wun
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: b
+            Real Answer: laavu
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: e
+            Real Answer: laavu-ga
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: d
+            Real Answer: ni'bu
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: c
+            Real Answer: ni'bu-na vaala
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: j
+            Real Answer: nya-ka'ik
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: g
+            Real Answer: vi
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: o
+            Real Answer: vi'-wun
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: k
+            Real Answer: walini'ba-na bâk
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: l
+            Real Answer: walini'ba-na gu
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: n
+            Real Answer: walini'ba-na vi
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: vaala - banana
+            Real Answer: vaala — canoe
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: gu - to see
+            Real Answer: gu — water
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: vi' - to get
+            Real Answer: vi' — to see
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: ka'ik
+            Real Answer: bâk
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: vaala ni'bu
+            Real Answer: laavuga
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: nyaka'ik
+            Real Answer: nya
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: walini'bana
+            Real Answer: walini'ba
+            Grade: 1
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: utnhantxi - is it in my house?
+            Real Answer: utnhantxi — is it in my house?
+            Grade: 2
+        2:
+            Classification: Type 2
+            LLM Answer: yapp"psa - his field too
+            Real Answer: yapp"psa — his field too
+            Grade: 2
+        3:
+            Classification: Type 2
+            LLM Answer: yapup"psa - the field too
+            Real Answer: yapup"psa — through the field too
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: qaqst"a
+            Real Answer: qaqsa
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: chushmanpsa
+            Real Answer: chushumna
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: chushmanpsa
+            Real Answer: chushmanpsa
+            Grade: 2
+        4:
+            Classification: Type 2
+            LLM Answer: chushmat"psa
+            Real Answer: chushumt"psa
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: aq"t"txi
+            Real Answer: aq"it"txi
+            Grade: 1
+        6:
+            Classification: Type 2
+            LLM Answer: uttxi
+            Real Answer: utatxi
+            Grade: 1
+
+Total Score: 28/70

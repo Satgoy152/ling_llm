@@ -1,0 +1,178 @@
+### Problem 1: Word Order and Transformations
+#### Rules:
+1. **Word Order:** OSV (Object, Subject, Verb) and NA (Noun, Adjective).
+2. **Transformations:**
+   - A → V (‘make A’): A-man.
+   - V → A:
+     - ‘that is always being Ved’ → `-n -ñu`
+     - ‘that is always Ving Ns’ → `-l-muNa` / `-l-Nay-muNa`
+
+3. **Articles:**
+   - **O S:**
+     - `balan` `baNgun` — women, dangerous animals, and objects.
+     - `bayi` `baNgul` — men, animals.
+     - `bala` `baNgu` — all other things.
+
+4. **Subject and Attributes Endings:**
+   - `-Ngu` if word ends in a vowel and has two syllables.
+   - `-gu` if word ends in a vowel and has more than two syllables.
+   - `-Du` if word ends in a consonant (D is a stop articulated in the same place in the mouth as the final sound of the word).
+
+#### (a)
+- The grasshopper is neither a woman nor a dangerous animal, but takes the same article, so it must be the “old woman” from the myth. The linguist thought that `baNgun bundiñéu` in example (14) was an error.
+
+#### (b)
+1. `balan ñalNga baNgul NumaNgu guniymuNagu bambunman.`  
+   (The father that is always being searched for is healing the girl.)
+
+2. `bala diban bilmbalmuNa baNgun biñéiriñéu guniñu.`  
+   (The lizard is searching for the stone that is always being pushed.)
+
+3. `bayi bargan baNgul yaóaNgu gubimbuluNunéanaymuNagu banéan.`  
+   (The man that is always blaming doctors is following the wallaby.)
+
+#### (c)
+1. The little wallaby is looking at the dragonfly.  
+   `bayi yiriñéila baNgul bargandu wuraNgu buóan.`
+
+2. The aunt that is always being followed is bending the feather.  
+   `bala yila baNgun mugunanéagu banéalmuNagu waóuman.`
+
+3. The sleeping possum is ignoring the loud noise.  
+   `bala muNga baNgul midindu éagundu Naéin.`
+
+4. The caterpillar is searching for the man that is always carrying stones.  
+   `bayi yaóa dibandimbanaymuNa baNgul bayimbambu guniñu.`
+
+---
+
+### Problem 2: Numeral System
+#### Umbu-Ungu Numerals
+1. telu
+2. talu
+3. yepoko
+
+12. rurepo
+16. malapu
+20. supu
+24. tokapu
+28. alapu
+32. polangipu
+
+#### (a) Translations
+1. `tokapu polangipu` = 24 + 32 = 56
+2. `tokapu talu rureponga telu` = 24×2 + 12¬3 = 57
+3. `tokapu yepoko malapunga talu` = 24×3 + 16¬2 = 86
+4. `tokapu yepoko polangipunga telu` = 24×3 + 32¬1 = 101
+
+#### (b) Translations
+1. `malapunga telu` = 16¬1 = 13
+2. `tokapu talu supunga talu` = 24×2 + 20¬2 = 66
+3. `tokapu yepoko` = 24×3 = 72
+4. `tokapu talu alapu` = 24×2 + 28 = 76
+5. `tokapu yepoko tokapunga yepoko` = 24×3 + 24¬3 = 95
+
+---
+
+### Problem 3: Verb Conjugation
+#### Verb Forms
+| A    | B               | Z  |
+|------|-----------------|----|
+| nau- | natzai-, zai-   | -t |
+| du-  | gatzaizki-, zaizki- | -gu|
+| ditu-|                 | -zu|
+|      |                 | -zue|
+|      |                 | -te|
+
+#### (a) Translations
+1. `ahaztu ditut` / `ahaztu zaizkit` — I forgot them
+2. `ahaztu zaizu` — you (sg.) forgot him
+3. `hurbildu natzaizue` — I approached you (pl.)
+4. `hurbildu zait` — he approached me
+5. `lagundu ditugu` — we helped them
+6. `lagundu dituzu` — you (sg.) helped them
+7. `lagundu dute` — they helped him
+8. `lagundu nauzue` — you (pl.) helped me
+9. `mintzatu natzaizu` — I talked to you (sg.)
+10. `mintzatu gatzaizkizue` — we talked to you (pl.)
+11. `mintzatu zaizkigu` — they talked to us
+12. `ukitu ditugu` — we touched them
+13. `ukitu naute` — they touched me
+
+#### (b) Translations
+1. `ukitu nauzu` — you (sg.) touched me
+2. `hurbildu zaizkit` — they approached me
+
+#### (c) Translations
+1. `lagundu dut` — I helped him
+2. `hurbildu gatzaizkizu` — we approached you (sg.)
+
+#### (d) Translation
+1. `ahaztu duzu` — you (sg.) forgot him
+
+---
+
+### Problem 4: Sentence Structure
+#### Rules:
+1. **Structure:** S `paa` V O [O′ ]
+   - O `paa` V S [O′ ]
+   - O′ `paa` V S O
+2. **Articles:**
+   - `a` if this is the first third person in the sentence.
+   - `bona` otherwise.
+
+#### (a) Translations
+1. `Eam paa ani a overe.` — You (pl.) ate the coconut.
+2. `Ean paa tasu a oraoraa bona kae.` — You (sg.) struck the sorcerer with the bag.
+3. `Eove paa tara ameam.` — He saw you (pl.).
+
+#### (b) Translations
+1. `Enam paa hee vuan a taba’ani.` — We gave the food to you (sg.).
+2. `Eove paa dao anaa bona beiko.` — He called me a child.
+3. `Enaa paa asun e bona.` — I killed him with it.
+4. `A oraoraa paa hee bona visoasi bona iana.` — The sorcerer gave the fish to the boy.
+
+#### (c) Translations
+1. They called the sorcerer a woman.  
+   `A oraoraa paa dao ori bona moon.`
+
+2. The boy killed the fish with the axe.  
+   `A toraara paa asun a visoasi bona iana.`
+
+---
+
+### Problem 5: Morphological Changes
+#### Morphological Rules
+1. `-VCV` → `-VC`
+2. `-VCu` → `-VC`
+3. `-VCi` → `-V̈C`
+4. `-VCa` → `-VaC`
+
+#### (a) Body Parts:
+1. `‘u‘u` — arm/hand
+2. `isu` — nose
+3. `kia` — neck
+4. `leva` — hair
+5. `mafa` — eye
+6. `susu` — breast
+7. `huga` — heart
+
+#### (b) Additional Translations:
+1. `tiro` — glass (stuff)
+2. `poga` — hole
+3. `huag lala` — patient
+4. `ha. f puhra. ki` — volcanic rock
+5. `maf pogi` or `maf pala` — blind
+
+#### (c) Compound Words:
+1. `round` — `ka. lka. lu`
+2. `to cut copra` — `‘ol niu`
+3. `curly hair` — `leav pirpiri`
+4. `sticky` — `pulpulu`
+5. `to flash` — `rima`
+6. `rubbish` — `mofa`
+
+#### (d) Special Forms:
+1. Word: `fäega` (or `fäeaga`, `fäeagu`)
+2. To exhaust: `a‘ofi` (or `a‘öfi`, `a‘öfö`, `a‘öfu`, `a‘öfü`, `a‘ofü`)
+

@@ -1,0 +1,741 @@
+I understand. I'll grade the LLM's answers based on the provided rubric and classifications. Here's the grading for each problem:
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: A. ho tōn hyiōn dulos - 1. the slave of the sons
+            Real Answer: E → 1. the slave of the sons
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: B. hoi tōn dulōn cyrioi - 2. the masters of the slaves
+            Real Answer: C → 2. the masters of the slaves
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: C. hoi tu emporu adelphoi - 3. the brothers of the merchant
+            Real Answer: D → 3. the brothers of the merchant
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: D. hoi tōn onōn emporoi - 4. the merchants of the donkeys
+            Real Answer: H → 4. the merchants of the donkeys
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: E. ho tu cyriu onos - 5. the donkey of the master
+            Real Answer: A → 5. the donkey of the master
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: F. ho tu oicu cyrios - 6. the master of the house
+            Real Answer: B → 6. the master of the house
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: G. ho tōn adelphōn oicos - 7. the house of the brothers
+            Real Answer: G → 7. the house of the brothers
+            Grade: 1
+        8:
+            Classification: Type 1
+            LLM Answer: H. hoi tōn cyriōn hyioi - 8. the sons of the masters
+            Real Answer: F → 8. the sons of the masters
+            Grade: 0
+    Part b:
+        a):
+            Classification: Type 2
+            LLM Answer: hoi tōn emporōn oikoi
+            Real Answer: hoi to:n emporo:n oicoi
+            Grade: 1
+        b):
+            Classification: Type 2
+            LLM Answer: hoi tōn dulōn onoi
+            Real Answer: hoi tu dulu onoi
+            Grade: 1
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: despertau
+            Real Answer: concordaus
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: chicolat
+            Real Answer: chicolatz
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: chunta
+            Real Answer: chuntas
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: eclix
+            Real Answer: eclixes
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: ferfet
+            Real Answer: ferfetz
+            Grade: 0
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: corn
+            Real Answer: beautiful(ly)
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: yellow
+            Real Answer: ripe
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: kya porang mo:h kyä
+            Real Answer: kalali:ʔ mo:h ʤö
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: kwɨ: li:ʔ kalakwa: ne kya
+            Real Answer: ʤö mɨlane mo:h ro:h kya
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: My yellow pineapples have grown.
+            Real Answer: My yellow pineapples ripened well.
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: The corn grew beautifully.
+            Real Answer: The beautiful corn grew.
+            Grade: 1
+
+Problem 6:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: The singer was not only molistic but also cluvious.
+            Real Answer: May found a dog that was danty but sloshful.
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: blitty
+            Real Answer: blitty = undesirable
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: sloshful
+            Real Answer: sloshful = undesirable
+            Grade: 1
+        3:
+            Classification: Type 1
+            LLM Answer: frumsy
+            Real Answer: frumsy = desirable
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: [missing]
+            Real Answer: weasy = undesirable
+            Grade: 0
+
+Problem 7:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: The stool on the table.
+            Real Answer: The stool below the table.
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: The book under the cupboard.
+            Real Answer: The book under the bookcase.
+            Grade: 1
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: gor
+            Real Answer: zir-e or pāin-e
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: sanduq
+            Real Answer: zir-e or pāin-e
+            Grade: 0
+
+Problem 8:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: bir men bes
+            Real Answer: segiz ben elüw
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: bir _ segiz (missing word: "men")
+            Real Answer: bir men segiz
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: elüw eki men on
+            Real Answer: üš pen eki
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: tört pen žeti
+            Real Answer: tört pen žeti
+            Grade: 2
+        5:
+            Classification: Type 2
+            LLM Answer: žeti men elüw
+            Real Answer: žeti men elüw
+            Grade: 2
+        6:
+            Classification: Type 2
+            LLM Answer: otız ben _ (missing word: "elüw")
+            Real Answer: otız ben eki
+            Grade: 1
+        7:
+            Classification: Type 2
+            LLM Answer: on üš pen otız
+            Real Answer: on üš pen otız
+            Grade: 2
+        8:
+            Classification: Type 2
+            LLM Answer: üš _ eki (missing word: "on")
+            Real Answer: otız ben eki
+            Grade: 0
+        9:
+            Classification: Type 2
+            LLM Answer: elüw eki men on
+            Real Answer: elüw eki men on
+            Grade: 2
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: bes men otız segiz
+            Real Answer: bes pen otız segiz
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: on men toq
+            Real Answer: on men tört
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: žeti men elüw üş
+            Real Answer: žeti men elüw üš
+            Grade: 2
+        4:
+            Classification: Type 2
+            LLM Answer: otız segiz men bes
+            Real Answer: otız segiz ben bes
+            Grade: 1
+
+Problem 9:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: tōshō "Sword General" ⟹ kōsō
+            Real Answer: sōroku "Running Stag" ⟹ honroku "Dashing Stag"
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: gyūhei "Ox Soldier" ⟹ kōgyū "Ox General"
+            Real Answer: tōhei "Sword Soldier" ⟹ tōshō "Sword General"
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: kisho "Wood General" ⟹ mukō "Wood General"
+            Real Answer: gyūhei "Ox Soldier" ⟹ sōgyū "Running Ox"
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: dohei "Crossbow Soldier" ⟹ yūhei "Crossbow General"
+            Real Answer: ushō "Right General" ⟹ ugun "Right Army"
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: sōba "Horse Soldier" ⟹ sōba "Horse General"
+            Real Answer: gyūshō "Ox General" ⟹ hongyū "Dashing Ox"
+            Grade: 0
+        6:
+            Classification: Type 2
+            LLM Answer: sōyū "Running Bear" ⟹ dōyū "Dashing Bear"
+            Real Answer: kyūhei "Bow Soldier" ⟹ kyūshō "Bow General"
+            Grade: 0
+        7:
+            Classification: Type 2
+            LLM Answer: tonshō "Pig General" ⟹ honton "Pig General"
+            Real Answer: kishō "Wood General" ⟹ hakuzō "White Elephant"
+            Grade: 0
+        8:
+            Classification: Type 2
+            LLM Answer: tesshō ⟹ kōkō "White Elephant"
+            Real Answer: dohei "Crossbow Soldier" ⟹ doshō "Crossbow General"
+            Grade: 0
+        9:
+            Classification: Type 2
+            LLM Answer: [missing]
+            Real Answer: bashō "Horse General" ⟹ honba "Dashing Horse"
+            Grade: 0
+
+Problem 10:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: tata
+            Real Answer: ubixab → uvixá
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: ribi
+            Real Answer: arukang → arukã
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: opuan
+            Real Answer: opuan → akuã
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: mandubi
+            Real Answer: mandubi → manduvi
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: petek
+            Real Answer: petek → peté
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: senub
+            Real Answer: senub → henú
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: pyranga
+            Real Answer: pyranga → pyrã
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: teju
+            Real Answer: teju → teju
+            Grade: 1
+        9:
+            Classification: Type 1
+            LLM Answer: a'é
+            Real Answer: a'é → a'é
+            Grade: 1
+        10:
+            Classification: Type 1
+            LLM Answer: porang
+            Real Answer: porang → porã
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: pó
+            Real Answer: juru → juru
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: pata
+            Real Answer: ku'a → ku'a
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: yvyrá
+            Real Answer: ybyrá → yvyrá
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: erepytá
+            Real Answer: erepytá → erepytá
+            Grade: 1
+        15:
+            Classification: Type 1
+            LLM Answer: tupã
+            Real Answer: ybaté → yvaté
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: j
+            Real Answer: j
+            Grade: 1
+        2:
+            Classification: Type 1
+            LLM Answer: a
+            Real Answer: m
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: l
+            Real Answer: c
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: d
+            Real Answer: d
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: c
+            Real Answer: i
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: i
+            Real Answer: f
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: h
+            Real Answer: a
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: m
+            Real Answer: h
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: b
+            Real Answer: e
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: k
+            Real Answer: n
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: o
+            Real Answer: g
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: e
+            Real Answer: o
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: f
+            Real Answer: l
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: g
+            Real Answer: b
+            Grade: 0
+        15:
+            Classification: Type 1
+            LLM Answer: n
+            Real Answer: k
+            Grade: 0
+
+Problem 12:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: hogeita bi
+            Real Answer: hogeita
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: hogeita bi
+            Real Answer: bederatzi
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: 43
+            Real Answer: 93
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: 30
+            Real Answer: 60
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: hogeita bederatzi
+            Real Answer: hogeita hamabederatzi
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: hirurogeita zazpi
+            Real Answer: hirurogeita hamazazpi
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: laurogeita
+            Real Answer: laurogei
+            Grade: 0
+
+Problem 14:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: Gunnar Gunnarsson
+            Real Answer: Jón Oddsson Bergmann
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: Margret Steinunnarson
+            Real Answer: Ragnheiður Jakobsdóttir
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: two
+            Real Answer: three
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: one
+            Real Answer: three
+            Grade: 0
+        5:
+            Classification: Type 2
+            LLM Answer: Ragnheiður Jakobsdóttir
+            Real Answer: Stefan Gunnarsson Gunnarssonar
+            Grade: 0
+        6:
+            Classification: Type 2
+            LLM Answer: Björk Christian, Björk Guðrúnar, Björk Jakob, Björk Daniel, Björk Hrafn
+            Real Answer: Guðmundur (Evasson /Christiansson)(Emilsonnar /Kristínsonnar/Viktorssonar) (Kvaran)
+            Grade: 0
+        7:
+            Classification: Type 2
+            LLM Answer: Steinunn, Guðrún
+            Real Answer: Hrafnildur Björnsdóttir (Annassonar)
+            Grade: 0
+
+Problem 16:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: I will eat.
+            Real Answer: I was eating
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: You will be waking up.
+            Real Answer: He will be waking up
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: You will not be taking.
+            Real Answer: I will not be taking
+            Grade: 1
+        4:
+            Classification: Type 2
+            LLM Answer: You will not be crying.
+            Real Answer: You are not crying
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: I was not crying.
+            Real Answer: I wasn't catching
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: ndepemokapu.
+            Real Answer: nepe-mbokapu-i
+            Grade: 1
+        2:
+            Classification: Type 2
+            LLM Answer: nó japurahei.
+            Real Answer: ndo-purahei-ri
+            Grade: 1
+        3:
+            Classification: Type 2
+            LLM Answer: ñamenda.
+            Real Answer: jakaru-ta
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: ndañapuruhái.
+            Real Answer: nda-purahei-mo'ai
+            Grade: 1
+
+Problem 18:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: rock
+            Real Answer: kiwen suno jelo = gold
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: sun
+            Real Answer: tomo tawa telo = boat
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: yellow
+            Real Answer: jan Powi = Boris
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: house
+            Real Answer: ilo suno = lantern
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: movement
+            Real Answer: telo jelo = piss
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: water
+            Real Answer: jan ilo = robot
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: person
+            Real Answer: jan toki = prophet
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: Boris
+            Real Answer: supa lape = bed
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: tool
+            Real Answer: supa moku = dinner table
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: table
+            Real Answer: ma tomo = city
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: sleep
+            Real Answer: wile moku = hungry
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: eat
+            Real Answer: tawa = movement
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: land
+            Real Answer: nasin linja = orthodoxy
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: want
+            Real Answer: wile pona = well-intentioned
+            Grade: 0
+        15:
+            Classification: Type 1
+            LLM Answer: path
+            Real Answer: telo kiwen = ice
+            Grade: 0
+        16:
+            Classification: Type 1
+            LLM Answer: line
+            Real Answer: lipu toki = book
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: rock
+            Real Answer: stone
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: light
+            Real Answer: bright
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: yellow
+            Real Answer: yellow
+            Grade: 1
+        4:
+            Classification: Type 1
+            LLM Answer: house
+            Real Answer: house
+            Grade: 1
+        5:
+            Classification: Type 1
+            LLM Answer: moving
+            Real Answer: moving
+            Grade: 1
+        6:
+            Classification: Type 1
+            LLM Answer: water
+            Real Answer: water
+            Grade: 1
+        7:
+            Classification: Type 1
+            LLM Answer: person
+            Real Answer: person
+            Grade: 1
+        8:
+            Classification: Type 1
+            LLM Answer: tool
+            Real Answer: tool
+            Grade: 1
+        9:
+            Classification: Type 1
+            LLM Answer: [missing]
+            Real Answer: word
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: surface
+            Real Answer: surface
+            Grade: 1
+        11:
+            Classification: Type 1
+            LLM Answer: eat
+            Real Answer: eat
+            Grade: 1
+        12:
+            Classification: Type 1
+            LLM Answer: land
+            Real Answer: way
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: line
+            Real Answer: straight
+            Grade: 0
+        14:
+            Classification: Type 1
+            LLM Answer: head
+            Real Answer: will
+            Grade: 0
+        15:
+            Classification: Type 1
+            LLM Answer: [missing]
+            Real Answer: good
+            Grade: 0
+        16:
+            Classification: Type 1
+            LLM Answer: [missing]
+            Real Answer: flexible surface
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: Toki Pona can be literally translated as "the language of good" or "simple language."
+            Real Answer: "Good language" (or "Simple language")
+            Grade: 2
+
+Total Score: 39/168

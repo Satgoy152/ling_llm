@@ -1,0 +1,66 @@
+Here's the classification of the questions based on the provided rubric:
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 2
+        2:
+            Classification: Type 2
+        3:
+            Classification: Type 2
+        4:
+            Classification: Type 2
+        5:
+            Classification: Type 2
+    Part b:
+        1:
+            Classification: Type 2
+        2:
+            Classification: Type 2
+        3:
+            Classification: Type 2
+        4:
+            Classification: Type 2
+
+Problem 2:
+    Part a:
+        1-12:
+            Classification: Type 2
+
+Problem 3:
+    Part a:
+        Classification: Type 3
+    Part b:
+        Classification: Type 1
+
+Problem 4:
+    Part a:
+        8:
+            Classification: Type 2
+        9:
+            Classification: Type 2
+        10:
+            Classification: Type 2
+    Part b:
+        11:
+            Classification: Type 2
+        12:
+            Classification: Type 2
+    Part c:
+        Classification: Type 3
+
+Problem 5:
+    Part a:
+        1-17:
+            Classification: Type 2
+    Part b:
+        1-4:
+            Classification: Type 2
+    Part c:
+        1-4:
+            Classification: Type 2
+
+Total Questions: 54
+    Type 1: 1
+    Type 2: 51
+    Type 3: 2

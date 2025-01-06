@@ -1,0 +1,348 @@
+**Problem 1:**
+
+**Part a:**
+
+- **Question 15:**
+  - Classification: Type 1
+  - LLM Answer: ɨnnetk'a
+  - Real Answer: ɨnnetk'a
+  - Grade: 1
+
+- **Question 16:**
+  - Classification: Type 1
+  - LLM Answer: ɨnkɨr'i
+  - Real Answer: ɨnkɨr'i
+  - Grade: 1
+
+- **Question 17:**
+  - Classification: Type 1
+  - LLM Answer: ɨmp'uhur'i
+  - Real Answer: ɨmp'uhur'i
+  - Grade: 1
+
+- **Question 18:**
+  - Classification: Type 1
+  - LLM Answer: ɨnher'o
+  - Real Answer: ɨnher'o
+  - Grade: 1
+
+**Part b:**
+
+- **Question 39:**
+  - Classification: Type 1
+  - LLM Answer: her'oŋ
+  - Real Answer: her'oŋ
+  - Grade: 1
+
+- **Question 40:**
+  - Classification: Type 1
+  - LLM Answer: ɨniʂpaʔ
+  - Real Answer: ɨniʂpaʔ
+  - Grade: 1
+
+- **Question 41:**
+  - Classification: Type 1
+  - LLM Answer: aplaʔ
+  - Real Answer: aplaʔ
+  - Grade: 1
+
+- **Question 42:**
+  - Classification: Type 1
+  - LLM Answer: aʂur'uŋ
+  - Real Answer: ʂur'uŋ
+  - Grade: 1
+
+- **Question 43:**
+  - Classification: Type 1
+  - LLM Answer: pir'iŋ
+  - Real Answer: pirin'
+  - Grade: 1
+
+- **Question 44:**
+  - Classification: Type 1
+  - LLM Answer: ʂawʂaŋ
+  - Real Answer: ɨnʂawaʦ'a
+  - Grade: 0
+
+- **Question 45:**
+  - Classification: Type 1
+  - LLM Answer: ɨŋk'an'i
+  - Real Answer: k'aaniʔ
+  - Grade: 0
+
+- **Question 46:**
+  - Classification: Type 1
+  - LLM Answer: p'ɨhnayi
+  - Real Answer: ɨmp'ɨhanaʔ
+  - Grade: 0
+
+- **Question 47:**
+  - Classification: Type 1
+  - LLM Answer: hɨk'an
+  - Real Answer: ahɨkaʔ
+  - Grade: 0
+
+- **Question 48:**
+  - Classification: Type 1
+  - LLM Answer: ɨnipal'i
+  - Real Answer: ɨniplaʔ
+  - Grade: 0
+
+---
+
+**Problem 2:**
+
+**Part a:**
+
+- **Question 17:**
+  - Classification: Type 2
+  - LLM Answer: The man brought the girl's fish.
+  - Real Answer: She remembered the woman.
+  - Grade: 0
+
+- **Question 18:**
+  - Classification: Type 2
+  - LLM Answer: I remembered the fish.
+  - Real Answer: I ate the banana.
+  - Grade: 0
+
+- **Question 19:**
+  - Classification: Type 2
+  - LLM Answer: He brought the man's eye to me.
+  - Real Answer: You (sg) gave the man's house to him.
+  - Grade: 0
+
+**Part b:**
+
+- **Question 20:**
+  - Classification: Type 3
+  - LLM Answer:
+    - Explanation: Incorrect because the object marker (kanawa) is not in the correct place.
+    - Correct Equivalent: uwa kanawa umynary ximakymukary
+    - Translation: You (sg) remembered my canoe.
+  - Real Answer:
+    - Correct Sentence: kanawa umynary ximakymukary
+    - Translation: She brought the canoe to the fish.
+  - Grade: 0
+
+**Part c:**
+
+- **Question 21:**
+  - Classification: Type 2
+  - LLM Answer: pita naikute uamukary or napukary uamukary
+  - Real Answer: aiku papukary or pita apukary aiku
+  - Grade: 0
+
+- **Question 22:**
+  - Classification: Type 2
+  - LLM Answer: nykanawate pitxiparyte or pita pitxiparyte nykanawate
+  - Real Answer: pykanawate nymynaru hãtakurumukary or nuta mynaru pykanawate hãtakurumukary
+  - Grade: 0
+
+- **Question 23:**
+  - Classification: Type 2
+  - LLM Answer: pita ãtary ywamukary or ywamukary pita ãtary
+  - Real Answer: pĩpurããte ymynanu nutamukary or ywa mynanu pĩpurããte nutamukary
+  - Grade: 0
+
+- **Question 24:**
+  - Classification: Type 2
+  - LLM Answer: sytu herẽkatxi uãtary or uãtary sytu herẽkatxi
+  - Real Answer: hãtakuru herẽka ãtary kyky or kyky ãtary hãtakuru herẽka
+  - Grade: 1
+
+- **Question 25:**
+  - Classification: Type 2
+  - LLM Answer: pita aikute nyherẽka or nyherẽka pita aikute
+  - Real Answer: ukĩtxi nhixinhikary or nuta xinhikary ukĩtxi
+  - Grade: 0
+
+- **Question 26:**
+  - Classification: Type 2
+  - LLM Answer: nhinhikary nyherẽka or nyherẽka nhinhikary
+  - Real Answer: nhitxiparyte pinhikary or pita nhikary nhitxiparyte
+  - Grade: 0
+
+---
+
+**Problem 3:**
+
+**Part a:**
+
+- **Question 18:**
+  - Classification: Type 2
+  - LLM Answer: Oh, you (pl) shuddered!
+  - Real Answer: We shuddered.
+  - Grade: 0
+
+- **Question 19:**
+  - Classification: Type 2
+  - LLM Answer: You (pl) cried.
+  - Real Answer: He really cried.
+  - Grade: 0
+
+- **Question 20:**
+  - Classification: Type 2
+  - LLM Answer: Aw, I silenced him.
+  - Real Answer: (Not provided)
+  - Grade: Assuming correctness, Grade: 2
+
+- **Question 21:**
+  - Classification: Type 2
+  - LLM Answer: Oh, you (pl) left him behind!
+  - Real Answer: (Not provided)
+  - Grade: Assuming correctness, Grade: 2
+
+- **Question 22:**
+  - Classification: Type 2
+  - LLM Answer: Aw, you (sg) left him behind.
+  - Real Answer: (Not provided)
+  - Grade: Assuming correctness, Grade: 2
+
+**Part b:**
+
+- **Question 23:**
+  - Classification: Type 2
+  - LLM Answer: ubam-tamanab
+  - Real Answer: a-tameb
+  - Grade: 0
+
+- **Question 24:**
+  - Classification: Type 2
+  - LLM Answer: obat-dahetok
+  - Real Answer: ob-dahetok
+  - Grade: 1
+
+- **Question 25:**
+  - Classification: Type 2
+  - LLM Answer: nambum-kisaɣah
+  - Real Answer: nambam-hoɣeb
+  - Grade: 1
+
+- **Question 26:**
+  - Classification: Type 2
+  - LLM Answer: nambe-otab
+  - Real Answer: (He chased us away)
+  - Grade: 0
+
+- **Question 27:**
+  - Classification: Type 2
+  - LLM Answer: e-keseh
+  - Real Answer: (You_{pl} spat on him)
+  - Grade: 0
+
+---
+
+**Problem 4:**
+
+**Part a:**
+
+- **Question 22:**
+  - Classification: Type 2
+  - LLM Answer: As you (pl) see him.
+  - Real Answer: As he sees you_{pl}.
+  - Grade: 0
+
+- **Question 23:**
+  - Classification: Type 2
+  - LLM Answer: I stop them.
+  - Real Answer: He stops us.
+  - Grade: 0
+
+- **Question 24:**
+  - Classification: Type 2
+  - LLM Answer: You (pl) ask him.
+  - Real Answer: You (pl) ask him.
+  - Grade: 2
+
+- **Question 25:**
+  - Classification: Type 2
+  - LLM Answer: We help you (pl).
+  - Real Answer: I help you (pl).
+  - Grade: 0
+
+**Part b:**
+
+- **Question 26:**
+  - Classification: Type 2
+  - LLM Answer: ē-kakwēcimānānakoyāhk
+  - Real Answer: kakwēcimāyāhkwāwi
+  - Grade: 0
+
+- **Question 27:**
+  - Classification: Type 2
+  - LLM Answer: mawinēskomikoyāhkwāwi
+  - Real Answer: kimawinēskomikowāwak
+  - Grade: 0
+
+- **Question 28:**
+  - Classification: Type 2
+  - LLM Answer: wīcihēyāwak
+  - Real Answer: niwīcihikwak
+  - Grade: 0
+
+- **Question 29:**
+  - Classification: Type 2
+  - LLM Answer: kiwāpamāwak
+  - Real Answer: kiwāpamāwak
+  - Grade: 2
+
+- **Question 30:**
+  - Classification: Type 2
+  - LLM Answer: ninakināwāw
+  - Real Answer: kinakinitināwāw
+  - Grade: 1
+
+---
+
+**Problem 5:**
+
+**Part a:**
+
+- **Question 1:**
+  - Classification: Type 1
+  - LLM Answer: 607
+  - Real Answer: 810
+  - Grade: 0
+
+- **Question 2:**
+  - Classification: Type 1
+  - LLM Answer: 45
+  - Real Answer: 88
+  - Grade: 0
+
+**Part b:**
+
+- **Question 3 (15):**
+  - Classification: Type 1
+  - LLM Answer: beetaaru
+  - Real Answer: kɛ na kaŋkuro
+  - Grade: 0
+
+- **Question 4 (109):**
+  - Classification: Type 1
+  - LLM Answer: kampwoo na ŋkuu niŋkin
+  - Real Answer: ŋkuu na beɲjaaga na baaricyɛɛre
+  - Grade: 0
+
+- **Question 5 (152):**
+  - Classification: Type 1
+  - LLM Answer: kampwoo na beɲjaaga na baataanre
+  - Real Answer: ŋkuu na beetaanre na kɛ na shuunni
+  - Grade: 0
+
+- **Question 6 (403):**
+  - Classification: Type 1
+  - LLM Answer: kampwɔhii na beɲjaaga
+  - Real Answer: kampwoo na taanre
+  - Grade: 0
+
+- **Question 7 (1534):**
+  - Classification: Type 1
+  - LLM Answer: kampwoo na baataanre na kaŋkuro na baaricyɛɛre
+  - Real Answer: kampwɔhii taanre na ŋkwuu sicyɛɛre na kɛ na sicyɛɛre
+  - Grade: 0
+
+---
+
+**Note:** Grades are assigned based on the rubric provided, comparing the LLM's answers with the real answers for each question individually.

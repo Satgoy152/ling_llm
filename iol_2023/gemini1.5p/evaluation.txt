@@ -1,0 +1,276 @@
+Based on the provided real answers and the classification, here's the grading for each problem:
+
+Problem 1:
+    Part a:
+        15:
+            Classification: Type 1
+            LLM Answer: netkay', ɨnnetk'a, push
+            Real Answer: netkay', ɨnnetk'a, push
+            Grade: 1
+        16:
+            Classification: Type 1
+            LLM Answer: kɨrɨy', ɨŋkɨr'ɨ, pull
+            Real Answer: kɨrɨy', ɨnkɨr'i, pull
+            Grade: 0
+        17:
+            Classification: Type 1
+            LLM Answer: p'uhruy', ɨmp'uhr'u, make holes
+            Real Answer: p'uhruy', ɨmp'uhur'i, make holes
+            Grade: 0
+        18:
+            Classification: Type 1
+            LLM Answer: her'oy, ɨnher'o, smooth out
+            Real Answer: her'oy, ɨnher'o, smooth out
+            Grade: 1
+    Part b:
+        39:
+            Classification: Type 1
+            LLM Answer: her'oŋ, I smoothed it out
+            Real Answer: her'oŋ, I smoothed (it) out
+            Grade: 1
+        40:
+            Classification: Type 1
+            LLM Answer: ɨniʂpaʔ, I am leaving
+            Real Answer: ɨniʂpaʔ, I left
+            Grade: 0
+        41:
+            Classification: Type 1
+            LLM Answer: aplaʔ, it opened
+            Real Answer: aplaʔ, it was opened
+            Grade: 0
+        42:
+            Classification: Type 1
+            LLM Answer: ʂur'uʔ, it chose (it)
+            Real Answer: ʂur'uŋ, it chose (it)
+            Grade: 0
+        43:
+            Classification: Type 1
+            LLM Answer: piiriʔ, I saw (it)
+            Real Answer: pirin', I saw (it)
+            Grade: 0
+        44:
+            Classification: Type 1
+            LLM Answer: ʂawʂanʔ, I plant (it)
+            Real Answer: ɨnʂawaʦ'a, I plant (it)
+            Grade: 0
+        45:
+            Classification: Type 1
+            LLM Answer: k'aniʔ, it was trapped
+            Real Answer: k'aaniʔ, it was trapped
+            Grade: 0
+        46:
+            Classification: Type 1
+            LLM Answer: p'ɨhnan', I leap
+            Real Answer: ɨmp'ɨhanaʔ, I leap
+            Grade: 0
+        47:
+            Classification: Type 1
+            LLM Answer: ahɨk'aʔ, it is being sewn, woven
+            Real Answer: ahɨkaʔ, it is being sewn, woven
+            Grade: 0
+        48:
+            Classification: Type 1
+            LLM Answer: ipaliʔ, I was bathed
+            Real Answer: ɨniplaʔ, I was bathed
+            Grade: 0
+
+Problem 2:
+    Part a:
+        17:
+            Classification: Type 2
+            LLM Answer: The woman remembered my eye.
+            Real Answer: She remembered the woman.
+            Grade: 0
+        18:
+            Classification: Type 2
+            LLM Answer: I remembered your banana.
+            Real Answer: I ate the banana.
+            Grade: 0
+        19:
+            Classification: Type 2
+            LLM Answer: The man brought his eye to me.
+            Real Answer: You_{sg} gave the man's house to him.
+            Grade: 0
+    Part b:
+        20:
+            Classification: Type 3
+            LLM Answer: Corrected Sentence: uwa umynary ysykanawa ximakymukary
+            English Translation: He brought the woman's canoe to the fish.
+            Real Answer: Correct Sentence: kanawa umynary ximakymukary or uwa mynary kanawa ximakymukar
+            Translation: She brought the canoe to the fish (sg)
+            Grade: 1
+    Part c:
+        21:
+            Classification: Type 2
+            LLM Answer: Naikute paapukary. / Paapukary naikute.
+            Real Answer: aiku papukary / pita apukary aiku
+            Grade: 0
+        22:
+            Classification: Type 2
+            LLM Answer: Nuta mupukary pisykaru hãtakurumukary.
+            Real Answer: pykanawate nymynaru hãtakurumukary / nuta mynaru pykanawate hãtakurumukary
+            Grade: 0
+        23:
+            Classification: Type 2
+            LLM Answer: Uwa umynary pĩpurããte nutamukary.
+            Real Answer: pĩpurããte ymynanu nutamukary / ywa mynanu pĩpurããte nutamukary
+            Grade: 1
+        24:
+            Classification: Type 2
+            LLM Answer: Kyky ãtary hãtakuru sytumukary.
+            Real Answer: hãtakuru herẽka ãtary kyky / kyky ãtary hãtakuru herẽka
+            Grade: 1
+        25:
+            Classification: Type 2
+            LLM Answer: Nuta inhikary ywa.
+            Real Answer: ukĩtxi nhixinhikary / nuta xinhikary ukĩtxi
+            Grade: 0
+        26:
+            Classification: Type 2
+            LLM Answer: Pita apĩtxi nhitxiparyte.
+            Real Answer: nhitxiparyte pinhikary / pita nhikary nhitxiparyte
+            Grade: 1
+
+Problem 3:
+    Part a:
+        18:
+            Classification: Type 2
+            LLM Answer: Oh, you_{pl} shuddered!
+            Real Answer: We shuddered
+            Grade: 0
+        19:
+            Classification: Type 2
+            LLM Answer: You_{pl} really cried.
+            Real Answer: He really cried
+            Grade: 0
+        20:
+            Classification: Type 2
+            LLM Answer: Aw, I tickled you_{pl} in vain.
+            Real Answer: I really spat on you_{sg} in vain
+            Grade: 0
+        21:
+            Classification: Type 2
+            LLM Answer: Aw, we left him behind.
+            Real Answer: Aw, he left you_{pl} behind
+            Grade: 0
+        22:
+            Classification: Type 2
+            LLM Answer: Oh, you_{sg} laughed at us in vain.
+            Real Answer: Oh, you_{sg} laughed at him in vain!
+            Grade: 1
+    Part b:
+        23:
+            Classification: Type 2
+            LLM Answer: a-tamab
+            Real Answer: a-tameb
+            Grade: 1
+        24:
+            Classification: Type 2
+            LLM Answer: ubat-dahetok
+            Real Answer: obat-dahetok
+            Grade: 1
+        25:
+            Classification: Type 2
+            LLM Answer: nambam-huɣanab
+            Real Answer: nambam-hoɣeb
+            Grade: 1
+        26:
+            Classification: Type 2
+            LLM Answer: um-otab
+            Real Answer: be-utanab
+            Grade: 0
+        27:
+            Classification: Type 2
+            LLM Answer: ebe-kesenawn
+            Real Answer: ibume-kisanah
+            Grade: 0
+
+Problem 4:
+    Part a:
+        22:
+            Classification: Type 2
+            LLM Answer: as they see you_{sg}
+            Real Answer: as he sees you_{pl}
+            Grade: 0
+        23:
+            Classification: Type 2
+            LLM Answer: I stop them
+            Real Answer: he stops us
+            Grade: 0
+        24:
+            Classification: Type 2
+            LLM Answer: you_{pl} ask me
+            Real Answer: you_{pl} ask him
+            Grade: 1
+        25:
+            Classification: Type 2
+            LLM Answer: they help you_{sg}
+            Real Answer: I help you_{pl}
+            Grade: 0
+    Part b:
+        26:
+            Classification: Type 2
+            LLM Answer: kakwēcimāhkanān
+            Real Answer: kakwēcimāyāhkwāwi
+            Grade: 0
+        27:
+            Classification: Type 2
+            LLM Answer: kimawineskomikowāw
+            Real Answer: kimawinēskomikowāwak
+            Grade: 1
+        28:
+            Classification: Type 2
+            LLM Answer: niwīcihāwāk
+            Real Answer: niwıc̄ihikwak
+            Grade: 1
+        29:
+            Classification: Type 2
+            LLM Answer: kiwāpamāwān
+            Real Answer: kiwāpamāwak
+            Grade: 1
+        30:
+            Classification: Type 2
+            LLM Answer: kinakininawāw
+            Real Answer: kinakinitināwāw
+            Grade: 1
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: 1007
+            Real Answer: 810
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: 120
+            Real Answer: 88
+            Grade: 0
+    Part b:
+        3:
+            Classification: Type 2
+            LLM Answer: taanre na niŋkin
+            Real Answer: kɛ na kaŋkuro
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: ŋkuu na kaŋkuro
+            Real Answer: ŋkuu na beɲjaaga na baaricyɛɛre
+            Grade: 1
+        5:
+            Classification: Type 2
+            LLM Answer: ŋkuu na taanre na niŋkin na baani
+            Real Answer: ŋkuu na beetaanre na kɛ na shuunni
+            Grade: 1
+        6:
+            Classification: Type 2
+            LLM Answer: kampwoo shicyɛɛre na beeshuunni
+            Real Answer: kampwoo na taanre
+            Grade: 0
+        7:
+            Classification: Type 2
+            LLM Answer: kampwɔhii sicyɛɛre na ŋkwuu taanre na beeshuunni na baashuunni
+            Real Answer: kampwɔhii taanre na ŋkwuu sicyɛɛre na kɛ na sicyɛɛre
+            Grade: 0
+
+Total Score: 16/82

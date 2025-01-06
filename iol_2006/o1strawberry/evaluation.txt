@@ -1,0 +1,316 @@
+I understand. I'll grade the LLM's answers based on the provided rubric and classifications. I'll grade each subquestion individually and provide the total score at the end.
+
+Problem 1:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: She is 89 years old.
+            Real Answer: She is 89 years old.
+            Grade: 2
+        2:
+            Classification: Type 2
+            LLM Answer: Bring 40 pizzas and vermouth, Mark!
+            Real Answer: Bring 40 pizzas and vermouth, Mark!
+            Grade: 2
+        3:
+            Classification: Type 2
+            LLM Answer: The numbers in the Braille sentences are represented using the letters corresponding to numbers in French Braille, with specific symbols like ⠤ or ⠲ serving as number signs.
+            Real Answer: Not provided
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: Punctuation marks like commas and periods are also represented using specific Braille symbols.
+            Real Answer: Not provided
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: The symbol ⠤ represents the number sign in this context.
+            Real Answer: Not provided
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 2
+            LLM Answer: 'a' (⠁) represents '1'
+            Real Answer: Not provided
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: 'b' (⠃) represents '2'
+            Real Answer: Not provided
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: 'c' (⠉) represents '3'
+            Real Answer: Not provided
+            Grade: 0
+        4:
+            Classification: Type 2
+            LLM Answer: 'd' (⠙) represents '4'
+            Real Answer: Not provided
+            Grade: 0
+
+Problem 2:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: kw
+            Real Answer: Not provided
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: kas asa:sa'
+            Real Answer: Not provided
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: kas ena'ferme:ra
+            Real Answer: Not provided
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: kas ji#a'a:pa'
+            Real Answer: Not provided
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: kas dea:na'
+            Real Answer: Not provided
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: kas rula'lrul
+            Real Answer: Not provided
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: kas tipoya'su:da
+            Real Answer: Not provided
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 3
+            LLM Answer: "kas" is consistently used as a prefix for negative forms. The insertion of "a'" follows the first syllable, modifying the root. The endings often have an additional "a'", marking the negative.
+            Real Answer: Not provided
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 3
+            LLM Answer: y is pronounced as in "yahoo." " represents the sound "ch" as in "church." Symbols like #, !, and ' are unique consonants in Movima.
+            Real Answer: Not provided
+            Grade: 0
+
+Problem 3:
+    Part a:
+        1:
+            Classification: Type 1
+            LLM Answer: vtkvi - I said
+            Real Answer: Not provided
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: tkvi - you say
+            Real Answer: Not provided
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: kenit - you (pl.) did
+            Real Answer: Not provided
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: vkeni - I did
+            Real Answer: Not provided
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: inadiret - you (pl.) hunted
+            Real Answer: Not provided
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: vinadire - I hunted
+            Real Answer: Not provided
+            Grade: 0
+        7:
+            Classification: Type 1
+            LLM Answer: nadirob - you hunt
+            Real Answer: Not provided
+            Grade: 0
+        8:
+            Classification: Type 1
+            LLM Answer: itavmGdomareve - you presided
+            Real Answer: Not provided
+            Grade: 0
+        9:
+            Classification: Type 1
+            LLM Answer: vitavmGdomareve - I presided
+            Real Answer: Not provided
+            Grade: 0
+        10:
+            Classification: Type 1
+            LLM Answer: vsadilobt - we dine
+            Real Answer: Not provided
+            Grade: 0
+        11:
+            Classification: Type 1
+            LLM Answer: vivlit - I will dine
+            Real Answer: Not provided
+            Grade: 0
+        12:
+            Classification: Type 1
+            LLM Answer: vigoreb - we will walk
+            Real Answer: Not provided
+            Grade: 0
+        13:
+            Classification: Type 1
+            LLM Answer: visadileb - I will roll
+            Real Answer: Not provided
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 1
+            LLM Answer: izamt - you (pl.) will do
+            Real Answer: Not provided
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: ambob - you said
+            Real Answer: Not provided
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+        4:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+        5:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+        6:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+
+Problem 4:
+    Part a:
+        1:
+            Classification: Type 2
+            LLM Answer: Due to the lack of sufficient data on the Ndom numbering system, we are unable to provide accurate numerical translations or write numbers in Ndom.
+            Real Answer: Not provided
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+    Part b:
+        1:
+            Classification: Type 2
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+        2:
+            Classification: Type 2
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+        3:
+            Classification: Type 2
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+    Part c:
+        1:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+        2:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+        3:
+            Classification: Type 1
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+    Part d:
+        1:
+            Classification: Type 3
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+        2:
+            Classification: Type 3
+            LLM Answer: Not provided
+            Real Answer: Not provided
+            Grade: 0
+
+Problem 5:
+    Part a:
+        1:
+            Classification: Type 3
+            LLM Answer: Turkish: yedi%er (seven each), Tatar: cite&er, Translation: seven each
+            Real Answer: Not provided
+            Grade: 0
+        2:
+            Classification: Type 3
+            LLM Answer: Turkish: bilezik (bracelet), Tatar: milek, Translation: bracelet
+            Real Answer: Not provided
+            Grade: 0
+        3:
+            Classification: Type 3
+            LLM Answer: Turkish: üstünde (on top of), Tatar: öste, Translation: on top of
+            Real Answer: Not provided
+            Grade: 0
+        4:
+            Classification: Type 3
+            LLM Answer: Turkish: bin (mount!), Tatar: min, Translation: mount!
+            Real Answer: Not provided
+            Grade: 0
+        5:
+            Classification: Type 3
+            LLM Answer: Turkish: yumru (lump, swelling), Tatar: ümre, Translation: lump, swelling
+            Real Answer: Not provided
+            Grade: 0
+        6:
+            Classification: Type 3
+            LLM Answer: Tatar: osta (master), Turkish: usta, Translation: master
+            Real Answer: Not provided
+            Grade: 0
+
+Total Score: 4/114
